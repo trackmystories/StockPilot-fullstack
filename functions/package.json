@@ -1,0 +1,14 @@
+{
+  "name": "locasa-functions",
+  "version": "1.0.0",
+  "private": true,
+  "main": "src/index.js",
+  "engines": {
+    "node": "20"
+  },
+  "dependencies": {
+    "@google-cloud/firestore": "^9.1.0",
+    "firebase-admin": "^14.4.0",
+    "firebase-functions": "^7.0.0"
+  }
+}
