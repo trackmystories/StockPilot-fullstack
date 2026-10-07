@@ -1,11 +1,11 @@
-<img width="660" height="1434" alt="IMG_5205" src="https://github.com/user-attachments/assets/99381c91-ce64-49d4-b708-13bb5c607808" />
-<img width="660" height="1434" alt="IMG_5204" src="https://github.com/user-attachments/assets/3e0c6780-670f-460f-bece-3cb62964873a" />
-<img width="660" height="1434" alt="IMG_5202" src="https://github.com/user-attachments/assets/e63a54f6-7a75-4e10-8ddd-2607679de8f7" />
-<img width="660" height="1434" alt="IMG_5200" src="https://github.com/user-attachments/assets/8fb7e9d3-f608-4fbe-b439-88d522c44916" />
-<img width="660" height="1434" alt="IMG_5199" src="https://github.com/user-attachments/assets/b3499aa7-b3bf-4f07-b9f2-40c0a4ccee21" />
-<img width="660" height="1434" alt="IMG_5198" src="https://github.com/user-attachments/assets/0381df70-fc2c-4d55-91e1-a6dcfed7a066" />
-<img width="660" height="1434" alt="IMG_5194" src="https://github.com/user-attachments/assets/15b06d77-58d6-478a-adc2-2899e4d64988" />
-<img width="660" height="1434" alt="IMG_5113" src="https://github.com/user-attachments/assets/f8f290ef-20d4-42fc-a9af-3d81f0babe1e" />
+<img width="220" alt="IMG_5205" src="https://github.com/user-attachments/assets/99381c91-ce64-49d4-b708-13bb5c607808" />
+<img width="220" alt="IMG_5204" src="https://github.com/user-attachments/assets/3e0c6780-670f-460f-bece-3cb62964873a" />
+<img width="220" alt="IMG_5202" src="https://github.com/user-attachments/assets/e63a54f6-7a75-4e10-8ddd-2607679de8f7" />
+<img width="220" alt="IMG_5200" src="https://github.com/user-attachments/assets/8fb7e9d3-f608-4fbe-b439-88d522c44916" />
+<img width="220" alt="IMG_5199" src="https://github.com/user-attachments/assets/b3499aa7-b3bf-4f07-b9f2-40c0a4ccee21" />
+<img width="220" alt="IMG_5198" src="https://github.com/user-attachments/assets/0381df70-fc2c-4d55-91e1-a6dcfed7a066" />
+<img width="220" alt="IMG_5194" src="https://github.com/user-attachments/assets/15b06d77-58d6-478a-adc2-2899e4d64988" />
+<img width="220" alt="IMG_5113" src="https://github.com/user-attachments/assets/f8f290ef-20d4-42fc-a9af-3d81f0babe1e" />
 # StockPilot-fullstack
 # StockPilot-fullstack
 # StockPilot
