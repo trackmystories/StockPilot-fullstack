@@ -1,1 +1,2 @@
 # StockPilot-fullstack
+# StockPilot-fullstack
