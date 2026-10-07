@@ -6,8 +6,8 @@
 <img width="220" alt="IMG_5199" src="https://github.com/user-attachments/assets/b3499aa7-b3bf-4f07-b9f2-40c0a4ccee21" />
 <img width="220" alt="IMG_5198" src="https://github.com/user-attachments/assets/0381df70-fc2c-4d55-91e1-a6dcfed7a066" />
 <img width="220" alt="IMG_5194" src="https://github.com/user-attachments/assets/15b06d77-58d6-478a-adc2-2899e4d64988" />
-<img width="220" alt="IMG_5113" src="https://github.com/user-attachments/assets/f8f290ef-20d4-42fc-a9af-3d81f0babe1e" />
-# StockPilot-fullstack
+
+
 # StockPilot-fullstack
 # StockPilot
 
