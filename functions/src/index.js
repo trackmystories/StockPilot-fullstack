@@ -1,14 +1,9 @@
 const {initializeApp} = require('firebase-admin/app');
-
 const {getFirestore, FieldPath, Timestamp} = require('firebase-admin/firestore');
-
 const {getAuth} = require('firebase-admin/auth');
 const {getMessaging} = require('firebase-admin/messaging');
-
 const {onDocumentWritten, onDocumentCreated} = require('firebase-functions/v2/firestore');
-
 const {createHash} = require('node:crypto');
-
 const {articleNotification} = require('../publication');
 
 initializeApp();

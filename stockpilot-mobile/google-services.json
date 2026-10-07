@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97335950291",
+    "project_id": "eurolisting-70ee1",
+    "storage_bucket": "eurolisting-70ee1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97335950291:android:3f255177e4ecbeafb5cd26",
+        "android_client_info": {
+          "package_name": "com.stockpilot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGIdDhpaPG2-tW3d1Z7DLkVw69u7TBs6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
