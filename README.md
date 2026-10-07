@@ -1,1 +1,1 @@
-# stockpilot-api
+# StockPilot-fullstack
