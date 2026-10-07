@@ -1,0 +1,92 @@
+.page {
+  min-height: calc(100vh - 72px);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background:
+    radial-gradient(
+      circle at 50% 20%,
+      rgba(22, 183, 122, 0.08),
+      transparent 35%
+    ),
+    #ffffff;
+}
+
+.container {
+  width: 100%;
+}
+
+.card {
+  width: 100%;
+  max-width: 34rem;
+
+  margin: 0 auto;
+
+  padding: clamp(2.5rem, 5vw, 4rem);
+
+  text-align: center;
+
+  border: 1px solid #e3eaf2;
+  border-radius: 20px;
+
+  background: #ffffff;
+
+  box-shadow:
+    0 20px 60px rgba(11, 31, 68, 0.06);
+}
+
+.eyebrow {
+  margin: 0 0 1rem;
+
+  color: #7184a1;
+
+  font-size: 0.75rem;
+  font-weight: 700;
+
+  letter-spacing: 0.3em;
+}
+
+.title {
+  margin: 0;
+
+  color: #0b1f44;
+
+  font-size: clamp(2.5rem, 5vw, 4rem);
+  font-weight: 800;
+
+  line-height: 1;
+}
+
+.description {
+  margin: 1.5rem 0 0;
+
+  color: #637895;
+
+  font-size: clamp(1rem, 1.3vw, 1.2rem);
+  line-height: 1.6;
+}
+
+.line {
+  width: 3rem;
+  height: 3px;
+
+  margin: 2rem auto 0;
+
+  border-radius: 999px;
+
+  background: #16b77a;
+}
+
+@media (max-width: 768px) {
+  .page {
+    min-height: calc(100vh - 64px);
+
+    padding: 2rem 1rem;
+  }
+
+  .card {
+    padding: 2.5rem 1.5rem;
+  }
+}

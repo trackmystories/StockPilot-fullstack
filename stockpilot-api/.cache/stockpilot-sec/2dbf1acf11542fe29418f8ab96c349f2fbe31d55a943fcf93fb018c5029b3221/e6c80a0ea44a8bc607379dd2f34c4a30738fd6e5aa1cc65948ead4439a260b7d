@@ -1,0 +1,614 @@
+96b7a019c039d4b1daeaa392d3ad76397718a26b4507a0dfc9966b39fb04ca60<?xml version='1.0' encoding='ASCII'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2015-02-26" xmlns:ixt-sec="http://www.sec.gov/inlineXBRL/transformation/2015-08-31" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:dei="http://xbrl.sec.gov/dei/2026" xmlns:us-gaap="http://fasb.org/us-gaap/2026" xmlns:us-roles="http://fasb.org/us-roles/2026" xmlns:country="http://xbrl.sec.gov/country/2026" xmlns:srt="http://fasb.org/srt/2026" xmlns:XPON="http://xpon.com/20260825">
+<head>
+     <title></title>
+<meta http-equiv="Content-Type" content="text/html"/>
+</head>
+<!-- Field: Set; Name: xdx; ID: xdx_02F_US%2DGAAP%2D2026 -->
+<!-- Field: Set; Name: xdx; ID: xdx_034_XPON_xpon.com_20260825 -->
+<!-- Field: Set; Name: xdx; ID: xdx_04B_20260825_20260825 -->
+<!-- Field: Set; Name: xdx; ID: xdx_059_edei%2D%2DAmendmentFlag_false -->
+<!-- Field: Set; Name: xdx; ID: xdx_050_edei%2D%2DEntityCentralIndexKey_0001894954 -->
+<!-- Field: Set; Name: xdx; ID: xdx_06B_USD_1_iso4217%2D%2DUSD -->
+<!-- Field: Set; Name: xdx; ID: xdx_062_Shares_2_xbrli%2D%2Dshares -->
+<!-- Field: Set; Name: xdx; ID: xdx_06D_USDPShares_3_iso4217%2D%2DUSD_xbrli%2D%2Dshares -->
+<body>
+<div style="display: none">
+<ix:header>
+ <ix:hidden>
+  <ix:nonNumeric contextRef="AsOf2026-08-25" id="Fact000003" name="dei:AmendmentFlag">false</ix:nonNumeric>
+  <ix:nonNumeric contextRef="AsOf2026-08-25" id="Fact000004" name="dei:EntityCentralIndexKey">0001894954</ix:nonNumeric>
+  </ix:hidden>
+ <ix:references>
+  <link:schemaRef xlink:href="xpon-20260825.xsd" xlink:type="simple"/>
+  </ix:references>
+ <ix:resources>
+    <xbrli:context id="AsOf2026-08-25">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0001894954</xbrli:identifier>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-08-25</xbrli:startDate>
+        <xbrli:endDate>2026-08-25</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:unit id="USD">
+      <xbrli:measure>iso4217:USD</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="Shares">
+      <xbrli:measure>xbrli:shares</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="USDPShares">
+      <xbrli:divide>
+        <xbrli:unitNumerator>
+          <xbrli:measure>iso4217:USD</xbrli:measure>
+        </xbrli:unitNumerator>
+        <xbrli:unitDenominator>
+          <xbrli:measure>xbrli:shares</xbrli:measure>
+        </xbrli:unitDenominator>
+      </xbrli:divide>
+    </xbrli:unit>
+  </ix:resources>
+ </ix:header>
+</div>
+
+
+<p style="margin: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="border-bottom: black 1pt solid; width: 100%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td></tr>
+  </table>
+<p style="margin: 4pt 0 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>UNITED STATES</b></span></p>
+
+<p style="margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>SECURITIES AND
+EXCHANGE COMMISSION</b></span></p>
+
+<p style="margin: 0 0 6pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>WASHINGTON,
+D.C. 20549</b></span></p>
+
+<table cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="border-bottom: black 1pt solid; width: 100%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td></tr>
+  </table>
+<p style="margin: 12pt 0 6pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>FORM <span id="xdx_900_edei--DocumentType_c20260825__20260825_zrSttgmK43f1"><ix:nonNumeric contextRef="AsOf2026-08-25" id="Fact000009" name="dei:DocumentType">8-K</ix:nonNumeric></span></b></span></p>
+
+<table cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="border-bottom: black 1pt solid; width: 100%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td></tr>
+  </table>
+<p style="margin: 12pt 0 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>CURRENT
+REPORT</b></span></p>
+
+<p style="margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Pursuant to Section
+13 or 15(d)</b></span></p>
+
+<p style="margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>of the Securities
+Exchange Act of 1934</b></span></p>
+
+<p style="margin: 12pt 0 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Date of
+Report (Date of earliest event reported): <span id="xdx_908_edei--DocumentPeriodEndDate_c20260825__20260825_zEobtUzGJ6F9"><ix:nonNumeric contextRef="AsOf2026-08-25" format="ixt:datemonthdayyearen" id="Fact000010" name="dei:DocumentPeriodEndDate">August 25,
+2026</ix:nonNumeric></span></b></span></p>
+
+<p style="margin: 0"></p>
+
+<table cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="border-bottom: black 1pt solid; width: 100%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td></tr>
+  </table>
+<p style="margin: 6pt 0 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_900_edei--EntityRegistrantName_c20260825__20260825_zHXnxzjJ70eh"><ix:nonNumeric contextRef="AsOf2026-08-25" id="Fact000011" name="dei:EntityRegistrantName">Expion
+Energy, Inc.</ix:nonNumeric></span></b></span></p>
+
+<p style="margin: 0 0 6pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>(Exact name
+of Registrant as specified in its charter)</b></span></p>
+
+<table cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="border-bottom: black 1pt solid; width: 100%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td></tr>
+  </table>
+<p style="margin: 2pt 0 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse">
+  <tr>
+    <td style="vertical-align: top; width: 34%; padding-top: 3.75pt; padding-bottom: 1.5pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 114%"><b><span id="xdx_904_edei--EntityIncorporationStateCountryCode_c20260825__20260825_zSAIwEzruxY1"><ix:nonNumeric contextRef="AsOf2026-08-25" format="ixt-sec:stateprovnameen" id="Fact000012" name="dei:EntityIncorporationStateCountryCode">Nevada</ix:nonNumeric></span></b></span></td>
+    <td style="vertical-align: bottom; width: 1%; padding-top: 3.75pt; padding-bottom: 1.5pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="vertical-align: top; width: 32%; padding-top: 3.75pt; padding-bottom: 1.5pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 114%"><b><span id="xdx_90C_edei--EntityFileNumber_c20260825__20260825_ze4glJQ1PMv6"><ix:nonNumeric contextRef="AsOf2026-08-25" id="Fact000013" name="dei:EntityFileNumber">001-41347</ix:nonNumeric></span></b></span></td>
+    <td style="vertical-align: bottom; width: 1%; padding-top: 3.75pt; padding-bottom: 1.5pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="vertical-align: top; width: 32%; padding-top: 3.75pt; padding-bottom: 1.5pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 114%"><b><span id="xdx_903_edei--EntityTaxIdentificationNumber_c20260825__20260825_zAaxoUc9eaWa"><ix:nonNumeric contextRef="AsOf2026-08-25" id="Fact000014" name="dei:EntityTaxIdentificationNumber">81-2701049</ix:nonNumeric></span></b></span></td></tr>
+  <tr>
+    <td style="vertical-align: top; padding-right: 2.65pt; padding-left: 2.65pt"><p style="margin: 3.75pt 0 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>(State
+                                            or Other Jurisdiction</b></span></p>
+    <p style="margin: 0 0 1.5pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>of
+    Incorporation)</b></span></p></td>
+    <td style="vertical-align: bottom; padding-top: 3.75pt; padding-bottom: 1.5pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="vertical-align: top; padding-right: 2.65pt; padding-left: 2.65pt"><p style="margin: 3.75pt 0 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>(Commission</b></span></p>
+    <p style="margin: 0 0 1.5pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>File
+    Number)</b></span></p></td>
+    <td style="vertical-align: bottom; padding-top: 3.75pt; padding-bottom: 1.5pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="vertical-align: top; padding-right: 2.65pt; padding-left: 2.65pt"><p style="margin: 3.75pt 0 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>(IRS
+                                            Employer</b></span></p>
+    <p style="margin: 0 0 1.5pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Identification
+    No.)</b></span></p></td></tr>
+  </table>
+<p style="margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&#160;</b></span></p>
+
+<p style="margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_90B_edei--EntityAddressAddressLine1_c20260825__20260825_zFW8NDhH0Eu3"><ix:nonNumeric contextRef="AsOf2026-08-25" id="Fact000015" name="dei:EntityAddressAddressLine1">2025 SW Deerhound
+Avenue</ix:nonNumeric></span></b></span></p>
+
+<p style="margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_902_edei--EntityAddressCityOrTown_c20260825__20260825_zmdpXVQOznCe"><ix:nonNumeric contextRef="AsOf2026-08-25" id="Fact000016" name="dei:EntityAddressCityOrTown">Redmond</ix:nonNumeric></span>, <span id="xdx_909_edei--EntityAddressStateOrProvince_c20260825__20260825_zpU3S2AeiUX9"><ix:nonNumeric contextRef="AsOf2026-08-25" id="Fact000017" name="dei:EntityAddressStateOrProvince">OR</ix:nonNumeric></span> <span id="xdx_900_edei--EntityAddressPostalZipCode_c20260825__20260825_zAqlSH6hkyOb"><ix:nonNumeric contextRef="AsOf2026-08-25" id="Fact000018" name="dei:EntityAddressPostalZipCode">97756</ix:nonNumeric></span></b></span></p>
+
+<p style="margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>(Address of principal
+executive offices and zip code)</b></span></p>
+
+<p style="margin: 12pt 0 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_908_edei--CityAreaCode_c20260825__20260825_ztihDqaERgF5"><ix:nonNumeric contextRef="AsOf2026-08-25" id="Fact000019" name="dei:CityAreaCode">(541)</ix:nonNumeric></span> <span id="xdx_907_edei--LocalPhoneNumber_c20260825__20260825_zE1LVNipDrh"><ix:nonNumeric contextRef="AsOf2026-08-25" id="Fact000020" name="dei:LocalPhoneNumber">797-6714</ix:nonNumeric></span></b></span></p>
+
+<p style="margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>(Registrant&#8217;s
+telephone number, including area code)</b></span></p>
+
+<p style="margin: 12pt 0 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_907_edei--EntityInformationFormerLegalOrRegisteredName_c20260825__20260825_zuZ6FqJXu3qg"><ix:nonNumeric contextRef="AsOf2026-08-25" id="Fact000021" name="dei:EntityInformationFormerLegalOrRegisteredName">Expion360
+Inc.</ix:nonNumeric> </span></b></span></p>
+
+<p style="margin: 0 0 6pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>(Former name
+or former address, if changed since last report)</b></span></p>
+
+<table cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="border-bottom: black 1pt solid; width: 100%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td></tr>
+  </table>
+<p style="margin: 12pt 0 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Check the
+appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any
+of the following provisions:</span></p>
+
+<p style="margin: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse">
+  <tr>
+    <td style="vertical-align: bottom; width: 3%; padding-top: 3.75pt; padding-bottom: 1.5pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="vertical-align: top; width: 5%; padding-top: 3.75pt; padding-bottom: 1.5pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 114%"><span id="xdx_90F_edei--WrittenCommunications_c20260825__20260825_zJYDKmojp8f5"><ix:nonNumeric contextRef="AsOf2026-08-25" format="ixt:booleanfalse" id="Fact000022" name="dei:WrittenCommunications">&#9744;</ix:nonNumeric></span></span></td>
+    <td style="vertical-align: top; width: 92%; padding-top: 3.75pt; padding-bottom: 1.5pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 114%">Written
+    communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</span></td></tr>
+  </table>
+<p style="margin: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse">
+  <tr>
+    <td style="vertical-align: bottom; width: 3%; padding-top: 3.75pt; padding-bottom: 1.5pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="vertical-align: top; width: 5%; padding-top: 3.75pt; padding-bottom: 1.5pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 114%"><span id="xdx_900_edei--SolicitingMaterial_c20260825__20260825_z8ov6DAlv6Ce"><ix:nonNumeric contextRef="AsOf2026-08-25" format="ixt:booleanfalse" id="Fact000023" name="dei:SolicitingMaterial">&#9744;</ix:nonNumeric></span></span></td>
+    <td style="vertical-align: top; width: 92%; padding-top: 3.75pt; padding-bottom: 1.5pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 114%">Soliciting
+    material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</span></td></tr>
+  </table>
+<p style="margin: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse">
+  <tr>
+    <td style="vertical-align: bottom; width: 3%; padding-top: 3.75pt; padding-bottom: 1.5pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="vertical-align: top; width: 5%; padding-top: 3.75pt; padding-bottom: 1.5pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 114%"><span id="xdx_90C_edei--PreCommencementTenderOffer_c20260825__20260825_zonLq1e7s7Vj"><ix:nonNumeric contextRef="AsOf2026-08-25" format="ixt:booleanfalse" id="Fact000024" name="dei:PreCommencementTenderOffer">&#9744;</ix:nonNumeric></span></span></td>
+    <td style="vertical-align: top; width: 92%; padding-top: 3.75pt; padding-bottom: 1.5pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 114%">Pre-commencement
+    communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</span></td></tr>
+  </table>
+<p style="margin: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse">
+  <tr>
+    <td style="vertical-align: bottom; width: 3%; padding-top: 3.75pt; padding-bottom: 1.5pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="vertical-align: top; width: 5%; padding-top: 3.75pt; padding-bottom: 1.5pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 114%"><span id="xdx_909_edei--PreCommencementIssuerTenderOffer_c20260825__20260825_zPTmBGtvz4mb"><ix:nonNumeric contextRef="AsOf2026-08-25" format="ixt:booleanfalse" id="Fact000025" name="dei:PreCommencementIssuerTenderOffer">&#9744;</ix:nonNumeric></span></span></td>
+    <td style="vertical-align: top; width: 92%; padding-top: 3.75pt; padding-bottom: 1.5pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 114%">Pre-commencement
+    communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</span></td></tr>
+  </table>
+<p style="margin: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="margin: 0 0 6pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Securities registered pursuant to
+Section 12(b) of the Act:&#160;</span></p>
+
+<table cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="border-bottom: black 1pt solid; width: 43%; padding-top: 3.75pt; padding-bottom: 1.5pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 114%"><b>Title
+    of each class</b></span></td>
+    <td style="width: 1%; padding-top: 3.75pt; padding-bottom: 1.5pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="border-bottom: black 1pt solid; width: 19%; padding-right: 2.65pt; padding-left: 2.65pt"><p style="margin: 3.75pt 0 1pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Trading</b></span></p>
+    <p style="margin: 0 0 1.5pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Symbol(s)</b></span></p></td>
+    <td style="width: 1%; padding-top: 3.75pt; padding-bottom: 1.5pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="border-bottom: black 1pt solid; width: 36%; padding-right: 2.65pt; padding-left: 2.65pt"><p style="margin: 3.75pt 0 1pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Name
+                                            of each exchange</b></span></p>
+    <p style="margin: 0 0 1.5pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>on
+    which registered</b></span></p></td></tr>
+  <tr>
+    <td style="vertical-align: top; padding-top: 2.75pt; padding-bottom: 1.5pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 114%"><b><span id="xdx_903_edei--Security12bTitle_c20260825__20260825_zxGgYJHj0eN2"><ix:nonNumeric contextRef="AsOf2026-08-25" id="Fact000026" name="dei:Security12bTitle">Common
+    Stock, par value $0.001 per share</ix:nonNumeric></span></b></span></td>
+    <td style="vertical-align: bottom; padding-top: 2.75pt; padding-bottom: 1.5pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="vertical-align: top; padding-top: 2.75pt; padding-bottom: 1.5pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 114%"><b><span id="xdx_907_edei--TradingSymbol_c20260825__20260825_zVrzDn6OAAS4"><ix:nonNumeric contextRef="AsOf2026-08-25" id="Fact000027" name="dei:TradingSymbol">XPON</ix:nonNumeric></span></b></span></td>
+    <td style="vertical-align: bottom; padding-top: 2.75pt; padding-bottom: 1.5pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="vertical-align: top; padding-top: 2.75pt; padding-bottom: 1.5pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt; line-height: 114%"><b>The
+    <span id="xdx_909_edei--SecurityExchangeName_c20260825__20260825_zdmDZ4VkJsFe"><ix:nonNumeric contextRef="AsOf2026-08-25" format="ixt-sec:exchnameen" id="Fact000028" name="dei:SecurityExchangeName">Nasdaq</ix:nonNumeric></span> Capital Market</b></span></td></tr>
+  </table>
+<p style="margin: 12pt 0 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Indicate by check mark whether
+the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (&#167; 230.405 of this chapter) or
+Rule 12b-2 of the Securities Exchange Act of 1934 (&#167; 240.12b-2 of this chapter).</span></p>
+
+<p style="margin: 12pt 0 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Emerging growth company <span id="xdx_90B_edei--EntityEmergingGrowthCompany_c20260825__20260825_zHpbDNFB0yfl"><ix:nonNumeric contextRef="AsOf2026-08-25" format="ixt:booleantrue" id="Fact000029" name="dei:EntityEmergingGrowthCompany">&#9746;</ix:nonNumeric></span></span></p>
+
+<p style="margin: 12pt 0 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">If an emerging growth company,
+indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised
+financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. <span id="xdx_90F_edei--EntityExTransitionPeriod_c20260825__20260825_ztYKrew8ONuf"><ix:nonNumeric contextRef="AsOf2026-08-25" format="ixt:booleanfalse" id="Fact000030" name="dei:EntityExTransitionPeriod">&#9744;</ix:nonNumeric></span></span></p>
+
+<table cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="border-bottom: black 1pt solid; width: 100%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td></tr>
+  </table>
+<p style="margin: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="margin: 0 0 2pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"></span></p>
+
+<!-- Field: Page; Sequence: 1 -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p><p style="margin: 0pt"></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"></p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><i></i></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0; margin-bottom: 12pt"><tr style="vertical-align: top">
+<td style="width: 0"/><td style="width: 1in"><b>Item 5.02.</b></td><td style="text-align: justify"><b>Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers;
+Compensatory Arrangements of Certain Officers. </b></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify"><i>Chief Financial Officer Appointment </i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">On August 25, 2026, the board of directors (the &#8220;Board&#8221;)
+of Expion Energy, Inc. (the &#8220;Company&#8221;) appointed Robert Winspear to serve as the Company&#8217;s Chief Financial Officer,
+Secretary and Treasurer effective immediately. In this role, Mr. Winspear will serve as the Company&#8217;s principal financial officer
+and principal accounting officer.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">Mr. Winspear, age 61, has over 30 years of experience
+as an executive officer and director of both private and public companies. From September 2021 to June 2026, Mr. Winspear served as the
+Chief Financial Officer and Secretary of Blackboxstocks Inc., and continued in his role as Chief Financial Officer and director following
+its merger with REalloys Inc., a rare earth metals and permanent magnet company, which began trading on the Nasdaq Capital Market as REalloys
+Inc. (Nasdaq: ALOY) on February 25, 2026. Mr. Winspear was also Vice President, Secretary and Chief Financial Officer of Excel Corporation,
+a credit card processing company (formerly OTC: EXCC), from May 2014 to June 2017. Since 2002, he has served as President of Winspear
+Investments LLC, a Dallas-based private investment firm specializing in lower middle market transactions. Winspear Investments has made
+investments in a wide range of industries, including banking, real estate, distribution, supply chain management, mega yacht marinas and
+hedge funds. Mr. Winspear has served on the boards of several public and private entities. Mr. Winspear started his career with Arthur
+Andersen in Dallas, Texas. Mr. Winspear holds a B.B.A. and a M.P.A. from the University of Texas at Austin.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">In connection with his appointment as Chief Financial
+Officer, Mr. Winspear entered into an employment agreement with the Company (the &#8220;Employment Agreement&#8221;), effective August
+25, 2026. Pursuant to the terms of the Employment Agreement, Mr. Winspear has an initial one-year employment term, which renews annually
+for subsequent one-year terms. Mr. Winspear is entitled to an annual base salary of $285,000, which will automatically increase to $300,000
+upon the timely submission of the Company&#8217;s Annual Report on Form 10-K for the year ending December 31, 2026 (the &#8220;2026 Annual
+Report&#8221;). Mr. Winspear is eligible for an annual cash incentive bonus based on performance objectives established annually by the
+Board or the compensation committee of the Board (the &#8220;Compensation Committee&#8221;).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">In addition, the Compensation Committee approved,
+upon Mr. Winspear&#8217;s commencement of employment, a grant of 30,000 restricted stock units (the &#8220;RSU Grant&#8221;) and, upon
+the timely filing of the 2026 Annual Report, a grant of a stock option to purchase 15,000 shares of Common Stock with an exercise price
+equal to the fair market value of the Common Stock on the grant date (the &#8220;Option Grant&#8221; and together with the RSU Grant,
+the &#8220;Equity Awards&#8221;), in each case as an inducement award pursuant to Nasdaq Listing Rule 5635(c)(4). Twenty-five percent
+of the securities underlying the Equity Awards vest on the first anniversary of the applicable grant date, and the remainder vest in 12
+equal quarterly installments thereafter, in each case subject to Mr. Winspear&#8217;s continued employment.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">In addition, Mr. Winspear is entitled to participate
+in any retirement, paid time off, and health and welfare benefit plans, practices, policies and arrangements the Company may offer. Mr.
+Winspear is also entitled to reimbursement for reasonable business and travel expenses incurred in connection with the performance of
+his duties.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">If Mr. Winspear&#8217;s employment is terminated by
+the Company without Cause or he resigns for Good Reason (in each case as defined in the Employment Agreement), he will be entitled to
+receive (i) 12 months of continued base salary, (ii) any annual cash incentive bonus earned but unpaid, (iii) an amount equal to the target
+cash incentive bonus for the year of termination, and (iv) continued medical and dental coverage under COBRA for up to 12 months, in each
+case subject to his execution of a release of claims in favor of the Company and his continued compliance with the restrictive covenants
+described below.</p>
+
+<!-- Field: Page; Sequence: 2 -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p><p style="margin: 0pt"></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">The Employment Agreement includes customary non-competition,
+employee and customer non-solicitation, non-disparagement and confidentiality covenants, which apply during Mr. Winspear&#8217;s employment
+and for 12 months following termination. Mr. Winspear will enter into the Company&#8217;s standard indemnification agreement for directors
+and officers.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">There are no arrangements or understandings between
+Mr. Winspear and any other person pursuant to which he was appointed as Chief Financial Officer. There are no family relationships between
+Mr. Winspear and any director or executive officer. Except for his employment relationship with the Company and the compensation arrangements
+arising in connection therewith, there are no relationships involving Mr. Winspear that are required to be reported pursuant to Item 404(a)
+of Regulation S-K.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">The foregoing description of the Employment Agreement
+does not purport to be complete and is subject to and qualified in its entirety by reference to the complete text of such document, which
+is attached as Exhibit 10.1 to this Current Report on Form 8-K, and incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><i>Former Chief Financial Officer Transition</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">As previously reported, on July 29, 2026, Shawna Bowin
+provided notice of her resignation as the Company&#8217;s Chief Financial Officer. <span style="background-color: white">Ms. Bowin is
+assisting with the orderly transition of her roles and responsibilities through approximately October 31, 2026, during which time she
+will serve as Vice President, Finance. </span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><i>Director Resignations</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify">Brian Schaffner and Tien Q. Nguyen resigned
+from the Board effective as of August 26, 2026, and Joseph Hammer resigned from the Board effective as of August 28, 2026. None of the
+resignations were the result of any disagreement with the Company on any matter relating to its operations, policies or practices.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify"><i>Chairman of the Board Appointment</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify">Following Mr. Hammer&#8217;s resignation, the
+Board appointed Scott Burell as Chairman of the Board.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify"><i>Director Appointment</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify">On August 28, 2026, the Board appointed Marc
+Jarvis to the Board for a term expiring at the Company&#8217;s annual meeting of stockholders to be held in 2026 and until his successor
+has been elected and qualified, or until his earlier death, resignation, or removal.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify">Mr. Jarvis, age 70, brings more than four decades
+of executive, management and technical expertise within the oil and gas industry. Mr. Jarvis is a Partner at Cynergy Advisors, LLC (&#8220;Cynergy&#8221;),
+a consulting firm providing transaction and investment banking services to clients in the oil and gas industry since 2009. Prior to joining
+Cynergy Advisors in 2020, Mr. Jarvis served as the Executive Vice President, Exploration &amp; Production, of Falcon V, LLC, a New Orleans-based
+private equity backed oil and gas company focused on Deep Tuscaloosa assets, from 2016 to 2019. From 2011 to 2015, Mr. Jarvis served as
+Senior Vice President, Engineering, and later Executive Vice President, Exploration &amp; Production, of Summit Discovery Resources LLC,
+a wholly owned subsidiary of Sumitomo Corporation of Japan, where he was responsible for managing operations, reservoir engineering and
+geologic departments overseeing an asset base valued at over $1.8 billion and consisting of 730,000 gross acres. From 2005 to 2011, Mr.
+Jarvis was the Owner and Manager of Skyline Oil &amp; Gas LLC, a Houston-based exploration and development company that originated joint
+ventures and service contracts. From 1999 to 2005, Mr. Jarvis served as Director of Engineering &amp; Corporate Planning and Director
+of Acquisitions at Penn Virginia Oil &amp; Gas Corporation, playing a key role in expanding the Gulf Coast Division, executing over $160
+million in acquisitions. Mr. Jarvis holds an A.S. and B.S. in Petroleum Engineering Technology from Oklahoma State University. The Company
+believes Mr. Jarvis is qualified to serve on the Board because of his extensive investment banking, financial and operational experience
+in the oil and gas industry.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify">Mr. Jarvis is eligible to participate in the
+Company&#8217;s standard non-employee director compensation policy.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify">As previously announced, the Company has entered
+into an Exploration Agreement relating to an oil and gas exploration opportunity encompassing an area of mutual interest in Eastern Louisiana
+(the &#8220;Exploration Agreement&#8221;). The Exploration Agreement reserves overriding royalty interests (&#8220;ORRI&#8221;) to certain
+parties, including Cynergy. Mr. Jarvis is a Managing Member and Partner of Cynergy and has an indirect material interest in the Cynergy
+ORRI.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify">There was no arrangement or understanding pursuant
+to which Mr. Jarvis was elected as a director. <span style="background-color: white">Except for his indirect material interest in the
+Cynergy ORRI, t</span>here are no related party transactions between the Company and Mr. Jarvis. Mr. Jarvis will enter into the Company&#8217;s
+standard indemnification agreement for directors and officers.</p>
+
+<!-- Field: Page; Sequence: 3 -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p><p style="margin: 0pt"></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify"></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0; margin-bottom: 12pt"><tr style="vertical-align: top">
+<td style="width: 0"/><td style="width: 1in"><b>Item 5.08.</b></td><td style="text-align: justify"><b>Shareholder Director Nominations. </b></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify"><i>2026 Annual Meeting of Stockholders</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify">The Company expects to hold its 2026 annual
+meeting of stockholders (the &#8220;Annual Meeting&#8221;) on November 4, 2026 and expects the record date for the Annual Meeting to be
+September 15, 2026. The Company will provide additional details regarding the exact time and location of, and the matters to be voted
+on at, the Annual Meeting in the Company&#8217;s proxy statement for the Annual Meeting, which will be filed with the Securities and Exchange
+Commission (the &#8220;SEC&#8221;).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt"><i>Stockholder Proposal and Director Nomination Deadlines</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify">Because the scheduled date of the Annual Meeting
+represents a change of more than 30 days from the anniversary of the Company&#8217;s 2025 annual meeting of stockholders, the deadlines
+for stockholders to propose actions for consideration or to nominate individuals to serve as directors at the Annual Meeting previously
+set forth in the Company&#8217;s 2025 proxy statement are no longer applicable. Therefore, the Company is providing notice of revised
+deadlines in connection with the Annual Meeting as set forth below.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt"><i>Revised Deadline for Rule 14a-8 Stockholder Proposals</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify">Qualified stockholder proposals made pursuant
+to Rule 14a-8 (&#8220;Rule 14a-8&#8221;) of the Securities Exchange Act of 1934, as amended (the &#8220;Exchange Act&#8221;), to be presented
+at the Annual Meeting and included in the Company&#8217;s proxy statement and form of proxy relating to that meeting must be received
+by the Company no later than September 10, 2026, which the Company has determined to be a reasonable time before it expects to begin distributing
+its proxy materials for the Annual Meeting. Any proposal received after such date will be considered untimely for inclusion in the proxy
+statement. All proposals submitted pursuant to Rule 14a-8 must comply with the rules and regulations promulgated by the SEC.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify"><i>Revised Deadline Under Advance Notice Bylaw
+Provision</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify">The Company&#8217;s Amended and Restated Bylaws
+(the &#8220;Bylaws&#8221;) include separate advance notice provisions applicable to stockholders desiring to bring nominations for directors
+or to bring proposals before an annual meeting of stockholders other than pursuant to Rule 14a-8. These advance notice provisions require
+that, among other things, stockholders give timely written notice to the Company regarding such nominations or proposals and provide the
+information and satisfy the other requirements set forth in the Bylaws. To be timely, a stockholder who intends to present nominations
+or a proposal at the Annual Meeting other than pursuant to Rule 14a-8 must provide the information set forth in the Bylaws to the Company
+no later than September 10, 2026.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify"><i>Revised Deadline Under Universal Proxy Rules</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify">In addition to satisfying the foregoing requirements,
+to comply with the universal proxy rules, stockholders who intend to solicit proxies in support of director nominees other than the Company&#8217;s
+nominees must provide notice that sets forth the information required by Rule 14a-19 under the Exchange Act no later than September 10,
+2026, which is the later of 60 calendar days prior to the date of the Annual Meeting and the 10th calendar day following public announcement
+by the Company of the date of the Annual Meeting.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify"><i>Requirements Applicable to All Proposals</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify">All stockholder proposals or notices provided
+in compliance with the foregoing deadlines must be received at the Company&#8217;s headquarters and addressed to the Company&#8217;s Chief
+Financial Officer at: Expion Energy, Inc., 2025 SW Deerhound Avenue, Redmond, Oregon 97756.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: justify">The Company reserves the right to reject, rule
+out of order, or take other appropriate action with respect to any nomination or proposal that does not comply with these and other applicable
+requirements.</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0; margin-bottom: 0"><tr style="vertical-align: top">
+<td style="width: 0"/><td style="width: 1in"><b>Item 7.01.</b></td><td style="text-align: justify"><b>Regulation FD Disclosure. </b></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">On August 27, 2026, the Company issued a press release
+announcing the appointment of Mr. Winspear as Chief Financial Officer. A copy of the press release is attached hereto as Exhibit 99.1.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">On August 31, 2026, the Company issued a press release
+announcing the appointment of Mr. Jarvis as a director. A copy of the press release is attached hereto as Exhibit 99.2.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">The information provided in this Item 7.01, including
+Exhibits 99.1 and 99.2, is being furnished and shall not be deemed &#8220;filed&#8221; for purposes of Section 18 of the Exchange Act,
+or otherwise subject to the liabilities of that section. Such information shall not be deemed incorporated by reference into any filing
+of the Company under the Securities Act or the Exchange Act whether made before or after the date hereof, regardless of any general incorporation
+language in such filing, except as otherwise expressly set forth by specific reference in such filing.</p>
+
+<!-- Field: Page; Sequence: 4 -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p><p style="margin: 0pt"></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"><b></b></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0; margin-bottom: 0"><tr style="vertical-align: top">
+<td style="width: 0"/><td style="width: 1in"><b>Item 9.01.</b></td><td><b>Financial Statements and Exhibits.</b></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0; margin-bottom: 0"><tr style="vertical-align: top">
+<td style="width: 0.5in"/><td style="width: 0.5in">(d)</td><td>Exhibits</td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 12pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="border-bottom: black 1pt solid; width: 8%"><span style="font-size: 10pt"><b>Exhibit<br/>
+No.</b></span></td>
+    <td style="width: 1%">&#160;</td>
+    <td style="border-bottom: black 1pt solid; width: 91%; text-align: center"><span style="font-size: 10pt"><b>Description</b></span></td></tr>
+  <tr>
+    <td style="vertical-align: top"><a href="ex10_1.htm"><span style="font-size: 10pt">10.1*</span></a></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: top; text-align: justify"><a href="ex10_1.htm"><span style="font-size: 10pt">Employment Agreement, dated August 25, 2026, by and between the Company and Robert Winspear</span></a></td></tr>
+  <tr>
+    <td style="vertical-align: top"><a href="ex99_1.htm"><span style="font-size: 10pt">99.1</span></a></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: top; text-align: justify"><a href="ex99_1.htm"><span style="font-size: 10pt">Press Release, dated August 27, 2026 (Appointment of Chief Financial Officer)</span></a></td></tr>
+  <tr>
+    <td style="vertical-align: top"><a href="ex99_2.htm"><span style="font-size: 10pt">99.2</span></a></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: top; text-align: justify"><a href="ex99_2.htm"><span style="font-size: 10pt">Press Release, dated August 31, 2026 (Appointment of Director)</span></a></td></tr>
+  <tr>
+    <td style="vertical-align: top"><span style="font-size: 10pt">104</span></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: top; text-align: justify"><span style="font-size: 10pt">Cover Page Interactive Data File (embedded within the inline XBRL document)</span></td></tr>
+  <tr>
+    <td style="vertical-align: top">&#160;</td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: top; text-align: justify">&#160;</td></tr>
+  <tr>
+    <td style="vertical-align: top"><span style="font-size: 10pt">*</span></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: top"><span style="font-size: 10pt">Certain of the schedules (and similar attachments) to this exhibit have been omitted in accordance with Item 601(a)(5) of Regulation S-K.
+A copy of any omitted schedule (or similar attachment) will be furnished to the Securities and Exchange Commission upon request.</span></td></tr>
+  </table>
+
+<p style="margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"></span></p>
+
+<p style="margin: 0; text-align: center"></p>
+
+<!-- Field: Page; Sequence: 5 -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p><p style="margin: 0pt"></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>SIGNATURES</b></span></p>
+
+<p style="margin: 12pt 0 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Pursuant to the requirements of
+the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.</span></p>
+
+<p style="margin: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellspacing="0" cellpadding="0" style="font: 12pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td>&#160;</td>
+    <td style="padding-top: 3.75pt; padding-bottom: 1.5pt; line-height: 114%"><span style="font-size: 10pt; line-height: 114%">&#160;</span></td>
+    <td>&#160;</td>
+    <td style="padding-top: 3.75pt; padding-bottom: 1.5pt; line-height: 114%"><span style="font-size: 10pt; line-height: 114%">&#160;</span></td>
+    <td colspan="3" style="padding-top: 3.75pt; padding-bottom: 1.5pt; line-height: 114%"><span style="font-size: 10pt; line-height: 114%"><b>EXPION
+    ENERGY, INC.</b></span></td></tr>
+  <tr style="vertical-align: bottom">
+    <td>&#160;</td>
+    <td colspan="2">&#160;</td>
+    <td colspan="2">&#160;</td>
+    <td colspan="2">&#160;</td></tr>
+  <tr style="vertical-align: bottom">
+    <td style="width: 38%; padding-top: 3.75pt; padding-bottom: 1.5pt; line-height: 114%"><span style="font-size: 10pt; line-height: 114%">Date: August 31, 2026</span></td>
+    <td style="width: 1%; padding-top: 3.75pt; padding-bottom: 1.5pt; line-height: 114%"><span style="font-size: 10pt; line-height: 114%">&#160;</span></td>
+    <td style="width: 1%">&#160;</td>
+    <td style="width: 1%; padding-top: 3.75pt; padding-bottom: 1.5pt; line-height: 114%"><span style="font-size: 10pt; line-height: 114%">&#160;</span></td>
+    <td style="border-bottom: black 1pt solid; width: 22%; padding-top: 3.75pt; padding-bottom: 1.5pt; line-height: 114%"><span style="font-size: 10pt; line-height: 114%">By:</span></td>
+    <td style="border-bottom: black 1pt solid; width: 1%; padding-top: 3.75pt; padding-bottom: 1.5pt; line-height: 114%"><span style="font-size: 10pt; line-height: 114%">&#160;</span></td>
+    <td style="border-bottom: black 1pt solid; width: 36%; padding-top: 3.75pt; padding-bottom: 1.5pt; line-height: 114%"><span style="font-size: 10pt; line-height: 114%"><i>/s/
+    Kevin Sellers</i></span></td></tr>
+  <tr style="vertical-align: bottom">
+    <td>&#160;</td>
+    <td style="padding-top: 2.75pt; padding-bottom: 1.5pt; line-height: 114%"><span style="font-size: 10pt; line-height: 114%">&#160;</span></td>
+    <td>&#160;</td>
+    <td style="padding-top: 2.75pt; padding-bottom: 1.5pt; line-height: 114%"><span style="font-size: 10pt; line-height: 114%">&#160;</span></td>
+    <td style="padding-top: 2.75pt; padding-bottom: 1.5pt; line-height: 114%"><span style="font-size: 10pt; line-height: 114%">Name:</span></td>
+    <td style="padding-top: 2.75pt; padding-bottom: 1.5pt; line-height: 114%"><span style="font-size: 10pt; line-height: 114%">&#160;</span></td>
+    <td style="padding-top: 2.75pt; padding-bottom: 1.5pt; line-height: 114%"><span style="font-size: 10pt; line-height: 114%">Kevin Sellers</span></td></tr>
+  <tr style="vertical-align: bottom">
+    <td>&#160;</td>
+    <td style="padding-top: 3.75pt; padding-bottom: 1.5pt; line-height: 114%"><span style="font-size: 10pt; line-height: 114%">&#160;</span></td>
+    <td>&#160;</td>
+    <td style="padding-top: 3.75pt; padding-bottom: 1.5pt; line-height: 114%"><span style="font-size: 10pt; line-height: 114%">&#160;</span></td>
+    <td style="padding-top: 3.75pt; padding-bottom: 1.5pt; line-height: 114%"><span style="font-size: 10pt; line-height: 114%">Title:</span></td>
+    <td style="padding-top: 3.75pt; padding-bottom: 1.5pt; line-height: 114%"><span style="font-size: 10pt; line-height: 114%">&#160;</span></td>
+    <td style="padding-top: 3.75pt; padding-bottom: 1.5pt; line-height: 114%"><span style="font-size: 10pt; line-height: 114%">Chief
+    Executive Officer</span></td></tr>
+  </table>
+<p style="margin: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"></span></p>
+<p style="margin: 0pt"></p>
+
+
+<p style="margin: 0"></p>
+
+<!-- Field: Page; Sequence: 6; Options: Last -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p><p style="margin: 0pt"></p></div>
+    <!-- Field: /Page -->
+
+<p style="margin: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+
+<!-- Field: Set; Name: xdx; ID: xdx_08B_extensions -->
+<!-- eJxFjdEKgkAQRb/Afxj2OUwtDHxMKiKLEIletxxjSXdkdiv7pP6yVYmGgWHm3jNXiInY0FrVyHBe5hkU2LS1tAg5Vsior+gc6XaXgJs53pSxLLUd1h+YkmPQMbE/v7j74Hwqg2UCwWwaxtMohmCRzEI47oXX6ynpSpWorZI1SF3CkallhVbye/xQyI40Ne8h6YRsFOkEQj8Y5Q9EQRjBgZ7yRXw3kGWp8CZDeWLD9Gida9VZ1D0JqxobF2dG+t/eF86qSmE= -->
+<script type="text/javascript"  src="/N3AEOPt9/dJoipWz/rYwIB5c/dg/YEaQGVVmDJktp27Xmu/SixucGdeLAQ/KXhNJ/AQsW1I"></script></body>
+</html>

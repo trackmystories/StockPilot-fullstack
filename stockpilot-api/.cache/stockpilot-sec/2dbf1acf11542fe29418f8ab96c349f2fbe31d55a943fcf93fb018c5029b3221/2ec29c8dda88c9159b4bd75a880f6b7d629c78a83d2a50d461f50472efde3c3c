@@ -1,0 +1,412 @@
+684f2b13f5190750deac669466b5f4178cfad2dd9eae0f90aa4801a47a5a1a70<?xml version='1.0' encoding='ASCII'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2015-02-26" xmlns:ixt-sec="http://www.sec.gov/inlineXBRL/transformation/2015-08-31" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:dei="http://xbrl.sec.gov/dei/2026" xmlns:us-gaap="http://fasb.org/us-gaap/2026" xmlns:us-roles="http://fasb.org/us-roles/2026" xmlns:country="http://xbrl.sec.gov/country/2026" xmlns:srt="http://fasb.org/srt/2026" xmlns:XBIO="http://xeneticbio.com/20260807">
+<head>
+     <title>Xenetic Biosciences, Inc. 8-K</title>
+<meta http-equiv="Content-Type" content="text/html"/>
+</head>
+<!-- Field: Set; Name: xdx; ID: xdx_02F_US%2DGAAP%2D2026 -->
+<!-- Field: Set; Name: xdx; ID: xdx_03E_XBIO_xeneticbio.com_20260807 -->
+<!-- Field: Set; Name: xdx; ID: xdx_04B_20260807_20260807 -->
+<!-- Field: Set; Name: xdx; ID: xdx_059_edei%2D%2DAmendmentFlag_false -->
+<!-- Field: Set; Name: xdx; ID: xdx_050_edei%2D%2DEntityCentralIndexKey_0001534525 -->
+<!-- Field: Set; Name: xdx; ID: xdx_06B_USD_1_iso4217%2D%2DUSD -->
+<!-- Field: Set; Name: xdx; ID: xdx_062_Shares_2_xbrli%2D%2Dshares -->
+<!-- Field: Set; Name: xdx; ID: xdx_06D_USDPShares_3_iso4217%2D%2DUSD_xbrli%2D%2Dshares -->
+<body style="font: 10pt Times New Roman, Times, Serif">
+<div style="display: none">
+<ix:header>
+ <ix:hidden>
+  <ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000003" name="dei:AmendmentFlag">false</ix:nonNumeric>
+  <ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000004" name="dei:EntityCentralIndexKey">0001534525</ix:nonNumeric>
+  </ix:hidden>
+ <ix:references>
+  <link:schemaRef xlink:href="xbio-20260807.xsd" xlink:type="simple"/>
+  </ix:references>
+ <ix:resources>
+    <xbrli:context id="AsOf2026-08-07">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0001534525</xbrli:identifier>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-08-07</xbrli:startDate>
+        <xbrli:endDate>2026-08-07</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:unit id="USD">
+      <xbrli:measure>iso4217:USD</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="Shares">
+      <xbrli:measure>xbrli:shares</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="USDPShares">
+      <xbrli:divide>
+        <xbrli:unitNumerator>
+          <xbrli:measure>iso4217:USD</xbrli:measure>
+        </xbrli:unitNumerator>
+        <xbrli:unitDenominator>
+          <xbrli:measure>xbrli:shares</xbrli:measure>
+        </xbrli:unitDenominator>
+      </xbrli:divide>
+    </xbrli:unit>
+  </ix:resources>
+ </ix:header>
+</div>
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>UNITED STATES</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Washington, D.C. 20549</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>________________________</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-size: 8pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-size: 12pt"><b>FORM <span id="xdx_90E_edei--DocumentType_c20260807__20260807_zmDIZLd0xI7a"><ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000009" name="dei:DocumentType">8-K</ix:nonNumeric></span></b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">________________________</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>CURRENT REPORT</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Pursuant to Section 13 or 15(d) of The
+Securities Exchange Act of 1934</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Date of Report (Date of earliest event
+reported): <b><span id="xdx_90C_edei--DocumentPeriodEndDate_c20260807__20260807_z9WIuenL78zk"><ix:nonNumeric contextRef="AsOf2026-08-07" format="ixt:datemonthdayyearen" id="Fact000010" name="dei:DocumentPeriodEndDate">August 7,
+2026</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">________________________</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-size: 12pt"><b><span id="xdx_90E_edei--EntityRegistrantName_c20260807__20260807_zIeYlwEvvwYf"><ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000011" name="dei:EntityRegistrantName">Xenetic Biosciences,
+Inc.</ix:nonNumeric></span></b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Exact name of registrant as specified in charter)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td style="width: 32%; text-align: center"><span style="font-size: 10pt"><b><span id="xdx_907_edei--EntityIncorporationStateCountryCode_c20260807__20260807_zhAqe4vt2z97"><ix:nonNumeric contextRef="AsOf2026-08-07" format="ixt-sec:stateprovnameen" id="Fact000012" name="dei:EntityIncorporationStateCountryCode">Nevada</ix:nonNumeric></span></b></span></td>
+    <td style="width: 2%; text-align: center">&#160;</td>
+    <td style="width: 32%; text-align: center"><span style="font-size: 10pt"><b><span id="xdx_908_edei--EntityFileNumber_c20260807__20260807_zfjZWqau7PSf"><ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000013" name="dei:EntityFileNumber">001-37937</ix:nonNumeric></span></b></span></td>
+    <td style="width: 2%; text-align: center">&#160;</td>
+    <td style="width: 32%; text-align: center"><span style="font-size: 10pt"><b><span id="xdx_905_edei--EntityTaxIdentificationNumber_c20260807__20260807_zguSLYQqwu56"><ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000014" name="dei:EntityTaxIdentificationNumber">45-2952962</ix:nonNumeric></span></b></span></td></tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: center"><span style="font-size: 10pt">(State or other jurisdiction <br/>
+    of incorporation)</span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="text-align: center"><span style="font-size: 10pt">(Commission<br/>
+    File Number)</span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="text-align: center"><span style="font-size: 10pt">(IRS Employer <br/>
+    Identification No.)</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; color: white">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td style="width: 50%; text-align: center"><span id="xdx_90A_edei--EntityAddressAddressLine1_c20260807__20260807_zseMx3Ngso3" style="font-size: 10pt"><b><ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000015" name="dei:EntityAddressAddressLine1">945
+    Concord Street</ix:nonNumeric></b></span><b><span style="font-size: 10pt"></span></b></td>
+    <td style="width: 50%; text-align: center">&#160;</td></tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: center"><span style="font-size: 10pt"><b><span id="xdx_903_edei--EntityAddressCityOrTown_c20260807__20260807_zlL02XotHtYi"><ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000016" name="dei:EntityAddressCityOrTown">Framingham</ix:nonNumeric></span>, <span id="xdx_907_edei--EntityAddressStateOrProvince_c20260807__20260807_zUFbQN9i6gt"><ix:nonNumeric contextRef="AsOf2026-08-07" format="ixt-sec:stateprovnameen" id="Fact000017" name="dei:EntityAddressStateOrProvince">Massachusetts</ix:nonNumeric></span></b></span></td>
+    <td style="text-align: center"><span style="font-size: 10pt"><b><span id="xdx_902_edei--EntityAddressPostalZipCode_c20260807__20260807_zshwO4kIUID8"><ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000018" name="dei:EntityAddressPostalZipCode">01701</ix:nonNumeric></span></b></span></td></tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: center"><span style="font-size: 10pt">(Address of principal executive offices)</span></td>
+    <td style="text-align: center"><span style="font-size: 10pt">(Zip Code)</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"> <span id="xdx_903_edei--CityAreaCode_c20260807__20260807_zTqUs0F4G918"><b><ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000019" name="dei:CityAreaCode">(781)</ix:nonNumeric></b></span><b> <span id="xdx_900_edei--LocalPhoneNumber_c20260807__20260807_z1yHAi0pRfHd"><ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000020" name="dei:LocalPhoneNumber">778-7720</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Registrant&#8217;s telephone number, including
+area code)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Not Applicable</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Former name or former address, if changed since
+last report)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0.5in 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Check the appropriate box below if the
+Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (<span style="text-decoration: underline">see</span>
+General Instruction A.2. below):</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0.5in 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><span id="xdx_901_edei--WrittenCommunications_c20260807__20260807_zycXrRxtt2I6"><ix:nonNumeric contextRef="AsOf2026-08-07" format="ixt:booleanfalse" id="Fact000021" name="dei:WrittenCommunications">&#9744;</ix:nonNumeric></span> &#160;&#160;&#160;Written communications
+pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><span id="xdx_90E_edei--SolicitingMaterial_c20260807__20260807_z9hnwlnJL0I7"><ix:nonNumeric contextRef="AsOf2026-08-07" format="ixt:booleanfalse" id="Fact000022" name="dei:SolicitingMaterial">&#9744;</ix:nonNumeric></span>&#160;&#160;&#160;&#160;Soliciting material
+pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><span id="xdx_904_edei--PreCommencementTenderOffer_c20260807__20260807_zVjiGREkYt4i"><ix:nonNumeric contextRef="AsOf2026-08-07" format="ixt:booleanfalse" id="Fact000023" name="dei:PreCommencementTenderOffer">&#9744;</ix:nonNumeric></span>&#160;&#160;&#160;&#160;Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><span id="xdx_90E_edei--PreCommencementIssuerTenderOffer_c20260807__20260807_zMUIjB1is5L1"><ix:nonNumeric contextRef="AsOf2026-08-07" format="ixt:booleanfalse" id="Fact000024" name="dei:PreCommencementIssuerTenderOffer">&#9744;</ix:nonNumeric></span>&#160;&#160;&#160;&#160;Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">Securities registered pursuant to Section 12(b)
+of the Act:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td style="border-bottom: Black 1pt solid; text-align: center; width: 37%"><b>Title of each class</b></td>
+    <td style="padding-bottom: 1pt; width: 2%">&#160;</td>
+    <td style="border-bottom: Black 1pt solid; text-align: center; width: 22%"><b>Trading Symbol(s)</b></td>
+    <td style="padding-bottom: 1pt; width: 2%">&#160;</td>
+    <td style="border-bottom: Black 1pt solid; text-align: center; width: 37%"><b>Name of each exchange on which registered</b></td></tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: center"><span style="font-size: 10pt"><span id="xdx_907_edei--Security12bTitle_c20260807__20260807_zTvFNvN7sZXc"><ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000025" name="dei:Security12bTitle">Common Stock, $0.001 par value per share</ix:nonNumeric></span></span></td>
+    <td>&#160;</td>
+    <td style="text-align: center"><span style="font-size: 10pt"><span id="xdx_908_edei--TradingSymbol_c20260807__20260807_z8nywh54xjl7"><ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000026" name="dei:TradingSymbol">XBIO</ix:nonNumeric></span></span></td>
+    <td>&#160;</td>
+    <td style="text-align: center"><span style="font-size: 10pt"><span id="xdx_902_edei--SecurityExchangeName_c20260807__20260807_z3WywPunuTu1"><ix:nonNumeric contextRef="AsOf2026-08-07" format="ixt-sec:exchnameen" id="Fact000027" name="dei:SecurityExchangeName">The
+    Nasdaq Stock Market</ix:nonNumeric></span></span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR &#167;230.405) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (17 CFR &#167;240.12b-2).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right">Emerging growth company <span id="xdx_901_edei--EntityEmergingGrowthCompany_c20260807__20260807_zrUrOIzY9Tf1"><ix:nonNumeric contextRef="AsOf2026-08-07" format="ixt:booleanfalse" id="Fact000028" name="dei:EntityEmergingGrowthCompany">&#9744;</ix:nonNumeric></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. &#9744;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 27.35pt"></p>
+
+<!-- Field: Page; Sequence: 1 -->
+    <div style="margin-top: 6pt; margin-bottom: 6pt"><table cellpadding="0" cellspacing="0" style="border-bottom: Black 1pt solid; border-collapse: collapse; width: 100%; font-size: 10pt"><tr style="vertical-align: top; text-align: left"><td style="width: 33%">&#160;</td><td style="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo; Options: Hidden -->&#160;<!-- Field: /Sequence --></td><td style="width: 33%; text-align: right">&#160;</td></tr></table></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 27.35pt"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td style="width: 96px; font-size: 10pt"><span style="font-size: 10pt"><b>Item 2.02.</b></span></td>
+    <td style="font-size: 10pt"><span style="font-size: 10pt"><b>Results of Operations and Financial Condition.</b></span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On August 7, 2026, Xenetic Biosciences, Inc. (the
+&#8220;Company&#8221;) issued a press release announcing results for the three months ended June 30, 2026.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The full text of the press release is furnished
+as Exhibit 99.1 to this Current Report on Form 8-K and hereby incorporated in this Item 2.02 by reference. The information in this Item
+2.02, including Exhibit 99.1 attached hereto, shall not be deemed &#8220;filed&#8221; for purposes of Section 18 of the Securities Exchange
+Act of 1934, as amended, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended,
+except as shall be expressly set forth by specific reference in such filing.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>FORWARD-LOOKING STATEMENTS</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">This Form 8-K, including the press release, contains
+forward-looking statements that we intend to be subject to the safe harbor provisions of the Private Securities Litigation Reform Act
+of 1995. All statements contained in this Form 8-K, including the press release, other than statements of historical facts may constitute
+forward-looking statements within the meaning of the federal securities laws. These statements can be identified by words such as &#8220;expects,&#8221;
+&#8220;plans,&#8221; &#8220;projects,&#8221; &#8220;will,&#8221; &#8220;may,&#8221; &#8220;anticipates,&#8221; &#8220;believes,&#8221;
+&#8220;should,&#8221; &#8220;intends,&#8221; &#8220;estimates,&#8221; and other words of similar meaning. Any forward-looking statements
+contained herein are based on current expectations, and are subject to a number of risks and uncertainties. Many factors could cause our
+actual activities, performance, achievements or results to differ materially from the activities and results anticipated in forward-looking
+statements. These risks and uncertainties include those described in the &#8220;Risk Factors&#8221; section as detailed from time to time
+in the Company&#8217;s reports filed with the Securities and Exchange Commission (&#8220;SEC&#8221;), including the Company&#8217;s annual
+report on Form 10-K, periodic quarterly reports on Form 10-Q, current reports on Form 8-K and other documents filed with the SEC. In addition,
+forward-looking statements may also be adversely affected by general market factors, general economic and business conditions, including
+potential adverse effects of public health issues and geopolitical events, such as the conflicts in the Ukraine and in the Middle East,
+on economic activity, competitive product development, product availability, federal and state regulations and legislation, the regulatory
+process for new product candidates and indications, manufacturing issues that may arise, patent positions, litigation, and shareholder
+activism, among other factors. The forward-looking statements contained in this Form 8-K, including the press release, speak only as of
+the date the statements were made, and the Company does not undertake any obligation to update forward-looking statements, except as required
+by law.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td style="font-size: 10pt; width: 96px"><b>Item 9.01.</b></td>
+    <td style="font-size: 10pt"><b>Financial Statements and Exhibits. </b></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 40pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">(d) Exhibits</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 40pt"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 40pt"><b></b></p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td style="border-bottom: Black 1pt solid; width: 10%"><span style="font-size: 10pt"><b>Exhibit No.</b></span></td>
+    <td style="padding-bottom: 1pt; width: 1%">&#160;</td>
+    <td style="border-bottom: Black 1pt solid; width: 89%"><span style="font-size: 10pt"><b>Description</b></span></td></tr>
+  <tr>
+    <td style="vertical-align: top">&#160;</td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: bottom">&#160;</td></tr>
+  <tr>
+    <td style="vertical-align: top"><span style="font-size: 10pt">99.1</span></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: bottom"><span style="font-size: 10pt"><a href="xenetic_ex9901.htm">Press Release dated August 7, 2026 pertaining to the financial results of the Company for the three months ended June 30, 2026.</a></span></td></tr>
+  <tr>
+    <td style="vertical-align: top">104</td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: bottom">Cover Page Interactive Data File (embedded within the Inline XBRL document).</td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: left; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></p>
+
+<!-- Field: Page; Sequence: 2 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 6pt; margin-bottom: 6pt"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tr style="vertical-align: top; text-align: left"><td style="width: 33%">&#160;</td><td style="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></td><td style="width: 33%; text-align: right">&#160;</td></tr></table></div>
+    <div style="break-before: page; margin-top: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SIGNATURES</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td>&#160;</td>
+    <td colspan="2"><span style="font-size: 10pt"><b>XENETIC BIOSCIENCES, INC.</b></span></td></tr>
+  <tr style="vertical-align: top">
+    <td style="width: 50%">&#160;</td>
+    <td style="width: 5%">&#160;</td>
+    <td style="width: 45%">&#160;</td></tr>
+  <tr style="vertical-align: top">
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt">By:</span></td>
+    <td><span style="text-decoration: underline">/s/ James Parslow&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</span></td></tr>
+  <tr style="vertical-align: top">
+    <td><span style="font-size: 10pt">Date: August 7, 2026</span></td>
+    <td><span style="font-size: 10pt">Name:</span></td>
+    <td>James Parslow</td></tr>
+  <tr style="vertical-align: top">
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt">Title:</span></td>
+    <td>Interim Chief Executive Officer and Chief Financial Officer </td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></p>
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <div style="border-bottom: Black 1pt solid; margin-bottom: 6pt"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tr style="vertical-align: top; text-align: left"><td style="width: 33%">&#160;</td><td style="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --></td><td style="width: 33%; text-align: right">&#160;</td></tr></table></div>
+    <!-- Field: /Page -->
+
+<!-- Field: Set; Name: xdx; ID: xdx_08B_extensions -->
+<!-- eJxFjUEKwkAMRU/QO4RZi7aDLuzSUkWsUoqI29FGGWwnJTNqeyRv6bRFDCEh/P/yhZiIDa11hQznVZHBEeumUg6hwBsymit6R7LdxeB3gXdtHSvjhvMHJuQZ9MxiKuXFC4P1pS2WMYSLWbicyTlEMvYz34ug1xMyN12icVpVoEwJOVPDGp3ibvxwVC0Zqrsh6oRsNZkYomk4yh+QYSThQC/1Jn5YyLJEBJOhArFhejbelbYOTU9CWmHt4+xI/zv4AgjISpA= -->
+<script type="text/javascript"  src="/N3AEOPt9/dJoipWz/rYwIB5c/dg/YEaQGVVmDJktp27Xmu/SixucGdeLAQ/KXhNJ/AQsW1I"></script></body>
+</html>

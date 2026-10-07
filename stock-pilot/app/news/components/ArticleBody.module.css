@@ -1,0 +1,45 @@
+.body {
+  max-width: 50rem;
+  color: #3f5f82;
+  font-size: clamp(1rem, 1.15vw, 1.15rem);
+  line-height: 1.75;
+}
+
+.body p {
+  margin: 0 0 1.8rem;
+  white-space: pre-line;
+  overflow-wrap: anywhere;
+}
+
+.body h2 {
+  margin: 2.5rem 0 1rem;
+  color: #0b1f44;
+  font-size: 1.5rem;
+  line-height: 1.35;
+}
+
+.diagram {
+  margin: 2rem 0;
+  width: 100%;
+}
+
+.diagram img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
+.diagram figcaption {
+  margin-top: 0.75rem;
+  color: #527091;
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .body {
+    font-size: 1rem;
+    line-height: 1.7;
+  }
+}

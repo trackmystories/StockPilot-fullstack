@@ -1,0 +1,441 @@
+.page {
+  min-height: 100vh;
+  background: #ffffff;
+}
+
+.hero {
+  width: 100%;
+  padding: clamp(4rem, 7vw, 7rem) 0 clamp(2.5rem, 4vw, 4rem);
+
+  background:
+    radial-gradient(
+      circle at 78% 20%,
+      rgba(22, 183, 122, 0.07),
+      transparent 38%
+    ),
+    #ffffff;
+}
+
+.articleLink {
+  display: block;
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+.articleLink:link,
+.articleLink:visited,
+.articleLink:hover,
+.articleLink:active {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+.articleLink * {
+  text-decoration: none !important;
+}
+
+.heroContent {
+  max-width: 48rem;
+}
+
+.eyebrow {
+  margin: 0 0 1rem;
+
+  color: #6f83a2;
+
+  font-size: clamp(0.7rem, 0.8vw, 0.9rem);
+  font-weight: 700;
+  letter-spacing: 0.34em;
+}
+
+.heroTitle {
+  margin: 0;
+
+  color: #062451;
+
+  font-size: clamp(3rem, 5vw, 5.2rem);
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.045em;
+}
+
+.heroTitle span {
+  color: #16b77a;
+}
+
+.heroDescription {
+  margin: clamp(1.4rem, 2vw, 2rem) 0 0;
+
+  color: #637895;
+
+  font-size: clamp(1rem, 1.2vw, 1.25rem);
+  line-height: 1.6;
+}
+
+.research {
+  padding: 1rem 0 clamp(4rem, 7vw, 7rem);
+}
+
+.researchHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  gap: 2rem;
+
+  padding-bottom: 1rem;
+
+  border-bottom: 1px solid #e1e7ef;
+}
+
+.researchTitle {
+  margin: 0;
+
+  color: #062451;
+
+  font-size: clamp(1.5rem, 2vw, 2rem);
+  font-weight: 800;
+}
+
+
+.articleList {
+  width: 100%;
+}
+
+.article {
+  display: grid;
+
+  grid-template-columns:
+    minmax(11rem, 0.8fr)
+    minmax(18rem, 2.7fr)
+    minmax(12rem, 1fr)
+    2rem;
+
+  align-items: center;
+
+  gap: clamp(1rem, 2vw, 2rem);
+
+  padding: clamp(1.3rem, 2vw, 1.8rem) 0;
+
+  border-bottom: 1px solid #e1e7ef;
+
+  color: inherit;
+}
+
+.articleIdentity {
+  display: flex;
+  align-items: center;
+
+  gap: 1rem;
+}
+
+.ticker {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  min-width: 4rem;
+
+  padding: 0.5rem 0.7rem;
+
+  border: 1px solid rgba(22, 183, 122, 0.18);
+  border-radius: 7px;
+
+  color: #16a973;
+  background: rgba(22, 183, 122, 0.07);
+
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+
+.category {
+  color: #7184a1;
+
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+.articleContent h3 {
+  margin: 0 0 0.45rem;
+
+  color: #062451;
+
+  font-size: clamp(0.95rem, 1.1vw, 1.1rem);
+  font-weight: 700;
+
+  transition: color 150ms ease;
+}
+
+.articleContent p {
+  max-width: 38rem;
+
+  margin: 0;
+
+  color: #7184a1;
+
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+.articleMeta {
+  display: flex;
+  flex-direction: column;
+
+  gap: 0.4rem;
+
+  color: #7184a1;
+
+  font-size: 0.8rem;
+}
+
+.articleMeta strong {
+  color: #062451;
+  font-weight: 600;
+}
+
+.metaDivider {
+  margin: 0 0.45rem;
+
+  color: #c5ced9;
+}
+
+.articleArrow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 2rem;
+  height: 2rem;
+
+  color: #062451;
+
+  font-size: 1.5rem;
+
+  transition:
+    color 150ms ease,
+    transform 150ms ease;
+}
+
+.articleLink:hover .articleContent h3 {
+  color: #16b77a;
+}
+
+.articleLink:hover .articleArrow {
+  color: #16b77a;
+  transform: translateX(4px);
+}
+
+.articleLink:focus-visible {
+  outline: 2px solid #16b77a;
+  outline-offset: 4px;
+}
+
+.feedback {
+  display: flex;
+  flex-direction: column;
+
+  gap: 1rem;
+
+  margin-top: 2rem;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+
+  padding: 2rem 0;
+}
+
+.empty {
+  margin: 2rem 0;
+
+  color: #7184a1;
+}
+
+.loadMoreWrapper {
+  display: flex;
+  justify-content: center;
+
+  padding-top: 2rem;
+}
+
+.loadMoreButton {
+  min-width: 13rem;
+
+  padding: 0.85rem 1.5rem;
+
+  border: 1px solid #d8e0ea;
+  border-radius: 8px;
+
+  color: #062451;
+  background: #ffffff;
+
+  font-size: 0.9rem;
+  font-weight: 700;
+
+  cursor: pointer;
+
+  transition:
+    color 150ms ease,
+    border-color 150ms ease,
+    background-color 150ms ease;
+}
+
+.loadMoreButton:hover:not(:disabled) {
+  border-color: #16b77a;
+
+  color: #ffffff;
+  background: #16b77a;
+}
+
+.loadMoreButton:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+/* Tablet */
+@media (max-width: 1024px) {
+  .hero {
+    padding-top: 4rem;
+  }
+
+  .article {
+    grid-template-columns:
+      minmax(9rem, 0.8fr)
+      minmax(16rem, 2fr)
+      minmax(10rem, 1fr)
+      2rem;
+  }
+
+  .articleIdentity {
+    align-items: flex-start;
+    flex-direction: column;
+
+    gap: 0.6rem;
+  }
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .hero {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+  }
+
+  .heroTitle {
+    font-size: clamp(2.8rem, 11vw, 4rem);
+  }
+
+  .desktopBreak {
+    display: none;
+  }
+
+  .filters {
+    flex-wrap: nowrap;
+
+    width: 100%;
+
+    overflow-x: auto;
+
+    padding-bottom: 0.4rem;
+
+    scrollbar-width: none;
+  }
+
+  .filters::-webkit-scrollbar {
+    display: none;
+  }
+
+  .filterButton {
+    flex: 0 0 auto;
+  }
+
+  .researchHeader {
+    align-items: flex-start;
+    flex-direction: column;
+
+    gap: 1rem;
+  }
+
+  .sort {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .article {
+    position: relative;
+
+    grid-template-columns: 1fr;
+
+    gap: 1rem;
+
+    padding: 1.5rem 2.7rem 1.5rem 0;
+  }
+
+  .articleIdentity {
+    flex-direction: row;
+    align-items: center;
+
+    gap: 0.8rem;
+  }
+
+  .articleContent h3 {
+    font-size: 1rem;
+  }
+
+  .articleContent p {
+    font-size: 0.85rem;
+  }
+
+  .articleMeta {
+    gap: 0.3rem;
+  }
+
+  .articleArrow {
+    position: absolute;
+
+    top: 50%;
+    right: 0;
+
+    transform: translateY(-50%);
+  }
+
+  .articleLink:hover .articleArrow {
+    transform: translate(4px, -50%);
+  }
+}
+
+/* Small mobile */
+@media (max-width: 480px) {
+  .hero {
+    padding-top: 2.5rem;
+  }
+
+  .heroTitle {
+    font-size: clamp(2.5rem, 12vw, 3.4rem);
+  }
+
+  .heroDescription {
+    font-size: 1rem;
+  }
+
+  .research {
+    padding-top: 0.5rem;
+  }
+
+  .category {
+    font-size: 0.62rem;
+    letter-spacing: 0.13em;
+  }
+
+  .articleMeta div {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .loadMoreButton {
+    width: 100%;
+  }
+}

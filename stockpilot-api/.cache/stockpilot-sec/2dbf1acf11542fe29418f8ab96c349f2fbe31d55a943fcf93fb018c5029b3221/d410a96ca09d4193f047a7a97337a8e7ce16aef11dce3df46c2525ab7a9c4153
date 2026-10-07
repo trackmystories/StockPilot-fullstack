@@ -1,0 +1,1368 @@
+434a2f2ee6b92fc42784cf81b0ffcb6b942f14f82e92a7cdf3fcca10dbd7fdab<?xml version='1.0' encoding='ASCII'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2015-02-26" xmlns:ixt-sec="http://www.sec.gov/inlineXBRL/transformation/2015-08-31" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:dei="http://xbrl.sec.gov/dei/2026" xmlns:us-gaap="http://fasb.org/us-gaap/2026" xmlns:us-roles="http://fasb.org/us-roles/2026" xmlns:ecd="http://xbrl.sec.gov/ecd/2026" xmlns:country="http://xbrl.sec.gov/country/2026" xmlns:srt="http://fasb.org/srt/2026" xmlns:XHLD="http://tenholdingsinc.com/20251231">
+<head>
+     <title></title>
+<meta http-equiv="Content-Type" content="text/html"/>
+</head>
+<!-- Field: Set; Name: xdx; ID: xdx_023_US%2DGAAP%2D2026%2D(with%2DECD) -->
+<!-- Field: Set; Name: xdx; ID: xdx_031_XHLD_tenholdingsinc.com_20251231 -->
+<!-- Field: Set; Name: xdx; ID: xdx_04E_20250101_20251231 -->
+<!-- Field: Set; Name: xdx; ID: xdx_055_edei%2D%2DAmendmentFlag_true -->
+<!-- Field: Set; Name: xdx; ID: xdx_05A_edei%2D%2DDocumentFiscalPeriodFocus_FY -->
+<!-- Field: Set; Name: xdx; ID: xdx_056_edei%2D%2DEntityCentralIndexKey_0002030954 -->
+<!-- Field: Set; Name: xdx; ID: xdx_06B_USD_1_iso4217%2D%2DUSD -->
+<!-- Field: Set; Name: xdx; ID: xdx_062_Shares_2_xbrli%2D%2Dshares -->
+<!-- Field: Set; Name: xdx; ID: xdx_06D_USDPShares_3_iso4217%2D%2DUSD_xbrli%2D%2Dshares -->
+<!-- Field: Set; Name: xdx; ID: xdx_069_Pure_4_xbrli%2D%2Dpure -->
+<body style="font: 10pt Times New Roman, Times, Serif">
+<div style="display: none">
+<ix:header>
+ <ix:hidden>
+  <ix:nonNumeric contextRef="From2025-01-01to2025-12-31" id="Fact000003" name="dei:AmendmentFlag">true</ix:nonNumeric>
+  <ix:nonNumeric contextRef="From2025-01-01to2025-12-31" id="Fact000004" name="dei:DocumentFiscalPeriodFocus">FY</ix:nonNumeric>
+  <ix:nonNumeric contextRef="From2025-01-01to2025-12-31" id="Fact000005" name="dei:EntityCentralIndexKey">0002030954</ix:nonNumeric>
+  </ix:hidden>
+ <ix:references>
+  <link:schemaRef xlink:href="xhld-20251231.xsd" xlink:type="simple"/>
+  </ix:references>
+ <ix:resources>
+    <xbrli:context id="From2025-01-01to2025-12-31">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0002030954</xbrli:identifier>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2025-01-01</xbrli:startDate>
+        <xbrli:endDate>2025-12-31</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="AsOf2025-06-30">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0002030954</xbrli:identifier>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:instant>2025-06-30</xbrli:instant>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="AsOf2026-03-10">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0002030954</xbrli:identifier>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:instant>2026-03-10</xbrli:instant>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="From2025-01-012025-12-31_2025-02-28">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0002030954</xbrli:identifier>
+        <xbrli:segment>
+          <xbrldi:typedMember dimension="ecd:RestatementDateAxis">
+            <ecd:RestatementDateAxis.domain>2025-02-28</ecd:RestatementDateAxis.domain>
+          </xbrldi:typedMember>
+        </xbrli:segment>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2025-01-01</xbrli:startDate>
+        <xbrli:endDate>2025-12-31</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:unit id="USD">
+      <xbrli:measure>iso4217:USD</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="Shares">
+      <xbrli:measure>xbrli:shares</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="USDPShares">
+      <xbrli:divide>
+        <xbrli:unitNumerator>
+          <xbrli:measure>iso4217:USD</xbrli:measure>
+        </xbrli:unitNumerator>
+        <xbrli:unitDenominator>
+          <xbrli:measure>xbrli:shares</xbrli:measure>
+        </xbrli:unitDenominator>
+      </xbrli:divide>
+    </xbrli:unit>
+    <xbrli:unit id="Pure">
+      <xbrli:measure>xbrli:pure</xbrli:measure>
+    </xbrli:unit>
+  </ix:resources>
+ </ix:header>
+</div>
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><div style="border-top: Black 4pt solid; font-size: 1pt; border-bottom: Black 1pt solid">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 18pt">UNITED
+STATES</span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 18pt">SECURITIES
+AND EXCHANGE COMMISSION</span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 12pt">WASHINGTON,
+D.C. 20549</span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 18pt">FORM
+<span id="xdx_901_edei--DocumentType_c20250101__20251231_zP5sXxEnM8H2"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" id="Fact000011" name="dei:DocumentType">10-K/A</ix:nonNumeric></span></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>(Amendment
+No. 1)</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&#160;</b></span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Mark
+One)</span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span id="xdx_90B_edei--DocumentAnnualReport_c20250101__20251231_zquzmTKYToc2"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" format="ixt:booleantrue" id="Fact000012" name="dei:DocumentAnnualReport">&#9746;</ix:nonNumeric></span><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">For
+the fiscal year ended <span id="xdx_902_edei--DocumentPeriodEndDate_c20250101__20251231_zQLDINuE0aKb"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" format="ixt:datemonthdayyearen" id="Fact000013" name="dei:DocumentPeriodEndDate"><span id="xdx_908_edei--CurrentFiscalYearEndDate_c20250101__20251231_zfq1Q1UheZa2"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" format="ixt:datemonthdayen" id="Fact000014" name="dei:CurrentFiscalYearEndDate">December 31</ix:nonNumeric></span>, <span id="xdx_904_edei--DocumentFiscalYearFocus_c20250101__20251231_zFUC9lpjLO6g"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" id="Fact000015" name="dei:DocumentFiscalYearFocus">2025</ix:nonNumeric></span></ix:nonNumeric></span></span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">or</span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span id="xdx_90B_edei--DocumentTransitionReport_c20250101__20251231_zbF3WhFfBlw4"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" format="ixt:booleanfalse" id="Fact000016" name="dei:DocumentTransitionReport">&#9744;</ix:nonNumeric></span> <span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">TRANSITION
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">For
+the transition period from to</span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Commission
+file number <span id="xdx_906_edei--EntityFileNumber_c20250101__20251231_zFxd9TfDs8f7"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" id="Fact000017" name="dei:EntityFileNumber">001-42515</ix:nonNumeric></span></span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 18pt"><span id="xdx_903_edei--EntityRegistrantName_c20250101__20251231_zEQM6e7QIOJ7"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" id="Fact000018" name="dei:EntityRegistrantName">TEN
+Holdings, Inc.</ix:nonNumeric></span></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Exact
+name of registrant as specified in its charter)</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="font: 10pt Times New Roman, Times, Serif">
+    <td style="border-bottom: black 1pt solid; font: 10pt Times New Roman, Times, Serif; vertical-align: bottom; text-align: center; width: 49%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_909_edei--EntityIncorporationStateCountryCode_c20250101__20251231_z78mBAY8y9t4"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" format="ixt-sec:stateprovnameen" id="Fact000019" name="dei:EntityIncorporationStateCountryCode">Nevada</ix:nonNumeric></span></b></span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; vertical-align: top; padding-bottom: 1pt; text-align: center; width: 2%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="border-bottom: black 1pt solid; font: 10pt Times New Roman, Times, Serif; vertical-align: bottom; text-align: center; width: 49%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_90F_edei--EntityTaxIdentificationNumber_c20250101__20251231_zH0fHiOl6Hsf"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" id="Fact000020" name="dei:EntityTaxIdentificationNumber">99-1291725</ix:nonNumeric></span></b></span></td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif">
+    <td style="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(State
+                                       or other jurisdiction of</span></p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">incorporation
+    or organization)</span></p></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; vertical-align: top; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom"><p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(I.R.S.
+                                       Employer</span></p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Identification
+    No.)</span></p></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_90E_edei--EntityAddressAddressLine1_c20250101__20251231_zmspCvuxu6I9"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" id="Fact000021" name="dei:EntityAddressAddressLine1">1170
+Wheeler Way</ix:nonNumeric></span></b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_90F_edei--EntityAddressCityOrTown_c20250101__20251231_zuER5ZYO1t7i"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" id="Fact000022" name="dei:EntityAddressCityOrTown">Langhorne</ix:nonNumeric></span>,
+<span id="xdx_90E_edei--EntityAddressStateOrProvince_c20250101__20251231_z8yCmuoSFaqd"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" id="Fact000023" name="dei:EntityAddressStateOrProvince">PA</ix:nonNumeric></span> <span id="xdx_901_edei--EntityAddressPostalZipCode_c20250101__20251231_zk7tovIZaIq8"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" id="Fact000024" name="dei:EntityAddressPostalZipCode">19047</ix:nonNumeric></span></b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Address
+of principal executive offices) (Zip Code)</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Registrant&#8217;s
+telephone number, including area code: <b><span id="xdx_90A_edei--CityAreaCode_c20250101__20251231_zosCxsnOzpal"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" id="Fact000025" name="dei:CityAreaCode">1.800</ix:nonNumeric></span>.<span id="xdx_908_edei--LocalPhoneNumber_c20250101__20251231_zrRsqgKVeO8e"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" id="Fact000026" name="dei:LocalPhoneNumber">909.9598</ix:nonNumeric></span></b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Securities
+registered pursuant to Section 12(b) of the Act:</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <td style="border-bottom: black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: center; width: 38%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Title
+    of each class</b></span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; white-space: nowrap; padding-bottom: 1pt; text-align: center; width: 2%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="border-bottom: black 1pt solid; font: 10pt Times New Roman, Times, Serif; white-space: nowrap; text-align: center; width: 18%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Trading
+    Symbol(s)</b></span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; white-space: nowrap; padding-bottom: 1pt; text-align: center; width: 2%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="border-bottom: black 1pt solid; font: 10pt Times New Roman, Times, Serif; white-space: nowrap; text-align: center; width: 40%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Name
+    of each exchange on which registered</b></span></td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; background-color: #CCEEFF">
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_904_edei--Security12bTitle_c20250101__20251231_zqtafN62DR33"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" id="Fact000027" name="dei:Security12bTitle">Common Stock</ix:nonNumeric></span></span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; white-space: nowrap; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; white-space: nowrap; vertical-align: top; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_905_edei--TradingSymbol_c20250101__20251231_zC6656wgvdYl"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" id="Fact000028" name="dei:TradingSymbol">XHLD</ix:nonNumeric></span></span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; white-space: nowrap; vertical-align: top; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; white-space: nowrap; vertical-align: bottom; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_90D_edei--SecurityExchangeName_c20250101__20251231_zHHWg6D1uI1a"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" format="ixt-sec:exchnameen" id="Fact000029" name="dei:SecurityExchangeName">The
+    Nasdaq Stock Market LLC</ix:nonNumeric></span></span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Securities
+registered pursuant to Section 12(g) of the Act: None</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Indicate
+by check mark whether the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes &#9744; <span id="xdx_90B_edei--EntityWellKnownSeasonedIssuer_c20250101__20251231_zKZaRrpmi1pj"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" id="Fact000030" name="dei:EntityWellKnownSeasonedIssuer">No</ix:nonNumeric></span> &#9746;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Indicate
+by check mark whether the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act. Yes &#9744; <span id="xdx_905_edei--EntityVoluntaryFilers_c20250101__20251231_zxhhDNcgaog2"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" id="Fact000031" name="dei:EntityVoluntaryFilers">No</ix:nonNumeric></span> &#9746;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. <span id="xdx_903_edei--EntityCurrentReportingStatus_c20250101__20251231_zsNOFmALGiAd"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" id="Fact000032" name="dei:EntityCurrentReportingStatus">Yes</ix:nonNumeric></span> &#9746; No &#9744;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T (&#167;232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files). <span id="xdx_907_edei--EntityInteractiveDataCurrent_c20250101__20251231_zXgiKQ5uz6hi"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" id="Fact000033" name="dei:EntityInteractiveDataCurrent">Yes</ix:nonNumeric></span> &#9746; No &#9744;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or an emerging growth company. See the definitions of &#8220;large accelerated filer,&#8221; &#8220;accelerated filer,&#8221;
+&#8220;smaller reporting company,&#8221; and &#8220;emerging growth company&#8221; in Rule 12b-2 of the Exchange Act.</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="font: 10pt Times New Roman, Times, Serif">
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: justify; width: 45%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Large accelerated filer</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: justify; width: 5%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#9744;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: justify; width: 45%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Accelerated filer</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: justify; width: 5%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#9744;</span></td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif">
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_904_edei--EntityFilerCategory_c20250101__20251231_zsjNU4LCKCY1"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" format="ixt-sec:entityfilercategoryen" id="Fact000034" name="dei:EntityFilerCategory">Non-accelerated filer</ix:nonNumeric></span></span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#9746;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Smaller reporting company</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_90E_edei--EntitySmallBusiness_c20250101__20251231_zrFTg6Oj5ad5"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" format="ixt:booleantrue" id="Fact000035" name="dei:EntitySmallBusiness">&#9746;</ix:nonNumeric></span></span></td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif">
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Emerging growth company</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_909_edei--EntityEmergingGrowthCompany_c20250101__20251231_zwQJvuPOmIYa"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" format="ixt:booleantrue" id="Fact000036" name="dei:EntityEmergingGrowthCompany">&#9746;</ix:nonNumeric></span></span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. <span id="xdx_906_edei--EntityExTransitionPeriod_c20250101__20251231_zIy7iegNLZMj"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" format="ixt:booleanfalse" id="Fact000037" name="dei:EntityExTransitionPeriod">&#9744;</ix:nonNumeric></span></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Indicate
+by check mark whether the registrant has filed a report on and attestation to its management&#8217;s assessment of the effectiveness
+of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered
+public accounting firm that prepared or issued its audit report. <span id="xdx_901_edei--IcfrAuditorAttestationFlag_c20250101__20251231_zWN9aZy0p4Yf"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" format="ixt:booleanfalse" id="Fact000038" name="dei:IcfrAuditorAttestationFlag">&#9744;</ix:nonNumeric></span></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">If
+securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant
+included in the filing reflect the correction of an error to previously issued financial statements. <span id="xdx_90D_edei--DocumentFinStmtErrorCorrectionFlag_c20250101__20251231_z3FLuDcMIcg1"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" format="ixt:booleanfalse" id="Fact000039" name="dei:DocumentFinStmtErrorCorrectionFlag">&#9744;</ix:nonNumeric></span></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Indicate
+by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation
+received by any of the registrant&#8217;s executive officers during the relevant recovery period pursuant to &#167;240.10D-1(b). &#9744;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes &#9744; No <span id="xdx_907_edei--EntityShellCompany_dbF_c20250101__20251231_zLHgzXtMt1Ae"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" format="ixt:booleanfalse" id="Fact000040" name="dei:EntityShellCompany">&#9746;</ix:nonNumeric></span></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+aggregate market value of the voting common equity held by non-affiliates of the registrant as of June 30, 2025, the last business day
+of the registrant&#8217;s&#160;most recently completed second&#160;fiscal quarter,&#160;was $<span id="xdx_903_edei--EntityPublicFloat_iI_do_c20250630_zTNOTZMS4Evg"><ix:nonFraction name="dei:EntityPublicFloat" contextRef="AsOf2025-06-30" id="Fact000041" format="ixt:numdotdecimal" decimals="0" unitRef="USD">4,787,341</ix:nonFraction></span>, based on the closing sales price of
+the registrant&#8217;s Common Stock as reported on such date. The registrant has no non-voting common equity.</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+number of the registrant&#8217;s shares of common stock, $<span id="xdx_906_edei--EntityListingParValuePerShare_pid_c20250101__20251231_zKKbsm4ktEck"><ix:nonFraction name="dei:EntityListingParValuePerShare" contextRef="From2025-01-01to2025-12-31" id="Fact000042" format="ixt:numdotdecimal" decimals="INF" unitRef="USDPShares">0.0001</ix:nonFraction></span> par value per share, outstanding on March 10, 2026, was <span id="xdx_901_edei--EntityCommonStockSharesOutstanding_iI_c20260310_zX3hiuZnQIck"><ix:nonFraction name="dei:EntityCommonStockSharesOutstanding" contextRef="AsOf2026-03-10" id="Fact000043" format="ixt:numdotdecimal" decimals="INF" unitRef="Shares">3,997,443</ix:nonFraction></span>.</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&#160;</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>DOCUMENTS
+INCORPORATED BY REFERENCE</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_907_edei--DocumentsIncorporatedByReferenceTextBlock_c20250101__20251231_zzhyiPd9aAch"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" escape="true" id="Fact000044" name="dei:DocumentsIncorporatedByReferenceTextBlock">No&#160;annual&#160;report&#160;to
+security holders, proxy or&#160;information&#160;statement, or prospectus filed pursuant to Rule&#160;424(b)&#160;or (c) under the&#160;Securities
+Act of 1933&#160;is incorporated by reference into this Amendment No. 1 on Form 10-K/A.</ix:nonNumeric></span></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"></span></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><div style="border-top: Black 1pt solid; font-size: 1pt; border-bottom: Black 4pt solid">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <div style="border-bottom: Black 1pt solid; margin-bottom: 6pt"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tr style="vertical-align: top; text-align: left"><td style="width: 100%">&#160;</td></tr></table></div>
+    <div style="break-before: page; margin-top: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>EXPLANATORY
+NOTE</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&#160;</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_905_edei--AmendmentDescription_c20250101__20251231_gIFAD-TOQGW_zgyuNVp4yoN8"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" continuedAt="ConU000048-01" id="Fact000048" name="dei:AmendmentDescription">TEN
+Holdings, Inc. (the &#8220;Company&#8221;) is filing this Amendment No. 1 on Form 10-K/A (this &#8220;Amendment&#8221;) to its Annual
+Report on Form 10-K for the year ended December 31, 2025 (the &#8220;Original Filing&#8221;), filed with the Securities and Exchange
+Commission (the &#8220;SEC&#8221;) on March 18, 2026 (the &#8220;Original Filing Date&#8221;), to correct certain information in the
+Original Filing, as described in this Explanatory Note.</ix:nonNumeric></span></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span id="xdx_C08_gIFAD-TOQGW_ztWXfAD3ioFj"><ix:continuation continuedAt="ConU000048-02" id="ConU000048-01"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></ix:continuation></span></p>
+
+<div id="xdx_C0A_gIFAD-TOQGW_zpJlUPNAvyji"><ix:continuation continuedAt="ConU000048-03" id="ConU000048-02"><p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+Company believes that none of such corrections, either individually or in the aggregate, are material. In addition, none of these changes
+requires a restatement of the Company&#8217;s financial statements included in the Original Filing, as the corrections only impact the
+&#8220;Executive Compensation&#8221; section of the Original Filing, and all relevant information is accurately reflected in the Company&#8217;s
+financial statements.&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+Company is filing this Amendment to:</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0; margin-bottom: 0"><tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+<td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in"/><td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in">&#9679;</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Update
+                                            the Summary Compensation Table required by Part III, Item 11. Executive Compensation to (i)
+                                            correct an error in the value of the option award granted to Mr. Virgilio D. Torres, (ii)
+                                            correct scrivener errors in the number of shares, as adjusted for the Company&#8217;s 1-for-15
+                                            reverse stock split, effected December 1, 2025, underlying the option awards granted to Mr.
+                                            Randolph Wilson Jones III and Mr. John M. Orobono Jr., and (iii) correct scrivener errors
+                                            in the grant date fair value per share of option awards granted to named executive officers;</span></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.25in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0; margin-bottom: 0"><tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+<td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in"/><td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in">&#9679;</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Update
+                                            the Outstanding Equity Awards at Fiscal Year-End Table required by Part III, Item 11. Executive
+                                            Compensation to (i) adjust the column placement of the option awards granted to Mr. Randolph
+                                            Wilson Jones III and Mr. Virgilio D. Torres and (ii) correct a scrivener error in the number
+                                            of shares, as adjusted for the Company&#8217;s 1-for-15 reverse stock split, effected December
+                                            1, 2025, underlying the option award granted to Mr. John M. Orobono Jr.; and</span></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.25in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0; margin-bottom: 0"><tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+<td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in"/><td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in">&#9679;</td><td style="font: 10pt Times New Roman, Times, Serif; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Update
+                                            the disclosure under Part III, Item 11. Executive Compensation &#8212; Timing of Grants of
+                                            Certain Equity Awards to correct the grant date fair value of the option award granted to
+                                            Mr. Virgilio D. Torres on June 30, 2025.</span></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.25in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Except
+as described above, no other changes have been made to the Original Filing. We have not updated the disclosures contained therein to
+reflect any events which occurred at a date subsequent to the Original Filing Date. This Amendment should be read in conjunction with
+the Original Filing and our other filings made with the SEC subsequent to the Original Filing Date.</span></p>
+
+</ix:continuation></div><p style="font: 10pt Times New Roman, Times, Serif; margin: 0"><span id="xdx_C0B_gIFAD-TOQGW_zAQhPHlp6iuh"><ix:continuation id="ConU000048-03"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></ix:continuation></span></p>
+
+
+<!-- Field: Page; Sequence: 2 -->
+    <div style="border-bottom: Black 1pt solid; margin-bottom: 6pt"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tr style="vertical-align: top; text-align: left"><td style="width: 100%">&#160;</td></tr></table></div>
+    <div style="break-before: page; margin-top: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span style="text-decoration: underline">Table
+of Contents</span></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse">
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top; background-color: rgb(204,238,255)">
+    <td style="width: 95%"><a href="#G_001"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">PART III</span></a></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: right; width: 4%">1<span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"></span></td>
+    <td style="width: 1%">&#160;</td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top; background-color: White">
+    <td><a href="#G_002">Item 11. Executive Compensation.</a></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: right"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">1</span></td>
+    <td>&#160;</td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top; background-color: rgb(204,238,255)">
+    <td>&#160;</td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: right"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td>&#160;</td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top; background-color: White">
+    <td><a href="#G_003"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">PART IV</span></a></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: right">6</td>
+    <td>&#160;</td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top; background-color: rgb(204,238,255)">
+    <td><a href="#G_004">Item 15. Exhibit and Financial Statement Schedules</a></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: right"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">6</span></td>
+    <td>&#160;</td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top; background-color: White">
+    <td>&#160;</td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: right"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td>&#160;</td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top; background-color: rgb(204,238,255)">
+    <td><a href="#G_005"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">SIGNATURES</span></a></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: right"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">7</span></td>
+    <td>&#160;</td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+
+<!-- Field: Page; Sequence: 3; Options: NewSection; Value: 1 -->
+    <div style="border-bottom: Black 1pt solid; margin-bottom: 6pt"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tr style="vertical-align: top; text-align: left"><td style="text-align: center; width: 100%"><!-- Field: Sequence; Type: LowerRoman; Name: PageNo -->i<!-- Field: /Sequence --></td></tr></table></div>
+    <div style="break-before: page; margin-top: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="G_001"></span>PART
+III</span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="G_002"></span>Item
+11. Executive Compensation.</span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">This
+section provides an overview of our executive and director compensation programs. We meet the requirements of a &#8220;smaller reporting
+company&#8221; and have utilized the scaled reporting requirements available to qualifying companies.</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Summary
+Compensation Table</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&#160;</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+following table sets forth, for the fiscal years ended December 31, 2025, and 2024, the dollar value of all cash and noncash compensation
+earned by our &#8220;named executive officers,&#8221; as defined under Item 402(m) of Regulation S-K (the &#8220;Named Executive Officers&#8221;).</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: bottom">
+    <td style="border-bottom: Black 1pt solid; font-weight: bold">Name and Principal Position</td><td style="font-weight: bold; padding-bottom: 1pt">&#160;</td>
+    <td colspan="2" style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center">Year</td><td style="padding-bottom: 1pt; font-weight: bold">&#160;</td><td style="font-weight: bold; padding-bottom: 1pt">&#160;</td>
+    <td colspan="2" style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center">Salary<br/> ($)</td><td style="padding-bottom: 1pt; font-weight: bold">&#160;</td><td style="font-weight: bold; padding-bottom: 1pt">&#160;</td>
+    <td colspan="2" style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center">Bonus<br/> ($)</td><td style="padding-bottom: 1pt; font-weight: bold">&#160;</td><td style="font-weight: bold; padding-bottom: 1pt">&#160;</td>
+    <td colspan="2" style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center">Stock Awards<br/> ($)</td><td style="padding-bottom: 1pt; font-weight: bold">&#160;</td><td style="font-weight: bold; padding-bottom: 1pt">&#160;</td>
+    <td colspan="2" style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Option Awards<br/> ($)<sup>(1)</sup></b></span></td><td style="padding-bottom: 5px; font-weight: bold"><sup>&#160;</sup></td><td style="font-weight: bold; padding-bottom: 1pt">&#160;</td>
+    <td colspan="2" style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center">Non-Equity Incentive Plan Compensation<br/> ($)</td><td style="padding-bottom: 1pt; font-weight: bold">&#160;</td><td style="font-weight: bold; padding-bottom: 1pt">&#160;</td>
+    <td colspan="2" style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center">Non-Qualified Deferred Compensation Earnings<br/> ($)</td><td style="padding-bottom: 1pt; font-weight: bold">&#160;</td><td style="font-weight: bold; padding-bottom: 1pt">&#160;</td>
+    <td colspan="2" style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center">All Other Compensation<br/> ($)</td><td style="padding-bottom: 5px; font-weight: bold"><sup>&#160;</sup></td><td style="font-weight: bold; padding-bottom: 1pt">&#160;</td>
+    <td colspan="2" style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center">Totals<br/> ($)</td><td style="padding-bottom: 1pt; font-weight: bold">&#160;</td></tr>
+  <tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <td style="width: 28%; text-align: left">Randolph Wilson Jones III, Chief Executive Officer and Director</td><td style="width: 2%">&#160;</td>
+    <td style="width: 1%; text-align: center">&#160;</td><td style="width: 4%; text-align: center">2025</td><td style="width: 1%; text-align: left">&#160;</td><td style="width: 2%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td><td style="width: 4%; text-align: right">300,000</td><td style="width: 1%; text-align: left">&#160;</td><td style="width: 2%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td><td style="width: 4%; text-align: right">95,263</td><td style="width: 1%; text-align: left">&#160;</td><td style="width: 2%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td><td style="width: 4%; text-align: right">&#8211;&#8211;</td><td style="width: 1%; text-align: left">&#160;</td><td style="width: 2%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td><td style="width: 4%; text-align: right">&#8211;&#8211;</td><td style="padding-bottom: 5px; width: 1%; text-align: left"><sup>&#160;</sup></td><td style="width: 2%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td><td style="width: 4%; text-align: right">&#8211;&#8211;</td><td style="width: 1%; text-align: left">&#160;</td><td style="width: 2%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td><td style="width: 4%; text-align: right">&#8211;&#8211;</td><td style="width: 1%; text-align: left">&#160;</td><td style="width: 2%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td><td style="width: 4%; text-align: right">&#8211;&#8211;</td><td style="padding-bottom: 5px; width: 1%; text-align: left"><sup>&#160;</sup></td><td style="width: 2%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td><td style="width: 4%; text-align: right">395,263</td><td style="width: 1%; text-align: left">&#160;</td></tr>
+  <tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <td>&#160;</td><td>&#160;</td>
+    <td style="text-align: center">&#160;</td><td style="text-align: center">2024</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">298,077</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">132,536</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">4,321,644</td><td style="padding-bottom: 5px; text-align: left"><sup>(2)</sup></td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="padding-bottom: 5px; text-align: left"><sup>&#160;</sup></td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">4,752,257</td><td style="text-align: left">&#160;</td></tr>
+  <tr style="vertical-align: bottom; background-color: White">
+    <td style="text-align: left"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">John M. Orobono Jr., Former Chief Financial Officer, Secretary and Director<sup>(3)</sup></span></td><td>&#160;</td>
+    <td style="text-align: center">&#160;</td><td style="text-align: center">2025</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">220,000</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="padding-bottom: 5px; text-align: left"><sup>&#160;</sup></td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">45,000</td><td style="padding-bottom: 5px; text-align: left"><sup>(4)</sup></td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">265,000</td><td style="text-align: left">&#160;</td></tr>
+  <tr style="vertical-align: bottom">
+    <td>&#160;</td><td>&#160;</td>
+    <td style="text-align: center">&#160;</td><td style="text-align: center">2024</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">162,077</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">25,000</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">864,798</td><td style="padding-bottom: 5px; text-align: left"><sup>(5)</sup></td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="padding-bottom: 5px; text-align: left"><sup>&#160;</sup></td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">1,051,875</td><td style="text-align: left">&#160;</td></tr>
+  <tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <td style="text-align: left"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Virgilio D. Torres, Chief Financial Officer, Secretary and Director<sup>(6)</sup></span></td><td>&#160;</td>
+    <td style="text-align: center">&#160;</td><td style="text-align: center">2025</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">265,000</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">33,125</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">55,707<sup></sup></span></td><td style="padding-bottom: 5px; text-align: left"><sup>(7)</sup></td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="padding-bottom: 5px; text-align: left"><sup>&#160;</sup></td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">353,832</td><td style="text-align: left">&#160;</td></tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Notes:</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.25in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0; margin-bottom: 0"><tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+<td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in"/><td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(1)</span></td><td style="font: 10pt Times New Roman, Times, Serif; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Amounts
+                                            in this column represent the aggregate grant-date fair value of option awards granted to
+                                            each named executive officer, computed in accordance with the Financial Accounting Standards
+                                            Board&#8217;s (&#8220;FASB&#8221;) Accounting Standards Codification Topic 718 (&#8220;Topic
+                                            718&#8221;). For a summary of all assumptions made in the valuation of the option awards,
+                                            see &#8220;Note 12 &#8211; Equity Incentive Plan&#8221; to our consolidated financial statements
+                                            included in the Original Filing.</span></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.25in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0; margin-bottom: 0"><tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+<td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in"/><td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(2)</span></td><td style="font: 10pt Times New Roman, Times, Serif; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">On
+                                            October 10, 2024, the Company granted Mr. Jones an option to purchase 1,381,750 shares of
+                                            the Company&#8217;s common stock with an exercise price of $0.46 per share. As a result of
+                                            the Company&#8217;s 1-for-15 reverse stock split, effected on December 1, 2025, the number
+                                            of shares issuable upon the exercise of this option was reduced to 92,117, with an exercise
+                                            price of $6.90 per share. The fair value of the stock option as of the grant date was approximately
+                                            $3.13 per share and was estimated using the Black-Scholes option-pricing model. Adjusted
+                                            for the Company&#8217;s 1-for-15 reverse stock split, the grant date fair value of the stock
+                                            option, estimated using the Black-Scholes option-pricing model, was approximately $46.91
+                                            per share.</span></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.25in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0; margin-bottom: 0"><tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+<td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in"/><td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(3)</span></td><td style="font: 10pt Times New Roman, Times, Serif; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">On
+                                            May 9, 2025, Mr. John M. Orobono Jr. resigned as Chief Financial Officer, Secretary and director
+                                            of the Company.</span></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.25in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0; margin-bottom: 0"><tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+<td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in"/><td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(4)</span></td><td style="font: 10pt Times New Roman, Times, Serif; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Represents
+                                            severance paid to Mr. Orobono in connection with his May 9, 2025 resignation.</span></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.25in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0; margin-bottom: 0"><tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+<td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in"/><td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(5)</span></td><td style="font: 10pt Times New Roman, Times, Serif; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">On
+                                            October 10, 2024, the Company granted Mr. Orobono an option to purchase 276,500 shares of
+                                            the Company&#8217;s common stock with an exercise price of $0.46 per share. As a result of
+                                            the Company&#8217;s 1-for-15 reverse stock split, effected on December 1, 2025, the number
+                                            of shares issuable upon the exercise of this option was reduced to 18,433, with an exercise
+                                            price of $6.90 per share. The fair value of the stock option as of the grant date was approximately
+                                            $3.13 per share and was estimated using the Black-Scholes option-pricing model. Adjusted
+                                            for the Company&#8217;s 1-for-15 reverse stock split, the grant date fair value of the stock
+                                            option, estimated using the Black-Scholes option-pricing model, was approximately $46.91
+                                            per share. Upon Mr. Orobono&#8217;s resignation on May 9, 2025, the option had vested as
+                                            to 69,125 shares of the Company&#8217;s common stock. On August 7, 2025 the vested portion
+                                            of the option was returned pursuant to the vesting and forfeiture terms of the option grant.</span></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.25in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0; margin-bottom: 0"><tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+<td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in"/><td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(6)</span></td><td style="font: 10pt Times New Roman, Times, Serif; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">On
+                                            June 30, 2025, the Board appointed Mr. Virgilio D. Torres to serve as the new Chief Financial
+                                            Officer and director of the Company.</span></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.25in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0; margin-bottom: 0"><tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+<td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in"/><td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(7)</span></td><td style="font: 10pt Times New Roman, Times, Serif; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">On
+                                            June 30, 2025, the Company granted Mr. Torres an option to purchase 323,884 shares of the
+                                            Company&#8217;s common stock with an exercise price of $0.36 per share. As a result of the
+                                            Company&#8217;s 1-for-15 reverse stock split, effected on December 1, 2025, the number of
+                                            shares issuable upon the exercise of this option was reduced to 21,592, with an exercise
+                                            price of $5.40 per share. The fair value of the stock option as of the grant date was approximately
+                                            $0.17 per share and was estimated using the Black-Scholes option-pricing model. Adjusted
+                                            for the Company&#8217;s 1-for-15 reverse stock split, the grant date fair value of the stock
+                                            option, estimated using the Black-Scholes option-pricing model, was approximately $2.58 per
+                                            share.</span></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.25in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+
+<!-- Field: Page; Sequence: 4; Options: NewSection; Value: 1 -->
+    <div style="border-bottom: Black 1pt solid; margin-bottom: 6pt"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tr style="vertical-align: top; text-align: left"><td style="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->1<!-- Field: /Sequence --></td></tr></table></div>
+    <div style="break-before: page; margin-top: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Employment
+Agreements with Our Named Executive Officers</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&#160;</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+Company has entered into employment agreements with Randolph Wilson Jones III, our Chief Executive Officer, Mr. John M. Orobono Jr, our
+former Chief Financial Officer and Virgilio D. Torres, our Chief Financial Officer and Secretary. A summary of the terms of the current
+employment agreements with our Company is set forth below.</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><i>Employment
+Agreement with Randolph Wilson Jones III</i></b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><i>&#160;</i></b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Pursuant
+to the employment agreement by and between the Company and Randolph Wilson Jones III, dated December 22, 2025, Mr. Jones serves as the
+Chief Executive Officer of the Company, and is entitled to (i) an annual salary of $300,000, minus applicable taxes; (ii) an annual bonus
+based on a target level of $200,000; (iii) such stock options and equity awards as may be determined by the Board of the Company, in
+its sole discretion, consistent with its policies and practices pertaining to equity awards for Company&#8217;s executives; and (iv)
+participation in any standard employee benefit plan of the Company that existed at the time of the agreement or that may be adopted by
+the Company in the future, including, but not limited to, any retirement plan, life insurance plan, health insurance plan and travel/holiday
+plan. Either party may terminate the employment relationship at any time without cause, upon three month prior written notice.</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><i>Employment
+Agreement with John M. Orobono Jr.</i></b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><i>&#160;</i></b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Pursuant
+to the offer letter by and between the Company and John M. Orobono Jr., dated August 1, 2024, Mr. Orobono served as the Chief Financial
+Officer of the Company, and was entitled to (i) an annual salary of $215,000, minus applicable taxes; (ii) an annual bonus of 20% of
+the salary, depending on the business performance; (iii) 1% equity stock of TEN Holdings, Inc., to be determined upon establishment of
+the Company&#8217;s equity plan; and (iv) certain benefit plans and a 401(k) retirement plan. Either party was able to terminate the
+employment relationship at any time without cause, and with or without notice. Mr. Orobono&#8217;s offer letter was terminated upon his
+resignation from the Company on May 9, 2025.</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><i>Employment
+Agreement with Virgilio D. Torres</i></b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><i>&#160;</i></b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Pursuant
+to the amended and restated employment agreement by and between the Company and Virgilio D. Torres, dated December 22, 2025, Mr. Torres
+serves as the Chief Financial Officer of the Company, and is entitled to (i) an annual salary of $265,000, minus applicable taxes; (ii)
+an annual bonus of 25% of the salary, depending on the business performance; (iii) such stock options and equity awards as may be determined
+by the Board of the Company, in its sole discretion, consistent with its policies and practices pertaining to equity awards for Company&#8217;s
+executives; and (iv) participation in any standard employee benefit plan of the Company that existed at the time of the agreement or
+that may be adopted by the Company in the future, including, but not limited to, any retirement plan, life insurance plan, health insurance
+plan and travel/holiday plan. Either party may terminate the employment relationship at any time without cause, upon three months&#8217;
+prior written notice.</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Equity
+Awards to Named Executive Officers</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&#160;</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">On
+September 5, 2024, the Company&#8217;s Board and sole stockholder adopted an equity incentive plan (the &#8220;Original Equity Incentive
+Plan&#8221;) under which an aggregate of 10% of the Company&#8217;s authorized shares of common stock, which equals 12,500,000 shares
+of common stock, were reserved for issuance. On September 27, 2024, the Company&#8217;s Board and then sole stockholder approved an amended
+and restated equity incentive plan (the &#8220;Amended and Restated Equity Incentive Plan&#8221;) which changed the maximum number of
+shares of common stock of the Company reserved and available for granting awards from 12,500,000 to 4,000,000. The Amended and Restated
+Equity Incentive Plan allows for the issuance of options, stock appreciation rights, restricted stock, restricted stock unit, performance
+award, dividend equivalent, and other stock-based awards to selected employees, officers, directors and consultants, for them to acquire
+a proprietary interest in the growth and performance of the Company.</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">On
+October 10, 2024, the Company granted stock options to certain individuals who were the Company&#8217;s directors and employees to purchase
+an aggregate of 2,640,250 shares of common stock at an exercise price of $0.46 per share. As a result of the Company&#8217;s 1-for-15
+reverse stock split, effected on December 1, 2025, the number of shares issuable upon the exercise of this option was reduced to 176,017,
+with an exercise price of $6.90 per share. The options have a contractual term of ten years and vested as to 60% of the underlying shares
+upon the completion of the Company&#8217;s initial public offering with the remaining 40% of the underlying shares having a one-year
+cliff, wherein approximately 13.3% vested in October 2025 and the remaining vested or will thereafter vest in equal monthly installments,
+commencing November 2025 until October 2027, so that all the shares subject to the option shall vest by October 2027. Pursuant to the
+award agreements, an aggregate of 1,122,925 shares of common stock (or 74,862 shares of common stock, as adjusted for the Company&#8217;s
+1-for-15 reverse stock split, effected on December 1, 2025) vested upon the completion of the Company&#8217;s initial public offering.
+The total value of the stock options granted on October 10, 2024 under the Amended and Restated Equity Incentive Plan was approximately
+$8.3 million as of such grant date.</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">On
+June 30, 2025, the Company granted a stock option Mr. Virgilio D. Torres, the Company&#8217;s Chief Financial Officer, Secretary and
+Director, to purchase an aggregate of 323,884 shares of common stock at an exercise price of $0.36 per share. As a result of the Company&#8217;s
+1-for-15 reverse stock split, effected on December 1, 2025, the number of shares issuable upon the exercise of this option was reduced
+to 21,592, with an exercise price of $5.40 per share. The option has a contractual term of ten years and vests as to one third of the
+underlying shares on June 30, 2026 and vests as to the remaining underlying shares in equal monthly installments beginning on July 30,
+2026. The total value of the stock option granted on June 30, 2025 under the Amended and Restated Equity Incentive Plan was approximately
+$55,707 as of such grant date.</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+
+<!-- Field: Page; Sequence: 5; Value: 1 -->
+    <div style="border-bottom: Black 1pt solid; margin-bottom: 6pt"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tr style="vertical-align: top; text-align: left"><td style="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></td></tr></table></div>
+    <div style="break-before: page; margin-top: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">A
+summary of the number and the value of the outstanding equity awards as of December 31, 2025, held by the Named Executive Officers is
+set out in the table below.</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: bottom">
+    <td style="padding-bottom: 1pt; font-weight: bold; text-align: center">&#160;</td>
+    <td style="padding-bottom: 1pt; font-weight: bold; text-align: center">&#160;</td>
+    <td style="padding-bottom: 1pt; font-weight: bold; text-align: center">&#160;</td>
+    <td colspan="33" style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center">Outstanding Equity Awards at Fiscal Year-End</td>
+    <td style="padding-bottom: 1pt; font-weight: bold; text-align: center">&#160;</td></tr>
+  <tr style="vertical-align: bottom">
+    <td style="text-align: center">&#160;</td><td style="text-align: center; font-weight: bold">&#160;</td>
+    <td style="font-weight: bold; text-align: center">&#160;</td><td colspan="17" style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Option awards</b></span></td><td style="text-align: center">&#160;</td><td style="text-align: center; font-weight: bold">&#160;</td>
+    <td style="font-weight: bold; text-align: center">&#160;</td><td colspan="13" style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Stock awards</b></span></td><td style="text-align: center">&#160;</td></tr>
+  <tr style="vertical-align: bottom; background-color: White">
+    <td style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center">Name</td><td style="text-align: center; font-weight: bold">&#160;</td>
+    <td style="font-weight: bold; text-align: center">&#160;</td><td style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Number of Securities Underlying Unexercised Options Exercisable<br/> (#)</b></span></td><td style="font-weight: bold; text-align: center">&#160;</td><td style="text-align: center; font-weight: bold">&#160;</td>
+    <td style="font-weight: bold; text-align: center">&#160;</td><td style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Number of Securities Underlying Unexercised Options Unexercisable<br/> (#)</b></span></td><td style="font-weight: bold; text-align: center"><sup>&#160;</sup></td><td style="text-align: center; font-weight: bold">&#160;</td>
+    <td style="font-weight: bold; text-align: center">&#160;</td><td style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Equity Incentive Plan Awards: Number of Securities Underlying Unexercised Unearned Options<br/> (#)</b></span></td><td style="font-weight: bold; text-align: center">&#160;</td><td style="text-align: center; font-weight: bold">&#160;</td>
+    <td style="font-weight: bold; text-align: center">&#160;</td><td style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Option Exercise Price<br/> ($)</b></span></td><td style="font-weight: bold; text-align: center">&#160;</td><td style="text-align: center; font-weight: bold">&#160;</td>
+    <td style="font-weight: bold; text-align: center">&#160;</td><td style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Option Expiration<br/> Date</b></span></td><td style="font-weight: bold; text-align: center">&#160;</td><td style="text-align: center; font-weight: bold">&#160;</td>
+    <td style="font-weight: bold; text-align: center">&#160;</td><td style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Number of Shares or Units of Stock That Have Not Vested (#)</b></span></td><td style="font-weight: bold; text-align: center">&#160;</td><td style="text-align: center; font-weight: bold">&#160;</td>
+    <td style="font-weight: bold; text-align: center">&#160;</td><td style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Market Value of Shares or Units of Stock That Have Not Vested<br/> ($)</b></span></td><td style="font-weight: bold; text-align: center">&#160;</td><td style="text-align: center; font-weight: bold">&#160;</td>
+    <td style="font-weight: bold; text-align: center">&#160;</td><td style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights That Have Not Vested<br/> (#)</b></span></td><td style="font-weight: bold; text-align: center">&#160;</td><td style="text-align: center; font-weight: bold">&#160;</td>
+    <td style="font-weight: bold; text-align: center">&#160;</td><td style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested ($)</b></span></td><td style="font-weight: bold; text-align: center">&#160;</td></tr>
+  <tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <td style="width: 28%; font-weight: bold; text-align: left">Randolph Wilson Jones III</td><td style="width: 2%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td><td style="width: 4%; text-align: right">69,599</td><td style="width: 1%; text-align: left">&#160;</td><td style="width: 2%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td><td style="width: 4%; text-align: right">22,517</td><td style="width: 1%; text-align: left"><sup>(1)</sup></td><td style="width: 2%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td><td style="width: 4%; text-align: right">&#8211;&#8211;</td><td style="width: 1%; text-align: left">&#160;</td><td style="width: 2%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td><td style="width: 4%; text-align: right">6.90</td><td style="width: 1%; text-align: left">&#160;</td><td style="width: 2%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td><td style="width: 4%; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">October 10, 2034</span></td><td style="width: 1%; text-align: left">&#160;</td><td style="width: 2%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td><td style="vertical-align: bottom; width: 4%; text-align: right">&#8211;&#8211;</td><td style="width: 1%; text-align: left">&#160;</td><td style="width: 2%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td><td style="width: 4%; text-align: right">&#8211;&#8211;</td><td style="width: 1%; text-align: left">&#160;</td><td style="width: 2%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td><td style="width: 4%; text-align: right">&#8211;&#8211;</td><td style="width: 1%; text-align: left">&#160;</td><td style="width: 2%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td><td style="width: 4%; text-align: right">&#8211;&#8211;</td><td style="width: 1%; text-align: left">&#160;</td></tr>
+  <tr style="vertical-align: bottom; background-color: White">
+    <td style="font-weight: bold; text-align: left"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>John M. Orobono Jr.<sup>(2)</sup></b></span></td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left"><sup>&#160;</sup></td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: center">&#8211;&#8211;</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td></tr>
+  <tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <td style="font-weight: bold; text-align: left">Virgilio D. Torres</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">21,592</td><td style="text-align: left"><sup>(3)</sup></td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">5.40</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">June 30, 2035</span></td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td><td>&#160;</td>
+    <td style="text-align: left">&#160;</td><td style="text-align: right">&#8211;&#8211;</td><td style="text-align: left">&#160;</td></tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Notes:</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0; margin-bottom: 0"><tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+<td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in"/><td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(1)</span></td><td style="font: 10pt Times New Roman, Times, Serif; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">On
+                                            October 10, 2024, the Company granted Mr. Jones an option to purchase 1,381,750 shares of
+                                            the Company&#8217;s common stock with an exercise price of $0.46 per share. As a result of
+                                            the Company&#8217;s 1-for-15 reverse stock split, effected on December 1, 2025, the number
+                                            of shares issuable upon the exercise of this option was reduced to 92,117, with an exercise
+                                            price of $6.90 per share. The option vested as to 60% of the underlying shares upon the completion
+                                            of the Company&#8217;s initial public offering in February 2025 and the remaining 40% have
+                                            a one-year cliff, wherein approximately 13.3% of the option vested in October 2025 and the
+                                            remaining option vested or will thereafter vest in equal monthly installments, commencing
+                                            November 2025 until October 2027, so that all the shares subject to the option shall vest
+                                            by October 2027. The option has an expiration date of October 10, 2034.</span></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.25in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0; margin-bottom: 0"><tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+<td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in"/><td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(2)</span></td><td style="font: 10pt Times New Roman, Times, Serif; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">On
+                                            October 10, 2024, the Company granted Mr. Orobono an option to purchase 276,500 shares of
+                                            the Company&#8217;s common stock with an exercise price of $0.46 per share. As a result of
+                                            the Company&#8217;s 1-for-15 reverse stock split, effected on December 1, 2025, the number
+                                            of shares issuable upon the exercise of this option was reduced to 18,433, with an exercise
+                                            price of $6.90 per share. The option vested as to 25% of the underlying shares upon the completion
+                                            of the Company&#8217;s initial public offering in February 2025 and the remaining 75% have
+                                            a one-year cliff, wherein 25% of the award was to vest in October 2025 and the remaining
+                                            option was to thereafter vest in equal monthly installments, commencing November 2025 until
+                                            October 2027, so that all the shares subject to the option were to vest by October 2027.
+                                            Upon Mr. Orobono&#8217;s resignation on May 9, 2025, the option had vested as to 69,125 shares
+                                            of the Company&#8217;s common stock. On August 7, 2025 the vested portion of the option was
+                                            returned pursuant to the vesting and forfeiture terms of the option grant.</span></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.25in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0; margin-bottom: 0"><tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+<td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in"/><td style="font: 10pt Times New Roman, Times, Serif; width: 0.25in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(3)</span></td><td style="font: 10pt Times New Roman, Times, Serif; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">On
+                                            June 30, 2025, the Company granted Mr. Torres an option to purchase 323,884 shares of the
+                                            Company&#8217;s common stock with an exercise price of $0.36. As a result of the Company&#8217;s
+                                            1-for-15 reverse stock split, effected on December 1, 2025, the number of shares issuable
+                                            upon the exercise of this option was reduced to 21,592, with an exercise price of $5.40 per
+                                            share. The option vests as to one third of the underlying shares on June 30, 2026 and vests
+                                            as to the remaining underlying shares in equal monthly installments beginning on July 30,
+                                            2026. The option has an expiration date of June 30, 2035.</span></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.25in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+
+<!-- Field: Page; Sequence: 6; Value: 1 -->
+    <div style="border-bottom: Black 1pt solid; margin-bottom: 6pt"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tr style="vertical-align: top; text-align: left"><td style="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --></td></tr></table></div>
+    <div style="break-before: page; margin-top: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Retirement
+Benefits for Our Named Executive Officers</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&#160;</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">We
+maintain medical, dental and vision benefit plans as well as a 401(k) plan in which all full-time employees are eligible to participate.
+Our 401(k) plan is meant to encourage employees to save some portion of their cash compensation for their retirement. Employees are eligible
+to participate in our 401(k) plan immediately upon hire.</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Change
+in Control Arrangements</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&#160;</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Pursuant
+to the employment agreement by and between the Company and Randolph Wilson Jones III, dated December 22, 2025, should the Company terminate
+Mr. Jones&#8217; employment without cause or should Mr. Jones terminate his employment for good reason (as defined in the agreement)
+within the period commencing six months prior to and ending twelve months following a change in control of the Company, Mr. Jones is
+entitled to lump sum payment in an amount equal to twelve months of his then current base salary. Upon a change in control, all outstanding
+unvested stock options then held by Mr. Jones shall fully vest and become exercisable. If following the change in control, a covered
+termination (as defined in the agreement) occurs, Mr. Jones will be permitted to exercise any vested stock options during the twelve
+(12) month period following such covered termination through a &#8220;cashless exercise,&#8221; whereby (a) a number of shares of stock
+subject to the stock options being exercised that have a total fair market value on the date of such exercise that is equal to (i) the
+aggregate exercise price for all such stock options being exercised plus (ii) the aggregate tax withholding obligations that Mr. Jones
+would be subject to upon the exercise of the stock options being exercised, are surrendered to the Company (or its successor) in lieu
+of payment of such exercise price and tax withholding obligations, and (b) Mr. Jones receives the remaining number of shares of stock
+subject to such stock options.</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Pursuant
+to the amended and restated employment agreement by and between the Company and Virgilio D. Torres, dated December 22, 2025, should the
+Company terminate Mr. Torres&#8217; employment without cause or should Mr. Torres terminate his employment for good reason (as defined
+in the agreement) within the period commencing six months prior to and ending twelve months following a change in control of the Company,
+Mr. Torres is entitled to lump sum payment in an amount equal to twelve months of his then current base salary. Upon a change in control,
+all outstanding unvested stock options then held by Mr. Torres shall fully vest and become exercisable. If following the change in control,
+a covered termination (as defined in the agreement) occurs, Mr. Torres will be permitted to exercise any vested stock options during
+the twelve (12) month period following such covered termination through a &#8220;cashless exercise,&#8221; whereby (a) a number of shares
+of stock subject to the stock options being exercised that have a total fair market value on the date of such exercise that is equal
+to (i) the aggregate exercise price for all such stock options being exercised plus (ii) the aggregate tax withholding obligations that
+Mr. Torres would be subject to upon the exercise of the stock options being exercised, are surrendered to the Company (or its successor)
+in lieu of payment of such exercise price and tax withholding obligations, and (b) Mr. Torres receives the remaining number of shares
+of stock subject to such stock options.</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Clawback
+Policy</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&#160;</b></span></p>
+
+<p id="xdx_98E_eecd--ErrCompAnalysisTextBlock_c20250101__20251231__ecd--RestatementDateAxis__2025-02-28_zHUf8EbVaN7i" class="xdx_phnt_RGlzY2xvc3VyZSAtIFJlY292ZXJ5IG9mIEVycm9uZW91c2x5IEF3YXJkZWQgQ29tcGVuc2F0aW9uAA__" style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><ix:nonNumeric contextRef="From2025-01-012025-12-31_2025-02-28" escape="true" id="Fact000049" name="ecd:ErrCompAnalysisTextBlock"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">We
+have adopted a Compensation Recovery Policy effective as of February 2025 that complies with the Nasdaq&#8217;s clawback rules promulgated
+under the SEC&#8217;s Rule 10D-1. Under this policy, the Compensation Committee must determine and recover the excess compensation related
+to all incentive-based compensation that was paid to our executive officers based on financial statements that were subsequently restated.
+The policy provides that, if the Compensation Committee determines that there has been a material restatement of publicly issued financial
+results from those previously issued to the public, the Compensation Committee will review all incentive-based compensation made to executive
+officers during the three-year period prior to the restatement. If such payments would have been lower had they been calculated based
+on such restated results, the Compensation Committee will recoup the payments in excess of the amount that would have been received had
+it been determined based on the restated amounts. Additionally, the Sarbanes-Oxley Act of 2002 subjects incentive-based compensation
+and stock sale profits of our Chief Executive Officer and Chief Financial Officer to forfeiture in the event of an accounting restatement
+resulting from any non-compliance, as a result of their misconduct, with any financial reporting requirement under securities laws. Since
+January 1, 2025, we have not prepared any accounting restatements that would require recoupment of compensation under the Compensation
+Recovery Policy.</span></ix:nonNumeric></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+
+<!-- Field: Page; Sequence: 7; Value: 1 -->
+    <div style="border-bottom: Black 1pt solid; margin-bottom: 6pt"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tr style="vertical-align: top; text-align: left"><td style="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->4<!-- Field: /Sequence --></td></tr></table></div>
+    <div style="break-before: page; margin-top: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Compensation
+of Directors</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&#160;</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+compensation of our directors is set by our Board.</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Yuji
+Ishida and Gan Yong Sheng, our directors, have served without receiving any compensation for services rendered to our Company or our
+subsidiary for the fiscal year ended December 31, 2025. Naoaki Mashita, our former director, also served without receiving any compensation
+for services rendered to our Company or our subsidiary for the fiscal year ended December 31, 2025.</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+Company did not pay Randolph Wilson Jones III, John M. Orobono Jr. or Virgilio D. Torres for their services as directors of the Company
+for the fiscal year ended December 31, 2025, in addition to the compensation awarded pursuant to their respective employment agreements
+with the Company for their services as executive officers of the Company as disclosed herein.</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Timing
+of Grants of Certain Equity Awards</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&#160;</b></span></p>
+
+<p id="xdx_98B_eecd--AwardTmgMnpiDiscTextBlock_c20250101__20251231_gBFATMDTB-KHNAJ_z8C82qv3yEp6" class="xdx_phnt_RGlzY2xvc3VyZSAtIEF3YXJkIFRpbWluZyBEaXNjbG9zdXJlAA__" style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" continuedAt="ConU000053-01" escape="true" id="Fact000053" name="ecd:AwardTmgMnpiDiscTextBlock"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">We
+do not have any formal policies regarding the timing of awards of options in relation to the disclosure of material nonpublic information.
+On June 30, 2025, we granted Virgilio D. Torres an option to purchase 323,884 shares of the Company&#8217;s common stock with an exercise
+price of $0.36. As a result of the Company&#8217;s 1-for-15 reverse stock split, effected on December 1, 2025, the number of shares issuable
+upon the exercise of this option was reduced to 21,592, with an exercise price of $5.40 per share. On July 2, 2025, we filed a Current
+Report on Form 8-K announcing that the Company had received deficiency letters from the Listing Qualifications Department of Nasdaq.
+Accordingly, the June 30, 2025 grant occurred during a period beginning four business days before the filing of a Form 8-K that disclosed
+material nonpublic information and ending one business day after the filing of such report. The table below provides the information
+required by Item 402(x) of Regulation S-K:</span></ix:nonNumeric></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"><span id="xdx_C09_gBFATMDTB-KHNAJ_zWo2s5U0CCCg"><ix:continuation continuedAt="ConU000053-02" id="ConU000053-01"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></ix:continuation></span></p>
+
+<div id="xdx_C0C_gBFATMDTB-KHNAJ_zbPBz0aPTbuf"><ix:continuation continuedAt="ConU000053-03" id="ConU000053-02"><table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: bottom">
+    <td style="border-bottom: Black 1pt solid; font-weight: bold">Name</td><td style="font-weight: bold; padding-bottom: 1pt">&#160;</td>
+    <td style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center">Grant Date</td><td style="font-weight: bold; padding-bottom: 1pt">&#160;</td>
+    <td colspan="2" style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center">Number of <br/>
+securities<br/>
+underlying <br/>
+the award</td><td style="padding-bottom: 1pt; font-weight: bold">&#160;</td><td style="font-weight: bold; padding-bottom: 1pt">&#160;</td>
+    <td colspan="2" style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center">Exercise<br/> price of the award<br/> ($/Sh)</td><td style="padding-bottom: 1pt; font-weight: bold">&#160;</td><td style="font-weight: bold; padding-bottom: 1pt">&#160;</td>
+    <td colspan="2" style="border-bottom: Black 1pt solid; font-weight: bold; text-align: center">Grant date <br/>
+fair value of <br/>
+the award</td><td style="padding-bottom: 1pt; font-weight: bold">&#160;</td><td style="padding-bottom: 1pt">&#160;</td>
+    <td colspan="2" style="border-bottom: Black 1pt solid; text-align: center"><p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Percentage change in the <br/>
+closing market price of the <br/>
+securities underlying the <br/>
+award between the trading <br/>
+day ending immediately <br/>
+prior to the disclosure of <br/>
+material nonpublic <br/>
+information and the trading <br/>
+day beginning immediately <br/>
+following the disclosure of <br/>
+material nonpublic</b></span></p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>information</b></span></p></td><td style="padding-bottom: 1pt">&#160;</td></tr>
+  <tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <td style="width: 26%; text-align: left"><span id="xdx_90B_eecd--AwardsCloseToMnpiDiscIndName_iI_c20250630_zIQxW0Uvl1Zi" class="xdx_phnt_RGlzY2xvc3VyZSAtIEF3YXJkIFRpbWluZyBEaXNjbG9zdXJlAA__"><ix:nonNumeric contextRef="AsOf2025-06-30" id="Fact000054" name="ecd:AwardsCloseToMnpiDiscIndName">Virgilio D. Torres, Chief Financial Officer, Secretary and Director</ix:nonNumeric></span></td><td style="width: 2%">&#160;</td>
+    <td style="text-align: center; width: 10%">June 30, 2025</td><td style="width: 2%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td><td style="width: 10%; text-align: right"><span id="xdx_90D_eecd--AwardUndrlygSecuritiesAmt_iI_uShares_c20250630_zC6L4vqQ1uRd" class="xdx_phnt_RGlzY2xvc3VyZSAtIEF3YXJkIFRpbWluZyBEaXNjbG9zdXJlAA__"><ix:nonFraction name="ecd:AwardUndrlygSecuritiesAmt" contextRef="AsOf2025-06-30" id="Fact000055" format="ixt:numdotdecimal" decimals="INF" unitRef="Shares">21,592</ix:nonFraction></span></td><td style="width: 1%; text-align: left">&#160;</td><td style="width: 2%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td><td style="width: 10%; text-align: right"><span id="xdx_906_eecd--AwardExrcPrice_iI_c20250630_zqr6S4PVzkG9" class="xdx_phnt_RGlzY2xvc3VyZSAtIEF3YXJkIFRpbWluZyBEaXNjbG9zdXJlAA__"><ix:nonFraction name="ecd:AwardExrcPrice" contextRef="AsOf2025-06-30" id="Fact000056" format="ixt:numdotdecimal" decimals="INF" unitRef="USDPShares">5.40</ix:nonFraction></span></td><td style="width: 1%; text-align: left">&#160;</td><td style="width: 2%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td><td style="width: 10%; text-align: right"><span id="xdx_903_eecd--AwardGrantDateFairValue_iI_pid_c20250630_zWIQszKODfHj" class="xdx_phnt_RGlzY2xvc3VyZSAtIEF3YXJkIFRpbWluZyBEaXNjbG9zdXJlAA__"><ix:nonFraction name="ecd:AwardGrantDateFairValue" contextRef="AsOf2025-06-30" id="Fact000057" format="ixt:numdotdecimal" decimals="INF" unitRef="USD">2.58</ix:nonFraction></span></td><td style="width: 1%; text-align: left">&#160;</td><td style="width: 2%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td><td style="width: 16%; text-align: right"><span id="xdx_903_eecd--UndrlygSecurityMktPriceChngPct_iI_dp_uPure_c20250630_zawwtIO59lY" class="xdx_phnt_RGlzY2xvc3VyZSAtIEF3YXJkIFRpbWluZyBEaXNjbG9zdXJlAA__"><ix:nonFraction name="ecd:UndrlygSecurityMktPriceChngPct" contextRef="AsOf2025-06-30" id="Fact000058" format="ixt:numdotdecimal" decimals="INF" scale="-2" unitRef="Pure">6.34</ix:nonFraction></span></td><td style="width: 1%; text-align: left">%</td></tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_907_eecd--AwardTmgMethodTextBlock_c20250101__20251231_znsKCEI7Bsx1" class="xdx_phnt_RGlzY2xvc3VyZSAtIEF3YXJkIFRpbWluZyBEaXNjbG9zdXJlAA__"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" escape="true" id="Fact000059" name="ecd:AwardTmgMethodTextBlock">If
+we grant additional options in the future, it is anticipated that the Board will take material nonpublic information into account when
+<span id="xdx_909_eecd--AwardTmgPredtrmndFlag_dbT_c20250101__20251231_zzQrnR5xvUkk" class="xdx_phnt_RGlzY2xvc3VyZSAtIEF3YXJkIFRpbWluZyBEaXNjbG9zdXJlAA__"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" format="ixt:booleantrue" id="Fact000060" name="ecd:AwardTmgPredtrmndFlag">determining</ix:nonNumeric></span> the timing and terms of such an award, with the goal being to <span id="xdx_909_eecd--MnpiDiscTimedForCompValFlag_dbF_c20250101__20251231_zsBbdIAExXz" class="xdx_phnt_RGlzY2xvc3VyZSAtIEF3YXJkIFRpbWluZyBEaXNjbG9zdXJlAA__"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" format="ixt:booleanfalse" id="Fact000061" name="ecd:MnpiDiscTimedForCompValFlag">not</ix:nonNumeric></span> grant such awards close in time to the release of any material
+nonpublic information.</ix:nonNumeric></span> <span id="xdx_90E_eecd--AwardTmgMnpiCnsdrdFlag_dbF_c20250101__20251231_z2tS4nddX3Ob" class="xdx_phnt_RGlzY2xvc3VyZSAtIEF3YXJkIFRpbWluZyBEaXNjbG9zdXJlAA__"><ix:nonNumeric contextRef="From2025-01-01to2025-12-31" format="ixt:booleanfalse" id="Fact000062" name="ecd:AwardTmgMnpiCnsdrdFlag">We have never timed the disclosure of material nonpublic information for the purpose of affecting the value of
+executive compensation.</ix:nonNumeric></span></span></p>
+
+</ix:continuation></div><p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span id="xdx_C0E_gBFATMDTB-KHNAJ_zhb07bZzSKW3"><ix:continuation id="ConU000053-03"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></ix:continuation></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Compensation
+Committee Interlocks and Insider Participation</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&#160;</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+Company is not required to provide the disclosure required for Compensation Committee Interlocks and Insider Participation under Item
+407(e)(4) of Regulation S-K, since it qualifies as a &#8220;smaller reporting company.&#8221;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Compensation
+Committee Report</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&#160;</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+Company is not required to provide the disclosure required for Compensation Committee Report under Item 407(e)(5) of Regulation S-K,
+since it qualifies as a &#8220;smaller reporting company.&#8221;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+
+<!-- Field: Page; Sequence: 8; Value: 1 -->
+    <div style="border-bottom: Black 1pt solid; margin-bottom: 6pt"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tr style="vertical-align: top; text-align: left"><td style="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->5<!-- Field: /Sequence --></td></tr></table></div>
+    <div style="break-before: page; margin-top: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="G_003"></span>PART
+IV</span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="G_004"></span>Item
+15. Exhibit and Financial Statement Schedules</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(a)
+Financial Statements</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">No
+financial statement or supplemental data are filed with this Amendment.&#160; See Item 8. Financial Statements and Supplementary Data
+in the Original Filing.</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(b)
+Exhibits</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">The
+exhibits required to be filed by Item 15. Exhibit and Financial Statement Schedules are set forth in, and filed with or incorporated
+by reference in, the &#8220;Exhibit Index&#8221; of the Original Filing. The following &#8220;Exhibit Index&#8221; sets forth the additional
+exhibits required to be filed with this Amendment.</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <td style="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt; vertical-align: bottom; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt; vertical-align: bottom; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt; vertical-align: bottom; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt; vertical-align: bottom; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td colspan="7" style="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; vertical-align: bottom; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Incorporated by Reference <br/>
+(Unless Otherwise Indicated)</b></span></td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <td style="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; vertical-align: bottom; text-align: center; width: 10%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Exhibit Number</b></span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt; vertical-align: bottom; text-align: center; width: 1%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; vertical-align: bottom; text-align: center; width: 45%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Exhibit Title</b></span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt; vertical-align: bottom; text-align: center; width: 1%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; vertical-align: bottom; text-align: center; width: 8%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Form</b></span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt; vertical-align: bottom; text-align: center; width: 1%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; vertical-align: bottom; text-align: center; width: 8%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>File</b></span></td>
+    <td style="padding-bottom: 1pt; vertical-align: bottom; text-align: center; width: 1%">&#160;</td>
+    <td style="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt; vertical-align: bottom; text-align: center; width: 8%"><b>Exhibit</b></td><td style="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt; vertical-align: bottom; text-align: center; width: 1%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; vertical-align: bottom; text-align: center; width: 16%"><b>Filing
+    Date</b></td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">31.1</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><a href="ex31-1.htm"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Certification of Principal Executive Officer and Principal Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002</span></a></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">-</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">-</span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom; text-align: center">-</td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Filed herewith</span></td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">101.INS</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Inline XBRL Instance Document</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">-</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">-</span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">-</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Filed herewith</span></td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">101.SCH</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Inline XBRL Taxonomy Extension Schema Document </span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">-</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">-</span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">-</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Furnished herewith</span></td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">101.CAL</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Inline XBRL Taxonomy Extension Calculation Linkbase
+    Document </span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">-</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">-</span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">-</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Furnished herewith</span></td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">101.DEF</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Inline XBRL Taxonomy Extension Definition Linkbase
+    Document</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">-</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">-</span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">-</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Filed herewith</span></td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">101.LAB</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Inline XBRL Taxonomy Extension Label Linkbase Document</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">-</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">-</span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">-</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Filed herewith</span></td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">101.PRE</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Inline XBRL Taxonomy Extension Presentation Linkbase
+    Document</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">-</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">-</span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">-</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Filed herewith</span></td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">104</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Cover Page Interactive Data File (formatted as Inline
+    XBRL and contained in Exhibit 101)</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">-</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">-</span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">-</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Filed herewith</span></td></tr>
+  </table>
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<!-- Field: Page; Sequence: 9; Value: 1 -->
+    <div style="border-bottom: Black 1pt solid; margin-bottom: 6pt"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tr style="vertical-align: top; text-align: left"><td style="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->6<!-- Field: /Sequence --></td></tr></table></div>
+    <div style="break-before: page; margin-top: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&#160;</b></span></p>
+
+<p style="font: bold 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="G_005"></span>SIGNATURES</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td colspan="2" style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>TEN Holdings, Inc.</b></span></td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <td style="font: 10pt Times New Roman, Times, Serif; width: 50%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; width: 5%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; width: 45%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Date: September 10, 2026</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">By:</span></td>
+    <td style="border-bottom: black 1pt solid; font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><i>/s/ Virgilio
+    D. Torres</i></span></td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name:&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Virgilio D. Torres</span></td></tr>
+  <tr style="font: 10pt Times New Roman, Times, Serif; vertical-align: bottom">
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Title:</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Chief Executive Officer and Chief Financial Officer</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"></p>
+
+<!-- Field: Page; Sequence: 10; Options: Last -->
+    <div style="border-bottom: Black 1pt solid; margin-bottom: 6pt"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tr style="vertical-align: top; text-align: left"><td style="text-align: center; width: 100%"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->7<!-- Field: /Sequence --></td></tr></table></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<!-- Field: Set; Name: xdx; ID: xdx_08B_extensions -->
+<!-- eJxFjd0KwjAMhZ9g7xB6LdrNH3CXDhVxiowh3hYXpbg1I626PZJvabchhkBIzvlyhBiJLW10iQyXVZZCjlVdKoeQ4Q0ZzRW9I9ntY/Azw7u2jpVx/foDE/IMemYxnl/9vXe+tMUiBrmchHISLUCG8WwKp4MIOj0hc9MFGqdVCcoUcGKqWaNT3A4fctWQoartk87IVpOJIRzLQf5AJMMIjvRSb+KHhTRNRDDqKxBbpmftXevGoelIWJdY+Tg70P8Ovs5SSmA= -->
+<script type="text/javascript"  src="/N3AEOPt9/dJoipWz/rYwIB5c/dg/YEaQGVVmDJktp27Xmu/SixucGdeLAQ/KXhNJ/AQsW1I"></script></body>
+</html>

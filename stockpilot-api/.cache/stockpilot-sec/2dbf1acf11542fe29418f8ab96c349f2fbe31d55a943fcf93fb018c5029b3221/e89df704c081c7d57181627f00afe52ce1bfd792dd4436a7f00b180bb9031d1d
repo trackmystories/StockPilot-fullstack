@@ -1,0 +1,551 @@
+7ef6bfa2f8ea2c4cee54de19ecde287736700620b5d354d8a8de3e7a44fbd12b<?xml version='1.0' encoding='ASCII'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2015-02-26" xmlns:ixt-sec="http://www.sec.gov/inlineXBRL/transformation/2015-08-31" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:dei="http://xbrl.sec.gov/dei/2025" xmlns:us-gaap="http://fasb.org/us-gaap/2025" xmlns:us-roles="http://fasb.org/us-roles/2025" xmlns:country="http://xbrl.sec.gov/country/2025" xmlns:srt="http://fasb.org/srt/2025" xmlns:xrn="http://chironre.com/20260601">
+<head>
+     <title></title>
+<meta http-equiv="Content-Type" content="text/html"/>
+</head>
+<!-- Field: Set; Name: xdx; ID: xdx_02E_US%2DGAAP%2D2025 -->
+<!-- Field: Set; Name: xdx; ID: xdx_03C_xrn_chironre.com_20260601 -->
+<!-- Field: Set; Name: xdx; ID: xdx_044_20260601_20260601 -->
+<!-- Field: Set; Name: xdx; ID: xdx_059_edei%2D%2DAmendmentFlag_false -->
+<!-- Field: Set; Name: xdx; ID: xdx_051_edei%2D%2DEntityCentralIndexKey_0001533615 -->
+<!-- Field: Set; Name: xdx; ID: xdx_072_SO_T%2D%2D\DeptFiles%2DiXBRL 8%2DK Covers Templates\+++%2DROOT%2DElement%2D+++\DocumentInformationLineItems.xdxs -->
+<!-- Field: Set; Name: xdx; ID: xdx_06B_USD_1_iso4217%2D%2DUSD -->
+<!-- Field: Set; Name: xdx; ID: xdx_062_Shares_2_xbrli%2D%2Dshares -->
+<!-- Field: Set; Name: xdx; ID: xdx_06D_USDPShares_3_iso4217%2D%2DUSD_xbrli%2D%2Dshares -->
+<body style="font: 10pt Times New Roman, Times, Serif">
+<div style="display: none">
+<ix:header>
+ <ix:hidden>
+  <ix:nonNumeric contextRef="AsOf2026-06-01" id="Fact000003" name="dei:AmendmentFlag">false</ix:nonNumeric>
+  <ix:nonNumeric contextRef="AsOf2026-06-01" id="Fact000004" name="dei:EntityCentralIndexKey">0001533615</ix:nonNumeric>
+  </ix:hidden>
+ <ix:references>
+  <link:schemaRef xlink:href="xrn-20260601.xsd" xlink:type="simple"/>
+  </ix:references>
+ <ix:resources>
+    <xbrli:context id="AsOf2026-06-01">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0001533615</xbrli:identifier>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-06-01</xbrli:startDate>
+        <xbrli:endDate>2026-06-01</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="From2026-06-012026-06-01_us-gaap_CommonStockMember">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0001533615</xbrli:identifier>
+        <xbrli:segment>
+          <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonStockMember</xbrldi:explicitMember>
+        </xbrli:segment>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-06-01</xbrli:startDate>
+        <xbrli:endDate>2026-06-01</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="From2026-06-012026-06-01_us-gaap_SeriesAPreferredStockMember">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0001533615</xbrli:identifier>
+        <xbrli:segment>
+          <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:SeriesAPreferredStockMember</xbrldi:explicitMember>
+        </xbrli:segment>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-06-01</xbrli:startDate>
+        <xbrli:endDate>2026-06-01</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="From2026-06-012026-06-01_us-gaap_WarrantMember">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0001533615</xbrli:identifier>
+        <xbrli:segment>
+          <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:WarrantMember</xbrldi:explicitMember>
+        </xbrli:segment>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-06-01</xbrli:startDate>
+        <xbrli:endDate>2026-06-01</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:unit id="USD">
+      <xbrli:measure>iso4217:USD</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="Shares">
+      <xbrli:measure>xbrli:shares</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="USDPShares">
+      <xbrli:divide>
+        <xbrli:unitNumerator>
+          <xbrli:measure>iso4217:USD</xbrli:measure>
+        </xbrli:unitNumerator>
+        <xbrli:unitDenominator>
+          <xbrli:measure>xbrli:shares</xbrli:measure>
+        </xbrli:unitDenominator>
+      </xbrli:divide>
+    </xbrli:unit>
+  </ix:resources>
+ </ix:header>
+</div>
+
+
+<p style="margin: 0"></p>
+
+<p style="margin: 0pt 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 12pt; margin-bottom: 3pt; width: 100%"><div style="border-top: Black 2pt solid; border-bottom: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>UNITED STATES</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Washington, D.C. 20549</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>FORM <span id="xdx_903_edei--DocumentType_c20260601__20260601_zfiwPbCncZOl"><ix:nonNumeric contextRef="AsOf2026-06-01" id="Fact000010" name="dei:DocumentType">8-K/A</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>CURRENT REPORT</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>PURSUANT TO SECTION 13 OR 15(D) OF THE&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SECURITIES EXCHANGE ACT OF 1934</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Date of Report (Date of earliest event
+reported): August 17, 2026 (<span id="xdx_902_edei--DocumentPeriodEndDate_c20260601__20260601_zOfNv09fmxZj"><ix:nonNumeric contextRef="AsOf2026-06-01" format="ixt:datemonthdayyearen" id="Fact000011" name="dei:DocumentPeriodEndDate">June 1, 2026</ix:nonNumeric></span>)</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 18pt"><b><span id="xdx_902_edei--EntityRegistrantName_c20260601__20260601_zs5tFQk96zpf"><ix:nonNumeric contextRef="AsOf2026-06-01" id="Fact000012" name="dei:EntityRegistrantName">Chiron
+Real Estate Inc.</ix:nonNumeric></span></b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-size: 18pt"><b></b></span><span style="font-size: 10pt">(Exact name of registrant as specified in its charter)</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top">
+    <td style="width: 33%; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_908_edei--EntityIncorporationStateCountryCode_c20260601__20260601_zvW7rLGw27mc"><ix:nonNumeric contextRef="AsOf2026-06-01" format="ixt-sec:stateprovnameen" id="Fact000013" name="dei:EntityIncorporationStateCountryCode">Maryland</ix:nonNumeric></span></b></span></td>
+    <td style="width: 34%; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_900_edei--EntityFileNumber_c20260601__20260601_zGWu5W0E1e5j"><ix:nonNumeric contextRef="AsOf2026-06-01" id="Fact000014" name="dei:EntityFileNumber">001-37815</ix:nonNumeric></span></b></span></td>
+    <td style="width: 33%; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_909_edei--EntityTaxIdentificationNumber_c20260601__20260601_zVcNzyAXdhqe"><ix:nonNumeric contextRef="AsOf2026-06-01" id="Fact000015" name="dei:EntityTaxIdentificationNumber">46-4757266</ix:nonNumeric></span></b></span></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: center"><p style="margin-top: 0; margin-bottom: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(State or Other Jurisdiction</span></p>
+                                   <p style="margin-top: 0; margin-bottom: 0"><span style="font: 10pt Times New Roman, Times, Serif">of Incorporation)</span></p></td>
+    <td style="text-align: center"><p style="margin-top: 0; margin-bottom: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Commission</span></p>
+                                   <p style="margin-top: 0; margin-bottom: 0"><span style="font: 10pt Times New Roman, Times, Serif">File Number)</span></p></td>
+    <td style="text-align: center"><p style="margin-top: 0; margin-bottom: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(I.R.S. Employer</span></p>
+                                   <p style="margin-top: 0; margin-bottom: 0"><span style="font: 10pt Times New Roman, Times, Serif">Identification No.)</span></p></td></tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b><span id="xdx_905_edei--EntityAddressAddressLine1_c20260601__20260601_ziMxDToV9pXj"><ix:nonNumeric contextRef="AsOf2026-06-01" id="Fact000016" name="dei:EntityAddressAddressLine1">7373 Wisconsin Avenue</ix:nonNumeric></span>, <span id="xdx_904_edei--EntityAddressAddressLine2_c20260601__20260601_zmaUWxponnul"><ix:nonNumeric contextRef="AsOf2026-06-01" id="Fact000017" name="dei:EntityAddressAddressLine2">Suite 800</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b><span id="xdx_90F_edei--EntityAddressCityOrTown_c20260601__20260601_zeOINb0FZ7R6"><ix:nonNumeric contextRef="AsOf2026-06-01" id="Fact000018" name="dei:EntityAddressCityOrTown">Bethesda</ix:nonNumeric></span>, <span id="xdx_903_edei--EntityAddressStateOrProvince_c20260601__20260601_zhSw4joZf2i2"><ix:nonNumeric contextRef="AsOf2026-06-01" id="Fact000019" name="dei:EntityAddressStateOrProvince">MD</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b><span id="xdx_90B_edei--EntityAddressPostalZipCode_c20260601__20260601_z8nZbDIicMia"><ix:nonNumeric contextRef="AsOf2026-06-01" id="Fact000020" name="dei:EntityAddressPostalZipCode">20814</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Address of Principal Executive Offices)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Zip Code)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>(<span id="xdx_907_edei--CityAreaCode_c20260601__20260601_zY0ReoYbNcn3"><ix:nonNumeric contextRef="AsOf2026-06-01" id="Fact000021" name="dei:CityAreaCode">202</ix:nonNumeric></span>) <span id="xdx_90A_edei--LocalPhoneNumber_c20260601__20260601_zp26kzL9SAQ5"><ix:nonNumeric contextRef="AsOf2026-06-01" id="Fact000022" name="dei:LocalPhoneNumber">524-6851</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Registrant&#8217;s Telephone Number, Including
+Area Code)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Not Applicable</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Former name or former address, if changed
+since last report)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></p>
+
+<!-- Field: Rule-Page --><div style="margin: 3pt auto; width: 25%"><div style="border-top: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%">
+<tr style="vertical-align: top">
+    <td style="width: 0.25in"><span style="font-family: Wingdings"><span style="font-family: Wingdings"><span id="xdx_902_edei--WrittenCommunications_c20260601__20260601_zytAQjLhdcLl"><ix:nonNumeric contextRef="AsOf2026-06-01" format="ixt:booleanfalse" id="Fact000023" name="dei:WrittenCommunications">&#168;</ix:nonNumeric></span></span></span></td>
+    <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</span></td></tr>
+<tr style="vertical-align: top">
+    <td>&#160;</td>
+    <td>&#160;</td></tr>
+<tr style="vertical-align: top">
+    <td><span style="font-family: Wingdings"><span style="font-family: Wingdings"><span id="xdx_909_edei--SolicitingMaterial_c20260601__20260601_zIe7YowLgEkd"><ix:nonNumeric contextRef="AsOf2026-06-01" format="ixt:booleanfalse" id="Fact000024" name="dei:SolicitingMaterial">&#168;</ix:nonNumeric></span></span></span></td>
+    <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</span></td></tr>
+<tr style="vertical-align: top">
+    <td>&#160;</td>
+    <td>&#160;</td></tr>
+<tr style="vertical-align: top">
+    <td><span style="font-family: Wingdings"><span style="font-family: Wingdings"><span id="xdx_901_edei--PreCommencementTenderOffer_c20260601__20260601_zG389SjX5Uki"><ix:nonNumeric contextRef="AsOf2026-06-01" format="ixt:booleanfalse" id="Fact000025" name="dei:PreCommencementTenderOffer">&#168;</ix:nonNumeric></span></span></span></td>
+    <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</span></td></tr>
+<tr style="vertical-align: top">
+    <td>&#160;</td>
+    <td>&#160;</td></tr>
+<tr style="vertical-align: top">
+    <td><span style="font-family: Wingdings"><span style="font-family: Wingdings"><span id="xdx_908_edei--PreCommencementIssuerTenderOffer_c20260601__20260601_z0BojQf7l37d"><ix:nonNumeric contextRef="AsOf2026-06-01" format="ixt:booleanfalse" id="Fact000026" name="dei:PreCommencementIssuerTenderOffer">&#168;</ix:nonNumeric></span></span></span></td>
+    <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</span></td></tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Securities registered pursuant to Section 12(b) of the Act:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="vertical-align: bottom">
+    <td style="border-bottom: black 1pt solid; white-space: nowrap; width: 38%; padding-left: 0.1in; text-align: center; text-indent: -0.1in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Title&#160;of&#160;each&#160;class:</b></span></td>
+    <td style="white-space: nowrap; width: 2%; text-align: center">&#160;</td>
+    <td style="border-bottom: black 1pt solid; white-space: nowrap; width: 20%; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Trading&#160;Symbols</b>:</span></td>
+    <td style="white-space: nowrap; width: 2%; text-align: center">&#160;</td>
+    <td style="border-bottom: black 1pt solid; white-space: nowrap; width: 38%; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Name&#160;of&#160;each&#160;exchange&#160;on&#160;which&#160;registered:</b></span></td></tr>
+<tr style="vertical-align: top">
+    <td style="padding-left: 0.1in; text-align: center; text-indent: -0.1in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_90F_edei--Security12bTitle_c20260601__20260601__us-gaap--StatementClassOfStockAxis__us-gaap--CommonStockMember_zmnzHSzWlVyi"><ix:nonNumeric contextRef="From2026-06-012026-06-01_us-gaap_CommonStockMember" id="Fact000027" name="dei:Security12bTitle">Common Stock, par value $0.001 per share</ix:nonNumeric></span></span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_904_edei--TradingSymbol_c20260601__20260601__us-gaap--StatementClassOfStockAxis__us-gaap--CommonStockMember_zfpn8hPBV1S"><ix:nonNumeric contextRef="From2026-06-012026-06-01_us-gaap_CommonStockMember" id="Fact000028" name="dei:TradingSymbol">XRN</ix:nonNumeric></span></span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_905_edei--SecurityExchangeName_c20260601__20260601__us-gaap--StatementClassOfStockAxis__us-gaap--CommonStockMember_zHJRPTdhmd5j"><ix:nonNumeric contextRef="From2026-06-012026-06-01_us-gaap_CommonStockMember" format="ixt-sec:exchnameen" id="Fact000029" name="dei:SecurityExchangeName">NYSE</ix:nonNumeric></span></span></td></tr>
+<tr style="vertical-align: top">
+    <td style="padding-left: 0.1in; text-align: center; text-indent: -0.1in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_906_edei--Security12bTitle_c20260601__20260601__us-gaap--StatementClassOfStockAxis__us-gaap--SeriesAPreferredStockMember_zCKWGRn9qaPl"><ix:nonNumeric contextRef="From2026-06-012026-06-01_us-gaap_SeriesAPreferredStockMember" id="Fact000030" name="dei:Security12bTitle">Series A Preferred Stock, par value $0.001 per share</ix:nonNumeric></span></span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_90F_edei--TradingSymbol_c20260601__20260601__us-gaap--StatementClassOfStockAxis__us-gaap--SeriesAPreferredStockMember_z9PUDQNgXxt9"><ix:nonNumeric contextRef="From2026-06-012026-06-01_us-gaap_SeriesAPreferredStockMember" id="Fact000031" name="dei:TradingSymbol">XRN PrA</ix:nonNumeric></span></span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_903_edei--SecurityExchangeName_c20260601__20260601__us-gaap--StatementClassOfStockAxis__us-gaap--SeriesAPreferredStockMember_zX7iDfAmrXVg"><ix:nonNumeric contextRef="From2026-06-012026-06-01_us-gaap_SeriesAPreferredStockMember" format="ixt-sec:exchnameen" id="Fact000032" name="dei:SecurityExchangeName">NYSE</ix:nonNumeric></span></span></td></tr>
+<tr style="vertical-align: top">
+    <td style="padding-left: 0.1in; text-align: center; text-indent: -0.1in"><span id="xdx_90D_edei--Security12bTitle_c20260601__20260601__us-gaap--StatementClassOfStockAxis__us-gaap--WarrantMember_zKiH5c8aOq1k"><ix:nonNumeric contextRef="From2026-06-012026-06-01_us-gaap_WarrantMember" id="Fact000033" name="dei:Security12bTitle">Series B Preferred Stock, par value $0.001 per share</ix:nonNumeric></span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="text-align: center"><span id="xdx_90E_edei--TradingSymbol_c20260601__20260601__us-gaap--StatementClassOfStockAxis__us-gaap--WarrantMember_zu7SS3wodTK8"><ix:nonNumeric contextRef="From2026-06-012026-06-01_us-gaap_WarrantMember" id="Fact000034" name="dei:TradingSymbol">XRN PrB</ix:nonNumeric></span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="text-align: center"><span id="xdx_907_edei--SecurityExchangeName_c20260601__20260601__us-gaap--StatementClassOfStockAxis__us-gaap--WarrantMember_z6zCLNenrAea"><ix:nonNumeric contextRef="From2026-06-012026-06-01_us-gaap_WarrantMember" format="ixt-sec:exchnameen" id="Fact000035" name="dei:SecurityExchangeName">NYSE</ix:nonNumeric></span></td></tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR &#167;230.405) or Rule 12b-2 of the
+Securities Exchange Act of 1934 (17 CFR &#167;240.12b-2).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-family: Times New Roman, Times, Serif">Emerging
+growth company&#160;</span><span style="font-family: Wingdings"><span style="font-family: Wingdings"><span id="xdx_907_edei--EntityEmergingGrowthCompany_c20260601__20260601_zpgepkuIPsse"><ix:nonNumeric contextRef="AsOf2026-06-01" format="ixt:booleanfalse" id="Fact000036" name="dei:EntityEmergingGrowthCompany">&#168;</ix:nonNumeric></span></span></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif">If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.&#160;<span style="font-family: Wingdings">&#168;</span></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 3pt; margin-bottom: 12pt; width: 100%"><div style="border-top: Black 1pt solid; border-bottom: Black 2pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></p>
+
+<!-- Field: Page; Sequence: 1 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>Item 2.01 Completion of Acquisition or Disposition of Assets.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On June 2, 2026, Chiron Real Estate Inc. (the
+&#8220;<span style="text-decoration: underline">Company</span>&#8221;) filed with the Securities and Exchange Commission a Current Report on Form 8-K (the &#8220;<span style="text-decoration: underline">Initial 8-K</span>&#8221;)
+to disclose that the Company had, on June 1, 2026, completed its acquisitions of (i) The Landing Alexandria (the &#8220;<span style="text-decoration: underline">Landing</span>&#8221;),
+a senior housing community located in Alexandria, Virginia for a purchase price of $130 million, and (ii) The Riviera Alexandria (the
+&#8220;<span style="text-decoration: underline">Riviera</span>&#8221;), a senior housing community located in Alexandria, Virginia for a purchase price of $118.9 million.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">This Current Report on Form 8-K/A amends the Initial
+8-K to include the required financial information related to its acquisition of the Landing and the Riviera and should be read in conjunction
+with the Initial 8-K.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>Item 8.01 Other Events.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">In connection with this amendment, the Company
+is providing additional information regarding the Riviera, which opened in March 2026 and was in the early stages of lease-up as of the
+June 1, 2026 acquisition date. Because the Riviera had limited pre-acquisition operating history, the Company is providing, as Exhibit
+99.2 to this Current Report on Form 8-K/A, an audited Statement of Assets Acquired and Liabilities Assumed of the Riviera as of June 1,
+2026, together with the following supplemental unaudited operating information for the period from January 1, 2026 through June 1, 2026:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="border: Black 1pt solid; padding: 2pt; text-align: left; width: 45%; vertical-align: top"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Occupancy rates at each quarter end and lease-up progress</span></td>
+    <td style="border-top: Black 1pt solid; border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding: 2pt; text-align: left; width: 55%; vertical-align: top"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">9% as of March 31, 2026; 18% as of June 1, 2026</span></td></tr>
+  <tr style="vertical-align: bottom">
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding: 2pt; text-align: left; vertical-align: top"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Number of leased units</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding: 2pt; text-align: left; vertical-align: top"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">23 leased units as of June 1, 2026</span></td></tr>
+  <tr style="vertical-align: bottom">
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding: 2pt; text-align: left; vertical-align: top"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Average monthly rent per unit</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding: 2pt; text-align: left; vertical-align: top"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">$11,860 per unit as of June 1, 2026</span></td></tr>
+  <tr style="vertical-align: bottom">
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding: 2pt; text-align: left; vertical-align: top"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Operating income or loss</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding: 2pt; text-align: left; vertical-align: top"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Loss
+    of $1.9 million for the five months ended June 1, 2026</span></td></tr>
+  <tr style="vertical-align: bottom">
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; border-left: Black 1pt solid; padding: 2pt; text-align: left; vertical-align: top"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Qualitative stabilization expectations</span></td>
+    <td style="border-right: Black 1pt solid; border-bottom: Black 1pt solid; padding: 2pt; text-align: left; vertical-align: top"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">It
+    is expected that the Riviera will deliver a yield-on-cost of greater than 7% upon stabilization in the second half of
+    2028.</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">This Item 8.01 contains forward-looking statements
+within the meaning of the federal securities laws, including statements regarding expected stabilization, anticipated yield-on-cost and
+other expectations regarding the future performance of the Riviera. These forward-looking statements are based on the
+Company&#8217;s current expectations and assumptions and are subject to risks and uncertainties that could cause actual results to differ
+materially from those expressed or implied by such statements, including risks related to lease-up activity, occupancy levels, operating
+costs, market conditions, resident demand, integration of the acquired properties and other risks described in the Company&#8217;s filings
+with the Securities and Exchange Commission. The Company undertakes no obligation to update or revise any forward-looking statements,
+except as required by law.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The information included in this Item 8.01 shall
+not be deemed incorporated by reference into any filing of the Company under the Securities Act of 1933, as amended, except to the extent
+expressly set forth by specific reference in such filing.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></p>
+
+<!-- Field: Page; Sequence: 2 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>Item 9.01 Financial Statements and Exhibits.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">(a) Financial Statements of Business Acquired</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The financial statements that are required to be filed pursuant to
+this item are being filed with this amendment on Form 8-K/A.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">(b) Pro Forma Financial Information</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The pro forma financial information that is required to be filed pursuant
+to this item are being filed with this amendment on Form 8-K/A.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">(d)&#160;&#160;Exhibits</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><a href="tm2623392d1_ex23-1.htm" style="-sec-extract: exhibit"><b>23.1 Consent of Deloitte &amp; Touche LLP for the financial statements of the Landing</b></a></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><a href="tm2623392d1_ex23-2.htm" style="-sec-extract: exhibit"><b>23.2 Consent of Deloitte &amp; Touche LLP for the Statement of Assets Acquired and Liabilities Assumed of the Riviera</b></a></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><a href="tm2623392d1_ex99-1.htm" style="-sec-extract: exhibit"><b>99.1 Audited Financial Statements &#8211; The Landing </b></a></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td><span style="font-family: Times New Roman, Times, Serif">Independent Auditor&#8217;s Report </span></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td><span style="font-family: Times New Roman, Times, Serif">Balance Sheets as of March 31, 2026 (unaudited) and December 31, 2025</span></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td><span style="font-family: Times New Roman, Times, Serif">Statements of Operations for the three months ended March 31, 2026 (unaudited)
+and year ended December 31, 2025</span></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td><span style="font-family: Times New Roman, Times, Serif">Statements of Members&#8217; Equity for the three months ended March 31,
+2026 (unaudited) and year ended December 31, 2025 </span></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td><span style="font-family: Times New Roman, Times, Serif">Statements of Cash Flows for the three months ended March 31, 2026 (unaudited)
+and year ended December 31, 2025</span></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td><span style="font-family: Times New Roman, Times, Serif">Notes to Financial Statements</span></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><a href="tm2623392d1_ex99-2.htm" style="-sec-extract: exhibit"><b>99.2 Audited Statement of Assets Acquired and Liabilities Assumed &#8211; The Riviera</b></a></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td><span style="font-family: Times New Roman, Times, Serif">Independent Auditor&#8217;s Report</span></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td><span style="font-family: Times New Roman, Times, Serif">Statement of Assets Acquired and Liabilities Assumed as of June 1, 2026</span></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td><span style="font-family: Times New Roman, Times, Serif">Notes to the Statement of Assets Acquired and Liabilities Assumed</span></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><a href="tm2623392d1_ex99-3.htm" style="-sec-extract: exhibit"><b>99.3 Pro Forma Financial Information</b></a></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td><span style="font-family: Times New Roman, Times, Serif">Unaudited Pro Forma Condensed Combined Financial Information of Chiron Real
+Estate Inc.</span></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.75in"/><td style="width: 0.25in">o</td><td>Pro Forma Condensed Combined Financial Statements</td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.75in"/><td style="width: 0.25in">o</td><td>Pro Forma Condensed Combined Balance Sheet as of March 31, 2026</td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.75in"/><td style="width: 0.25in">o</td><td>Notes to Pro Forma Condensed Combined Balance Sheet</td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.75in"/><td style="width: 0.25in">o</td><td>Pro Forma Condensed Combined Statement of Operations for the three months ended March 31, 2026</td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.75in"/><td style="width: 0.25in">o</td><td>Pro Forma Condensed Combined Statement of Operations for the year ended December 31, 2025</td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"></p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.75in"/><td style="width: 0.25in">o</td><td>Notes to Pro Forma Condensed Combined Statement of Operations</td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>104 Cover Page Interactive Data File (embedded within the Inline
+XBRL document)</b>&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+
+<!-- Field: Page; Sequence: 3 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SIGNATURES</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in">Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>&#160;</b></p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td>&#160;</td>
+    <td colspan="2"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Chiron Real Estate Inc.</b></span></td></tr>
+  <tr style="vertical-align: bottom">
+    <td style="width: 50%">&#160;</td>
+    <td style="width: 5%">&#160;</td>
+    <td style="width: 45%">&#160;</td></tr>
+  <tr style="vertical-align: bottom">
+    <td>&#160;</td>
+    <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">By:</span></td>
+    <td style="border-bottom: black 1pt solid"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/ Jamie A. Barber</span></td></tr>
+  <tr style="vertical-align: bottom">
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Jamie A. Barber</span></td></tr>
+  <tr style="vertical-align: bottom">
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Secretary and General Counsel</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Date: August 17, 2026</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<!-- Field: Page; Sequence: 4; Options: Last -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+
+
+<!-- Field: Set; Name: xdx; ID: xdx_08B_extensions -->
+<!-- eJxFjU0KwkAMhU/QO4RZS22LuuhOi4pYRYqI29FGGWwnJTNWPZK3NLaIIZC/970oNVBLWpgKGY6zIoc91k2lPUKBF2S0ZxRFtlqnILXAq3GetfXd+AMzEgaFmYTJSfadsjUOyxTieBiNhslYmjSKYbpRwfeekb2YEq03ugJtS9gxNWzQa371Dnv9JEv1q/t0QHaGrNiFUX9+QxLFCWyp1Q/im4M8z1Qw6CJQS6Z7I6r506P9kjCvsJZ3rqf/GXwAvPZKQw== -->
+<script type="text/javascript"  src="/N3AEOPt9/dJoipWz/rYwIB5c/dg/YEaQGVVmDJktp27Xmu/SixucGdeLAQ/KXhNJ/AQsW1I"></script></body>
+</html>

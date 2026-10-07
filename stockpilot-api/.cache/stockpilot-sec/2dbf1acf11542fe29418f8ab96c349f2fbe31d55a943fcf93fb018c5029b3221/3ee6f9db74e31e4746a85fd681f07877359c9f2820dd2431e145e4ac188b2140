@@ -1,0 +1,615 @@
+91cf724235d2a47df13cccc6ae75e5a7c0a7a0dc9e0c09e8c2b17f16c44c4f4d<?xml version='1.0' encoding='ASCII'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2015-02-26" xmlns:ixt-sec="http://www.sec.gov/inlineXBRL/transformation/2015-08-31" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:dei="http://xbrl.sec.gov/dei/2025" xmlns:us-gaap="http://fasb.org/us-gaap/2025" xmlns:us-roles="http://fasb.org/us-roles/2025" xmlns:country="http://xbrl.sec.gov/country/2025" xmlns:srt="http://fasb.org/srt/2025" xmlns:xrn="http://globalmedicalreit.com/20260716">
+<head>
+     <title></title>
+<meta http-equiv="Content-Type" content="text/html"/>
+</head>
+<!-- Field: Set; Name: xdx; ID: xdx_02E_US%2DGAAP%2D2025 -->
+<!-- Field: Set; Name: xdx; ID: xdx_03D_xrn_globalmedicalreit.com_20260716 -->
+<!-- Field: Set; Name: xdx; ID: xdx_04D_20260716_20260716 -->
+<!-- Field: Set; Name: xdx; ID: xdx_059_edei%2D%2DAmendmentFlag_false -->
+<!-- Field: Set; Name: xdx; ID: xdx_051_edei%2D%2DEntityCentralIndexKey_0001533615 -->
+<!-- Field: Set; Name: xdx; ID: xdx_072_SO_T%2D%2D\DeptFiles%2DiXBRL 8%2DK Covers Templates\+++%2DROOT%2DElement%2D+++\DocumentInformationLineItems.xdxs -->
+<!-- Field: Set; Name: xdx; ID: xdx_06B_USD_1_iso4217%2D%2DUSD -->
+<!-- Field: Set; Name: xdx; ID: xdx_062_Shares_2_xbrli%2D%2Dshares -->
+<!-- Field: Set; Name: xdx; ID: xdx_06D_USDPShares_3_iso4217%2D%2DUSD_xbrli%2D%2Dshares -->
+<body style="font: 10pt Times New Roman, Times, Serif">
+<div style="display: none">
+<ix:header>
+ <ix:hidden>
+  <ix:nonNumeric contextRef="AsOf2026-07-16" id="Fact000003" name="dei:AmendmentFlag">false</ix:nonNumeric>
+  <ix:nonNumeric contextRef="AsOf2026-07-16" id="Fact000004" name="dei:EntityCentralIndexKey">0001533615</ix:nonNumeric>
+  </ix:hidden>
+ <ix:references>
+  <link:schemaRef xlink:href="xrn-20260716.xsd" xlink:type="simple"/>
+  </ix:references>
+ <ix:resources>
+    <xbrli:context id="AsOf2026-07-16">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0001533615</xbrli:identifier>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-07-16</xbrli:startDate>
+        <xbrli:endDate>2026-07-16</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="From2026-07-162026-07-16_us-gaap_CommonStockMember">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0001533615</xbrli:identifier>
+        <xbrli:segment>
+          <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonStockMember</xbrldi:explicitMember>
+        </xbrli:segment>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-07-16</xbrli:startDate>
+        <xbrli:endDate>2026-07-16</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="From2026-07-162026-07-16_us-gaap_SeriesAPreferredStockMember">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0001533615</xbrli:identifier>
+        <xbrli:segment>
+          <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:SeriesAPreferredStockMember</xbrldi:explicitMember>
+        </xbrli:segment>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-07-16</xbrli:startDate>
+        <xbrli:endDate>2026-07-16</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="From2026-07-162026-07-16_us-gaap_WarrantMember">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0001533615</xbrli:identifier>
+        <xbrli:segment>
+          <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:WarrantMember</xbrldi:explicitMember>
+        </xbrli:segment>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-07-16</xbrli:startDate>
+        <xbrli:endDate>2026-07-16</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:unit id="USD">
+      <xbrli:measure>iso4217:USD</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="Shares">
+      <xbrli:measure>xbrli:shares</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="USDPShares">
+      <xbrli:divide>
+        <xbrli:unitNumerator>
+          <xbrli:measure>iso4217:USD</xbrli:measure>
+        </xbrli:unitNumerator>
+        <xbrli:unitDenominator>
+          <xbrli:measure>xbrli:shares</xbrli:measure>
+        </xbrli:unitDenominator>
+      </xbrli:divide>
+    </xbrli:unit>
+  </ix:resources>
+ </ix:header>
+</div>
+
+
+<p style="margin: 0"></p>
+
+<p style="margin: 0pt 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 12pt; margin-bottom: 3pt; width: 100%"><div style="border-top: Black 2pt solid; border-bottom: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>UNITED STATES</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Washington, D.C. 20549</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>FORM <span id="xdx_90D_edei--DocumentType_c20260716__20260716_zIRXPuo6F7U2"><ix:nonNumeric contextRef="AsOf2026-07-16" id="Fact000010" name="dei:DocumentType">8-K</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>CURRENT REPORT</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>PURSUANT TO SECTION 13 OR 15(D) OF THE&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SECURITIES EXCHANGE ACT OF 1934</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Date of Report (Date of earliest event
+reported): July 17, 2026 (<span id="xdx_901_edei--DocumentPeriodEndDate_c20260716__20260716_zGveTG7ac7ll"><ix:nonNumeric contextRef="AsOf2026-07-16" format="ixt:datemonthdayyearen" id="Fact000011" name="dei:DocumentPeriodEndDate">July 16, 2026</ix:nonNumeric></span>)</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 18pt"><b><span id="xdx_909_edei--EntityRegistrantName_c20260716__20260716_zhM91IOI04ah"><ix:nonNumeric contextRef="AsOf2026-07-16" id="Fact000012" name="dei:EntityRegistrantName">Chiron
+Real Estate Inc.</ix:nonNumeric></span></b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-size: 18pt"><b></b></span><span style="font-size: 10pt">(Exact name of registrant as specified in its charter)</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top">
+    <td style="width: 33%; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_909_edei--EntityIncorporationStateCountryCode_c20260716__20260716_zsPMPQl8H169"><ix:nonNumeric contextRef="AsOf2026-07-16" format="ixt-sec:stateprovnameen" id="Fact000013" name="dei:EntityIncorporationStateCountryCode">Maryland</ix:nonNumeric></span></b></span></td>
+    <td style="width: 34%; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_90F_edei--EntityFileNumber_c20260716__20260716_zRZlewZuSDrf"><ix:nonNumeric contextRef="AsOf2026-07-16" id="Fact000014" name="dei:EntityFileNumber">001-37815</ix:nonNumeric></span></b></span></td>
+    <td style="width: 33%; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_908_edei--EntityTaxIdentificationNumber_c20260716__20260716_zricuTLmB802"><ix:nonNumeric contextRef="AsOf2026-07-16" id="Fact000015" name="dei:EntityTaxIdentificationNumber">46-4757266</ix:nonNumeric></span></b></span></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: center"><p style="margin-top: 0; margin-bottom: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(State or Other Jurisdiction</span></p>
+                                   <p style="margin-top: 0; margin-bottom: 0"><span style="font: 10pt Times New Roman, Times, Serif">of Incorporation)</span></p></td>
+    <td style="text-align: center"><p style="margin-top: 0; margin-bottom: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Commission</span></p>
+                                   <p style="margin-top: 0; margin-bottom: 0"><span style="font: 10pt Times New Roman, Times, Serif">File Number)</span></p></td>
+    <td style="text-align: center"><p style="margin-top: 0; margin-bottom: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(I.R.S. Employer</span></p>
+                                   <p style="margin-top: 0; margin-bottom: 0"><span style="font: 10pt Times New Roman, Times, Serif">Identification No.)</span></p></td></tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b><span id="xdx_90E_edei--EntityAddressAddressLine1_c20260716__20260716_zoUAMoz5dHb3"><ix:nonNumeric contextRef="AsOf2026-07-16" id="Fact000016" name="dei:EntityAddressAddressLine1">7373 Wisconsin Avenue</ix:nonNumeric></span>, <span id="xdx_906_edei--EntityAddressAddressLine2_c20260716__20260716_zu1UO4pJVvOe"><ix:nonNumeric contextRef="AsOf2026-07-16" id="Fact000017" name="dei:EntityAddressAddressLine2">Suite 800</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b><span id="xdx_90D_edei--EntityAddressCityOrTown_c20260716__20260716_zijGJkCftHt2"><ix:nonNumeric contextRef="AsOf2026-07-16" id="Fact000018" name="dei:EntityAddressCityOrTown">Bethesda</ix:nonNumeric></span>, <span id="xdx_90B_edei--EntityAddressStateOrProvince_c20260716__20260716_zaDCNGLVvNTa"><ix:nonNumeric contextRef="AsOf2026-07-16" id="Fact000019" name="dei:EntityAddressStateOrProvince">MD</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b><span id="xdx_907_edei--EntityAddressPostalZipCode_c20260716__20260716_zhEikQb0sOf4"><ix:nonNumeric contextRef="AsOf2026-07-16" id="Fact000020" name="dei:EntityAddressPostalZipCode">20814</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Address of Principal Executive Offices)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Zip Code)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>(<span id="xdx_909_edei--CityAreaCode_c20260716__20260716_zN1bB0xlbXAa"><ix:nonNumeric contextRef="AsOf2026-07-16" id="Fact000021" name="dei:CityAreaCode">202</ix:nonNumeric></span>) <span id="xdx_907_edei--LocalPhoneNumber_c20260716__20260716_zr1PVDp2usj3"><ix:nonNumeric contextRef="AsOf2026-07-16" id="Fact000022" name="dei:LocalPhoneNumber">524-6851</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Registrant&#8217;s Telephone Number, Including
+Area Code)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Not Applicable</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Former name or former address, if changed
+since last report)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></p>
+
+<!-- Field: Rule-Page --><div style="margin: 3pt auto; width: 25%"><div style="border-top: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%">
+<tr style="vertical-align: top">
+    <td style="width: 0.25in"><span style="font-family: Wingdings"><span style="font-family: Wingdings"><span id="xdx_900_edei--WrittenCommunications_c20260716__20260716_zyon8WRTGXJi"><ix:nonNumeric contextRef="AsOf2026-07-16" format="ixt:booleanfalse" id="Fact000023" name="dei:WrittenCommunications">&#168;</ix:nonNumeric></span></span></span></td>
+    <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</span></td></tr>
+<tr style="vertical-align: top">
+    <td>&#160;</td>
+    <td>&#160;</td></tr>
+<tr style="vertical-align: top">
+    <td><span style="font-family: Wingdings"><span style="font-family: Wingdings"><span id="xdx_908_edei--SolicitingMaterial_c20260716__20260716_zIdm0f7CjcQk"><ix:nonNumeric contextRef="AsOf2026-07-16" format="ixt:booleanfalse" id="Fact000024" name="dei:SolicitingMaterial">&#168;</ix:nonNumeric></span></span></span></td>
+    <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</span></td></tr>
+<tr style="vertical-align: top">
+    <td>&#160;</td>
+    <td>&#160;</td></tr>
+<tr style="vertical-align: top">
+    <td><span style="font-family: Wingdings"><span style="font-family: Wingdings"><span id="xdx_904_edei--PreCommencementTenderOffer_c20260716__20260716_zqYdhjhHFr6i"><ix:nonNumeric contextRef="AsOf2026-07-16" format="ixt:booleanfalse" id="Fact000025" name="dei:PreCommencementTenderOffer">&#168;</ix:nonNumeric></span></span></span></td>
+    <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</span></td></tr>
+<tr style="vertical-align: top">
+    <td>&#160;</td>
+    <td>&#160;</td></tr>
+<tr style="vertical-align: top">
+    <td><span style="font-family: Wingdings"><span style="font-family: Wingdings"><span id="xdx_906_edei--PreCommencementIssuerTenderOffer_c20260716__20260716_zW7F1Ud4cwq5"><ix:nonNumeric contextRef="AsOf2026-07-16" format="ixt:booleanfalse" id="Fact000026" name="dei:PreCommencementIssuerTenderOffer">&#168;</ix:nonNumeric></span></span></span></td>
+    <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</span></td></tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Securities registered pursuant to Section 12(b) of the Act:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="vertical-align: bottom">
+    <td style="border-bottom: black 1pt solid; white-space: nowrap; width: 38%; padding-left: 0.1in; text-align: center; text-indent: -0.1in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Title&#160;of&#160;each&#160;class:</b></span></td>
+    <td style="white-space: nowrap; width: 2%; text-align: center">&#160;</td>
+    <td style="border-bottom: black 1pt solid; white-space: nowrap; width: 20%; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Trading&#160;Symbols</b>:</span></td>
+    <td style="white-space: nowrap; width: 2%; text-align: center">&#160;</td>
+    <td style="border-bottom: black 1pt solid; white-space: nowrap; width: 38%; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Name&#160;of&#160;each&#160;exchange&#160;on&#160;which&#160;registered:</b></span></td></tr>
+<tr style="vertical-align: top">
+    <td style="padding-left: 0.1in; text-align: center; text-indent: -0.1in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_909_edei--Security12bTitle_c20260716__20260716__us-gaap--StatementClassOfStockAxis__us-gaap--CommonStockMember_zGxw34Xzttt3"><ix:nonNumeric contextRef="From2026-07-162026-07-16_us-gaap_CommonStockMember" id="Fact000027" name="dei:Security12bTitle">Common Stock, par value $0.001 per share</ix:nonNumeric></span></span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_903_edei--TradingSymbol_c20260716__20260716__us-gaap--StatementClassOfStockAxis__us-gaap--CommonStockMember_z0TGA09tD9N"><ix:nonNumeric contextRef="From2026-07-162026-07-16_us-gaap_CommonStockMember" id="Fact000028" name="dei:TradingSymbol">XRN</ix:nonNumeric></span></span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_90A_edei--SecurityExchangeName_c20260716__20260716__us-gaap--StatementClassOfStockAxis__us-gaap--CommonStockMember_zTXZFo1jv2Xb"><ix:nonNumeric contextRef="From2026-07-162026-07-16_us-gaap_CommonStockMember" format="ixt-sec:exchnameen" id="Fact000029" name="dei:SecurityExchangeName">NYSE</ix:nonNumeric></span></span></td></tr>
+<tr style="vertical-align: top">
+    <td style="padding-left: 0.1in; text-align: center; text-indent: -0.1in"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_90D_edei--Security12bTitle_c20260716__20260716__us-gaap--StatementClassOfStockAxis__us-gaap--SeriesAPreferredStockMember_ztKJWVOcn59f"><ix:nonNumeric contextRef="From2026-07-162026-07-16_us-gaap_SeriesAPreferredStockMember" id="Fact000030" name="dei:Security12bTitle">Series A Preferred Stock, par value $0.001 per share</ix:nonNumeric></span></span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_90B_edei--TradingSymbol_c20260716__20260716__us-gaap--StatementClassOfStockAxis__us-gaap--SeriesAPreferredStockMember_zZDytkxA8OLj"><ix:nonNumeric contextRef="From2026-07-162026-07-16_us-gaap_SeriesAPreferredStockMember" id="Fact000031" name="dei:TradingSymbol">XRN PrA</ix:nonNumeric></span></span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_90F_edei--SecurityExchangeName_c20260716__20260716__us-gaap--StatementClassOfStockAxis__us-gaap--SeriesAPreferredStockMember_zT5CptKmogn2"><ix:nonNumeric contextRef="From2026-07-162026-07-16_us-gaap_SeriesAPreferredStockMember" format="ixt-sec:exchnameen" id="Fact000032" name="dei:SecurityExchangeName">NYSE</ix:nonNumeric></span></span></td></tr>
+<tr style="vertical-align: top">
+    <td style="padding-left: 0.1in; text-align: center; text-indent: -0.1in"><span id="xdx_90B_edei--Security12bTitle_c20260716__20260716__us-gaap--StatementClassOfStockAxis__us-gaap--WarrantMember_zqp5pottJpSc"><ix:nonNumeric contextRef="From2026-07-162026-07-16_us-gaap_WarrantMember" id="Fact000033" name="dei:Security12bTitle">Series B Preferred Stock, par value $0.001 per share</ix:nonNumeric></span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="text-align: center"><span id="xdx_904_edei--TradingSymbol_c20260716__20260716__us-gaap--StatementClassOfStockAxis__us-gaap--WarrantMember_z6XqhZvnLhSa"><ix:nonNumeric contextRef="From2026-07-162026-07-16_us-gaap_WarrantMember" id="Fact000034" name="dei:TradingSymbol">XRN PrB</ix:nonNumeric></span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="text-align: center"><span id="xdx_90C_edei--SecurityExchangeName_c20260716__20260716__us-gaap--StatementClassOfStockAxis__us-gaap--WarrantMember_zQFR6fZv0LG2"><ix:nonNumeric contextRef="From2026-07-162026-07-16_us-gaap_WarrantMember" format="ixt-sec:exchnameen" id="Fact000035" name="dei:SecurityExchangeName">NYSE</ix:nonNumeric></span></td></tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR &#167;230.405) or Rule 12b-2 of the
+Securities Exchange Act of 1934 (17 CFR &#167;240.12b-2).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-family: Times New Roman, Times, Serif">Emerging
+growth company&#160;</span><span style="font-family: Wingdings"><span style="font-family: Wingdings"><span id="xdx_901_edei--EntityEmergingGrowthCompany_c20260716__20260716_zjgnFSOg2i6k"><ix:nonNumeric contextRef="AsOf2026-07-16" format="ixt:booleanfalse" id="Fact000036" name="dei:EntityEmergingGrowthCompany">&#168;</ix:nonNumeric></span></span></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><span style="font-family: Times New Roman, Times, Serif">If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.&#160;<span style="font-family: Wingdings">&#168;</span></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 3pt; margin-bottom: 12pt; width: 100%"><div style="border-top: Black 1pt solid; border-bottom: Black 2pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></p>
+
+<!-- Field: Page; Sequence: 1 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 10%; text-align: left"><b>Item</b> <b>5.02</b></td><td style="text-align: justify; width: 90%"><b>Departure of Directors or Certain
+Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.</b></td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt"><b><i>Executive Appointments</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt"><i>&#160;</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 21pt; margin-bottom: 0pt; text-indent: 46.6pt">Effective July 16, 2026, Robert &#8220;Bobby&#8221;
+Zeiller, age 56, was appointed as Chief Development Officer and Head of Seniors Housing of Chiron Real Estate Inc. (the &#8220;Company&#8221;)
+and Inter-American Management LLC (&#8220;IAM&#8221;), and Aaron Roseth, age 51, was appointed as Chief Operating Officer of the Company
+and IAM. In connection with these appointments, Danica Holley transitioned from Chief Operating Officer to Chief Administrative Officer
+of the Company and IAM, effective July 16, 2026.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 21pt; margin-bottom: 0pt; text-indent: 46.6pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 21pt; margin-bottom: 0pt; text-indent: 46.6pt">Prior to joining the Company, Mr.
+Zeiller held various roles at Silverstone Senior Living over the past ten years, serving as Vice Chairman, Co-Chief Executive Officer and Chief
+Executive Officer. Prior to joining Silverstone Senior
+Living, Mr. Zeiller served as Executive Vice President of Westbrook Properties in Washington, D.C., and as Regional Vice President of
+Crescent Resources, LLC, where he was involved in residential investment, entitlement, development and construction activities. Throughout
+his career, Mr. Zeiller has worked on senior housing, multifamily, mixed-use and other real estate development projects. Mr. Zeiller holds
+a B.S. in Building Construction from Virginia Tech University and is a LEED Accredited Professional.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 21pt; margin-bottom: 0pt; text-indent: 46.6pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 21pt; margin-bottom: 0pt; text-indent: 46.6pt">Prior to joining the Company, Mr.
+Roseth served for more than two decades at ESG Architecture &amp; Design, including as President and Chief Executive Officer during the
+last ten years of his tenure, where he led the firm&#8217;s expansion from a predominantly regional practice into a national platform.
+Throughout his career, Mr. Roseth has worked with REITs, institutional investors, developers, operators and ownership groups on the planning,
+development, acquisition and positioning of healthcare, active adult, senior housing, multifamily, hospitality and mixed-use real estate.
+Mr. Roseth earned both his bachelor&#8217;s and master&#8217;s degrees from the University of Minnesota College of Design.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt; text-indent: 45pt">There are no arrangements or understandings
+between either Mr. Zeiller or Mr. Roseth and any other persons pursuant to which he was appointed as an officer of the Company and IAM.
+There are no family relationships between either Mr. Zeiller or Mr. Roseth and any of the Company&#8217;s directors or executive officers.
+Mr. Zeiller is a minority partner and former Chief Executive Officer of Silverstone Senior Living, affiliates of which were the sellers
+in the Company&#8217;s purchase of the Landing, Riviera and Pinnacle properties. Mr. Zeiller is expected to remain on the board of Silverstone
+Senior Living and to provide consulting services to Silverstone Senior Living through December 31, 2026, although his board service may
+continue thereafter. The Company previously disclosed such acquisition transactions in Current Reports on Form 8-K filed with the Securities
+and Exchange Commission on May 6, 2026 and June 2, 2026. Except as described above, neither Mr. Zeiller nor Mr. Roseth is a party to any
+transaction, or any proposed transaction, required to be disclosed pursuant to Item 404(a) of Regulation S-K.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt"><i>&#160;</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt"><b><i>Employment Agreements</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt"><i>&#160;</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">In connection with the foregoing
+appointments and transition, IAM entered into employment agreements with Robert Zeiller, Aaron Roseth, Danica Holley and Jamie Barber,
+each effective as of July 16, 2026. Mr. Zeiller will serve as Chief Development Officer and Head of Seniors Housing of the Company and
+IAM, Mr. Roseth will serve as Chief Operating Officer of the Company and IAM, Ms. Holley will serve as Chief Administrative Officer of
+the Company and IAM, and Mr. Barber will continue to serve as General Counsel and Corporate Secretary of the Company and IAM. The employment
+agreements for Ms. Holley and Mr. Barber supersede any severance payments or benefits to which they otherwise may have been entitled under
+the Company&#8217;s existing severance plan.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt"><i>Term</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">Each employment agreement provides
+for an initial three-year term commencing on July 16, 2026, with automatic renewals for successive one-year periods unless either party
+provides at least 90 days&#8217; advance notice of non-renewal. Each executive&#8217;s position is based in Bethesda, Maryland, and each
+executive is required to devote his or her best efforts and full time and attention to the businesses of the Company and its direct and
+indirect subsidiaries, subject to customary exceptions.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt"><i>Compensation and Benefits</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">Under the employment agreements,
+Mr. Zeiller is entitled to an annual base salary of $400,000 and, beginning with the 2027 calendar year, a target annual bonus equal to
+75% of his annual base salary. Mr. Roseth is entitled to an annual base salary of $350,000 and, beginning with the 2027 calendar year,
+a target annual bonus equal to 100% of his annual base salary. Ms. Holley is entitled to an annual base salary of $325,000 and, beginning
+with the 2027 calendar year, a target annual bonus equal to 100% of her annual base salary. Mr. Barber is entitled to an annual base salary
+of $290,000 and, beginning with the 2027 calendar year, a target annual bonus equal to 100% of his annual base salary. Each of Mr. Zeiller
+and Mr. Roseth is also eligible to receive a pro rata bonus for the 2026 calendar year, payable 60% in cash and 40% in LTIP Units, subject
+to the terms of the applicable employment agreement.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">Mr. Zeiller&#8217;s employment agreement
+provides that 50% of the pro rata portion of his base salary for the remainder of the 2026 calendar year following the effective date
+will be paid in the form of LTIP Units, which will vest in full on December 31, 2026, subject to the terms of the applicable award agreement.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">During the employment period, each
+executive and his or her eligible dependents will be eligible to participate in the same benefit plans and programs generally made available
+to similarly situated employees of IAM, subject to the terms and conditions of the applicable plans and programs as in effect from time
+to time.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt"></p>
+
+<!-- Field: Page; Sequence: 2 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt"><i>Severance and Restrictive Covenants</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt"><b><i>&#160;</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">Each employment agreement provides
+that, if the executive&#8217;s employment terminates upon expiration of the then-current term as a result of non-renewal by IAM, is terminated
+by IAM without cause, or is terminated by the executive for good reason, then, subject to the executive&#8217;s timely execution and non-revocation
+of a general release of claims and continued compliance with applicable restrictive covenants, the executive will be entitled to receive
+severance benefits. The severance benefits consist of: (i) cash severance payments in an aggregate amount equal to the sum of 12 months
+of the executive&#8217;s annual base salary and the greater of the executive&#8217;s target annual bonus for the year of termination or
+the annual bonus actually paid to the executive for the preceding year; (ii) a pro rata termination bonus for the year of termination,
+based on the executive&#8217;s target annual bonus and the number of days employed during such year; (iii) accelerated vesting of all
+outstanding time-based equity awards; (iv) continued eligibility for vesting of outstanding performance-based equity awards based on actual
+performance through the end of the applicable performance period, subject to the terms of the applicable award agreement; and (v) a COBRA
+subsidy or replacement payment for up to 12 months.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">The severance payments generally
+will be paid in substantially equal installments over the 12-month period beginning on IAM&#8217;s first regularly scheduled payroll date
+that is on or after the date that is 60 days following the applicable termination date, subject to the terms of the applicable employment
+agreement and compliance with Section 409A of the Internal Revenue Code. The pro rata termination bonus, if any, generally will be paid
+on the later of the date that annual bonuses for the year of termination are paid to similarly situated executives and the date the first
+installment of severance is paid, but in no event later than March 15 of the calendar year following the calendar year in which the termination
+occurs.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">If the qualifying termination occurs
+within the period beginning six months prior to a change in control and ending 12 months following a change in control, the executive
+generally will be entitled to the same termination benefits described above, except that the cash severance amount will be equal to two
+times the sum of 12 months of the executive&#8217;s annual base salary and the greater of the executive&#8217;s target annual bonus for
+the year of termination or the annual bonus actually paid to the executive for the preceding year, and the cash severance and any termination
+bonus generally will be paid in a lump sum following the later of the termination date and the change in control, subject to the terms
+of the applicable employment agreement.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">In the event of termination due to
+the executive&#8217;s death or disability, the executive, or the executive&#8217;s estate, as applicable, generally will be eligible to
+receive the pro rata termination bonus, accelerated vesting of outstanding time-based equity awards, continued eligibility for vesting
+of outstanding performance-based equity awards based on actual performance through the end of the applicable performance period, and the
+COBRA subsidy or replacement payment, subject to the executive&#8217;s or estate&#8217;s timely execution and non-revocation of a release
+and the other terms and conditions of the applicable employment agreement.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">For purposes of the employment agreements,
+&#8220;cause&#8221; generally includes the executive&#8217;s material breach of the applicable employment agreement or another written
+agreement with the Company or its affiliates; material breach of applicable workplace laws or written policies or codes of conduct; fraud,
+theft, dishonesty, embezzlement or breach of fiduciary duty relating to the Company or its affiliates or the executive&#8217;s duties;
+gross negligence or willful misconduct relating to the Company or its affiliates or the executive&#8217;s duties that results, or could
+reasonably be expected to result, in material and demonstrable damage; conviction of, or plea of guilty or nolo contendere to, a felony
+or crime involving moral turpitude, or an indictment for such offense that is not discharged or otherwise resolved within 18 months; willful
+failure or refusal, other than due to disability, to perform the executive&#8217;s obligations under the applicable employment agreement
+or follow a lawful directive; or violation of applicable restrictive covenants, subject in certain cases to notice and cure rights under
+the applicable employment agreement.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">&#8220;Good reason&#8221; generally
+includes, without the executive&#8217;s written consent, a material diminution in base salary or in the executive&#8217;s title, authority,
+duties or responsibilities with the Company and its affiliates, a material breach by IAM of its obligations under the applicable employment
+agreement, or any requirement that the executive report to a corporate officer or employee of the Company instead of reporting directly
+to the Chief Executive Officer, subject to the executive&#8217;s compliance with applicable notice, cure and resignation timing requirements.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">&#8220;Change in control&#8221; generally
+includes certain acquisitions of more than 50% of the Company&#8217;s outstanding common stock or voting power, certain changes in the
+composition of the Board, certain business combinations that do not satisfy specified continuing ownership and board composition requirements,
+and a sale or other disposition of all or substantially all of the properties or assets of the Company and its subsidiaries, taken as
+a whole, in each case subject to the terms, conditions and exclusions set forth in the applicable employment agreement.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">Each employment agreement also contains
+customary restrictive covenants, including covenants relating to confidentiality, ownership of intellectual property, non-competition,
+non-solicitation of customers, suppliers, employees and contractors, and cooperation in the defense of claims,. The non-competition and
+non-solicitation covenants generally apply during the employment period and for 12 months following termination of employment.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">The description of the employment
+agreements contained herein does not purport to be complete and is qualified in its entirety by reference to the full text of the employment
+agreements, which are filed as Exhibit 10.1 through Exhibit 10.4 hereto and incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt"><b><i>Equity and Inducement Awards</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt"><i>&#160;</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 26.2pt; margin-bottom: 0pt; text-indent: 46.6pt">During the employment period, each
+executive is eligible to participate in the Chiron Real Estate Inc. 2016 Equity Incentive Plan, as amended from time to time (the &#8220;LTIP&#8221;),
+or any successor equity incentive plan. Each of Mr. Roseth and Mr. Zeiller is also eligible to receive a 2027 LTIP award with a target
+aggregate dollar value of $550,000, subject to approval and discretion of the Compensation Committee.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt"><b><i>&#160;</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">As a material inducement to their
+joining the Company<span style="font-family: Times New Roman, Times, Serif"><sup></sup></span>, each of Mr. Roseth and Mr. Zeiller
+will receive inducement awards consisting of a one-time LTIP Unit award subject to time-based vesting and are intended to qualify as employment
+inducement awards under Section 303A.08 of the New York Stock Exchange Listed Company Manual and any other applicable rules or guidance
+of the New York Stock Exchange, and, accordingly, shall be granted outside of, and not pursuant to, the LTIP. The inducement awards will
+each have a value equal to $275,000 divided by the average closing price of the Company&#8217;s common stock as reported on the New York
+Stock Exchange for the 15 trading days immediately preceding the date of grant and will vest in substantially equal one-third increments
+on each of the first, second and third anniversaries of the date of grant, subject to continued employment. In addition, each of Mr. Roseth
+and Mr. Zeiller will also receive a one-time LTIP Unit award subject to performance-based vesting also intended to qualify as employment
+inducement awards, the terms and conditions of which (including performance goals and forfeiture restrictions) will be determined by the
+compensation committee of the Board of Directors of the Company in its sole discretion and set forth in the applicable award agreement.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt"></p>
+
+<!-- Field: Page; Sequence: 3 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt"><b><i>Indemnification Agreement</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt"><i>&#160;</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">In connection with the appointments
+described above, the Company entered into standard indemnification agreements with each of Mr. Zeiller and Mr. Roseth, the form of which
+was filed as Exhibit 10.14 to the Company&#8217;s Annual Report on Form 10-K for the year ended December 31, 2025 filed with the Securities
+and Exchange Commission on March 2, 2026. Ms. Holley and Mr. Barber are each already party to an indemnification agreement with the Company.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 16pt; margin-bottom: 0pt; text-indent: 46.6pt">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 10%"><b>Item 9.01</b></td><td style="padding-right: 16pt; width: 90%"><b>Financial Statements and Exhibits.</b></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt">(d) Exhibits</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: bottom">
+    <td style="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: right">Exhibit No.</td><td style="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&#160;</td>
+    <td style="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif">Description</td></tr>
+  <tr style="vertical-align: bottom">
+    <td style="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt; width: 10%; text-align: center"><a href="tm2620590d1_ex10-1.htm">10.1</a></td><td style="font: 10pt Times New Roman, Times, Serif; width: 2%; padding-bottom: 1pt">&#160;</td>
+    <td style="font: 10pt Times New Roman, Times, Serif; width: 88%; text-align: left; padding-bottom: 1pt"><a href="tm2620590d1_ex10-1.htm">Employment Agreement by and between Jamie Barber and Inter-American Management LLC, effective as of July 16, 2026.</a></td></tr>
+  <tr style="vertical-align: bottom">
+    <td style="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt; text-align: center"><a href="tm2620590d1_ex10-2.htm">10.2</a></td><td style="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&#160;</td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-bottom: 1pt"><a href="tm2620590d1_ex10-2.htm">Employment Agreement by and between Robert Zeiller and Inter-American Management LLC, effective as of July 16, 2026.</a></td></tr>
+  <tr style="vertical-align: bottom">
+    <td style="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt; text-align: center"><a href="tm2620590d1_ex10-3.htm">10.3</a></td><td style="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&#160;</td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-bottom: 1pt"><a href="tm2620590d1_ex10-3.htm">Employment Agreement by and between Aaron Roseth and Inter-American Management LLC, effective as of July 16, 2026.</a></td></tr>
+  <tr style="vertical-align: bottom">
+    <td style="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt; text-align: center"><a href="tm2620590d1_ex10-4.htm">10.4</a></td><td style="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&#160;</td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: left; padding-bottom: 1pt"><a href="tm2620590d1_ex10-4.htm">Employment Agreement by and between Danica Holley and Inter-American Management LLC, effective as of July 16, 2026.</a></td></tr>
+  <tr style="vertical-align: bottom">
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: center">104</td><td style="font: 10pt Times New Roman, Times, Serif">&#160;</td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: left">Cover Page Interactive Data File (embedded within the Inline XBRL document)</td></tr>
+  </table>
+
+
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 4 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SIGNATURES</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.25in">Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td>&#160;</td>
+    <td colspan="2"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Chiron Real Estate Inc.</b></span></td></tr>
+  <tr style="vertical-align: bottom">
+    <td style="width: 50%">&#160;</td>
+    <td style="width: 3%">&#160;</td>
+    <td style="width: 47%">&#160;</td></tr>
+  <tr style="vertical-align: bottom">
+    <td>&#160;</td>
+    <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">By:</span></td>
+    <td style="border-bottom: black 1pt solid"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/ Jamie A. Barber</span></td></tr>
+  <tr style="vertical-align: bottom">
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Jamie A. Barber</span></td></tr>
+  <tr style="vertical-align: bottom">
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Secretary and General Counsel</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Date: July 17, 2026</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 5; Options: Last -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Set; Name: xdx; ID: xdx_08B_extensions -->
+<!-- eJxFjU0KwkAMhU/QO4RZS22LuuhOi4pYRYqI29FGGWwnJTNWPZK3NLaIIZC/970oNVBLWpgKGY6zIoc91k2lPUKBF2S0ZxRFtlqnILXAq3GetfXd+AMzEgaFmYTJSfadsjUOyxTieBiNhslYmjSKYbpRwfeekb2YEq03ugJtS9gxNWzQa371Dnv9JEv1q/t0QHaGrNiFUX9+QxLFCWyp1Q/im4M8z1Qw6CJQS6Z7I6r506P9kjCvsJZ3rqf/GXwAvPZKQw== -->
+<script type="text/javascript"  src="/N3AEOPt9/dJoipWz/rYwIB5c/dg/YEaQGVVmDJktp27Xmu/SixucGdeLAQ/KXhNJ/AQsW1I"></script></body>
+</html>

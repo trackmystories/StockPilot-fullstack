@@ -1,0 +1,389 @@
+5b75c68edce44019a0c1744d0447844348f956de6daabaa139310546c8c1d601<?xml version='1.0' encoding='ASCII'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2015-02-26" xmlns:ixt-sec="http://www.sec.gov/inlineXBRL/transformation/2015-08-31" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:dei="http://xbrl.sec.gov/dei/2025" xmlns:us-gaap="http://fasb.org/us-gaap/2025" xmlns:us-roles="http://fasb.org/us-roles/2025" xmlns:country="http://xbrl.sec.gov/country/2025" xmlns:srt="http://fasb.org/srt/2025" xmlns:WULF="http://terawulf.com/20260706">
+<head>
+     <title></title>
+<meta http-equiv="Content-Type" content="text/html"/>
+</head>
+<!-- Field: Set; Name: xdx; ID: xdx_02E_US%2DGAAP%2D2025 -->
+<!-- Field: Set; Name: xdx; ID: xdx_033_WULF_terawulf.com_20260706 -->
+<!-- Field: Set; Name: xdx; ID: xdx_04F_20260706_20260706 -->
+<!-- Field: Set; Name: xdx; ID: xdx_059_edei%2D%2DAmendmentFlag_false -->
+<!-- Field: Set; Name: xdx; ID: xdx_05A_edei%2D%2DEntityCentralIndexKey_0001083301 -->
+<!-- Field: Set; Name: xdx; ID: xdx_06B_USD_1_iso4217%2D%2DUSD -->
+<!-- Field: Set; Name: xdx; ID: xdx_062_Shares_2_xbrli%2D%2Dshares -->
+<!-- Field: Set; Name: xdx; ID: xdx_06D_USDPShares_3_iso4217%2D%2DUSD_xbrli%2D%2Dshares -->
+<body style="font: 10pt Times New Roman, Times, Serif">
+<div style="display: none">
+<ix:header>
+ <ix:hidden>
+  <ix:nonNumeric contextRef="AsOf2026-07-06" id="Fact000003" name="dei:AmendmentFlag">false</ix:nonNumeric>
+  <ix:nonNumeric contextRef="AsOf2026-07-06" id="Fact000004" name="dei:EntityCentralIndexKey">0001083301</ix:nonNumeric>
+  </ix:hidden>
+ <ix:references>
+  <link:schemaRef xlink:href="wulf-20260706.xsd" xlink:type="simple"/>
+  </ix:references>
+ <ix:resources>
+    <xbrli:context id="AsOf2026-07-06">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0001083301</xbrli:identifier>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-07-06</xbrli:startDate>
+        <xbrli:endDate>2026-07-06</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:unit id="USD">
+      <xbrli:measure>iso4217:USD</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="Shares">
+      <xbrli:measure>xbrli:shares</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="USDPShares">
+      <xbrli:divide>
+        <xbrli:unitNumerator>
+          <xbrli:measure>iso4217:USD</xbrli:measure>
+        </xbrli:unitNumerator>
+        <xbrli:unitDenominator>
+          <xbrli:measure>xbrli:shares</xbrli:measure>
+        </xbrli:unitDenominator>
+      </xbrli:divide>
+    </xbrli:unit>
+  </ix:resources>
+ </ix:header>
+</div>
+
+
+<div style="display: none">
+
+</div>
+
+
+<p style="margin: 0">&#160;</p>
+
+<p style="margin: 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 3pt; margin-bottom: 3pt; width: 100%"><div style="border-top: Black 2pt solid; border-bottom: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>UNITED STATES</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Washington, D.C. 20549</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>FORM&#160;<span id="xdx_900_edei--DocumentType_c20260706__20260706_zSE1IzKjhgkd"><ix:nonNumeric contextRef="AsOf2026-07-06" id="Fact000009" name="dei:DocumentType">8-K</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>CURRENT REPORT</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Pursuant to Section&#160;13 or 15(d)</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>of the Securities Exchange Act of 1934</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif"><b>Date
+of Report (Date of earliest event reported)</b></span>: <b><span id="xdx_90F_edei--DocumentPeriodEndDate_c20260706__20260706_zSwgC1ZHhhqa"><ix:nonNumeric contextRef="AsOf2026-07-06" format="ixt:datemonthdayyearen" id="Fact000010" name="dei:DocumentPeriodEndDate">July 6, 2026</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b><span id="xdx_904_edei--EntityRegistrantName_c20260706__20260706_zJ7ZNYlmlbGc"><ix:nonNumeric contextRef="AsOf2026-07-06" id="Fact000011" name="dei:EntityRegistrantName">TERAWULF INC.</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Exact name of registrant as specified in its charter)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr>
+    <td style="vertical-align: top; width: 34%; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_90F_edei--EntityIncorporationStateCountryCode_c20260706__20260706_zQLyjvF3nTIi"><ix:nonNumeric contextRef="AsOf2026-07-06" format="ixt-sec:stateprovnameen" id="Fact000012" name="dei:EntityIncorporationStateCountryCode">Delaware</ix:nonNumeric></span></b></span></td>
+    <td style="vertical-align: bottom; width: 33%; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_90B_edei--EntityFileNumber_c20260706__20260706_zGXs0EFB5MEa"><ix:nonNumeric contextRef="AsOf2026-07-06" id="Fact000013" name="dei:EntityFileNumber">001-41163</ix:nonNumeric></span></b></span></td>
+    <td style="vertical-align: top; width: 33%; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_90A_edei--EntityTaxIdentificationNumber_c20260706__20260706_zfPGufVLPHnb"><ix:nonNumeric contextRef="AsOf2026-07-06" id="Fact000014" name="dei:EntityTaxIdentificationNumber">87-1909475</ix:nonNumeric></span></b></span></td></tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(State or other jurisdiction of<br/>
+ incorporation)</span></td>
+    <td style="text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Commission File Number)</span></td>
+    <td style="text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(IRS Employer Identification No.)</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b><span id="xdx_904_edei--EntityAddressAddressLine1_c20260706__20260706_z2LDiYvTRwRa"><ix:nonNumeric contextRef="AsOf2026-07-06" id="Fact000015" name="dei:EntityAddressAddressLine1">9 Federal Street</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b><span id="xdx_900_edei--EntityAddressCityOrTown_c20260706__20260706_zWEqEWc8rN28"><ix:nonNumeric contextRef="AsOf2026-07-06" id="Fact000016" name="dei:EntityAddressCityOrTown">Easton</ix:nonNumeric></span>, <span id="xdx_90B_edei--EntityAddressStateOrProvince_c20260706__20260706_zWgweVhPich7"><ix:nonNumeric contextRef="AsOf2026-07-06" format="ixt-sec:stateprovnameen" id="Fact000017" name="dei:EntityAddressStateOrProvince">Maryland</ix:nonNumeric></span> <span id="xdx_909_edei--EntityAddressPostalZipCode_c20260706__20260706_zypauY5XdFs5"><ix:nonNumeric contextRef="AsOf2026-07-06" id="Fact000018" name="dei:EntityAddressPostalZipCode">21601</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Address of principal executive offices) (Zip Code)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>(<span id="xdx_903_edei--CityAreaCode_c20260706__20260706_zffEgtxHdCS9"><ix:nonNumeric contextRef="AsOf2026-07-06" id="Fact000019" name="dei:CityAreaCode">410</ix:nonNumeric></span>) <span id="xdx_902_edei--LocalPhoneNumber_c20260706__20260706_zEJ3GtuzrBF"><ix:nonNumeric contextRef="AsOf2026-07-06" id="Fact000020" name="dei:LocalPhoneNumber">770-9500</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Registrant&#8217;s telephone number, including
+area code)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Check the appropriate box below if the Form&#160;8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (<i>see</i> General Instruction
+A.2. below):</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="width: 3%"><span style="font-family: Wingdings"><span id="xdx_90E_edei--WrittenCommunications_c20260706__20260706_zbPlhmM9qFEl"><ix:nonNumeric contextRef="AsOf2026-07-06" format="ixt:booleanfalse" id="Fact000021" name="dei:WrittenCommunications">&#168;</ix:nonNumeric></span></span></td>
+    <td style="width: 97%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Written communications pursuant to Rule&#160;425 under the Securities Act (17 CFR 230.425)</span></td></tr>
+  <tr style="vertical-align: bottom">
+    <td>&#160;</td>
+    <td>&#160;</td></tr>
+  <tr style="vertical-align: bottom">
+    <td><span style="font-family: Wingdings"><span id="xdx_90D_edei--SolicitingMaterial_c20260706__20260706_z4DVyvgfCzha"><ix:nonNumeric contextRef="AsOf2026-07-06" format="ixt:booleanfalse" id="Fact000022" name="dei:SolicitingMaterial">&#168;</ix:nonNumeric></span></span></td>
+    <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Soliciting material pursuant to Rule&#160;14a-12 under the Exchange Act (17 CFR 240.14a-12)</span></td></tr>
+  <tr style="vertical-align: bottom">
+    <td>&#160;</td>
+    <td>&#160;</td></tr>
+  <tr style="vertical-align: bottom">
+    <td><span style="font-family: Wingdings"><span id="xdx_900_edei--PreCommencementTenderOffer_c20260706__20260706_zA3eP1c8owTf"><ix:nonNumeric contextRef="AsOf2026-07-06" format="ixt:booleanfalse" id="Fact000023" name="dei:PreCommencementTenderOffer">&#168;</ix:nonNumeric></span></span></td>
+    <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Pre-commencement communications pursuant to Rule&#160;14d-2(b)&#160;under the Exchange Act (17 CFR 240.14d-2(b))</span></td></tr>
+  <tr style="vertical-align: bottom">
+    <td>&#160;</td>
+    <td>&#160;</td></tr>
+  <tr style="vertical-align: bottom">
+    <td><span style="font-family: Wingdings"><span id="xdx_903_edei--PreCommencementIssuerTenderOffer_c20260706__20260706_zmfIIlkeiPj4"><ix:nonNumeric contextRef="AsOf2026-07-06" format="ixt:booleanfalse" id="Fact000024" name="dei:PreCommencementIssuerTenderOffer">&#168;</ix:nonNumeric></span></span></td>
+    <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Pre-commencement communications pursuant to Rule&#160;13e-4(c)&#160;under the Exchange Act (17 CFR 240.13e-4(c))</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.25in; text-indent: -0.25in">Securities registered pursuant to
+Section&#160;12(b)&#160;of the Act:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="border-top: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-top: 2pt; width: 42%; padding-bottom: 1pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Title of each class</span></td>
+    <td style="border-top: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-top: 2pt; width: 18%; padding-bottom: 1pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Trading
+    Symbol(s)</span></td>
+    <td style="border: black 1pt solid; padding-top: 2pt; width: 40%; padding-bottom: 1pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name of each exchange on which <br/>
+registered</span></td></tr>
+  <tr style="vertical-align: bottom">
+    <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; text-align: center; padding-left: 5pt; padding-top: 2pt; padding-bottom: 1pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_90C_edei--Security12bTitle_c20260706__20260706_z89d5nxIeqY3"><ix:nonNumeric contextRef="AsOf2026-07-06" id="Fact000025" name="dei:Security12bTitle">Common stock, $0.001 par value per share</ix:nonNumeric></span></span></td>
+    <td style="border-bottom: black 1pt solid; border-left: black 1pt solid; padding-top: 2pt; padding-bottom: 1pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_902_edei--TradingSymbol_c20260706__20260706_zHHZaIUYKEVl"><ix:nonNumeric contextRef="AsOf2026-07-06" id="Fact000026" name="dei:TradingSymbol">WULF</ix:nonNumeric></span></span></td>
+    <td style="border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding-top: 2pt; padding-bottom: 1pt; text-align: center">The <span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><span id="xdx_90D_edei--SecurityExchangeName_c20260706__20260706_zygOg7fy2jeh"><ix:nonNumeric contextRef="AsOf2026-07-06" format="ixt-sec:exchnameen" id="Fact000027" name="dei:SecurityExchangeName">Nasdaq</ix:nonNumeric></span> Capital Market</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule&#160;405 of the Securities Act of 1933 (&#167;230.405 of this chapter) or Rule&#160;12b-2
+of the Securities Exchange Act of 1934 (&#167;240.12b-2 of this chapter).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Emerging growth company <span style="font-family: Wingdings"><span id="xdx_90E_edei--EntityEmergingGrowthCompany_c20260706__20260706_zyhY12tHnMj8"><ix:nonNumeric contextRef="AsOf2026-07-06" format="ixt:booleanfalse" id="Fact000028" name="dei:EntityEmergingGrowthCompany">&#168;</ix:nonNumeric></span></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section&#160;13(a)&#160;of the Exchange Act. <span style="font-family: Wingdings">&#168;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 3pt; margin-bottom: 3pt; width: 100%"><div style="border-top: Black 1pt solid; border-bottom: Black 2pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 1 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt"></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>Item 8.01. Other Events.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><i>Justified Data Campus Lease</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">On July&#160;6, 2026,
+TeraWulf Inc. (the &#8220;Company&#8221;) announced that its subsidiary Raylan Data LLC (the &#8220;Landlord&#8221;) entered into a
+20-year lease agreement (the &#8220;Justified Data Campus Lease&#8221;) with Anthropic PBC (&#8220;Anthropic&#8221;), as tenant.
+Under the Justified Data Campus Lease, the Landlord will provide Anthropic with approximately 401 MW of critical IT load for
+high-performance computing (&#8220;HPC&#8221;) operations at the Company&#8217;s data center campus located in Hawesville, Kentucky
+(the &#8220;Justified Data Campus&#8221;). Delivery of the leased capacity is expected to occur in phases beginning in late 2027 and
+concluding in early 2028. Anthropic&#8217;s obligation to pay rent under the Justified Data Campus Lease will commence upon the
+delivery of the applicable leased premises and continue for a term of 20 years thereafter, subject to Anthropic&#8217;s option to
+extend the term for up to an additional ten years through two successive five-year renewal options. Anthropic&#8217;s payment
+obligations under the Justified Data Campus Lease are expected to be supported by an investment-grade credit.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><i>Abernathy Transaction</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">On July 6, 2026 (the
+&#8220;Closing Date&#8221;), the Company announced that Big Country Wulf LLC, a subsidiary of the Company (the &#8220;TeraWulf
+Member&#8221;), entered into a Membership Interest Purchase Agreement (the &#8220;Purchase Agreement&#8221;) with Fluidstack CS I
+Inc. (&#8220;Fluidstack&#8221;) and certain other purchasers (together with Fluidstack, the &#8220;Purchasers&#8221;), pursuant to
+which the TeraWulf Member agreed to sell to the Purchasers, and the Purchasers agreed to purchase from the TeraWulf Member, all of
+the TeraWulf Member&#8217;s equity interests in FS CS I LLC (the &#8220;Transaction&#8221;). The aggregate consideration payable to
+the TeraWulf Member in the Transaction is approximately $530 million, payable in three installments: (i)&#160;$250 million within
+14 days following execution of the Purchase Agreement, (ii)&#160;$150 million on or before December&#160;31, 2026, and
+(iii)&#160;approximately $130 million, subject to certain adjustments, on or before April&#160;30, 2027.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">In connection with the Transaction,
+the TeraWulf Member, FS CS I LLC, and the Purchasers have each agreed to provide mutual releases of claims, subject to the terms and conditions
+set forth in the Purchase Agreement. Upon consummation of the Transaction, TeraWulf Member will cease to own any equity interests in FS
+CS I LLC, subject to certain surviving rights and obligations as set forth in the Purchase Agreement.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">On July&#160;6, 2026, the
+Company issued a press release announcing the Justified Data Campus Lease and the Transaction. A copy of the press release is attached
+hereto as Exhibit&#160;99.1 and incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>Item&#8201;9.01. Financial Statements and
+Exhibits.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">(d)&#160;Exhibits.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr>
+    <td style="border-bottom: black 1pt solid; vertical-align: top; width: 10%">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Exhibit</b></p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>No.</b></p></td>
+    <td style="vertical-align: top; padding-bottom: 1pt; width: 2%">&#160;</td>
+    <td style="border-bottom: black 1pt solid; vertical-align: bottom; width: 88%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Description</b></span></td></tr>
+  <tr style="vertical-align: top">
+    <td><a href="tm2619468d1_ex99-1.htm" style="-sec-extract: exhibit"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">99.1</span></a></td>
+    <td>&#160;</td>
+    <td><a href="tm2619468d1_ex99-1.htm" style="-sec-extract: exhibit"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Press Release issued by TeraWulf Inc., dated July&#160;6, 2026.</span></a></td></tr>
+  <tr style="vertical-align: top">
+    <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">104</span></td>
+    <td>&#160;</td>
+    <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Cover Page&#160;Interactive Data File (embedded within the Inline XBRL document).</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 2 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tr style="vertical-align: top; text-align: left"><td style="width: 100%">&#160;</td></tr></table></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>Forward Looking Statements</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">This Current Report on Form&#160;8-K
+contains forward-looking statements within the meaning of the &#8220;safe harbor&#8221; provisions of the Private Securities Litigation
+Reform Act of 1995, as amended. Such forward-looking statements include statements concerning anticipated future events and expectations
+that are not historical facts. All statements, other than statements of historical fact, are statements that could be deemed forward-looking
+statements. In addition, forward-looking statements are typically identified by words such as &#8220;plan,&#8221; &#8220;believe,&#8221;
+&#8220;goal,&#8221; &#8220;target,&#8221; &#8220;aim,&#8221; &#8220;expect,&#8221; &#8220;anticipate,&#8221; &#8220;intend,&#8221; &#8220;outlook,&#8221;
+&#8220;estimate,&#8221; &#8220;forecast,&#8221; &#8220;project,&#8221; &#8220;seek,&#8221; &#8220;continue,&#8221; &#8220;could,&#8221;
+&#8220;may,&#8221; &#8220;might,&#8221; &#8220;possible,&#8221; &#8220;potential,&#8221; &#8220;strategy,&#8221; &#8220;opportunity,&#8221;
+&#8220;predict,&#8221; &#8220;should,&#8221; &#8220;would&#8221; and other similar words and expressions, although the absence of these
+words or expressions does not mean that a statement is not forward-looking. Forward-looking statements are based on the current expectations
+and beliefs of TeraWulf's management and are inherently subject to a number of factors, risks, uncertainties and assumptions and their
+potential effects. There can be no assurance that future developments will be those that have been anticipated. Actual results may vary
+materially from those expressed or implied by forward-looking statements based on a number of factors, risks, uncertainties and assumptions,
+including, among others: (1)&#160;our ability to attract additional customers to lease our HPC data centers; (2)&#160;our ability to perform
+under our existing data center lease agreements; (3)&#160;changes in applicable laws, regulations and/or permits affecting TeraWulf's
+operations or the industries in which it operates; (4)&#160;the ability to implement certain business objectives, including its HPC data
+center development, and to timely and cost-effectively execute related projects; (5)&#160;failure to obtain adequate financing on a timely
+basis and/or on acceptable terms with regard to expansion or existing operations; (6)&#160;adverse geopolitical or economic conditions,
+including a high inflationary environment and the implementation of new tariffs and more restrictive trade regulations; (7)&#160;the potential
+of cybercrime, money-laundering, malware infections and phishing and/or loss and interference as a result of equipment malfunction or
+break-down, physical disaster, data security breach, computer malfunction or sabotage (and the costs associated with any of the foregoing);
+(8)&#160;the availability and cost of power as well as electrical infrastructure equipment necessary to maintain and grow the business
+and operations of TeraWulf; (9)&#160;operational and financial risks associated with the development of data center campuses, including
+risks associated with financing project-related costs; and (10)&#160;other risks and uncertainties detailed from time to time in the Company's
+filings with the Securities and Exchange Commission (&#8220;SEC&#8221;). Potential investors, stockholders and other readers are cautioned
+not to place undue reliance on these forward-looking statements, which speak only as of the date on which they were made. TeraWulf does
+not assume any obligation to publicly update any forward-looking statement after it was made, whether as a result of new information,
+future events or otherwise, except as required by law or regulation. Investors are referred to the full discussion of risks and uncertainties
+associated with forward-looking statements and the discussion of risk factors contained in the Company's filings with the SEC, which are
+available at www.sec.gov.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"></p>
+
+<!-- Field: Page; Sequence: 3 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt"></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SIGNATURES</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td><span style="font-size: 10pt">Date: July 6, 2026</span></td>
+    <td colspan="2"><span style="font-size: 10pt"><b>TERAWULF &#160;INC.</b></span></td></tr>
+  <tr style="vertical-align: top">
+    <td style="width: 50%">&#160;</td>
+    <td style="width: 5%">&#160;</td>
+    <td style="width: 45%">&#160;</td></tr>
+  <tr style="vertical-align: top">
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt">By:</span></td>
+    <td style="border-bottom: black 1pt solid"><span style="font-size: 10pt">/s/ Patrick A. Fleury</span></td></tr>
+  <tr style="vertical-align: top">
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt">Name:</span></td>
+    <td><span style="font-size: 10pt">Patrick A. Fleury</span></td></tr>
+  <tr style="vertical-align: top">
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt">Title:</span></td>
+    <td><span style="font-size: 10pt">Chief Financial Officer</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 4; Options: Last -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt"></p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<!-- Field: Set; Name: xdx; ID: xdx_08B_extensions -->
+<!-- eJxFjdEKwjAMRb9g/xD6LLMbKLpHh4o4RcYQX4vLpLg1I61TP8m/tNsQQyAk955cISZiSxtdI8NllWdQYNPWyiHkWCGjuaJ3pLt9An7meNPWsTJuWH9gSp5Bz8zDSPn74Oy0xTIBuZhG8TSegVwmcgangwh6PSVT6RKN06oGZUo4MbWs0Sl+jx8K9SJDzXtIOiNbTSaBKJSj/IFYRjEcqVNP4ruFLEtFMBkqEFumR+td65dD05OwrrHxcXak/x18Ac20SmA= -->
+<script type="text/javascript"  src="/N3AEOPt9/dJoipWz/rYwIB5c/dg/YEaQGVVmDJktp27Xmu/SixucGdeLAQ/KXhNJ/AQsW1I"></script></body>
+</html>

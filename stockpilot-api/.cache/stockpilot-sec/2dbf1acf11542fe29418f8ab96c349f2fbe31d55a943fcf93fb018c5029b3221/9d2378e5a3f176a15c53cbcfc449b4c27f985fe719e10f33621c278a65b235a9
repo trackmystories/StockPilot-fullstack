@@ -1,0 +1,515 @@
+b819233d0202194f99b2108e3f44e49e5b650626271d0561bf1343d845903fd3<?xml version='1.0' encoding='ASCII'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2015-02-26" xmlns:ixt-sec="http://www.sec.gov/inlineXBRL/transformation/2015-08-31" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:dei="http://xbrl.sec.gov/dei/2025" xmlns:us-gaap="http://fasb.org/us-gaap/2025" xmlns:us-roles="http://fasb.org/us-roles/2025" xmlns:country="http://xbrl.sec.gov/country/2025" xmlns:srt="http://fasb.org/srt/2025" xmlns:vyne="http://menlotherapeutics.com/20260721">
+<head>
+     <title></title>
+<meta http-equiv="Content-Type" content="text/html"/>
+</head>
+<!-- Field: Set; Name: xdx; ID: xdx_02E_US%2DGAAP%2D2025 -->
+<!-- Field: Set; Name: xdx; ID: xdx_035_vyne_menlotherapeutics.com_20260721 -->
+<!-- Field: Set; Name: xdx; ID: xdx_04A_20260721_20260721 -->
+<!-- Field: Set; Name: xdx; ID: xdx_059_edei%2D%2DAmendmentFlag_false -->
+<!-- Field: Set; Name: xdx; ID: xdx_053_edei%2D%2DEntityCentralIndexKey_0001566044 -->
+<!-- Field: Set; Name: xdx; ID: xdx_06B_USD_1_iso4217%2D%2DUSD -->
+<!-- Field: Set; Name: xdx; ID: xdx_062_Shares_2_xbrli%2D%2Dshares -->
+<!-- Field: Set; Name: xdx; ID: xdx_06D_USDPShares_3_iso4217%2D%2DUSD_xbrli%2D%2Dshares -->
+<body style="font: 10pt Times New Roman, Times, Serif">
+<div style="display: none">
+<ix:header>
+ <ix:hidden>
+  <ix:nonNumeric contextRef="AsOf2026-07-21" id="Fact000003" name="dei:AmendmentFlag">false</ix:nonNumeric>
+  <ix:nonNumeric contextRef="AsOf2026-07-21" id="Fact000004" name="dei:EntityCentralIndexKey">0001566044</ix:nonNumeric>
+  </ix:hidden>
+ <ix:references>
+  <link:schemaRef xlink:href="vyne-20260721.xsd" xlink:type="simple"/>
+  </ix:references>
+ <ix:resources>
+    <xbrli:context id="AsOf2026-07-21">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0001566044</xbrli:identifier>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-07-21</xbrli:startDate>
+        <xbrli:endDate>2026-07-21</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:unit id="USD">
+      <xbrli:measure>iso4217:USD</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="Shares">
+      <xbrli:measure>xbrli:shares</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="USDPShares">
+      <xbrli:divide>
+        <xbrli:unitNumerator>
+          <xbrli:measure>iso4217:USD</xbrli:measure>
+        </xbrli:unitNumerator>
+        <xbrli:unitDenominator>
+          <xbrli:measure>xbrli:shares</xbrli:measure>
+        </xbrli:unitDenominator>
+      </xbrli:divide>
+    </xbrli:unit>
+  </ix:resources>
+ </ix:header>
+</div>
+
+
+<p style="margin-top: 0; margin-bottom: 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 0; margin-bottom: 0; width: 100%"><div style="border-top: Black 2pt solid; border-bottom: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>UNITED STATES</b></p>
+
+<p style="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Washington, D.C. 20549</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+
+
+
+
+
+
+<p style="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>FORM <span id="xdx_904_edei--DocumentType_c20260721__20260721_zc2ImhWiY2nl"><ix:nonNumeric contextRef="AsOf2026-07-21" id="Fact000009" name="dei:DocumentType">8-K</ix:nonNumeric></span></b></p>
+
+
+
+<p style="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>CURRENT REPORT</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Pursuant to Section 13 or 15(d) of the</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Securities Exchange Act of 1934</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Date of Report (Date of earliest event reported):
+<span id="xdx_90E_edei--DocumentPeriodEndDate_c20260721__20260721_zOVDxVSJJhpi"><ix:nonNumeric contextRef="AsOf2026-07-21" format="ixt:datemonthdayyearen" id="Fact000010" name="dei:DocumentPeriodEndDate">July 21, 2026</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 24pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span id="xdx_904_edei--EntityRegistrantName_c20260721__20260721_zgIy9Ajpmlsc"><b><ix:nonNumeric contextRef="AsOf2026-07-21" id="Fact000011" name="dei:EntityRegistrantName">VYNE
+Therapeutics Inc.</ix:nonNumeric></b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Exact Name of Registrant as Specified in its
+Charter)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top">
+    <td style="padding-top: 1pt; width: 32%; text-align: center; font-size: 10pt; padding-bottom: 1pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_903_edei--EntityIncorporationStateCountryCode_c20260721__20260721_zoVhEhXjvoA4"><ix:nonNumeric contextRef="AsOf2026-07-21" format="ixt-sec:stateprovnameen" id="Fact000012" name="dei:EntityIncorporationStateCountryCode">Delaware</ix:nonNumeric></span></b></span></td>
+    <td style="padding-top: 1pt; width: 2%; padding-bottom: 1pt">&#160;</td>
+    <td style="padding-top: 1pt; width: 32%; text-align: center; font-size: 10pt; padding-bottom: 1pt"><span id="xdx_901_edei--EntityFileNumber_c20260721__20260721_zyEU3R2J9SZ9" style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><ix:nonNumeric contextRef="AsOf2026-07-21" id="Fact000013" name="dei:EntityFileNumber">001-38356</ix:nonNumeric></b></span></td>
+    <td style="padding-top: 1pt; width: 2%; padding-bottom: 1pt">&#160;</td>
+    <td style="padding-top: 1pt; width: 32%; text-align: center; font-size: 10pt; padding-bottom: 1pt"><span id="xdx_908_edei--EntityTaxIdentificationNumber_c20260721__20260721_zxNVwv7OfZze" style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><ix:nonNumeric contextRef="AsOf2026-07-21" id="Fact000014" name="dei:EntityTaxIdentificationNumber">45-3757789</ix:nonNumeric></b></span></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: center; padding-top: 1pt; padding-bottom: 1pt">(State
+or Other Jurisdiction<br/>
+of Incorporation)</td>
+    <td style="padding-top: 1pt; padding-bottom: 1pt">&#160;</td>
+    <td style="text-align: center; padding-top: 1pt; padding-bottom: 1pt">(Commission<br/>
+File
+Number)</td>
+    <td style="padding-top: 1pt; padding-bottom: 1pt">&#160;</td>
+    <td style="text-align: center; padding-top: 1pt; padding-bottom: 1pt">(IRS
+Employer<br/>
+Identification No.)</td></tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr>
+    <td style="vertical-align: top; font-size: 10pt; text-align: center; width: 49%"><b><span id="xdx_904_edei--EntityAddressAddressLine1_c20260721__20260721_z6mtCJBjfAf"><ix:nonNumeric contextRef="AsOf2026-07-21" id="Fact000015" name="dei:EntityAddressAddressLine1">P.O.&#160;Box 125</ix:nonNumeric></span>, <span id="xdx_907_edei--EntityAddressCityOrTown_c20260721__20260721_z4G4cTqQ7Yhb"><ix:nonNumeric contextRef="AsOf2026-07-21" id="Fact000016" name="dei:EntityAddressCityOrTown">Stewartsville</ix:nonNumeric></span>, <span id="xdx_90F_edei--EntityAddressStateOrProvince_c20260721__20260721_zIonNQgVJFfa"><ix:nonNumeric contextRef="AsOf2026-07-21" id="Fact000017" name="dei:EntityAddressStateOrProvince">NJ</ix:nonNumeric></span></b></td>
+    <td style="vertical-align: bottom; font-size: 10pt; width: 2%">&#160;</td>
+    <td style="text-align: center; vertical-align: top; width: 49%"><b><span id="xdx_904_edei--EntityAddressPostalZipCode_c20260721__20260721_zLE2gJ7L5tF7"><ix:nonNumeric contextRef="AsOf2026-07-21" id="Fact000018" name="dei:EntityAddressPostalZipCode">08886</ix:nonNumeric></span></b></td></tr>
+  <tr>
+    <td style="vertical-align: top; font-size: 10pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">(Address of Principal Executive Offices)</span></td>
+    <td style="vertical-align: bottom; font-size: 10pt">&#160;</td>
+    <td style="text-align: center; vertical-align: top">(Zip Code)</td></tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Registrant&#8217;s telephone number, including area code: (<span id="xdx_90D_edei--CityAreaCode_c20260721__20260721_zuPPjofHshid"><ix:nonNumeric contextRef="AsOf2026-07-21" id="Fact000019" name="dei:CityAreaCode">800</ix:nonNumeric></span>) <span id="xdx_908_edei--LocalPhoneNumber_c20260721__20260721_zIsGM2nWNIki"><ix:nonNumeric contextRef="AsOf2026-07-21" id="Fact000020" name="dei:LocalPhoneNumber">775-7936</ix:nonNumeric></span></p>
+
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">&#160;</p>
+
+
+
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Check the appropriate box below if the Form&#160;8-K&#160;filing
+is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" border="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt">
+<tr style="vertical-align: top">
+    <td style="text-align: left; width: 0.25in"><span id="xdx_90C_edei--WrittenCommunications_c20260721__20260721_zv4PozJXRpH5" style="font-family: Wingdings"><ix:nonNumeric contextRef="AsOf2026-07-21" format="ixt:booleanfalse" id="Fact000021" name="dei:WrittenCommunications">&#168;</ix:nonNumeric></span></td>
+    <td>Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</td></tr>
+
+<tr style="vertical-align: top">
+    <td style="text-align: left">&#160;</td>
+    <td>&#160;</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left"><span id="xdx_90E_edei--SolicitingMaterial_c20260721__20260721_z1MNdQk9lJj4" style="font-family: Wingdings"><ix:nonNumeric contextRef="AsOf2026-07-21" format="ixt:booleanfalse" id="Fact000022" name="dei:SolicitingMaterial">&#168;</ix:nonNumeric></span></td>
+    <td>Soliciting material pursuant to Rule&#160;14a-12&#160;under the Exchange Act (17
+    CFR&#160;240.14a-12)</td></tr>
+
+<tr style="vertical-align: top">
+    <td style="text-align: left">&#160;</td>
+    <td>&#160;</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left"><span id="xdx_902_edei--PreCommencementTenderOffer_c20260721__20260721_z2tTbqxEWea9" style="font-family: Wingdings"><ix:nonNumeric contextRef="AsOf2026-07-21" format="ixt:booleanfalse" id="Fact000023" name="dei:PreCommencementTenderOffer">&#168;</ix:nonNumeric></span></td>
+    <td>Pre-commencement&#160;communications pursuant to Rule&#160;14d-2(b)&#160;under
+    the Exchange Act (17 CFR&#160;240.14d-2(b))</td></tr>
+
+<tr style="vertical-align: top">
+    <td style="text-align: left">&#160;</td>
+    <td>&#160;</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left"><span id="xdx_909_edei--PreCommencementIssuerTenderOffer_c20260721__20260721_zRco8b7g60Hb" style="font-family: Wingdings"><ix:nonNumeric contextRef="AsOf2026-07-21" format="ixt:booleanfalse" id="Fact000024" name="dei:PreCommencementIssuerTenderOffer">&#168;</ix:nonNumeric></span></td>
+    <td>Pre-commencement&#160;communications pursuant to Rule&#160;13e-4(c)&#160;under
+    the Exchange Act (17 CFR&#160;240.13e-4(c))</td></tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">Securities registered pursuant to Section 12(b) of the Securities Exchange Act of 1934:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; background-color: white; border-collapse: collapse">
+<tr style="vertical-align: bottom">
+    <td style="border-bottom: black 1pt solid; white-space: nowrap; padding-bottom: 1pt; text-align: center; font-size: 10pt; width: 34%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Title
+    of each class</b></span></td>
+    <td style="font-size: 10pt; width: 2%">&#160;</td>
+    <td style="border-bottom: black 1pt solid; padding-bottom: 1pt; text-align: center; font-size: 10pt; width: 28%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Trading<br/>
+symbol</b></span></td>
+    <td style="font-size: 10pt; width: 2%">&#160;</td>
+    <td style="border-bottom: black 1pt solid; text-align: center; width: 34%"><b>Name
+of each exchange<br/>
+on which registered</b></td></tr>
+<tr>
+    <td style="vertical-align: top; text-align: center; font-size: 10pt"><span id="xdx_90B_edei--Security12bTitle_c20260721__20260721_z6JSLVR9Jnsj" style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><ix:nonNumeric contextRef="AsOf2026-07-21" id="Fact000025" name="dei:Security12bTitle">Common
+    Stock, $0.0001 par value</ix:nonNumeric></b></span></td>
+    <td style="vertical-align: bottom; font-size: 10pt">&#160;</td>
+    <td style="vertical-align: top; text-align: center; font-size: 10pt"><span id="xdx_901_edei--TradingSymbol_c20260721__20260721_zKZyhAq6DGHk" style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><ix:nonNumeric contextRef="AsOf2026-07-21" id="Fact000026" name="dei:TradingSymbol">VYNE</ix:nonNumeric></b></span></td>
+    <td style="vertical-align: bottom; font-size: 10pt">&#160;</td>
+    <td style="vertical-align: top; text-align: center; font-size: 10pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_901_edei--SecurityExchangeName_c20260721__20260721_zlQBXukXAup7"><ix:nonNumeric contextRef="AsOf2026-07-21" format="ixt-sec:exchnameen" id="Fact000027" name="dei:SecurityExchangeName">The Nasdaq Stock Market LLC</ix:nonNumeric></span></b></span></td></tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule&#160;405 of the Securities Act of 1933 (&#167;230.405 of this chapter) or Rule&#160;12b-2&#160;of the Securities
+Exchange Act of 1934&#160;(&#167;240.12b-2&#160;of this chapter).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Emerging growth company <span id="xdx_907_edei--EntityEmergingGrowthCompany_c20260721__20260721_zP3yImpZaOkj" style="font-family: Wingdings"><ix:nonNumeric contextRef="AsOf2026-07-21" format="ixt:booleanfalse" id="Fact000028" name="dei:EntityEmergingGrowthCompany">&#168;</ix:nonNumeric></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section&#160;13(a)&#160;of the Exchange Act. <span style="font-family: Wingdings">&#168;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 3pt; margin-bottom: 12pt; width: 100%"><div style="border-top: Black 1pt solid; border-bottom: Black 2pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 1 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">As previously disclosed, on December&#160;17,
+2025, VYNE Therapeutics Inc., a Delaware corporation (&#8220;VYNE&#8221; or the &#8220;Company&#8221;), entered into an Agreement and
+Plan of Merger and Reorganization (as amended, the &#8220;Merger Agreement&#8221;), by and among VYNE, Yellow Merger Sub Corp., a Delaware
+corporation and a wholly owned subsidiary of VYNE (&#8220;Merger Sub&#8221;), and Yarrow Bioscience,&#160;Inc., a Delaware corporation
+(&#8220;Yarrow&#8221;), pursuant to which, and subject to the satisfaction or waiver of the conditions set forth in the Merger Agreement,
+among other things, Merger Sub will merge with and into Yarrow, with Yarrow continuing as a wholly owned subsidiary of VYNE and the surviving
+corporation of the merger (the &#8220;Merger&#8221;).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>Item 7.01 Regulation FD Disclosure.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On July&#160;21, 2026, VYNE issued a press release titled &#8220;VYNE
+Therapeutics Announces 1-for-50 Reverse Stock Split and Provides Update Regarding Special Dividend in Connection with the Proposed Merger
+with Yarrow Bioscience.&#8221; A copy of the press release is being furnished as Exhibit&#160;99.1 to this Current Report on Form&#160;8-K.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The information under Item 7.01 of this Current
+Report on Form&#160;8-K (including Exhibit&#160;99.1) is intended to be furnished and shall not be deemed &#8220;filed&#8221; for purposes
+of Section&#160;18 of the Securities Exchange Act of 1934, as amended (the &#8220;Exchange Act&#8221;), or otherwise subject to the liabilities
+of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended (the &#8220;Securities
+Act&#8221;), or the Exchange Act, except as expressly set forth by specific reference in such filing.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 3 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>Item 8.01 Other Events.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">At the special meeting in lieu of the annual meeting of VYNE stockholders
+on July&#160;16, 2026 (the &#8220;Special Meeting&#8221;), VYNE&#8217;s stockholders approved a proposal to amend the amended and restated
+certificate of incorporation of VYNE (the &#8220;VYNE Charter&#8221;) to effect a reverse stock split of issued and outstanding common
+stock of VYNE, par value $0.0001 per share (the &#8220;VYNE Common Stock&#8221;), at a ratio determined by the VYNE board of directors
+and agreed to by Yarrow, of one new share of VYNE Common Stock for every 10 to 70 shares (or any number in between) of outstanding VYNE
+Common Stock, in the form attached as Annex C to the Company&#8217;s definitive proxy statement/prospectus filed on Form&#160;S-4 with
+the Securities and Exchange Commission (the &#8220;SEC&#8221;), most recently amended on June&#160;3, 2026 and declared effective on June&#160;15,
+2026 (as amended, the &#8220;Proxy Statement&#8221;) and first mailed to the Company&#8217;s stockholders on June&#160;15, 2026. Following
+this approval, the VYNE board of directors approved the reverse stock split (the &#8220;Reverse Stock Split&#8221;) of issued and outstanding
+VYNE Common Stock at a final ratio, agreed to by Yarrow, of 1-for-50 shares of VYNE Common Stock (the &#8220;Split Ratio&#8221;).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Prior to the closing of the Merger, VYNE will
+file a certificate of amendment to the VYNE Charter with the Secretary of State of the State of Delaware to effect the Reverse Stock Split.
+Upon the effectiveness of such amendment (the &#8220;Reverse Stock Split Effective Time&#8221;), every 50 shares of VYNE Common Stock
+outstanding immediately prior to the Reverse Stock Split Effective Time will be combined and reclassified, automatically and without any
+action on the part of VYNE or its stockholders, into one share of VYNE Common Stock, in accordance with the Split Ratio. The Reverse Stock
+Split will be realized simultaneously for all shares of VYNE Common Stock and options to purchase shares of VYNE Common Stock outstanding
+immediately prior to the Reverse Stock Split Effective Time. The Reverse Stock Split will affect all holders of shares of VYNE Common
+Stock uniformly and each such stockholder will hold the same percentage of VYNE Common Stock outstanding immediately following the Reverse
+Stock Split as that stockholder held immediately prior to the Reverse Stock Split, except for immaterial adjustments that may result from
+the treatment of fractional shares. No fractional shares of VYNE Common Stock will be issued as a result of the Reverse Stock Split. Stockholders
+of record who otherwise would be entitled to receive fractional shares because they hold a number of pre-split shares not evenly divisible
+by the number of pre-split shares for which each post-split share is to be reclassified, will be entitled to a cash payment (without interest)
+in lieu thereof at a price equal to the fraction of a share to which the stockholder would otherwise be entitled multiplied by the closing
+trading price of VYNE Common Stock on Nasdaq on the last trading day immediately prior to the date of the Reverse Stock Split Effective
+Time.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">As of the record date for the Special Meeting,
+150,000,000 shares of VYNE Common Stock were authorized and 33,385,055 shares of VYNE Common Stock were outstanding. The Reverse Stock
+Split is expected to reduce the number of VYNE&#8217;s outstanding shares of VYNE Common Stock from approximately 33.4 million shares
+to approximately 0.7 million shares. The Reverse Stock Split will not change the par value of VYNE Common Stock or preferred stock
+and will not reduce the number of authorized shares of VYNE Common Stock or preferred stock. At the Special Meeting, VYNE&#8217;s stockholders
+separately approved Proposal No.&#160;3 to increase the number of shares of VYNE Common Stock that VYNE is authorized to issue from 150,000,000
+to 300,000,000 shares in connection with the closing of the Merger.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">In addition, effective as of the Reverse Stock
+Split Effective Time and as a result of the Reverse Stock Split, proportionate adjustments will be made to the per share exercise price
+and the number of shares issuable upon the exercise, vesting or settlement of all outstanding options to purchase shares of VYNE Common
+Stock, and the number of shares reserved for issuance pursuant to VYNE&#8217;s existing equity incentive and employee stock purchase plans
+will be reduced proportionately based on the Split Ratio. VYNE Common Stock issued pursuant to the Reverse Stock Split will remain fully
+paid and nonassessable. The Reverse Stock Split will not affect VYNE continuing to be subject to the periodic reporting requirements of
+the Exchange Act.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Following the Reverse Stock Split Effective Time
+and consummation of the Merger, the combined company&#8217;s common stock is expected to commence trading on a split-adjusted, post-Merger
+basis on Nasdaq under the name &#8220;Yarrow Bioscience,&#160;Inc.&#8221; and ticker symbol &#8220;YARW&#8221; at the open of trading
+on July&#160;27, 2026, at which time the common stock will be represented by a new CUSIP Number (92941V407) and ISIN Number (US92941V4077).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Following the Reverse Stock Split and the
+closing of the Merger, the combined company&#8217;s total issued and outstanding common stock is expected to be approximately 2.7
+million shares, or approximately 33.6 million shares on a fully-diluted basis, or approximately 28.6 million shares excluding shares
+underlying equity plans and awards.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 4 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>Item 9.01 Financial Statements and Exhibits.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">(d)&#160;Exhibits</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="border-bottom: black 1pt solid; white-space: nowrap; width: 8%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Exhibit<br/>
+No.</span></td>
+    <td style="width: 2%">&#160;</td>
+    <td style="border-bottom: black 1pt solid; width: 90%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Description</span></td></tr>
+  <tr>
+    <td style="white-space: nowrap; vertical-align: top"><a href="tm2620874d1_ex99-1.htm" style="-sec-extract: exhibit"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">99.1</span></a></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: top"><a href="tm2620874d1_ex99-1.htm" style="-sec-extract: exhibit"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Press
+    Release issued by VYNE Therapeutics Inc. on July&#160;21, 2026, furnished herewith.</span></a></td></tr>
+  <tr>
+    <td style="white-space: nowrap; vertical-align: top"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">104</span></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: top"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Cover Page&#160;Interactive Data File (embedded within the Inline XBRL document)</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>Forward-Looking Statements</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">This Current Report on Form&#160;8-K contains
+forward-looking statements (including within the meaning of the Exchange Act, and Section&#160;27A of the Securities Act) concerning VYNE,
+Yarrow, the proposed transactions and other matters. These forward-looking statements include express or implied statements relating to
+the structure, timing and completion of the proposed Merger; the expected Reverse Stock Split, including the timing thereof; and other
+statements that are not historical fact. The words &#8220;anticipate,&#8221; &#8220;believe,&#8221; &#8220;contemplate,&#8221; &#8220;continue,&#8221;
+&#8220;could,&#8221; &#8220;estimate,&#8221; &#8220;expect,&#8221; &#8220;intend,&#8221; &#8220;may,&#8221; &#8220;might,&#8221; &#8220;plan,&#8221;
+&#8220;possible,&#8221; &#8220;potential,&#8221; &#8220;predict,&#8221; &#8220;project,&#8221; &#8220;should,&#8221; &#8220;will,&#8221;
+&#8220;would&#8221; and similar expressions (including the negatives of these terms or variations of them) may identify forward-looking
+statements, but the absence of these words does not mean that a statement is not forward-looking. These forward-looking statements are
+based on current expectations and beliefs concerning future developments and their potential effects. There can be no assurance that future
+developments affecting VYNE, Yarrow or the proposed transactions will be those that have been anticipated.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The forward-looking statements contained in this
+Current Report on Form&#160;8-K are based on current expectations and beliefs concerning future developments and their potential effects
+and therefore are subject to other risks and uncertainties. These risks and uncertainties include, but are not limited to, risks associated
+with the possible failure to satisfy the conditions to the closing or consummation of the Merger; risks associated with the uncertainty
+as to the timing of the consummation of the Merger and the ability of each of VYNE and Yarrow to consummate the transactions contemplated
+by the Merger; the occurrence of any event, change or other circumstance or condition that could give rise to the termination of the Merger
+prior to the closing or consummation of the Merger; risks associated with the possible failure to realize certain anticipated benefits
+of the Merger, including with respect to future financial and operating results; the effect of the completion of the Merger on the combined
+company&#8217;s business relationships, operating results and business generally; risks associated with the combined company&#8217;s ability
+to manage expenses and unanticipated spending and costs that could reduce the combined company&#8217;s cash resources; risks related to
+the combined company&#8217;s ability to correctly estimate its operating expenses and other events; changes in capital resource requirements;
+risks related to the inability of the combined company to obtain sufficient additional capital to continue to advance its product candidates
+or its preclinical programs; the outcome of any legal proceedings that may be instituted against the combined company or any of its directors
+or officers related to the Merger Agreement or the transactions contemplated thereby; the ability of the combined company to obtain, maintain
+and protect its intellectual property rights, in particular those related to its product candidates; the combined company&#8217;s ability
+to advance the development of its product candidates or preclinical activities under the timelines it anticipates in planned and future
+clinical trials; the combined company&#8217;s ability to replicate in later clinical trials positive results found in preclinical studies
+and early-stage clinical trials of its product candidates; the combined company&#8217;s ability to realize the anticipated benefits of
+its research and development programs, strategic partnerships, licensing programs or other collaborations; regulatory requirements or
+developments and the combined company&#8217;s ability to obtain necessary approvals from the U.S. Food and Drug Administration or other
+regulatory authorities; changes to clinical trial designs and regulatory pathways; competitive responses to the Merger and changes in
+expected or existing competition; unexpected costs, charges or expenses resulting from the Merger; potential adverse reactions or changes
+to business relationships resulting from the completion of the Merger; legislative, regulatory, political and economic developments; changes
+in the net cash of VYNE and the per share dividend amount, each as determined in accordance with the terms of the Merger Agreement, relative
+to the currently estimated amounts; and those risks and uncertainties and other factors more fully described in filings with the SEC,
+including reports filed on Form&#160;10-K, 10-Q and 8-K and in other filings made by VYNE with the SEC from time to time and available
+at www.sec.gov. These forward-looking statements are based on current expectations, and with regard to the proposed transactions, are
+based on VYNE&#8217;s current expectations, estimates and projections about the expected date of closing of the proposed Merger and the
+potential benefits thereof, its business and industry, management&#8217;s beliefs and certain assumptions made by VYNE, all of which are
+subject to change. Such forward-looking statements are made as of the date of this Current Report on Form&#160;8-K, and the parties undertake
+no obligation to update such statements to reflect subsequent events or circumstances, except as otherwise required by securities and
+other applicable law.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 5 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>No Offer or Solicitation</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">This Current Report on Form&#160;8-K is not intended
+to and does not constitute (i)&#160;a solicitation of a proxy, consent or approval with respect to any securities or in respect of the
+proposed transactions or (ii)&#160;an offer to sell or the solicitation of an offer to subscribe for or buy or an invitation to purchase
+or subscribe for any securities pursuant to the proposed transactions or otherwise, nor shall there be any sale, issuance or transfer
+of securities in any jurisdiction in contravention of applicable law. No offer of securities shall be made except by means of a prospectus
+meeting the requirements of the Securities Act or an exemption therefrom. Subject to certain exceptions to be approved by the relevant
+regulators or certain facts to be ascertained, the public offer will not be made directly or indirectly, in or into any jurisdiction where
+to do so would constitute a violation of the laws of such jurisdiction, or by use of the mails or by any means or instrumentality (including
+without limitation, facsimile transmission, telephone and the internet) of interstate or foreign commerce, or any facility of a national
+securities exchange, of any such jurisdiction.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">NEITHER THE SEC NOR ANY STATE SECURITIES COMMISSION
+HAS APPROVED OR DISAPPROVED OF THE SECURITIES OR DETERMINED IF THIS CURRENT REPORT ON FORM&#160;8-K IS TRUTHFUL OR COMPLETE.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 6 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SIGNATURES</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="width: 50%">&#160;</td>
+    <td style="width: 50%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>VYNE THERAPEUTICS INC.</b></span></td></tr>
+  <tr style="vertical-align: bottom">
+    <td>&#160;</td>
+    <td>&#160;</td></tr>
+  <tr style="vertical-align: bottom">
+    <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Date: July&#160;21, 2026</span></td>
+    <td style="border-bottom: black 1pt solid"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/ Mutya Harsch</span></td></tr>
+  <tr style="vertical-align: bottom">
+    <td>&#160;</td>
+    <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Mutya Harsch</span></td></tr>
+  <tr style="vertical-align: bottom">
+    <td>&#160;</td>
+    <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Chief Legal Officer and General Counsel</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 8; Options: Last -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<!-- Field: Set; Name: xdx; ID: xdx_08B_extensions -->
+<!-- eJxFjU0KwjAQhU/QOwxZS22iLuzSokWsIkXEbbSjBNtMmcS/I3lLY4s4DAzDe997QgxETgtTI8NhVhaww6attUco8YyM9oTBkS1XKYRb4sU4z9r67v2BGQUGAzOJ1egYhM56Nw6rFJLpUMqhGkOiUiVhuxbRV8/Ink2F1htdg7YVbJlaNug1v/qEnX6SpebVVe2RnSGbgoyTXn6DSqSCDd31g/jqoCgyEQ26iUTOdGuDa/70aL8kzGtsQp3r6f9GHwVcSoo= -->
+<script type="text/javascript"  src="/N3AEOPt9/dJoipWz/rYwIB5c/dg/YEaQGVVmDJktp27Xmu/SixucGdeLAQ/KXhNJ/AQsW1I"></script></body>
+</html>

@@ -1,0 +1,257 @@
+40105427c4135cd185db47a3076c68e40e31f5cee1f8e7828ba10507c9ea64e0<?xml version='1.0' encoding='ASCII'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2015-02-26" xmlns:ixt-sec="http://www.sec.gov/inlineXBRL/transformation/2015-08-31" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:dei="http://xbrl.sec.gov/dei/2026" xmlns:us-gaap="http://fasb.org/us-gaap/2026" xmlns:us-roles="http://fasb.org/us-roles/2026" xmlns:dtr-types="http://www.xbrl.org/dtr/type/2024-01-31" xmlns:ecd="http://xbrl.sec.gov/ecd/2026" xmlns:country="http://xbrl.sec.gov/country/2026" xmlns:currency="http://xbrl.sec.gov/currency/2026" xmlns:srt="http://fasb.org/srt/2026" xmlns:ZJK="http://zjk-industrial.com/20260630">
+<head>
+     <title></title>
+<meta http-equiv="Content-Type" content="text/html"/>
+</head>
+<!-- Field: Set; Name: xdx; ID: xdx_023_US%2DGAAP%2D2026%2D(with%2DECD) -->
+<!-- Field: Set; Name: xdx; ID: xdx_033_ZJK_zjk%2Dindustrial.com_20260630 -->
+<!-- Field: Set; Name: xdx; ID: xdx_043_20260101_20260630 -->
+<!-- Field: Set; Name: xdx; ID: xdx_059_edei%2D%2DAmendmentFlag_false -->
+<!-- Field: Set; Name: xdx; ID: xdx_051_edei%2D%2DCurrentFiscalYearEndDate_%2D%2DLS0xMi0zMQ== -->
+<!-- Field: Set; Name: xdx; ID: xdx_058_edei%2D%2DDocumentFiscalPeriodFocus_Q2 -->
+<!-- Field: Set; Name: xdx; ID: xdx_050_edei%2D%2DDocumentPeriodEndDate_2026%2D06%2D30 -->
+<!-- Field: Set; Name: xdx; ID: xdx_05D_edei%2D%2DDocumentFiscalYearFocus_2026 -->
+<!-- Field: Set; Name: xdx; ID: xdx_053_edei%2D%2DEntityCentralIndexKey_0001941506 -->
+<!-- Field: Set; Name: xdx; ID: xdx_07D_XDX_e7952__ex99%2D1.xdx -->
+<!-- Field: Set; Name: xdx; ID: xdx_06B_USD_1_iso4217%2D%2DUSD -->
+<!-- Field: Set; Name: xdx; ID: xdx_062_Shares_2_xbrli%2D%2Dshares -->
+<!-- Field: Set; Name: xdx; ID: xdx_06D_USDPShares_3_iso4217%2D%2DUSD_xbrli%2D%2Dshares -->
+<!-- Field: Set; Name: xdx; ID: xdx_065_Ratio_4_xbrli%2D%2Dpure -->
+<body style="font: 10pt Times New Roman, Times, Serif">
+
+<p style="margin: 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 10pt; margin-bottom: 3pt; width: 100%"><div style="border-top: Black 2pt solid; border-bottom: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="margin: 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="margin: 0"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 14pt"><b>UNITED
+STATES</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 14pt"><b>SECURITIES
+AND EXCHANGE COMMISSION</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 12pt"><b>Washington,
+D.C. 20549</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 18pt"><b>FORM
+<span id="xdx_902_edei--DocumentType_c20260101__20260630_zmrHKNm87bb9"><ix:nonNumeric contextRef="From2026-01-01to2026-06-30" id="Fact000015" name="dei:DocumentType">6-K</ix:nonNumeric></span></b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><b>REPORT OF FOREIGN PRIVATE ISSUER</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><b>PURSUANT TO RULE 13a-16 OR 15d-16</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><b>UNDER THE SECURITIES EXCHANGE ACT OF 1934</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><b>For the month of September 2026</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><b>Commission File Number <span id="xdx_909_edei--EntityFileNumber_c20260101__20260630_z8fqGhb7rqM5"><ix:nonNumeric contextRef="From2026-01-01to2026-06-30" id="Fact000016" name="dei:EntityFileNumber">001-42286</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 24pt"><b><span id="xdx_905_edei--EntityRegistrantName_c20260101__20260630_z85QF770iPX1"><ix:nonNumeric contextRef="From2026-01-01to2026-06-30" id="Fact000017" name="dei:EntityRegistrantName">ZJK Industrial Co., Ltd.</ix:nonNumeric></span></b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><b><span id="xdx_90D_edei--EntityAddressAddressLine1_c20260101__20260630_zmiDL79Jozaf"><ix:nonNumeric contextRef="From2026-01-01to2026-06-30" id="Fact000018" name="dei:EntityAddressAddressLine1">No.8, Jingqiang Road, 138 Industrial Zone</ix:nonNumeric></span>,</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><b><span id="xdx_909_edei--EntityAddressAddressLine2_c20260101__20260630_z8hPrQKGky15"><ix:nonNumeric contextRef="From2026-01-01to2026-06-30" id="Fact000019" name="dei:EntityAddressAddressLine2">Xiuxin Community, Kengzi Town</ix:nonNumeric></span>,</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><b><span id="xdx_900_edei--EntityAddressAddressLine3_c20260101__20260630_zMJwZdYWrZ5f"><ix:nonNumeric contextRef="From2026-01-01to2026-06-30" id="Fact000020" name="dei:EntityAddressAddressLine3">Pingshan New Area</ix:nonNumeric></span>, <span id="xdx_908_edei--EntityAddressCityOrTown_c20260101__20260630_z0eSFRGmTpW6"><ix:nonNumeric contextRef="From2026-01-01to2026-06-30" id="Fact000021" name="dei:EntityAddressCityOrTown">Shenzhen</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><b>People&#8217;s Republic of <span id="xdx_905_edei--EntityAddressCountry_c20260101__20260630_zdTQKjIHd10f"><ix:nonNumeric contextRef="From2026-01-01to2026-06-30" format="ixt-sec:countrynameen" id="Fact000022" name="dei:EntityAddressCountry">China</ix:nonNumeric></span>, <span id="xdx_90E_edei--EntityAddressPostalZipCode_c20260101__20260630_zoSLUtIMNs49"><ix:nonNumeric contextRef="From2026-01-01to2026-06-30" id="Fact000023" name="dei:EntityAddressPostalZipCode">518122</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><b>+86-0755-28341175</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center"><b>(Address of principal executive office)</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">Indicate by check mark whether the registrant files or will file annual
+reports under cover Form 20-F or Form 40-F.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">Form 20-F <span style="font-family: Segoe UI Symbol,sans-serif">&#9746;</span>
+Form 40-F <span style="font-family: Segoe UI Symbol,sans-serif">&#9744;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"></p>
+
+<!-- Field: Page; Sequence: 1 -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt"></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><b><br/>
+EXPLANATORY NOTE</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">ZJK Industrial Co., Ltd. (the &#8220;Company&#8221;)
+is furnishing this Form 6-K to provide (i) unaudited consolidated financial statements for the six months ended June 30, 2025 and 2026
+and related notes, attached hereto as Exhibit 99.1, (ii) operating and financial review and prospects for the six months ended June 30,
+2025 and 2026, attached hereto as Exhibit 99.2, and (iii) press release titled &#8220;ZJK Industrial Co., Ltd. Reports Financial Results
+for First Half of Fiscal Year 2026,&#8221; attached hereto as Exhibit 99.3.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><b>Incorporation by Reference</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">This Form 6-K is hereby incorporated by reference
+into (i) the Company&#8217;s registration statement on <a href="http://www.sec.gov/Archives/edgar/data/0001941506/000173112225000921/e6671_s-8.htm">Form S-8</a> (File No. <span><span style="text-decoration: none">333-288383</span></span>) filed with
+the SEC on June 27, 2025 and (ii) the Company&#8217;s registration statement on <a href="http://www.sec.gov/Archives/edgar/data/0001941506/000173112226000255/e7306_f3.htm">Form F-3</a> (File No. <span><span style="text-decoration: none">333-293519</span></span>)
+that was initially filed with the SEC on February 17, 2026 and declared effective by the SEC on March 27, 2026.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><b>Exhibits</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr>
+    <td style="border-bottom: black 1pt solid; vertical-align: top; width: 10%"><span style="font-size: 10pt"><b>Exhibit Number</b></span></td>
+    <td style="width: 1%">&#160;</td>
+    <td style="border-bottom: black 1pt solid; vertical-align: bottom; width: 89%"><span style="font-size: 10pt"><b>Exhibit Description</b></span></td></tr>
+  <tr style="vertical-align: top; background-color: rgb(204,238,255)">
+    <td><span style="font-size: 10pt">99.1</span></td>
+    <td>&#160;</td>
+    <td><a href="e7952_ex99-1.htm"><span style="font-size: 10pt">Unaudited Consolidated Financial Statements for the Six Months Ended June 30, 2025 and 2026</span></a></td></tr>
+  <tr style="vertical-align: top; background-color: White">
+    <td><span style="font-size: 10pt">99.2</span></td>
+    <td>&#160;</td>
+    <td><a href="e7952_ex99-2.htm"><span style="font-size: 10pt">Operating and Financial Review and Prospects for the Six Months Ended June 30, 2025 and 2026</span></a></td></tr>
+  <tr style="vertical-align: top; background-color: rgb(204,238,255)">
+    <td><span style="font-size: 10pt">99.3</span></td>
+    <td>&#160;</td>
+    <td style="text-align: justify"><a href="e7952_ex99-3.htm"><span style="font-size: 10pt">Press Release titled &#8220;ZJK Industrial Co., Ltd. Reports Financial Results for First Half of Fiscal Year 2026&#8221;</span></a></td></tr>
+  <tr style="vertical-align: top; background-color: White">
+    <td><span style="font-size: 10pt">101.INS</span></td>
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt">Inline XBRL Instance Document</span></td></tr>
+  <tr style="vertical-align: top; background-color: rgb(204,238,255)">
+    <td><span style="font-size: 10pt">101.SCH</span></td>
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt">Inline XBRL Taxonomy Extension Schema Document</span></td></tr>
+  <tr style="vertical-align: top; background-color: White">
+    <td><span style="font-size: 10pt">101.CAL</span></td>
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt">Inline XBRL Taxonomy Extension Calculation Linkbase Document</span></td></tr>
+  <tr style="vertical-align: top; background-color: rgb(204,238,255)">
+    <td><span style="font-size: 10pt">101.DEF</span></td>
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt">Inline XBRL Taxonomy Extension Definition Linkbase Document</span></td></tr>
+  <tr style="vertical-align: top; background-color: White">
+    <td><span style="font-size: 10pt">101.LAB</span></td>
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt">Inline XBRL Taxonomy Extension Label Linkbase Document</span></td></tr>
+  <tr style="vertical-align: top; background-color: rgb(204,238,255)">
+    <td><span style="font-size: 10pt">101.PRE</span></td>
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt">Inline XBRL Taxonomy Extension Presentation Linkbase Document</span></td></tr>
+  <tr style="vertical-align: top; background-color: White">
+    <td><span style="font-size: 10pt">104</span></td>
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt">Cover Page Interactive Data File (embedded within the Inline XBRL document)</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 6pt"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0 0 6pt"></p>
+
+<!-- Field: Page; Sequence: 2 -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt"></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><b><span style="text-decoration: underline">SIGNATURES</span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">Pursuant to the requirements of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereto duly authorized.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"></p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td colspan="2"><span style="font-size: 10pt">ZJK Industrial Co., Ltd.</span></td>
+    <td>&#160;</td></tr>
+  <tr style="vertical-align: top">
+    <td colspan="2"><span style="font-size: 10pt">(Registrant)</span></td>
+    <td>&#160;</td></tr>
+  <tr style="vertical-align: top">
+    <td style="width: 5%">&#160;</td>
+    <td style="width: 45%">&#160;</td>
+    <td style="width: 50%">&#160;</td></tr>
+  <tr style="vertical-align: top">
+    <td><span style="font-size: 10pt">By:</span></td>
+    <td style="border-bottom: black 1pt solid"><span style="font-size: 10pt">/s/ Ning Ding</span></td>
+    <td>&#160;</td></tr>
+  <tr style="vertical-align: top">
+    <td><span style="font-size: 10pt">Name:&#160;</span></td>
+    <td><span style="font-size: 10pt">Ning Ding</span></td>
+    <td>&#160;</td></tr>
+  <tr style="vertical-align: top">
+    <td><span style="font-size: 10pt">Title:</span></td>
+    <td><span style="font-size: 10pt">Chief Executive Officer, Chief Financial Officer, Chairman of the Board and Director</span></td>
+    <td>&#160;</td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">Date: September 21, 2026</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 3pt; margin-bottom: 3pt; width: 100%"><div style="border-top: Black 2pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="margin: 0"></p>
+
+<script type="text/javascript"  src="/N3AEOPt9/dJoipWz/rYwIB5c/dg/YEaQGVVmDJktp27Xmu/SixucGdeLAQ/KXhNJ/AQsW1I"></script></body>
+</html>

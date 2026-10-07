@@ -1,0 +1,2115 @@
+{
+  "sourceRunId": "2026-09-24T15-26-27-001Z-53685267",
+  "symbol": "BTDR",
+  "sourceCalculationVersion": 2,
+  "calculationVersion": 3,
+  "asOf": "2026-09-25T12:00:10.481Z",
+  "published": false,
+  "limitations": [
+    "market_metrics_reused_without_raw_history",
+    "absolute_scores_only_peers_require_full_universe_recalculation",
+    "source_financials_not_independently_verified",
+    "preview_only_not_publishable",
+    "saved_quote_observations_disagree",
+    "equal_three_and_twelve_month_returns_review_history"
+  ],
+  "changes": {
+    "conviction": {
+      "before": null,
+      "after": null,
+      "coverage": 0,
+      "reasons": [
+        "incomplete_component_evidence",
+        "insufficient_core_evidence"
+      ]
+    },
+    "quality": {
+      "before": 1.6,
+      "after": null,
+      "coverage": 0.6,
+      "reasons": [
+        "incomplete_component_evidence"
+      ]
+    },
+    "growth": {
+      "before": 6.6,
+      "after": null,
+      "coverage": 0.57,
+      "reasons": [
+        "incomplete_component_evidence"
+      ]
+    },
+    "valuation": {
+      "before": null,
+      "after": null,
+      "coverage": 0.35,
+      "reasons": [
+        "incomplete_component_evidence"
+      ]
+    },
+    "financialHealth": {
+      "before": 2.8,
+      "after": null,
+      "coverage": 0.75,
+      "reasons": [
+        "incomplete_component_evidence"
+      ]
+    },
+    "momentum": {
+      "before": 5.3,
+      "after": 5.1,
+      "coverage": 1,
+      "reasons": []
+    },
+    "earningsQuality": {
+      "before": null,
+      "after": null,
+      "coverage": 0.4,
+      "reasons": [
+        "incomplete_component_evidence"
+      ]
+    },
+    "capitalEfficiency": {
+      "before": null,
+      "after": null,
+      "coverage": 0.3,
+      "reasons": [
+        "incomplete_component_evidence"
+      ]
+    },
+    "reratingPotential": {
+      "before": null,
+      "after": null,
+      "coverage": 0.15,
+      "reasons": [
+        "incomplete_component_evidence",
+        "insufficient_core_evidence"
+      ]
+    },
+    "execution": {
+      "before": 4.1,
+      "after": null,
+      "coverage": 0.25,
+      "reasons": [
+        "incomplete_component_evidence"
+      ]
+    },
+    "cashPower": {
+      "before": null,
+      "after": null,
+      "coverage": 0.4,
+      "reasons": [
+        "incomplete_component_evidence"
+      ]
+    },
+    "fundingPressure": {
+      "before": 8.7,
+      "after": 8.7,
+      "coverage": 1,
+      "reasons": []
+    },
+    "dilutionRisk": {
+      "before": 8.7,
+      "after": 8.7,
+      "coverage": 1,
+      "reasons": []
+    },
+    "balanceSheetResilience": {
+      "before": 2.6,
+      "after": null,
+      "coverage": 0.25,
+      "reasons": [
+        "incomplete_component_evidence"
+      ]
+    },
+    "growthDurability": {
+      "before": 7.7,
+      "after": null,
+      "coverage": 0.6,
+      "reasons": [
+        "incomplete_component_evidence"
+      ]
+    },
+    "marginPower": {
+      "before": 4,
+      "after": 3.8,
+      "coverage": 1,
+      "reasons": []
+    },
+    "capitalDiscipline": {
+      "before": null,
+      "after": null,
+      "coverage": 0.45,
+      "reasons": [
+        "incomplete_component_evidence"
+      ]
+    },
+    "earningsReliability": {
+      "before": null,
+      "after": null,
+      "coverage": 0.2,
+      "reasons": [
+        "incomplete_component_evidence"
+      ]
+    },
+    "businessEfficiency": {
+      "before": 2.9,
+      "after": null,
+      "coverage": 0.65,
+      "reasons": [
+        "incomplete_component_evidence"
+      ]
+    },
+    "valuationCompressionRisk": {
+      "before": null,
+      "after": null,
+      "coverage": 0.4,
+      "reasons": [
+        "incomplete_component_evidence",
+        "insufficient_core_evidence"
+      ]
+    },
+    "recovery": {
+      "before": null,
+      "after": null,
+      "coverage": 0.3,
+      "reasons": [
+        "incomplete_component_evidence",
+        "insufficient_core_evidence"
+      ]
+    },
+    "breakoutReadiness": {
+      "before": null,
+      "after": null,
+      "coverage": 0.5,
+      "reasons": [
+        "incomplete_component_evidence",
+        "insufficient_core_evidence"
+      ]
+    },
+    "fundamentalMomentum": {
+      "before": 5.5,
+      "after": null,
+      "coverage": 0.5,
+      "reasons": [
+        "incomplete_component_evidence"
+      ]
+    },
+    "survival": {
+      "before": 2.5,
+      "after": null,
+      "coverage": 0.35,
+      "reasons": [
+        "incomplete_component_evidence",
+        "insufficient_core_evidence"
+      ]
+    },
+    "shareholderFriendliness": {
+      "before": null,
+      "after": null,
+      "coverage": 0.35,
+      "reasons": [
+        "incomplete_component_evidence"
+      ]
+    },
+    "selfFunding": {
+      "before": null,
+      "after": null,
+      "coverage": 0.35,
+      "reasons": [
+        "incomplete_component_evidence",
+        "insufficient_core_evidence"
+      ]
+    },
+    "operatingLeverage": {
+      "before": 8.1,
+      "after": null,
+      "coverage": 1,
+      "reasons": [
+        "positive_operating_income_required",
+        "positive_incremental_operating_margin_required"
+      ]
+    },
+    "dilution": {
+      "before": 2.3,
+      "after": 2.3,
+      "coverage": 1,
+      "reasons": []
+    },
+    "risk": {
+      "before": 7.9,
+      "after": 7.9,
+      "coverage": 1,
+      "reasons": []
+    },
+    "volatility": {
+      "before": 10,
+      "after": 10,
+      "coverage": 1,
+      "reasons": []
+    }
+  },
+  "metricChanges": {},
+  "recalculated": {
+    "symbol": "BTDR",
+    "generatedAt": "2026-09-25T12:00:10.534Z",
+    "scores": {
+      "conviction": {
+        "score": null,
+        "eligible": false,
+        "reasons": [
+          "incomplete_component_evidence",
+          "insufficient_core_evidence"
+        ],
+        "direction": "higher_is_better",
+        "coverage": 0,
+        "confidence": "low",
+        "components": {
+          "quality": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.25,
+            "coverage": 0
+          },
+          "growth": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.2,
+            "coverage": 0
+          },
+          "valuation": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.15,
+            "coverage": 0
+          },
+          "financialHealth": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.15,
+            "coverage": 0
+          },
+          "earningsQuality": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.1,
+            "coverage": 0
+          },
+          "capitalEfficiency": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.1,
+            "coverage": 0
+          },
+          "fundamentalMomentum": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.05,
+            "coverage": 0
+          }
+        }
+      },
+      "quality": {
+        "score": null,
+        "eligible": false,
+        "reasons": [
+          "incomplete_component_evidence"
+        ],
+        "direction": "higher_is_better",
+        "coverage": 0.6,
+        "confidence": "low",
+        "components": {
+          "roic": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.25,
+            "coverage": 0
+          },
+          "freeCashFlowMargin": {
+            "score": 1,
+            "rawValue": -257.8337127288531,
+            "weight": 0.2,
+            "coverage": 1
+          },
+          "operatingMargin": {
+            "score": 1,
+            "rawValue": -34.42703479317507,
+            "weight": 0.15,
+            "coverage": 1
+          },
+          "cashConversion": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.15,
+            "coverage": 0
+          },
+          "profitabilityConsistency": {
+            "score": 2,
+            "rawValue": 12.5,
+            "weight": 0.15,
+            "coverage": 1
+          },
+          "grossMargin": {
+            "score": 2.05,
+            "rawValue": 0.4715256378215269,
+            "weight": 0.1,
+            "coverage": 1
+          }
+        }
+      },
+      "growth": {
+        "score": null,
+        "eligible": false,
+        "reasons": [
+          "incomplete_component_evidence"
+        ],
+        "direction": "higher_is_better",
+        "coverage": 0.57,
+        "confidence": "low",
+        "components": {
+          "revenueGrowthYoY": {
+            "score": 9.78,
+            "rawValue": 47.05042999832886,
+            "weight": 0.15,
+            "coverage": 1
+          },
+          "revenueCagr3Y": {
+            "score": 8.98,
+            "rawValue": 36.39260941124205,
+            "weight": 0.1,
+            "coverage": 1
+          },
+          "epsGrowthYoY": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.15,
+            "coverage": 0
+          },
+          "epsCagr3Y": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.1,
+            "coverage": 0
+          },
+          "forwardRevenueGrowth": {
+            "score": 10,
+            "rawValue": 70.46928435319208,
+            "weight": 0.15,
+            "coverage": 0.8
+          },
+          "forwardEpsGrowth": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.15,
+            "coverage": 0
+          },
+          "revenueAcceleration": {
+            "score": 1,
+            "rawValue": -122.35693938337315,
+            "weight": 0.1,
+            "coverage": 1
+          },
+          "growthConsistency": {
+            "score": 1,
+            "rawValue": 0,
+            "weight": 0.1,
+            "coverage": 1
+          }
+        }
+      },
+      "valuation": {
+        "score": null,
+        "eligible": false,
+        "reasons": [
+          "incomplete_component_evidence"
+        ],
+        "direction": "higher_is_better",
+        "coverage": 0.35,
+        "confidence": "low",
+        "components": {
+          "pe": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.15,
+            "coverage": 0
+          },
+          "forwardPe": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.2,
+            "coverage": 0
+          },
+          "evToEbitda": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.2,
+            "coverage": 0
+          },
+          "priceToSales": {
+            "score": 6.47,
+            "rawValue": 3.5256849076092913,
+            "weight": 0.05,
+            "coverage": 1
+          },
+          "priceToBook": {
+            "score": 7.4,
+            "rawValue": 2.5967842594968675,
+            "weight": 0.05,
+            "coverage": 1
+          },
+          "fcfYield": {
+            "score": 1,
+            "rawValue": -73.13010648580217,
+            "weight": 0.25,
+            "coverage": 1
+          },
+          "priceToFcf": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.1,
+            "coverage": 0
+          }
+        }
+      },
+      "financialHealth": {
+        "score": null,
+        "eligible": false,
+        "reasons": [
+          "incomplete_component_evidence"
+        ],
+        "direction": "higher_is_better",
+        "coverage": 0.75,
+        "confidence": "low",
+        "components": {
+          "netDebtToEbitda": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.25,
+            "coverage": 0
+          },
+          "interestCoverage": {
+            "score": 1,
+            "rawValue": -2.9321170179301665,
+            "weight": 0.2,
+            "coverage": 1
+          },
+          "currentRatio": {
+            "score": 5.03,
+            "rawValue": 1.0064754856614246,
+            "weight": 0.15,
+            "coverage": 1
+          },
+          "cashToShortTermDebt": {
+            "score": 5.73,
+            "rawValue": 0.9318536736248897,
+            "weight": 0.15,
+            "coverage": 1
+          },
+          "freeCashFlowStrength": {
+            "score": 1,
+            "rawValue": -257.8337127288531,
+            "weight": 0.15,
+            "coverage": 1
+          },
+          "debtGrowthYoY": {
+            "score": 1,
+            "rawValue": 212.00636708549217,
+            "weight": 0.1,
+            "coverage": 1
+          }
+        }
+      },
+      "momentum": {
+        "score": 5.1,
+        "eligible": true,
+        "reasons": [],
+        "direction": "higher_is_better",
+        "coverage": 1,
+        "confidence": "high",
+        "components": {
+          "return1m": {
+            "score": 6.82,
+            "rawValue": 13.153070577451883,
+            "weight": 0.05,
+            "coverage": 1
+          },
+          "return3m": {
+            "score": 1.68,
+            "rawValue": -29.537671232876704,
+            "weight": 0.2,
+            "coverage": 1
+          },
+          "return6m": {
+            "score": 9.33,
+            "rawValue": 50,
+            "weight": 0.25,
+            "coverage": 1
+          },
+          "return12m": {
+            "score": 1.68,
+            "rawValue": -29.537671232876704,
+            "weight": 0.2,
+            "coverage": 1
+          },
+          "priceVs50Day": {
+            "score": 7.24,
+            "rawValue": 11.214775323686219,
+            "weight": 0.1,
+            "coverage": 1
+          },
+          "priceVs200Day": {
+            "score": 5.28,
+            "rawValue": 2.1287331094723525,
+            "weight": 0.2,
+            "coverage": 1
+          }
+        }
+      },
+      "earningsQuality": {
+        "score": null,
+        "eligible": false,
+        "reasons": [
+          "incomplete_component_evidence"
+        ],
+        "direction": "higher_is_better",
+        "coverage": 0.4,
+        "confidence": "low",
+        "components": {
+          "cashConversion": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.3,
+            "coverage": 0
+          },
+          "accrualRatio": {
+            "score": 1,
+            "rawValue": 42.882808665434894,
+            "weight": 0.25,
+            "coverage": 1
+          },
+          "fcfConversion": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.3,
+            "coverage": 0
+          },
+          "marginTrend": {
+            "score": 10,
+            "rawValue": 28.707255494051253,
+            "weight": 0.15,
+            "coverage": 1
+          }
+        }
+      },
+      "capitalEfficiency": {
+        "score": null,
+        "eligible": false,
+        "reasons": [
+          "incomplete_component_evidence"
+        ],
+        "direction": "higher_is_better",
+        "coverage": 0.3,
+        "confidence": "low",
+        "components": {
+          "roic": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.4,
+            "coverage": 0
+          },
+          "incrementalRoic": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.3,
+            "coverage": 0
+          },
+          "revenueToInvestedCapital": {
+            "score": 2.9,
+            "rawValue": 0.47503076196090543,
+            "weight": 0.2,
+            "coverage": 1
+          },
+          "capexIntensity": {
+            "score": 1.11,
+            "rawValue": 57.82980928449986,
+            "weight": 0.1,
+            "coverage": 1
+          }
+        }
+      },
+      "reratingPotential": {
+        "score": null,
+        "eligible": false,
+        "reasons": [
+          "incomplete_component_evidence",
+          "insufficient_core_evidence"
+        ],
+        "direction": "higher_is_better",
+        "coverage": 0.15,
+        "confidence": "low",
+        "components": {
+          "fundamentalMomentum": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.3,
+            "coverage": 0
+          },
+          "growthDurability": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.2,
+            "coverage": 0
+          },
+          "marginPower": {
+            "score": 3.8,
+            "rawValue": 3.8,
+            "weight": 0.15,
+            "coverage": 1
+          },
+          "valuation": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.2,
+            "coverage": 0
+          },
+          "recovery": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.15,
+            "coverage": 0
+          }
+        }
+      },
+      "execution": {
+        "score": null,
+        "eligible": false,
+        "reasons": [
+          "incomplete_component_evidence"
+        ],
+        "direction": "higher_is_better",
+        "coverage": 0.25,
+        "confidence": "low",
+        "components": {
+          "fundamentalMomentum": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.3,
+            "coverage": 0
+          },
+          "cashPower": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.25,
+            "coverage": 0
+          },
+          "marginPower": {
+            "score": 3.8,
+            "rawValue": 3.8,
+            "weight": 0.25,
+            "coverage": 1
+          },
+          "financialHealth": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.2,
+            "coverage": 0
+          }
+        }
+      },
+      "cashPower": {
+        "score": null,
+        "eligible": false,
+        "reasons": [
+          "incomplete_component_evidence"
+        ],
+        "direction": "higher_is_better",
+        "coverage": 0.4,
+        "confidence": "low",
+        "components": {
+          "freeCashFlowMargin": {
+            "score": 1,
+            "rawValue": -257.8337127288531,
+            "weight": 0.25,
+            "coverage": 1
+          },
+          "freeCashFlowGrowthYoY": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.2,
+            "coverage": 0
+          },
+          "cashConversion": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.2,
+            "coverage": 0
+          },
+          "fcfConversion": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.2,
+            "coverage": 0
+          },
+          "positiveFcfQuarters": {
+            "score": 1,
+            "rawValue": 0,
+            "weight": 0.15,
+            "coverage": 1
+          }
+        }
+      },
+      "fundingPressure": {
+        "score": 8.7,
+        "eligible": true,
+        "reasons": [],
+        "direction": "higher_is_riskier",
+        "coverage": 1,
+        "confidence": "high",
+        "components": {
+          "cashRunway": {
+            "score": 10,
+            "rawValue": 0.9436785868321483,
+            "weight": 0.3,
+            "coverage": 1
+          },
+          "debtGrowth": {
+            "score": 10,
+            "rawValue": 212.00636708549217,
+            "weight": 0.2,
+            "coverage": 1
+          },
+          "shareGrowth": {
+            "score": 8.7,
+            "rawValue": 26.982007526937156,
+            "weight": 0.25,
+            "coverage": 1
+          },
+          "liquidity": {
+            "score": 5.96,
+            "rawValue": 1.0064754856614246,
+            "weight": 0.25,
+            "coverage": 1
+          }
+        }
+      },
+      "dilutionRisk": {
+        "score": 8.7,
+        "eligible": true,
+        "reasons": [],
+        "direction": "higher_is_riskier",
+        "coverage": 1,
+        "confidence": "high",
+        "components": {
+          "shareGrowth": {
+            "score": 8.7,
+            "rawValue": 26.982007526937156,
+            "weight": 0.35,
+            "coverage": 1
+          },
+          "netStockIssuanceToRevenue": {
+            "score": 10,
+            "rawValue": 111.20351329689989,
+            "weight": 0.2,
+            "coverage": 1
+          },
+          "cashRunway": {
+            "score": 10,
+            "rawValue": 0.9436785868321483,
+            "weight": 0.2,
+            "coverage": 1
+          },
+          "fcfRisk": {
+            "score": 10,
+            "rawValue": -257.8337127288531,
+            "weight": 0.15,
+            "coverage": 1
+          },
+          "stockBasedCompensationToRevenue": {
+            "score": 1.69,
+            "rawValue": 1.1470507487162314,
+            "weight": 0.1,
+            "coverage": 1
+          }
+        }
+      },
+      "balanceSheetResilience": {
+        "score": null,
+        "eligible": false,
+        "reasons": [
+          "incomplete_component_evidence"
+        ],
+        "direction": "higher_is_better",
+        "coverage": 0.25,
+        "confidence": "low",
+        "components": {
+          "financialHealth": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.5,
+            "coverage": 0
+          },
+          "cashPower": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.25,
+            "coverage": 0
+          },
+          "fundingSafety": {
+            "score": 2.3000000000000007,
+            "rawValue": 8.7,
+            "weight": 0.25,
+            "coverage": 1
+          }
+        }
+      },
+      "growthDurability": {
+        "score": null,
+        "eligible": false,
+        "reasons": [
+          "incomplete_component_evidence"
+        ],
+        "direction": "higher_is_better",
+        "coverage": 0.6,
+        "confidence": "low",
+        "components": {
+          "revenueGrowth": {
+            "score": 10,
+            "rawValue": 127.67794324988716,
+            "weight": 0.25,
+            "coverage": 1
+          },
+          "consistency": {
+            "score": 1,
+            "rawValue": 0,
+            "weight": 0.15,
+            "coverage": 1
+          },
+          "fcfGrowth": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.2,
+            "coverage": 0
+          },
+          "marginTrend": {
+            "score": 10,
+            "rawValue": 28.707255494051253,
+            "weight": 0.2,
+            "coverage": 1
+          },
+          "roic": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.2,
+            "coverage": 0
+          }
+        }
+      },
+      "marginPower": {
+        "score": 3.8,
+        "eligible": true,
+        "reasons": [],
+        "direction": "higher_is_better",
+        "coverage": 1,
+        "confidence": "high",
+        "components": {
+          "grossMargin": {
+            "score": 1.07,
+            "rawValue": 0.4715256378215269,
+            "weight": 0.25,
+            "coverage": 1
+          },
+          "grossMarginChange": {
+            "score": 3.31,
+            "rawValue": -4.213456016357648,
+            "weight": 0.25,
+            "coverage": 1
+          },
+          "operatingMargin": {
+            "score": 1,
+            "rawValue": -34.42703479317507,
+            "weight": 0.25,
+            "coverage": 1
+          },
+          "operatingMarginChange": {
+            "score": 10,
+            "rawValue": 28.707255494051253,
+            "weight": 0.25,
+            "coverage": 1
+          }
+        }
+      },
+      "capitalDiscipline": {
+        "score": null,
+        "eligible": false,
+        "reasons": [
+          "incomplete_component_evidence"
+        ],
+        "direction": "higher_is_better",
+        "coverage": 0.45,
+        "confidence": "low",
+        "components": {
+          "roic": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.3,
+            "coverage": 0
+          },
+          "incrementalRoic": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.25,
+            "coverage": 0
+          },
+          "capexIntensity": {
+            "score": 2,
+            "rawValue": 57.82980928449986,
+            "weight": 0.15,
+            "coverage": 1
+          },
+          "debtGrowth": {
+            "score": 1,
+            "rawValue": 212.00636708549217,
+            "weight": 0.15,
+            "coverage": 1
+          },
+          "shareIssuance": {
+            "score": 1.2,
+            "rawValue": 26.982007526937156,
+            "weight": 0.15,
+            "coverage": 1
+          }
+        }
+      },
+      "earningsReliability": {
+        "score": null,
+        "eligible": false,
+        "reasons": [
+          "incomplete_component_evidence"
+        ],
+        "direction": "higher_is_better",
+        "coverage": 0.2,
+        "confidence": "low",
+        "components": {
+          "earningsQuality": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.5,
+            "coverage": 0
+          },
+          "cashPower": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.3,
+            "coverage": 0
+          },
+          "marginPower": {
+            "score": 3.8,
+            "rawValue": 3.8,
+            "weight": 0.2,
+            "coverage": 1
+          }
+        }
+      },
+      "businessEfficiency": {
+        "score": null,
+        "eligible": false,
+        "reasons": [
+          "incomplete_component_evidence"
+        ],
+        "direction": "higher_is_better",
+        "coverage": 0.65,
+        "confidence": "low",
+        "components": {
+          "revenueToInvestedCapital": {
+            "score": 2.9,
+            "rawValue": 0.47503076196090543,
+            "weight": 0.4,
+            "coverage": 1
+          },
+          "roic": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.35,
+            "coverage": 0
+          },
+          "operatingMargin": {
+            "score": 3,
+            "rawValue": -34.42703479317507,
+            "weight": 0.25,
+            "coverage": 1
+          }
+        }
+      },
+      "valuationCompressionRisk": {
+        "score": null,
+        "eligible": false,
+        "reasons": [
+          "incomplete_component_evidence",
+          "insufficient_core_evidence"
+        ],
+        "direction": "higher_is_riskier",
+        "coverage": 0.4,
+        "confidence": "low",
+        "components": {
+          "valuationRisk": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.35,
+            "coverage": 0
+          },
+          "growthRisk": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.25,
+            "coverage": 0
+          },
+          "marginRisk": {
+            "score": 7.2,
+            "rawValue": 3.8,
+            "weight": 0.2,
+            "coverage": 1
+          },
+          "momentumRisk": {
+            "score": 5.9,
+            "rawValue": 5.1,
+            "weight": 0.2,
+            "coverage": 1
+          }
+        }
+      },
+      "recovery": {
+        "score": null,
+        "eligible": false,
+        "reasons": [
+          "incomplete_component_evidence",
+          "insufficient_core_evidence"
+        ],
+        "direction": "higher_is_better",
+        "coverage": 0.3,
+        "confidence": "low",
+        "components": {
+          "depressedPrice": {
+            "score": 9.2,
+            "rawValue": -55.8773381294964,
+            "weight": 0.3,
+            "coverage": 1
+          },
+          "fundamentalMomentum": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.45,
+            "coverage": 0
+          },
+          "financialHealth": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.25,
+            "coverage": 0
+          }
+        }
+      },
+      "breakoutReadiness": {
+        "score": null,
+        "eligible": false,
+        "reasons": [
+          "incomplete_component_evidence",
+          "insufficient_core_evidence"
+        ],
+        "direction": "higher_is_better",
+        "coverage": 0.5,
+        "confidence": "low",
+        "components": {
+          "momentum": {
+            "score": 5.1,
+            "rawValue": 5.1,
+            "weight": 0.35,
+            "coverage": 1
+          },
+          "fundamentalMomentum": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.3,
+            "coverage": 0
+          },
+          "marginPower": {
+            "score": 3.8,
+            "rawValue": 3.8,
+            "weight": 0.15,
+            "coverage": 1
+          },
+          "growth": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.2,
+            "coverage": 0
+          }
+        }
+      },
+      "fundamentalMomentum": {
+        "score": null,
+        "eligible": false,
+        "reasons": [
+          "incomplete_component_evidence"
+        ],
+        "direction": "higher_is_better",
+        "coverage": 0.5,
+        "confidence": "low",
+        "components": {
+          "revenueAcceleration": {
+            "score": 1,
+            "rawValue": -122.35693938337315,
+            "weight": 0.25,
+            "coverage": 1
+          },
+          "epsGrowth": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.25,
+            "coverage": 0
+          },
+          "marginChange": {
+            "score": 10,
+            "rawValue": 28.707255494051253,
+            "weight": 0.25,
+            "coverage": 1
+          },
+          "fcfGrowth": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.25,
+            "coverage": 0
+          }
+        }
+      },
+      "survival": {
+        "score": null,
+        "eligible": false,
+        "reasons": [
+          "incomplete_component_evidence",
+          "insufficient_core_evidence"
+        ],
+        "direction": "higher_is_better",
+        "coverage": 0.35,
+        "confidence": "low",
+        "components": {
+          "financialHealth": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.35,
+            "coverage": 0
+          },
+          "cashPower": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.3,
+            "coverage": 0
+          },
+          "fundingSafety": {
+            "score": 2.3000000000000007,
+            "rawValue": 8.7,
+            "weight": 0.2,
+            "coverage": 1
+          },
+          "dilutionSafety": {
+            "score": 2.3000000000000007,
+            "rawValue": 8.7,
+            "weight": 0.15,
+            "coverage": 1
+          }
+        }
+      },
+      "shareholderFriendliness": {
+        "score": null,
+        "eligible": false,
+        "reasons": [
+          "incomplete_component_evidence"
+        ],
+        "direction": "higher_is_better",
+        "coverage": 0.35,
+        "confidence": "low",
+        "components": {
+          "dilution": {
+            "score": 2.3,
+            "rawValue": 2.3,
+            "weight": 0.35,
+            "coverage": 1
+          },
+          "capitalDiscipline": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.3,
+            "coverage": 0
+          },
+          "financialHealth": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.15,
+            "coverage": 0
+          },
+          "cashPower": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.2,
+            "coverage": 0
+          }
+        }
+      },
+      "selfFunding": {
+        "score": null,
+        "eligible": false,
+        "reasons": [
+          "incomplete_component_evidence",
+          "insufficient_core_evidence"
+        ],
+        "direction": "higher_is_better",
+        "coverage": 0.35,
+        "confidence": "low",
+        "components": {
+          "cashPower": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.4,
+            "coverage": 0
+          },
+          "financialHealth": {
+            "score": null,
+            "rawValue": null,
+            "weight": 0.25,
+            "coverage": 0
+          },
+          "dilutionSafety": {
+            "score": 2.3000000000000007,
+            "rawValue": 8.7,
+            "weight": 0.2,
+            "coverage": 1
+          },
+          "fundingSafety": {
+            "score": 2.3000000000000007,
+            "rawValue": 8.7,
+            "weight": 0.15,
+            "coverage": 1
+          }
+        }
+      },
+      "operatingLeverage": {
+        "score": null,
+        "eligible": false,
+        "reasons": [
+          "positive_operating_income_required",
+          "positive_incremental_operating_margin_required"
+        ],
+        "direction": "higher_is_better",
+        "coverage": 1,
+        "confidence": "high",
+        "components": {
+          "operatingMarginChange": {
+            "score": 10,
+            "rawValue": 28.707255494051253,
+            "weight": 0.5,
+            "coverage": 1
+          },
+          "revenueGrowth": {
+            "score": 9.85,
+            "rawValue": 47.05042999832886,
+            "weight": 0.3,
+            "coverage": 1
+          },
+          "incrementalOperatingMargin": {
+            "score": 1,
+            "rawValue": -11.942919868276618,
+            "weight": 0.2,
+            "coverage": 1
+          }
+        }
+      },
+      "dilution": {
+        "score": 2.3,
+        "eligible": true,
+        "reasons": [],
+        "direction": "higher_is_better",
+        "coverage": 1,
+        "confidence": "high",
+        "components": {
+          "dilutionSafety": {
+            "score": 2.3000000000000007,
+            "rawValue": 8.7,
+            "weight": 1,
+            "coverage": 1
+          }
+        }
+      },
+      "risk": {
+        "score": 7.9,
+        "direction": "higher_is_riskier",
+        "coverage": 1,
+        "confidence": "high",
+        "eligible": true,
+        "reasons": [],
+        "components": {}
+      },
+      "volatility": {
+        "score": 10,
+        "direction": "higher_is_riskier",
+        "coverage": 1,
+        "confidence": "high",
+        "eligible": true,
+        "reasons": [],
+        "components": {}
+      }
+    },
+    "categories": {
+      "strongBalanceSheet": {
+        "key": "strongBalanceSheet",
+        "name": "Strong Balance Sheet",
+        "description": "Measures liquidity, leverage and the companyâ€™s ability to withstand financial pressure.",
+        "coverage": 0.8,
+        "confidence": "medium",
+        "score": null,
+        "metrics": [
+          {
+            "key": "netCashPosition",
+            "name": "Net Cash Position",
+            "description": "Cash remaining after subtracting total debt.",
+            "value": -1458200000,
+            "displayValue": "-1.5B",
+            "score": 45,
+            "weight": 0.25
+          },
+          {
+            "key": "debtToEquity",
+            "name": "Debt / Equity",
+            "description": "Measures debt relative to shareholder equity.",
+            "value": 1.7702761397918592,
+            "displayValue": "1.77x",
+            "score": 35,
+            "weight": 0.2
+          },
+          {
+            "key": "currentRatio",
+            "name": "Current Ratio",
+            "description": "Measures the ability to cover short-term liabilities with short-term assets.",
+            "value": 1.0064754856614246,
+            "displayValue": "1.01x",
+            "score": 60,
+            "weight": 0.15
+          },
+          {
+            "key": "interestCoverage",
+            "name": "Interest Coverage",
+            "description": "Measures how easily operating earnings can cover interest expense.",
+            "value": -2.9321170179301665,
+            "displayValue": "-2.93x",
+            "score": 0,
+            "weight": 0.2
+          },
+          {
+            "key": "netDebtToEbitda",
+            "name": "Net Debt / EBITDA",
+            "description": "Measures net debt relative to trailing twelve-month EBITDA.",
+            "value": null,
+            "displayValue": "N/A",
+            "score": null,
+            "weight": 0.2
+          }
+        ]
+      }
+    },
+    "metrics": {
+      "dataQuality": {
+        "asOf": "2026-06-30",
+        "statementAgeDays": 87,
+        "priceAsOf": "2026-09-24",
+        "priceAgeDays": 1,
+        "reportedCurrency": "USD",
+        "currencyComparable": true,
+        "quoteCurrency": "USD",
+        "warnings": []
+      },
+      "revenueTtm": 812257000,
+      "netIncomeTtm": -447948000,
+      "operatingIncomeTtm": -279636000,
+      "ebitdaTtm": -42559000,
+      "epsDilutedTtm": -3.06,
+      "profitabilityConsistency": 12.5,
+      "positiveFcfQuarters": 0,
+      "stockBasedCompensationToRevenue": 1.1470507487162314,
+      "netStockIssuanceToRevenue": 111.20351329689989,
+      "incrementalOperatingMargin": -11.942919868276618,
+      "operatingIncomeGrowthYoY": null,
+      "debtToEquity": 1.7702761397918592,
+      "shortTermDebt": 530212000,
+      "interestExpenseTtm": 95370000,
+      "revenueGrowthYoY": 47.05042999832886,
+      "revenueGrowthTtm": 127.67794324988716,
+      "revenueCagr3Y": 36.39260941124205,
+      "revenueAcceleration": -122.35693938337315,
+      "revenueGrowthConsistency": 0,
+      "epsGrowthYoY": null,
+      "epsCagr3Y": null,
+      "grossMargin": 0.4715256378215269,
+      "grossMarginChangeYoY": -4.213456016357648,
+      "operatingMargin": -34.42703479317507,
+      "operatingMarginChangeYoY": 28.707255494051253,
+      "netMargin": -55.1485551986625,
+      "freeCashFlow": -2094272380,
+      "freeCashFlowGrowthYoY": null,
+      "freeCashFlowMargin": -257.8337127288531,
+      "operatingCashFlowMargin": -200.00390344435323,
+      "cashConversion": null,
+      "fcfConversion": null,
+      "accrualRatio": 42.882808665434894,
+      "roic": null,
+      "incrementalRoic": null,
+      "revenueToInvestedCapital": 0.47503076196090543,
+      "capexIntensity": 57.82980928449986,
+      "cash": 494080000,
+      "totalDebt": 1952280000,
+      "netDebt": 1458200000,
+      "currentRatio": 1.0064754856614246,
+      "interestCoverage": -2.9321170179301665,
+      "netDebtToEbitda": null,
+      "debtGrowthYoY": 212.00636708549217,
+      "cashToShortTermDebt": 0.9318536736248897,
+      "cashRunwayQuarters": 0.9436785868321483,
+      "dilutedShareGrowthYoY": 26.982007526937156,
+      "netStockIssuance": 903258321,
+      "marketCap": 2863762246,
+      "pe": null,
+      "forwardPe": null,
+      "priceToSales": 3.5256849076092913,
+      "priceToBook": 2.5967842594968675,
+      "priceToFcf": null,
+      "evToEbitda": null,
+      "fcfYield": -73.13010648580217,
+      "price": 12.2661,
+      "priceAvg50": 11.0292,
+      "priceAvg200": 12.01043,
+      "yearHigh": 27.8,
+      "yearLow": 6.916,
+      "return1m": 13.153070577451883,
+      "return3m": -29.537671232876704,
+      "return6m": 50,
+      "return12m": -29.537671232876704,
+      "volume": 4991681.85916,
+      "averageVolume": null,
+      "forwardRevenueGrowth": 70.46928435319208,
+      "forwardEpsGrowth": null,
+      "analystCount": 4
+    },
+    "evidencePolicyVersion": 3
+  },
+  "lists": {
+    "financially-strong": {
+      "score": 0,
+      "coverage": 85,
+      "metrics": {
+        "growth": {
+          "revenueGrowthYoY": 47.05042999832886,
+          "revenueGrowthTtm": 127.67794324988716,
+          "revenueAcceleration": -122.35693938337315
+        },
+        "profitability": {
+          "operatingMarginTtm": -34.42703479317507
+        },
+        "cashFlow": {
+          "freeCashFlowTtm": -2094272380,
+          "freeCashFlowMargin": -257.8337127288531
+        },
+        "balanceSheet": {
+          "netDebt": 1458200000,
+          "currentRatio": 1.0064754856614246,
+          "interestCoverage": -2.9321170179301665,
+          "netDebtToEbitda": null
+        },
+        "dilution": {
+          "dilutedShareGrowthYoY": 26.982007526937156,
+          "epsDilutedTtm": -3.06
+        }
+      },
+      "components": [
+        {
+          "name": "Operating margin",
+          "value": -34.42703479317507,
+          "score": 0,
+          "weight": 15
+        },
+        {
+          "name": "Free cash flow margin",
+          "value": -257.8337127288531,
+          "score": 0,
+          "weight": 15
+        },
+        {
+          "name": "Positive free cash flow",
+          "value": -2094272380,
+          "score": 0,
+          "weight": 10
+        },
+        {
+          "name": "Current ratio",
+          "value": 1.0064754856614246,
+          "score": 65,
+          "weight": 10
+        },
+        {
+          "name": "Interest coverage",
+          "value": -2.9321170179301665,
+          "score": 0,
+          "weight": 15
+        },
+        {
+          "name": "Net debt to EBITDA",
+          "value": null,
+          "score": null,
+          "weight": 15
+        },
+        {
+          "name": "Revenue growth",
+          "value": 127.67794324988716,
+          "score": 100,
+          "weight": 10
+        },
+        {
+          "name": "Revenue acceleration",
+          "value": -122.35693938337315,
+          "score": 0,
+          "weight": 5
+        },
+        {
+          "name": "Share dilution",
+          "value": 26.982007526937156,
+          "score": 0,
+          "weight": 5
+        }
+      ],
+      "confidence": "low",
+      "eligible": false,
+      "reasons": [
+        "incomplete_component_evidence",
+        "positive_cash_flow_required",
+        "positive_operating_margin_required"
+      ]
+    },
+    "strong-balance-sheet": {
+      "score": 0,
+      "coverage": 80,
+      "confidence": "low",
+      "eligible": false,
+      "reasons": [
+        "incomplete_component_evidence",
+        "positive_cash_flow_required",
+        "positive_operating_margin_required"
+      ]
+    },
+    "high-quality": {
+      "score": 0,
+      "coverage": 60,
+      "confidence": "low",
+      "eligible": false,
+      "reasons": [
+        "positive_operating_margin_required",
+        "positive_cash_flow_required",
+        "incomplete_component_evidence"
+      ],
+      "components": {
+        "roic": {
+          "score": null,
+          "rawValue": null,
+          "weight": 0.25,
+          "coverage": 0
+        },
+        "operatingMargin": {
+          "score": 1,
+          "rawValue": -34.42703479317507,
+          "weight": 0.2,
+          "coverage": 1
+        },
+        "freeCashFlowMargin": {
+          "score": 1,
+          "rawValue": -257.8337127288531,
+          "weight": 0.2,
+          "coverage": 1
+        },
+        "cashConversion": {
+          "score": null,
+          "rawValue": null,
+          "weight": 0.15,
+          "coverage": 0
+        },
+        "profitabilityConsistency": {
+          "score": 1.75,
+          "rawValue": 12.5,
+          "weight": 0.1,
+          "coverage": 1
+        },
+        "positiveFcfQuarters": {
+          "score": 1,
+          "rawValue": 0,
+          "weight": 0.1,
+          "coverage": 1
+        }
+      }
+    },
+    "high-growth": {
+      "score": 0,
+      "coverage": 75,
+      "confidence": "low",
+      "eligible": false,
+      "reasons": [
+        "incomplete_component_evidence"
+      ],
+      "components": {
+        "revenueGrowthTtm": {
+          "score": 10,
+          "rawValue": 127.67794324988716,
+          "weight": 0.3,
+          "coverage": 1
+        },
+        "revenueCagr3Y": {
+          "score": 8.91,
+          "rawValue": 36.39260941124205,
+          "weight": 0.15,
+          "coverage": 1
+        },
+        "epsGrowthYoY": {
+          "score": null,
+          "rawValue": null,
+          "weight": 0.15,
+          "coverage": 0
+        },
+        "operatingIncomeGrowthYoY": {
+          "score": null,
+          "rawValue": null,
+          "weight": 0.1,
+          "coverage": 0
+        },
+        "forwardRevenueGrowth": {
+          "score": 10,
+          "rawValue": 70.46928435319208,
+          "weight": 0.1,
+          "coverage": 1
+        },
+        "revenueAcceleration": {
+          "score": 1,
+          "rawValue": -122.35693938337315,
+          "weight": 0.1,
+          "coverage": 1
+        },
+        "revenueGrowthConsistency": {
+          "score": 1,
+          "rawValue": 0,
+          "weight": 0.1,
+          "coverage": 1
+        }
+      }
+    },
+    "undervalued": {
+      "score": 0,
+      "coverage": 40,
+      "confidence": "low",
+      "eligible": false,
+      "reasons": [
+        "positive_earnings_required",
+        "positive_cash_flow_required",
+        "incomplete_component_evidence"
+      ],
+      "components": {
+        "pe": {
+          "score": null,
+          "rawValue": null,
+          "weight": 0.25,
+          "coverage": 0
+        },
+        "forwardPe": {
+          "score": null,
+          "rawValue": null,
+          "weight": 0.15,
+          "coverage": 0
+        },
+        "evToEbitda": {
+          "score": null,
+          "rawValue": null,
+          "weight": 0.2,
+          "coverage": 0
+        },
+        "fcfYield": {
+          "score": 1,
+          "rawValue": -73.13010648580217,
+          "weight": 0.3,
+          "coverage": 1
+        },
+        "priceToSales": {
+          "score": 6.58,
+          "rawValue": 3.5256849076092913,
+          "weight": 0.1,
+          "coverage": 1
+        }
+      }
+    },
+    "strong-momentum": {
+      "score": 42,
+      "coverage": 100,
+      "confidence": "low",
+      "eligible": false,
+      "reasons": [
+        "positive_3m_return_required"
+      ],
+      "components": {
+        "return3m": {
+          "score": 1.03,
+          "rawValue": -29.537671232876704,
+          "weight": 0.3,
+          "coverage": 1
+        },
+        "return6m": {
+          "score": 10,
+          "rawValue": 50,
+          "weight": 0.35,
+          "coverage": 1
+        },
+        "return12m": {
+          "score": 1.03,
+          "rawValue": -29.537671232876704,
+          "weight": 0.35,
+          "coverage": 1
+        }
+      }
+    },
+    "estimates-rising": {
+      "score": 0,
+      "coverage": 0,
+      "confidence": "low",
+      "eligible": false,
+      "reasons": [
+        "estimate_currency_required",
+        "comparable_estimate_snapshot_required",
+        "positive_revision_required",
+        "incomplete_component_evidence"
+      ],
+      "components": {
+        "epsRevision": {
+          "score": null,
+          "rawValue": null,
+          "weight": 0.6,
+          "coverage": 0
+        },
+        "revenueRevision": {
+          "score": null,
+          "rawValue": null,
+          "weight": 0.4,
+          "coverage": 0
+        }
+      }
+    },
+    "quality-near-lows": {
+      "score": 0,
+      "coverage": 60,
+      "eligible": false,
+      "reasons": [
+        "positive_operating_margin_required",
+        "positive_cash_flow_required",
+        "incomplete_component_evidence"
+      ],
+      "confidence": "low"
+    },
+    "quality-near-highs": {
+      "score": 0,
+      "coverage": 60,
+      "eligible": false,
+      "reasons": [
+        "positive_operating_margin_required",
+        "positive_cash_flow_required",
+        "incomplete_component_evidence"
+      ],
+      "confidence": "low"
+    },
+    "growth-near-lows": {
+      "score": 0,
+      "coverage": 75,
+      "eligible": false,
+      "reasons": [
+        "incomplete_component_evidence"
+      ],
+      "confidence": "low"
+    },
+    "oversold-quality": {
+      "score": 0,
+      "coverage": 60,
+      "eligible": false,
+      "reasons": [
+        "positive_operating_margin_required",
+        "positive_cash_flow_required",
+        "incomplete_component_evidence"
+      ],
+      "confidence": "low"
+    },
+    "undervalued-momentum": {
+      "score": 0,
+      "coverage": 40,
+      "eligible": false,
+      "reasons": [
+        "positive_earnings_required",
+        "positive_cash_flow_required",
+        "incomplete_component_evidence",
+        "positive_3m_return_required"
+      ],
+      "confidence": "low"
+    },
+    "small-cap-quality": {
+      "score": 0,
+      "coverage": 100,
+      "confidence": "high",
+      "eligible": true,
+      "reasons": []
+    },
+    "small-cap-growth": {
+      "score": 0,
+      "coverage": 100,
+      "confidence": "high",
+      "eligible": true,
+      "reasons": []
+    },
+    "low-cap-ai": {
+      "score": 0,
+      "coverage": 100,
+      "confidence": "high",
+      "eligible": true,
+      "reasons": []
+    },
+    "low-cap-ai-growth": {
+      "score": 0,
+      "coverage": 100,
+      "confidence": "high",
+      "eligible": true,
+      "reasons": []
+    },
+    "theme-ai": {
+      "score": 0,
+      "coverage": 100,
+      "confidence": "high",
+      "eligible": true,
+      "reasons": []
+    },
+    "theme-semiconductors": {
+      "score": 0,
+      "coverage": 100,
+      "confidence": "high",
+      "eligible": true,
+      "reasons": []
+    },
+    "theme-data-centers": {
+      "score": 0,
+      "coverage": 100,
+      "confidence": "high",
+      "eligible": true,
+      "reasons": []
+    },
+    "theme-energy": {
+      "score": 0,
+      "coverage": 100,
+      "confidence": "high",
+      "eligible": true,
+      "reasons": []
+    },
+    "theme-cybersecurity": {
+      "score": 0,
+      "coverage": 100,
+      "confidence": "high",
+      "eligible": true,
+      "reasons": []
+    },
+    "theme-robotics": {
+      "score": 0,
+      "coverage": 100,
+      "confidence": "high",
+      "eligible": true,
+      "reasons": []
+    }
+  },
+  "normalizedCompany": {
+    "symbol": "BTDR",
+    "companyName": "Bitdeer Technologies Group",
+    "marketCap": 2863762246,
+    "price": 12.2661,
+    "volume": 2899936,
+    "sector": "Technology",
+    "industry": "Software - Application",
+    "exchange": "NASDAQ Capital Market",
+    "country": "SG",
+    "currency": "USD"
+  },
+  "normalizedMomentum": {
+    "price": 12.2661,
+    "return1M": 13.153070577451883,
+    "return3M": -29.537671232876704,
+    "return6M": 50,
+    "return12M": -29.537671232876704,
+    "sma50": 11.0292,
+    "sma200": 12.01043,
+    "yearHigh": 27.8,
+    "yearLow": 6.916,
+    "rsi14": 53.35907335907336
+  },
+  "cashFlowRows": [
+    {
+      "date": "2026-06-30",
+      "period": "Q2",
+      "currency": "USD",
+      "operatingCashFlow": -157832706,
+      "capitalExpenditure": -265502674,
+      "reportedFreeCashFlow": -423335380,
+      "calculatedFreeCashFlow": -423335380,
+      "identityMatches": true
+    },
+    {
+      "date": "2026-03-31",
+      "period": "Q1",
+      "currency": "USD",
+      "operatingCashFlow": -346894000,
+      "capitalExpenditure": -93746000,
+      "reportedFreeCashFlow": -440640000,
+      "calculatedFreeCashFlow": -440640000,
+      "identityMatches": true
+    },
+    {
+      "date": "2025-12-31",
+      "period": "Q4",
+      "currency": "USD",
+      "operatingCashFlow": -599537000,
+      "capitalExpenditure": -50730000,
+      "reportedFreeCashFlow": -650267000,
+      "calculatedFreeCashFlow": -650267000,
+      "identityMatches": true
+    },
+    {
+      "date": "2025-09-30",
+      "period": "Q3",
+      "currency": "USD",
+      "operatingCashFlow": -520282000,
+      "capitalExpenditure": -59748000,
+      "reportedFreeCashFlow": -580030000,
+      "calculatedFreeCashFlow": -580030000,
+      "identityMatches": true
+    },
+    {
+      "date": "2025-06-30",
+      "period": "Q2",
+      "currency": "USD",
+      "operatingCashFlow": -334871000,
+      "capitalExpenditure": -111491000,
+      "reportedFreeCashFlow": -446362000,
+      "calculatedFreeCashFlow": -446362000,
+      "identityMatches": true
+    },
+    {
+      "date": "2025-03-31",
+      "period": "Q1",
+      "currency": "USD",
+      "operatingCashFlow": -283988000,
+      "capitalExpenditure": -67595000,
+      "reportedFreeCashFlow": -351583000,
+      "calculatedFreeCashFlow": -351583000,
+      "identityMatches": true
+    },
+    {
+      "date": "2024-12-31",
+      "period": "Q4",
+      "currency": "USD",
+      "operatingCashFlow": -325058000,
+      "capitalExpenditure": -48383000,
+      "reportedFreeCashFlow": -373441000,
+      "calculatedFreeCashFlow": -373441000,
+      "identityMatches": true
+    },
+    {
+      "date": "2024-09-30",
+      "period": "Q3",
+      "currency": "USD",
+      "operatingCashFlow": -90720000,
+      "capitalExpenditure": -30149000,
+      "reportedFreeCashFlow": -120869000,
+      "calculatedFreeCashFlow": -120869000,
+      "identityMatches": true
+    },
+    {
+      "date": "2024-06-30",
+      "period": "Q2",
+      "currency": "USD",
+      "operatingCashFlow": -74124000,
+      "capitalExpenditure": -17511000,
+      "reportedFreeCashFlow": -91635000,
+      "calculatedFreeCashFlow": -91635000,
+      "identityMatches": true
+    },
+    {
+      "date": "2024-03-31",
+      "period": "Q1",
+      "currency": "USD",
+      "operatingCashFlow": 0,
+      "capitalExpenditure": 0,
+      "reportedFreeCashFlow": 0,
+      "calculatedFreeCashFlow": 0,
+      "identityMatches": true
+    },
+    {
+      "date": "2023-12-31",
+      "period": "Q4",
+      "currency": "USD",
+      "operatingCashFlow": 0,
+      "capitalExpenditure": 0,
+      "reportedFreeCashFlow": 0,
+      "calculatedFreeCashFlow": 0,
+      "identityMatches": true
+    },
+    {
+      "date": "2023-09-30",
+      "period": "Q3",
+      "currency": "USD",
+      "operatingCashFlow": -47577000,
+      "capitalExpenditure": -13795000,
+      "reportedFreeCashFlow": -61372000,
+      "calculatedFreeCashFlow": -61372000,
+      "identityMatches": true
+    },
+    {
+      "date": "2023-06-30",
+      "period": "Q2",
+      "currency": "USD",
+      "operatingCashFlow": -66121000,
+      "capitalExpenditure": -38107000,
+      "reportedFreeCashFlow": -104228000,
+      "calculatedFreeCashFlow": -104228000,
+      "identityMatches": true
+    },
+    {
+      "date": "2023-03-31",
+      "period": "Q1",
+      "currency": "USD",
+      "operatingCashFlow": 0,
+      "capitalExpenditure": 0,
+      "reportedFreeCashFlow": 0,
+      "calculatedFreeCashFlow": 0,
+      "identityMatches": true
+    },
+    {
+      "date": "2022-12-31",
+      "period": "Q4",
+      "currency": "USD",
+      "operatingCashFlow": 0,
+      "capitalExpenditure": 0,
+      "reportedFreeCashFlow": 0,
+      "calculatedFreeCashFlow": 0,
+      "identityMatches": true
+    },
+    {
+      "date": "2022-09-30",
+      "period": "Q3",
+      "currency": "USD",
+      "operatingCashFlow": 0,
+      "capitalExpenditure": 0,
+      "reportedFreeCashFlow": 0,
+      "calculatedFreeCashFlow": 0,
+      "identityMatches": true
+    }
+  ]
+}

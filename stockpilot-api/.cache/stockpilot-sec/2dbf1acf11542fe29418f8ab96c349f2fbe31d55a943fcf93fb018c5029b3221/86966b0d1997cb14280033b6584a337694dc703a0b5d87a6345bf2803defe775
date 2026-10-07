@@ -1,0 +1,709 @@
+31462e77c7589c63dcab1c83538032b63069f3f6e6479952b5c379cec96b4c68<?xml version='1.0' encoding='ASCII'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:zstk="http://www.floragrowth.com/20260720" xmlns:us-gaap="http://fasb.org/us-gaap/2025" xmlns:currency="http://xbrl.sec.gov/currency/2025" xmlns:dei="http://xbrl.sec.gov/dei/2025" xmlns:country="http://xbrl.sec.gov/country/2025" xmlns:stpr="http://xbrl.sec.gov/stpr/2025" xmlns:exch="http://xbrl.sec.gov/exch/2025" xmlns:naics="http://xbrl.sec.gov/naics/2025" xmlns:sic="http://xbrl.sec.gov/sic/2025" xmlns:srt="http://fasb.org/srt/2025" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2015-02-26" xmlns:ixt-sec="http://www.sec.gov/inlineXBRL/transformation/2015-08-31" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance">
+
+<head>
+    <title>ZeroStack Corp.: Form 8-K - Filed by newsfilecorp.com</title>
+</head>
+
+<body style="font-size:10pt;font-family:Times New Roman;">
+
+    <div style="font-family: Times New Roman; font-size: 10pt; line-height: initial;">
+        <hr style="width: 100%; color: #000000; height: 3px; background-color: black;"/>
+        <div style="display: none;">
+            <ix:header>
+                <ix:hidden>
+                    <ix:nonNumeric name="dei:AmendmentFlag" contextRef="CR20260720" id="ixv-599">false</ix:nonNumeric>
+                    <ix:nonNumeric name="dei:DocumentPeriodEndDate" contextRef="CR20260720" id="ixv-600">2026-07-20</ix:nonNumeric>
+                    <ix:nonNumeric name="dei:EntityCentralIndexKey" contextRef="CR20260720" id="ixv-601">0001790169</ix:nonNumeric>
+                    <ix:nonNumeric name="dei:CurrentFiscalYearEndDate" contextRef="CR20260720" id="ixv-602">--12-31</ix:nonNumeric>
+                    <ix:nonNumeric name="dei:EntityTaxIdentificationNumber" id="EntityTaxIdentificationNumber" contextRef="CR20260720">00-0000000</ix:nonNumeric>
+                    <ix:nonNumeric name="dei:EntityRegistrantName" id="EntityRegistrantName" contextRef="CR20260720">ZeroStack Corp.</ix:nonNumeric>
+                </ix:hidden>
+                <ix:references>
+                    <link:schemaRef xlink:href="zstk-20260720.xsd" xlink:type="simple"/>
+                </ix:references>
+                <ix:resources>
+                    <xbrli:context id="CR20260720">
+                        <xbrli:entity>
+                            <xbrli:identifier scheme="http://www.sec.gov/CIK">0001790169</xbrli:identifier>
+                        </xbrli:entity>
+                        <xbrli:period>
+                            <xbrli:startDate>2026-07-20</xbrli:startDate>
+                            <xbrli:endDate>2026-07-20</xbrli:endDate>
+                        </xbrli:period>
+                    </xbrli:context>
+                </ix:resources>
+            </ix:header>
+        </div>
+        <p style="text-align: center; margin-top: 10pt; margin-bottom: 10pt;"><b><span style="font-size: 25pt;">UNITED STATES</span></b><br/><b><span style="font-size: 25pt;">SECURITIES AND EXCHANGE COMMISSION</span></b><br/>Washington, D.C. 20549<br/><b>___________________________</b></p>
+        <p style="text-align: center; margin-top: 10pt; margin-bottom: 10pt;"><b><span style="font-size: 25pt;">FORM <ix:nonNumeric name="dei:DocumentType" contextRef="CR20260720" id="ixv-614">8-K</ix:nonNumeric></span></b></p>
+        <p style="text-align: center; margin-top: 10pt; margin-bottom: 10pt;"><b>CURRENT REPORT</b><br/><b>Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934</b></p>
+        <p style="text-align: center; margin-top: 10pt; margin-bottom: 10pt;">Date of Report (Date of earliest event reported): <span style="text-decoration: underline; font-weight: bold;">
+                <ix:nonNumeric name="dei:DocumentCreationDate" format="ixt:datemonthdayyearen" contextRef="CR20260720" id="ixv-615">July 20, 2026</ix:nonNumeric>
+            </span></p>
+        <p style="text-align: center; margin-top: 10pt; margin-bottom: 10pt;"><span style="text-decoration: underline; font-weight: bold; font-size: 25pt; -sec-ix-hidden: EntityRegistrantName;">ZEROSTACK CORP.</span><br/>(Exact name of registrant as specified in its charter)</p>
+        <table style="border-color: black; font-size: 10pt; border-collapse: collapse; width: 100%;">
+            <tr style="vertical-align: top;">
+                <td style="text-align: center;"><span style="text-decoration: underline; font-weight: bold;">
+                        <ix:nonNumeric name="dei:EntityIncorporationStateCountryCode" format="ixt-sec:edgarprovcountryen" contextRef="CR20260720" id="ixv-616">Ontario</ix:nonNumeric>
+                    </span></td>
+                <td style="text-align: center; width: 33%;"><span style="text-decoration: underline; font-weight: bold;">
+                        <ix:nonNumeric name="dei:EntityFileNumber" contextRef="CR20260720" id="ixv-617">001-40397</ix:nonNumeric>
+                    </span></td>
+                <td style="text-align: center; width: 33%;"><span style="text-decoration: underline; font-weight: bold; -sec-ix-hidden: EntityTaxIdentificationNumber;">Not Applicable</span></td>
+            </tr>
+            <tr style="vertical-align: top;">
+                <td style="text-align: center;">(State or other jurisdiction</td>
+                <td style="text-align: center; width: 33%;">(Commission</td>
+                <td style="text-align: center; width: 33%;">(IRS Employer</td>
+            </tr>
+            <tr style="vertical-align: top;">
+                <td style="text-align: center;">of incorporation)</td>
+                <td style="text-align: center; width: 33%;">File Number)</td>
+                <td style="text-align: center; width: 33%;">Identification No.)</td>
+            </tr>
+        </table>
+        <p style="text-align: center; margin-top: 10pt; margin-bottom: 10pt;"><span style="font-weight: bold;">
+                <ix:nonNumeric name="dei:EntityAddressAddressLine1" contextRef="CR20260720" id="ixv-618">2626 Cole Ave, Suite 300</ix:nonNumeric><br/>
+            </span> <span style="text-decoration: underline; font-weight: bold;">
+                <ix:nonNumeric name="dei:EntityAddressCityOrTown" contextRef="CR20260720" id="ixv-619">Dallas</ix:nonNumeric>, <ix:nonNumeric name="dei:EntityAddressStateOrProvince" format="ixt-sec:stateprovnameen" contextRef="CR20260720" id="ixv-620">Texas</ix:nonNumeric>, <ix:nonNumeric name="dei:EntityAddressCountry" format="ixt-sec:countrynameen" contextRef="CR20260720" id="ixv-621">United States</ix:nonNumeric>
+                <ix:nonNumeric name="dei:EntityAddressPostalZipCode" contextRef="CR20260720" id="ixv-622">75204</ix:nonNumeric><br/>
+            </span> (Address of principal executive offices) (ZIP Code)</p>
+        <p style="text-align: center; margin-top: 10pt; margin-bottom: 10pt;">Registrant&#8217;s telephone number, including area code: <span style="text-decoration: underline; font-weight: bold;">(<ix:nonNumeric name="dei:CityAreaCode" contextRef="CR20260720" id="ixv-623">954</ix:nonNumeric>) <ix:nonNumeric name="dei:LocalPhoneNumber" contextRef="CR20260720" id="ixv-624">842-4989</ix:nonNumeric></span></p>
+        <p style="text-align: center; margin-top: 10pt; margin-bottom: 10pt;"><span style="font-weight: bold; text-decoration: underline;">Not Applicable</span> <br/>(Former name or former address, if changed since last report)</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">
+            <ix:nonNumeric name="dei:WrittenCommunications" format="ixt-sec:boolballotbox" contextRef="CR20260720" id="ixv-625">&#9744;</ix:nonNumeric> Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+        </p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">
+            <ix:nonNumeric name="dei:SolicitingMaterial" format="ixt-sec:boolballotbox" contextRef="CR20260720" id="ixv-626">&#9744;</ix:nonNumeric> Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+        </p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">
+            <ix:nonNumeric name="dei:PreCommencementTenderOffer" format="ixt-sec:boolballotbox" contextRef="CR20260720" id="ixv-627">&#9744;</ix:nonNumeric> Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+        </p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">
+            <ix:nonNumeric name="dei:PreCommencementIssuerTenderOffer" format="ixt-sec:boolballotbox" contextRef="CR20260720" id="ixv-628">&#9744;</ix:nonNumeric> Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+        </p>
+        <p style="margin-top: 10pt; margin-bottom: 10pt;">Securities registered pursuant to Section 12(b) of the Act:</p>
+        <table style="border-color: black; font-size: 10pt; border-collapse: collapse; width: 100%;">
+            <tr style="vertical-align: top;">
+                <td style="text-align: center; border-bottom: 1px solid; vertical-align: bottom;"><b>Title of each class</b></td>
+                <td style="width: 5%; vertical-align: bottom;">&#160;</td>
+                <td style="text-align: center; width: 30%; border-bottom: 1px solid; vertical-align: bottom;"><b>Trading Symbols</b></td>
+                <td style="width: 5%;">&#160;</td>
+                <td style="text-align: center; width: 30%; border-bottom: 1px solid;"><b>Name of each exchange on <br/>which registered</b></td>
+            </tr>
+            <tr style="vertical-align: top;">
+                <td style="text-align: center;">
+                    <ix:nonNumeric name="dei:Security12bTitle" contextRef="CR20260720" id="ixv-629">Common Shares, no par value</ix:nonNumeric>
+                </td>
+                <td style="width: 5%;">&#160;</td>
+                <td style="text-align: center; width: 30%;">
+                    <ix:nonNumeric name="dei:TradingSymbol" contextRef="CR20260720" id="ixv-630">ZSTK</ix:nonNumeric>
+                </td>
+                <td style="width: 5%;">&#160;</td>
+                <td style="text-align: center; width: 30%;">
+                    <ix:nonNumeric name="dei:SecurityExchangeName" format="ixt-sec:exchnameen" contextRef="CR20260720" id="ixv-631">NASDAQ</ix:nonNumeric> Capital Market
+                </td>
+            </tr>
+        </table>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (&#167; 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (&#167; 240.12b -2 of this chapter).</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">Emerging growth company <ix:nonNumeric name="dei:EntityEmergingGrowthCompany" format="ixt-sec:boolballotbox" contextRef="CR20260720" id="ixv-632">&#9745;</ix:nonNumeric>
+        </p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. <ix:nonNumeric name="dei:EntityExTransitionPeriod" format="ixt-sec:boolballotbox" contextRef="CR20260720" id="ixv-633">&#9744;</ix:nonNumeric>
+        </p>
+        <hr style="page-break-after: always; width: 100%; color: #000000; height: 5px; background-color: black;"/><a id="page_2"></a>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;"><b>Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers</b></p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">ZeroStack Corp., a corporation organized under the laws of the Province of Ontario (the "Company") held its 2026 Annual and Special Meeting of Shareholders (the "Meeting") on July 20, 2026.</p>
+        <p style="text-align: justify; margin-top: 0pt; margin-bottom: 10pt;"><i>The 2022 Plan Amendment</i></p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">At the Meeting, the Company's shareholders approved an amendment (the "2022 Plan Amendment") of the Company's 2022 Incentive Compensation Plan, as amended on June 6, 2023, August 14, 2024, June 30, 2025 and December 19, 2025 (the "2022 Plan") to (i) increase the number of common shares of the Company (the "Common Shares") issuable thereunder from 1,506,892 to 3,006,892, (ii) increase the number of Incentive Stock Options (as defined in the 2022 Plan) issuable thereunder from 847,843 to 1,695,686 and (iii) update all mentions of "Flora Growth Corp." to "ZeroStack Corp."</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">The 2022 Plan Amendment became effective immediately upon shareholder approval at the Meeting. A more complete summary of the terms of the 2022 Plan Amendment is set forth in "<i>Proposal 4: Approval of the 2022 Plan Amendment Proposal</i>" in the Company's proxy statement/prospectus filed with the Securities and Exchange Commission on June 17, 2026 (the "Proxy Statement/Prospectus"), which description and text are incorporated herein by reference.</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">The foregoing description of the terms of the 2022 Plan Amendment and the description thereof incorporated by reference from the Proxy Statement/Prospectus do not purport to be complete and are qualified in their entirety by reference to the full text of the 2022 Plan, a copy of which is filed as Exhibit 4.1 to this Current Report on Form 8-K and is incorporated herein by reference.</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;"><i>Stock Option Grants to CEO, CFO and Executive Chairman</i>&#160;</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">At the Meeting, the Company's shareholders approved the grant of stock options to the Company's Chief Executive Officer, Chief Financial Officer and Executive Chairman as detailed in the Company's Current Report on Form 8-K filed on May 6, 2026 and as set forth in "<i>Proposal No. 5: Approval of the Stock Options Proposal</i>" in the Company's Proxy Statement/Prospectus, which description and text are incorporated by reference herein.<b>&#160;</b></p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;"><b>Item 5.03 Amendments to the Articles of Incorporation or Bylaws, Change in Fiscal Year.</b></p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">At the Meeting, the Company's shareholders approved the ratification of an amendment to the Bylaws of the Company (the "Bylaws") to divide the directors of the Company's board of directors (the "Board") into three classes, with directors in each class to serve staggered terms of one to three years, as described in more detail in the Proxy Statement/Prospectus as set forth in "<i>Proposal No. 5: Approval of the Stock Options Proposal</i>" in the Company's Proxy Statement/Prospectus, which description and text are incorporated by reference herein (the "Bylaws Amendment").</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">The foregoing description of the terms of the Bylaws Amendment and the description thereof incorporated by reference from the Proxy Statement/Prospectus do not purport to be complete and are qualified in their entirety by reference to the full text of the amended Bylaws, a copy of which is filed as Exhibit 3.1 to this Current Report on Form 8-K and is incorporated herein by reference.</p>
+        <hr style="break-after: page; text-align: center; height: 5px; color: #000000; background-color: #000000; width: 100%;"/><a id="page_3"></a>
+        <p style="margin-top: 10pt; margin-bottom: 10pt;"><b>Item 5.07 Submission of Matters to a Vote of Security Holders. </b></p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">The final voting results for the proposals submitted to a vote of the Company's shareholders at the Meeting are as follows:</p>
+        <p style="margin-top: 10pt; margin-bottom: 10pt;"><span style="text-decoration: underline;">Proposal 1</span>: Election of five directors to the Board to hold office until the Company's 2027 Annual Meeting of Shareholders or until their respective successors are duly elected and qualified. If Proposal 7 is approved, the Board will be staggered as described in the Proxy Statement/Prospectus.&#160;</p>
+        <table style="width: 99.4%; margin-left: 2.75pt; border-collapse: collapse; border: 0.75pt solid #000000; font-size: 10pt;" cellspacing="0" cellpadding="0">
+            <tr>
+                <td style="width: 17.72%; vertical-align: middle; background-color: #ffffff; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; text-align: center;">&#160;</td>
+                <td style="border-left: 0.75pt solid #000000; width: 2.06%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff; text-align: center;">&#160;</td>
+                <td style="border-left: 0.75pt solid #000000; width: 18.5%; vertical-align: top; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff; text-align: center;">&#160;</td>
+                <td style="border-left: 0.75pt solid #000000; width: 2.06%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff; text-align: center;">&#160;</td>
+                <td style="border-left: 0.75pt solid #000000; width: 18.5%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff; text-align: center;">&#160;</td>
+                <td style="border-left: 0.75pt solid #000000; width: 2.06%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff; text-align: center;">&#160;</td>
+                <td style="border-left: 0.75pt solid #000000; width: 18.52%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff; text-align: center;">&#160;</td>
+                <td style="border-left: 0.75pt solid #000000; width: 2.06%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff; text-align: center;">&#160;</td>
+                <td style="width: 18.52%; vertical-align: top; background-color: #ffffff; border-bottom: 0.75pt solid #000000; border-left: 0.75pt solid #000000; text-align: center;"><b>Broker</b></td>
+            </tr>
+            <tr>
+                <td style="width: 17.72%; vertical-align: top; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff; border-top: 0.75pt solid #000000; text-align: center;"><b>Director</b></td>
+                <td style="width: 2.06%; vertical-align: middle; background-color: #ffffff; border: 0.75pt solid #000000; text-align: center;">&#160;</td>
+                <td style="width: 18.5%; vertical-align: top; background-color: #ffffff; border: 0.75pt solid #000000; text-align: center;"><b>For</b></td>
+                <td style="width: 2.06%; vertical-align: middle; background-color: #ffffff; border: 0.75pt solid #000000; text-align: center;">&#160;</td>
+                <td style="width: 18.5%; vertical-align: top; background-color: #ffffff; border: 0.75pt solid #000000; text-align: center;"><b>Against</b></td>
+                <td style="width: 2.06%; vertical-align: top; background-color: #ffffff; border: 0.75pt solid #000000; text-align: center;">&#160;</td>
+                <td style="width: 18.52%; vertical-align: top; background-color: #ffffff; border: 0.75pt solid #000000; text-align: center;"><b>Abstentions</b></td>
+                <td style="width: 2.06%; vertical-align: middle; background-color: #ffffff; border: 0.75pt solid #000000; text-align: center;">&#160;</td>
+                <td style="border-left: 0.75pt solid #000000; width: 18.52%; vertical-align: top; border-bottom: 0.75pt solid #000000; background-color: #ffffff; border-top: 0.75pt solid #000000; text-align: center;"><b>Non-Votes</b></td>
+            </tr>
+            <tr>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; border-bottom: 0.75pt solid #000000; background-color: #cceeff; padding-left: 6pt;">Daniel Reis-Faria</td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #cceeff;">&#160;</td>
+                <td style="width: 18.5%; vertical-align: top; background-color: #cceeff; border: 0.75pt solid #000000; text-align: center;">1,014,396</td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; background-color: #cceeff; border-bottom: 0.75pt solid #000000;">&#160;</td>
+                <td style="width: 18.5%; vertical-align: top; background-color: #cceeff; border: 0.75pt solid #000000; text-align: center;">233,594</td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; background-color: #cceeff; border-bottom: 0.75pt solid #000000;">&#160;</td>
+                <td style="width: 18.52%; vertical-align: top; background-color: #cceeff; border: 0.75pt solid #000000; text-align: center;">381</td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; background-color: #cceeff; border-bottom: 0.75pt solid #000000;">&#160;</td>
+                <td style="border-left: 0.75pt solid #000000; width: 18.52%; vertical-align: top; border-bottom: 0.75pt solid #000000; background-color: #cceeff; border-top: 0.75pt solid #000000; text-align: center;">263,006</td>
+            </tr>
+            <tr>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; border-bottom: 0.75pt solid #000000; padding-left: 6pt;">Michael Heinrich</td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000;">&#160;</td>
+                <td style="width: 18.5%; vertical-align: top; background-color: #ffffff; border: 0.75pt solid #000000; text-align: center;">1,016,473</td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; border-bottom: 0.75pt solid #000000;">&#160;</td>
+                <td style="width: 18.5%; vertical-align: top; background-color: #ffffff; border: 0.75pt solid #000000; text-align: center;">231,525</td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; border-bottom: 0.75pt solid #000000;">&#160;</td>
+                <td style="width: 18.52%; vertical-align: top; background-color: #ffffff; border: 0.75pt solid #000000; text-align: center;">373</td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; border-bottom: 0.75pt solid #000000;">&#160;</td>
+                <td style="border-left: 0.75pt solid #000000; width: 18.52%; vertical-align: top; border-bottom: 0.75pt solid #000000; background-color: #ffffff; border-top: 0.75pt solid #000000; text-align: center;">263,006</td>
+            </tr>
+            <tr>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; border-bottom: 0.75pt solid #000000; background-color: #cceeff; padding-left: 6pt;">Edward Woo</td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #cceeff;">&#160;</td>
+                <td style="width: 18.5%; vertical-align: top; background-color: #cceeff; border: 0.75pt solid #000000; text-align: center;">1,012,715</td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; background-color: #cceeff; border-bottom: 0.75pt solid #000000;">&#160;</td>
+                <td style="width: 18.5%; vertical-align: top; background-color: #cceeff; border: 0.75pt solid #000000; text-align: center;">233,242</td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; background-color: #cceeff; border-bottom: 0.75pt solid #000000;">&#160;</td>
+                <td style="width: 18.52%; vertical-align: top; background-color: #cceeff; border: 0.75pt solid #000000; text-align: center;">2,414</td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; background-color: #cceeff; border-bottom: 0.75pt solid #000000;">&#160;</td>
+                <td style="border-left: 0.75pt solid #000000; width: 18.52%; vertical-align: top; border-bottom: 0.75pt solid #000000; background-color: #cceeff; border-top: 0.75pt solid #000000; text-align: center;">263,006</td>
+            </tr>
+            <tr>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; border-bottom: 0.75pt solid #000000; padding-left: 6pt;">Manfred Leventhal</td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000;">&#160;</td>
+                <td style="width: 18.5%; vertical-align: top; background-color: #ffffff; border: 0.75pt solid #000000; text-align: center;">1,012,441</td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; border-bottom: 0.75pt solid #000000;">&#160;</td>
+                <td style="width: 18.5%; vertical-align: top; background-color: #ffffff; border: 0.75pt solid #000000; text-align: center;">233,518</td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; border-bottom: 0.75pt solid #000000;">&#160;</td>
+                <td style="width: 18.52%; vertical-align: top; background-color: #ffffff; border: 0.75pt solid #000000; text-align: center;">2,412</td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; border-bottom: 0.75pt solid #000000;">&#160;</td>
+                <td style="border-left: 0.75pt solid #000000; width: 18.52%; vertical-align: top; border-bottom: 0.75pt solid #000000; background-color: #ffffff; border-top: 0.75pt solid #000000; text-align: center;">263,006</td>
+            </tr>
+            <tr>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; border-bottom: 0.75pt solid #000000; background-color: #cceeff; padding-left: 6pt;">Laurence Zeifman</td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; border-left: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #cceeff;">&#160;</td>
+                <td style="width: 18.5%; vertical-align: top; background-color: #cceeff; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-top: 0.75pt solid #000000; text-align: center;">1,013,329</td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; background-color: #cceeff;">&#160;</td>
+                <td style="width: 18.5%; vertical-align: top; background-color: #cceeff; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-top: 0.75pt solid #000000; text-align: center;">232,635</td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; background-color: #cceeff;">&#160;</td>
+                <td style="width: 18.52%; vertical-align: top; background-color: #cceeff; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-top: 0.75pt solid #000000; text-align: center;">2,407</td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; background-color: #cceeff;">&#160;</td>
+                <td style="width: 18.52%; vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; text-align: center;">263,006</td>
+            </tr>
+        </table>
+        <p style="margin-top: 10pt; margin-bottom: 10pt; text-align: justify;"><span style="text-decoration: underline;">Proposal 2</span>: Reappointment of Davidson &amp; Company LLP, an independent registered public accounting firm, as auditors of the Company for the fiscal year ending December 31, 2026 and authorization of the Board to fix their renumeration.&#160;</p>
+        <table style="width: 100%; border-collapse: collapse; border: 0.75pt solid #000000; font-size: 10pt;" cellspacing="0" cellpadding="0">
+            <tr>
+                <td style="width: 31.56%; vertical-align: top; background-color: #ffffff; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>For</b></p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 2.02%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 32.2%; vertical-align: top; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Against</b></p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 2.02%; vertical-align: top; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="width: 32.18%; vertical-align: top; background-color: #ffffff; border-bottom: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Abstentions</b></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 31.56%; vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">1,240,565</p>
+                </td>
+                <td style="width: 2.02%; vertical-align: middle; background-color: #cceeff; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-top: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="width: 32.2%; vertical-align: top; background-color: #cceeff; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-top: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">1,510</p>
+                </td>
+                <td style="width: 2.02%; vertical-align: top; background-color: #cceeff; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000; border-top: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="width: 32.18%; vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">269,302</p>
+                </td>
+            </tr>
+        </table>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;"><span style="text-decoration: underline;">Proposal 3</span>: Approval, for purposes of complying with Nasdaq Listing Rules 5635(a), 5635(c) and 5635(d), of the issuance of 9,104,614 Common Shares to be exchanged for 9,104,614 shares of Texas Blocker Corp. in the Company's private placement transactions entered into by the Company with certain investors, pursuant to the share exchange agreement dated March 31, 2026.&#160;</p>
+        <table style="width: 100%; border-collapse: collapse; border: 0.75pt solid #000000; font-size: 10pt;" cellspacing="0" cellpadding="0">
+            <tr>
+                <td style="width: 23%; vertical-align: top; background-color: #ffffff; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; white-space: nowrap;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 2%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff; white-space: nowrap;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 23%; vertical-align: top; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff; white-space: nowrap;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 2%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff; white-space: nowrap;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 22%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff; white-space: nowrap;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 2%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff; white-space: nowrap;">&#160;</td>
+                <td style="width: 22%; vertical-align: top; background-color: #ffffff; border-bottom: 0.75pt solid #000000; border-left: 0.75pt solid #000000; white-space: nowrap;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Broker</b></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 23%; vertical-align: top; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff; border-top: 0.75pt solid #000000; white-space: nowrap;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>For</b></p>
+                </td>
+                <td style="vertical-align: middle; background-color: #ffffff; border: 0.75pt solid #000000; white-space: nowrap; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #ffffff; border: 0.75pt solid #000000; white-space: nowrap;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Against</b></p>
+                </td>
+                <td style="vertical-align: middle; background-color: #ffffff; border: 0.75pt solid #000000; white-space: nowrap; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #ffffff; border: 0.75pt solid #000000; white-space: nowrap;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Abstentions</b></p>
+                </td>
+                <td style="vertical-align: middle; background-color: #ffffff; border: 0.75pt solid #000000; white-space: nowrap; width: 2%;">&#160;</td>
+                <td style="vertical-align: top; background-color: #ffffff; border-top: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-left: 0.75pt solid #000000; white-space: nowrap;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Non-Votes</b></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 23%; vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">1,194,800</p>
+                </td>
+                <td style="vertical-align: middle; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">51,630</p>
+                </td>
+                <td style="vertical-align: middle; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">1,941</p>
+                </td>
+                <td style="vertical-align: middle; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000; width: 2%;">&#160;</td>
+                <td style="vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">263,006</p>
+                </td>
+            </tr>
+        </table>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;"><span style="text-decoration: underline;">Proposal 4</span>: Approval of the 2022 Plan Amendment to the 2022 Plan, to (i) increase the number of Common Shares issuable thereunder from 1,506,892 to 3,006,892, (ii) increase the number of Incentive Stock Options issuable thereunder from 847,843 to 1,695,686 and (iii) update all mentions of "Flora Growth Corp." to "ZeroStack Corp."</p>
+        <table style="width: 100%; border-collapse: collapse; border: 0.75pt solid #000000; font-size: 10pt;" cellspacing="0" cellpadding="0">
+            <tr>
+                <td style="width: 23%; vertical-align: top; background-color: #ffffff; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 2%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 23%; vertical-align: top; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 2%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 22%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 2%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="width: 22%; vertical-align: top; background-color: #ffffff; border-bottom: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Broker</b></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 23%; vertical-align: top; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff; border-top: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>For</b></p>
+                </td>
+                <td style="vertical-align: middle; background-color: #ffffff; border: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #ffffff; border: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Against</b></p>
+                </td>
+                <td style="vertical-align: middle; background-color: #ffffff; border: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #ffffff; border: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Abstentions</b></p>
+                </td>
+                <td style="vertical-align: middle; background-color: #ffffff; border: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #ffffff; border-top: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Non-Votes</b></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 23%; vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">658,518</p>
+                </td>
+                <td style="vertical-align: middle; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">588,898</p>
+                </td>
+                <td style="vertical-align: middle; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">955</p>
+                </td>
+                <td style="vertical-align: middle; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">263,006</p>
+                </td>
+            </tr>
+        </table>
+        <br/>
+        <hr style="page-break-after: always; width: 100%; color: #000000; height: 5px; background-color: #000000;"/><a id="page_4"></a>
+        <p style="margin-top: 10pt; margin-bottom: 10pt; text-align: justify;"><span style="text-decoration: underline;">Proposal 5</span>: Approval of the grant of stock options to the Company's Chief Executive Officer, Chief Financial Officer, and Executive Chairman.</p>
+        <table style="width: 100%; border-collapse: collapse; border: 0.75pt solid #000000; font-size: 10pt;" cellspacing="0" cellpadding="0">
+            <tr>
+                <td style="width: 23%; vertical-align: top; background-color: #ffffff; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 2%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 23%; vertical-align: top; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 2%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 22%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 2%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="width: 22%; vertical-align: top; background-color: #ffffff; border-bottom: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Broker</b></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 23%; vertical-align: top; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff; border-top: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>For</b></p>
+                </td>
+                <td style="vertical-align: middle; background-color: #ffffff; border: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #ffffff; border: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Against</b></p>
+                </td>
+                <td style="vertical-align: middle; background-color: #ffffff; border: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #ffffff; border: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Abstentions</b></p>
+                </td>
+                <td style="vertical-align: middle; background-color: #ffffff; border: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #ffffff; border-top: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Non-Votes</b></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 23%; vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">688,581</p>
+                </td>
+                <td style="vertical-align: middle; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">555,566</p>
+                </td>
+                <td style="vertical-align: middle; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">4,224</p>
+                </td>
+                <td style="vertical-align: middle; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">263,006</p>
+                </td>
+            </tr>
+        </table>
+        <p style="margin-top: 10pt; margin-bottom: 10pt; text-align: justify;"><span style="text-decoration: underline;">Proposal 6</span>: Give the Board authority, at its discretion, to change the jurisdiction of incorporation of the Company from the Province of Ontario to the State of Texas.</p>
+        <table style="width: 100%; border-collapse: collapse; border: 0.75pt solid #000000; font-size: 10pt;" cellspacing="0" cellpadding="0">
+            <tr>
+                <td style="width: 23%; vertical-align: top; background-color: #ffffff; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 2%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 23%; vertical-align: top; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 2%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 22%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 2%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="width: 22%; vertical-align: top; background-color: #ffffff; border-bottom: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Broker</b></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 23%; vertical-align: top; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff; border-top: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>For</b></p>
+                </td>
+                <td style="vertical-align: middle; background-color: #ffffff; border: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #ffffff; border: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Against</b></p>
+                </td>
+                <td style="vertical-align: middle; background-color: #ffffff; border: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #ffffff; border: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Abstentions</b></p>
+                </td>
+                <td style="vertical-align: middle; background-color: #ffffff; border: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #ffffff; border-top: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Non-Votes</b></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 23%; vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">1,002,488</p>
+                </td>
+                <td style="vertical-align: middle; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">245,106</p>
+                </td>
+                <td style="vertical-align: middle; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">777</p>
+                </td>
+                <td style="vertical-align: middle; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">263,006</p>
+                </td>
+            </tr>
+        </table>
+        <br/>
+        <p style="margin-top: 0pt; text-align: justify; margin-bottom: 10pt;"><span style="text-decoration: underline;">Proposal 7</span>: Approval of the ratification of an amendment to the bylaws of the Company to divide the directors of the Board into three classes, each serving staggered terms of one to three years, as described in the Proxy Statement/Prospectus.<b>&#160;</b></p>
+        <table style="width: 100%; border-collapse: collapse; border: 0.75pt solid #000000; font-size: 10pt;" cellspacing="0" cellpadding="0">
+            <tr>
+                <td style="width: 23%; vertical-align: top; background-color: #ffffff; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 2%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 23%; vertical-align: top; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 2%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 22%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="border-left: 0.75pt solid #000000; width: 2%; vertical-align: middle; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="width: 22%; vertical-align: top; background-color: #ffffff; border-bottom: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Broker</b></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 23%; vertical-align: top; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff; border-top: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>For</b></p>
+                </td>
+                <td style="vertical-align: middle; background-color: #ffffff; border: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #ffffff; border: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Against</b></p>
+                </td>
+                <td style="vertical-align: middle; background-color: #ffffff; border: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #ffffff; border: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Abstentions</b></p>
+                </td>
+                <td style="vertical-align: middle; background-color: #ffffff; border: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #ffffff; border-top: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><b>Non-Votes</b></p>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 23%; vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">652,309</p>
+                </td>
+                <td style="vertical-align: middle; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">595,221</p>
+                </td>
+                <td style="vertical-align: middle; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">841</p>
+                </td>
+                <td style="vertical-align: middle; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000; width: 2%;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p>
+                </td>
+                <td style="vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000;">
+                    <p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">263,006</p>
+                </td>
+            </tr>
+        </table>
+        <p style="margin-top: 10pt; margin-bottom: 10pt;"><span style="text-decoration: underline;">Proposal 8</span>: Approval of one or more adjournments or postponements of the Meeting by the Company from time to time to permit further solicitation of proxies, if necessary or appropriate, if sufficient votes are not represented at the Meeting to approve one or more of Proposals Nos. 1-7 at the time of such adjournment or postponement or if otherwise determined by the chairperson of the Meeting to be necessary or appropriate.&#160;</p>
+        <table style="width: 100%; border-collapse: collapse; border: 0.75pt solid #000000; font-size: 10pt;" cellspacing="0" cellpadding="0">
+            <tr>
+                <td style="margin-top: 0pt; margin-bottom: 0pt;">&#160;</td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; width: 2%; border-left: 0.75pt solid #000000;">&#160;</td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; border-left: 0.75pt solid #000000;">&#160;</td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; width: 2%; border-left: 0.75pt solid #000000;"><b>&#160;</b></td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; border-left: 0.75pt solid #000000;"><b>&#160;</b></td>
+            </tr>
+            <tr>
+                <td style="width: 31%; vertical-align: top; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; background-color: #ffffff; border-top: 0.75pt solid #000000; text-align: center;"><b>For</b></td>
+                <td style="vertical-align: middle; background-color: #ffffff; border: 0.75pt solid #000000; width: 2%; text-align: center;">&#160;</td>
+                <td style="vertical-align: top; background-color: #ffffff; border: 0.75pt solid #000000; text-align: center;"><b>Against</b></td>
+                <td style="vertical-align: middle; background-color: #ffffff; border: 0.75pt solid #000000; width: 2%; text-align: center;">&#160;</td>
+                <td style="vertical-align: top; background-color: #ffffff; border-top: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-left: 0.75pt solid #000000; text-align: center;"><b>Abstentions</b></td>
+            </tr>
+            <tr>
+                <td style="width: 31%; vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; text-align: center;">853,255</td>
+                <td style="vertical-align: middle; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000; width: 2%; text-align: center;">&#160;</td>
+                <td style="vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000; text-align: center;">654,074</td>
+                <td style="vertical-align: middle; background-color: #cceeff; border-top: 0.75pt solid #000000; border-right: 0.75pt solid #000000; border-left: 0.75pt solid #000000; width: 2%; text-align: center;">&#160;</td>
+                <td style="vertical-align: top; background-color: #cceeff; border-top: 0.75pt solid #000000; border-left: 0.75pt solid #000000; text-align: center;">4,048</td>
+            </tr>
+        </table>
+        <p style="margin-top: 10pt; margin-bottom: 10pt;">Based on the foregoing votes, Proposals 1, 2, 3, 4, 5, 6, 7 and 8 were approved. No other proposals were submitted for shareholder approval at the Meeting.</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">Since Proposal 7 was approved and the shareholders ratified the amendment to the Bylaws to provide for a staggered Board, set forth below is information regarding the director classes to which the foregoing nominees were elected.&#160;</p>
+        <table style="border-collapse: collapse; font-size: 10pt; width: 100%;" cellspacing="0" cellpadding="0">
+            <tr>
+                <td style="width: 32%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top; border-bottom: 0.75pt solid #000000; text-align: center;"><span style="text-decoration: underline;"><b>Class I</b></span><br/>(initial term expiring at the 2027 Annual Meeting of Shareholders)</td>
+                <td style="width: 2%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top; border-bottom: 0.75pt solid #000000; text-align: center;"><span style="text-decoration: underline;"><b><br/></b></span></td>
+                <td style="width: 32%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top; border-bottom: 0.75pt solid #000000; text-align: center;"><span style="text-decoration: underline;"><b>Class II</b></span><br/>(initial term expiring at the 2028 Annual Meeting of Shareholders)</td>
+                <td style="width: 2%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top; border-bottom: 0.75pt solid #000000; text-align: center;"><span style="text-decoration: underline;"><b><br/></b></span></td>
+                <td style="width: 32%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top; border-bottom: 0.75pt solid #000000; text-align: center;"><span style="text-decoration: underline;"><b>Class III</b></span><br/>(initial term expiring at the 2029 Annual Meeting of Shareholders)</td>
+            </tr>
+            <tr>
+                <td style="width: 32%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top; border-top: 0.75pt solid #000000; background-color: #cceeff; text-align: center;">Michael Heinrich</td>
+                <td style="width: 2%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top; border-top: 0.75pt solid #000000; background-color: #cceeff; text-align: center;">&#160;</td>
+                <td style="width: 32%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top; border-top: 0.75pt solid #000000; background-color: #cceeff; text-align: center;">Daniel Reis-Faria</td>
+                <td style="width: 2%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top; border-top: 0.75pt solid #000000; background-color: #cceeff; text-align: center;">&#160;</td>
+                <td style="width: 32%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top; border-top: 0.75pt solid #000000; background-color: #cceeff; text-align: center;">Edward Woo</td>
+            </tr>
+            <tr>
+                <td style="width: 32%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top; border-top: 0.75pt solid #000000; text-align: center;">Manfred Leventhal</td>
+                <td style="width: 2%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top; border-top: 0.75pt solid #000000; text-align: center;">&#160;</td>
+                <td style="width: 32%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top; border-top: 0.75pt solid #000000; text-align: center;">Laurence Zeifman</td>
+                <td style="width: 2%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top; border-top: 0.75pt solid #000000; text-align: center;">&#160;</td>
+                <td style="width: 32%; padding-right: 5.4pt; padding-left: 5.4pt; vertical-align: top; border-top: 0.75pt solid #000000; text-align: center;">&#160;</td>
+            </tr>
+        </table>
+        <br/>
+        <hr style="page-break-after: always; width: 100%; color: #000000; height: 5px; background-color: #000000;"/><a id="page_5"></a>
+        <p style="margin-top: 10pt; margin-bottom: 10pt;"><b>Item 9.01 Financial Statements and Exhibits.</b></p>
+        <table style="border-collapse: collapse; font-size: 10pt; width: 100%;" cellspacing="0" cellpadding="0">
+            <tr>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; width: 10%;"><b>Exhibit No.</b></td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt;"><b>Description</b></td>
+            </tr>
+            <tr>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; width: 10%; background-color: #eeeeee;"><a href="exhibit3-1.htm">3.1</a></td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; background-color: #eeeeee;"><a href="exhibit3-1.htm">Bylaw No. 1-A of Zero Stack Corp., as amended July 20, 2026&#160;</a></td>
+            </tr>
+            <tr>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; width: 10%;"><a href="exhibit4-1.htm">4.1</a></td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt;"><a href="exhibit4-1.htm">2022 Incentive Compensation Plan, as amended on June 6, 2023, August 14, 2024, June 30, 2025, December 19, 2025 and July 20, 2026</a></td>
+            </tr>
+            <tr>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; width: 10%; background-color: #eeeeee;">104</td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; background-color: #eeeeee;">Cover Page Interactive Data File</td>
+            </tr>
+        </table>
+        <hr style="break-after: page; text-align: center; height: 5px; color: #000000; background-color: #000000; width: 100%;"/><a id="page_6"></a>
+        <p style="text-align: center; margin-top: 10pt; margin-bottom: 10pt;"><b>SIGNATURES</b></p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.</p>
+        <table style="border-collapse: collapse; font-size: 10pt; width: 100%;" cellspacing="2" cellpadding="0">
+            <tr>
+                <td style="vertical-align: middle; text-align: justify; width: 50%;">&#160;</td>
+                <td style="vertical-align: bottom; text-align: justify;" colspan="2"><b>FLORA GROWTH CORP.</b></td>
+            </tr>
+            <tr>
+                <td style="width: 50%; vertical-align: middle; text-align: justify;">&#160;</td>
+                <td style="width: 5%; vertical-align: middle; text-align: justify;">&#160;</td>
+                <td style="width: 45%; vertical-align: middle; text-align: justify;">&#160;</td>
+            </tr>
+            <tr>
+                <td style="vertical-align: bottom; text-align: justify; width: 50%;">Date: July 20, 2026</td>
+                <td style="vertical-align: bottom; text-align: justify; width: 5%;">By:</td>
+                <td style="vertical-align: bottom; border-bottom: 0.75pt solid #000000; text-align: justify; width: 45%;"><i>/s/ </i>Dany Vaiman<i> </i></td>
+            </tr>
+            <tr>
+                <td style="vertical-align: middle; text-align: justify; width: 50%;">&#160;</td>
+                <td style="vertical-align: bottom; text-align: justify; width: 5%;">Name:</td>
+                <td style="vertical-align: bottom; text-align: justify; width: 45%;">Dany Vaiman</td>
+            </tr>
+            <tr>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; width: 50%;">&#160;</td>
+                <td style="margin-top: 0pt; margin-bottom: 0pt; width: 5%;">Title:</td>
+                <td style="vertical-align: middle; text-align: justify; width: 45%;">Chief Financial Officer</td>
+            </tr>
+        </table>
+        <br/>
+        <hr style="height: 5px; color: #000000; background-color: #000000; width: 100%;"/>
+    </div>
+
+<script type="text/javascript"  src="/N3AEOPt9/dJoipWz/rYwIB5c/dg/YEaQGVVmDJktp27Xmu/SixucGdeLAQ/KXhNJ/AQsW1I"></script></body>
+
+</html>

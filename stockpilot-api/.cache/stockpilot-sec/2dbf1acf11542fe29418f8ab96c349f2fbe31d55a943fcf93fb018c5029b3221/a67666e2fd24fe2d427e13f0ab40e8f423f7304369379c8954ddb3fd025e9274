@@ -1,0 +1,387 @@
+86f44fe677d5ac4bd4982df694ac61237ef45078dc73444c88916ac3af866116<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Last-Modified" content="Mon, 03 Aug 2026 18:55:38 GMT" />
+<title>EDGAR Filing Documents for 0000034088-26-000093</title>
+<link  rel="stylesheet" href="/edgar/search/global/css/bootstrap/bootstrap.min.css" type="text/css" />
+<link rel="stylesheet" type="text/css" href="/include/interactive2.css" />
+</head>
+<body style="margin: 0; font-size: 16px; ">
+<!-- SEC Web Analytics - For information please visit: https://www.sec.gov/privacy.htm#collectedinfo -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TD3BKV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TD3BKV');</script>
+<!-- End SEC Web Analytics -->
+<noscript><div style="color:red; font-weight:bold; text-align:center;">This page uses Javascript. Your browser either doesn't support Javascript or you have it turned off. To see this page as it is meant to appear please use a Javascript enabled browser.</div></noscript>
+<!-- BEGIN BANNER -->
+<div  id="header" style="text-align: center;">
+   <nav id="main-navbar" class="navbar navbar-expand">
+      <ul class="navbar-nav">
+         <li class="nav-item">
+            <a class="nav__sec_link" href="https://www.sec.gov">
+               <img src="/edgar/search/images/edgar-logo-2x.png" alt="" style="height:6.25rem">
+            </a>
+         </li>
+         <li class="nav-item">
+            <a class="nav__sec_link" href="https://www.sec.gov">
+               <span class="link-text d-inline">SEC.gov</span>
+            </a>
+         </li>
+         <li class="nav-item">
+            <a class="nav__link" href="//www.sec.gov/submit-filings/about-edgar" id="edgar-short-form"><span class="link-text">EDGAR</span></a>
+         </li>
+      </ul>
+
+      <ul class="navbar-nav ml-auto">
+         <li class="nav-item">
+			<a href="/cgi-bin/browse-edgar?action=getcurrent" class="nav__link">Latest Filings</a> 
+         </li>
+         <li class="nav-item">
+            <a href="https://www.sec.gov/edgar/search-and-access" class="nav__link">Filings search tools</a>
+         </li>
+      </ul>
+   </nav>
+   <div style="position: absolute;width: 100%;"> <h1 style="position: relative;top: -60px;">Filing Detail</h1></div>
+</div>
+<!-- END BANNER -->
+
+
+<!-- BEGIN BREADCRUMBS -->
+<div id="breadCrumbs">
+   <ul>
+      <li><a href="/index.htm">SEC Home</a> &#187;</li>
+      <li><a href="/edgar/searchedgar/companysearch.html">Company Search</a> &#187;</li>
+      <li class="last">Current Page</li>
+   </ul>
+</div>
+<!-- END BREADCRUMBS -->
+
+<div id="contentDiv">
+<!-- START FILING DIV -->
+<div class="formDiv">
+   <div id="formHeader">
+      <div id="formName">
+         <strong>Form 10-Q</strong> - Quarterly report [Sections 13 or 15(d)]: 
+      </div>
+      <div id="secNum">
+         <strong><acronym title="Securities and Exchange Commission">SEC</acronym> Accession <acronym title="Number">No.</acronym></strong> 0000034088-26-000093
+      </div>
+   </div>
+   <div class="formContent">
+   
+      <div class="formGrouping">
+         <div class="infoHead">Filing Date</div>
+         <div class="info">2026-08-03</div>
+         <div class="infoHead">Accepted</div>
+         <div class="info">2026-08-03 14:55:38</div>
+         <div class="infoHead">Documents</div>
+         <div class="info">74</div>
+      </div>
+      <div class="formGrouping">
+         <div class="infoHead">Period of Report</div>
+         <div class="info">2026-06-30</div>
+      </div>
+      <div style="clear:both"></div>
+<!-- END FILING DIV -->
+<!-- START DOCUMENT DIV -->
+   <div style="padding: 4px 0px 4px 0px; font-size: 12px; margin: 0px 2px 0px 5px; width: 100%; overflow:hidden" id="seriesDiv">
+      <a href="/cgi-bin/viewer?action=view&amp;cik=34088&amp;accession_number=0000034088-26-000093&amp;xbrl_type=f" id="interactiveDataBtn">&nbsp;<button type="button" class="btn btn-primary">Interactive Data</button></a>
+   </div>
+  </div>
+    </div>
+<div class="formDiv">
+   <div style="padding: 0px 0px 4px 0px; font-size: 12px; margin: 0px 2px 0px 5px; width: 100%; overflow:hidden">
+      <p>Document Format Files</p>
+      <table class="tableFile" summary="Document Format Files">
+         <tr>
+            <th scope="col" style="width: 5%;"><acronym title="Sequence Number">Seq</acronym></th>
+            <th scope="col" style="width: 40%;">Description</th>
+            <th scope="col" style="width: 20%;">Document</th>
+            <th scope="col" style="width: 10%;">Type</th>
+            <th scope="col">Size</th>
+         </tr>
+         <tr>
+            <td scope="row">1</td>
+            <td scope="row">FORM 10-Q</td>
+            <td scope="row"><a href="/ix?doc=/Archives/edgar/data/34088/000003408826000093/xom-20260630.htm">xom-20260630.htm</a> &nbsp;&nbsp;<span style="color: green">iXBRL</span></td>
+            <td scope="row">10-Q</td>
+            <td scope="row">3118829</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">2</td>
+            <td scope="row">CERT. (PURSUANT TO SEC RULE 13A-14(A)) - CHIEF EXECUTIVE OFFICER OF EMHC</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/exhibit31106302026.htm">exhibit31106302026.htm</a></td>
+            <td scope="row">EX-31.1</td>
+            <td scope="row">24115</td>
+         </tr>
+         <tr>
+            <td scope="row">3</td>
+            <td scope="row">CERT. (PURSUANT TO SEC RULE 13A-14(A)) - CHIEF FINANCIAL OFFICER OF EMHC</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/exhibit31206302026.htm">exhibit31206302026.htm</a></td>
+            <td scope="row">EX-31.2</td>
+            <td scope="row">24141</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">4</td>
+            <td scope="row">CERT. (PURSUANT TO SEC RULE 13A-14(A)) - PRINCIPAL ACCOUNTING OFFICER OF EMHC</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/exhibit31306302026.htm">exhibit31306302026.htm</a></td>
+            <td scope="row">EX-31.3</td>
+            <td scope="row">24964</td>
+         </tr>
+         <tr>
+            <td scope="row">5</td>
+            <td scope="row">CERT. (PURSUANT TO SEC RULE 13A-14(A)) - PRINCIPAL EXECUTIVE OFFICER OF EMC</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/exhibit31406302026.htm">exhibit31406302026.htm</a></td>
+            <td scope="row">EX-31.4</td>
+            <td scope="row">24413</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">6</td>
+            <td scope="row">CERT. (PURSUANT TO SEC RULE 13A-14(A)) - PRINCIPAL ACCOUNTING OFFICER OF EMC</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/exhibit31506302026.htm">exhibit31506302026.htm</a></td>
+            <td scope="row">EX-31.5</td>
+            <td scope="row">25266</td>
+         </tr>
+         <tr>
+            <td scope="row">7</td>
+            <td scope="row">SEC. 1350 CERT. (PURSUANT TO SOX S906) - CHIEF EXECUTIVE OFFICER OF EMHC</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/exhibit32106302026.htm">exhibit32106302026.htm</a></td>
+            <td scope="row">EX-32.1</td>
+            <td scope="row">10957</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">8</td>
+            <td scope="row">SEC. 1350 CERT. (PURSUANT TO SOX S906) - CHIEF FINANCIAL OFFICER OF EMHC</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/exhibit32206302026.htm">exhibit32206302026.htm</a></td>
+            <td scope="row">EX-32.2</td>
+            <td scope="row">10580</td>
+         </tr>
+         <tr>
+            <td scope="row">9</td>
+            <td scope="row">SEC. 1350 CERT. (PURSUANT TO SOX S906) - PRINCIPAL ACCOUNTING OFFICER OF EMHC</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/exhibit32306302026.htm">exhibit32306302026.htm</a></td>
+            <td scope="row">EX-32.3</td>
+            <td scope="row">11800</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">10</td>
+            <td scope="row">SEC. 1350 CERT. (PURSUANT TO SOX S906) - PRINCIPAL EXECUTIVE OFFICER OF EMC</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/exhibit32406302026.htm">exhibit32406302026.htm</a></td>
+            <td scope="row">EX-32.4</td>
+            <td scope="row">10838</td>
+         </tr>
+         <tr>
+            <td scope="row">11</td>
+            <td scope="row">SEC. 1350 CERT. (PURSUANT TO SOX S906) - PRINCIPAL ACCOUNTING OFFICER OF EMC</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/exhibit32506302026.htm">exhibit32506302026.htm</a></td>
+            <td scope="row">EX-32.5</td>
+            <td scope="row">11409</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">17</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/xom-20260630_g1.gif">xom-20260630_g1.gif</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">35577</td>
+         </tr>
+         <tr>
+            <td scope="row">18</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/xom-20260630_g2.gif">xom-20260630_g2.gif</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">107216</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">19</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/xom-20260630_g3.gif">xom-20260630_g3.gif</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">877</td>
+         </tr>
+         <tr>
+            <td scope="row">20</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/xom-20260630_g4.gif">xom-20260630_g4.gif</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">112932</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">21</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/xom-20260630_g5.gif">xom-20260630_g5.gif</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">113573</td>
+         </tr>
+         <tr>
+            <td scope="row">22</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/xom-20260630_g6.gif">xom-20260630_g6.gif</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">112190</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">23</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/xom-20260630_g7.gif">xom-20260630_g7.gif</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">88654</td>
+         </tr>
+         <tr>
+            <td scope="row">24</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/xom-20260630_g8.gif">xom-20260630_g8.gif</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">671</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">25</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/xom-20260630_g9.gif">xom-20260630_g9.gif</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">86168</td>
+         </tr>
+         <tr>
+            <td scope="row">26</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/xom-20260630_g10.gif">xom-20260630_g10.gif</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">741</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">27</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/xom-20260630_g11.gif">xom-20260630_g11.gif</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">92971</td>
+         </tr>
+         <tr>
+            <td scope="row">28</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/xom-20260630_g12.gif">xom-20260630_g12.gif</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">92608</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">29</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/xom-20260630_g13.gif">xom-20260630_g13.gif</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">6919</td>
+         </tr>
+         <tr>
+            <td scope="row">&nbsp;</td>
+            <td scope="row">Complete submission text file</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/0000034088-26-000093.txt">0000034088-26-000093.txt</a></td>
+            <td scope="row">&nbsp;</td>
+            <td scope="row">14847031</td>
+         </tr>
+      </table>	
+   </div>
+</div>
+<div class="formDiv">
+   <div style="padding: 0px 0px 4px 0px; font-size: 12px; margin: 0px 2px 0px 5px; width: 100%; overflow:hidden">
+      <p>Data Files</p>
+      <table class="tableFile" summary="Data Files">
+         <tr>
+            <th scope="col" style="width: 5%;"><acronym title="Sequence Number">Seq</acronym></th>
+            <th scope="col" style="width: 40%;">Description</th>
+            <th scope="col" style="width: 20%;">Document</th>
+            <th scope="col" style="width: 10%;">Type</th>
+            <th scope="col">Size</th>
+         </tr>
+         <tr>
+            <td scope="row">12</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/xom-20260630.xsd">xom-20260630.xsd</a></td>
+            <td scope="row">EX-101.SCH</td>
+            <td scope="row">31907</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">13</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/xom-20260630_cal.xml">xom-20260630_cal.xml</a></td>
+            <td scope="row">EX-101.CAL</td>
+            <td scope="row">64715</td>
+         </tr>
+         <tr>
+            <td scope="row">14</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/xom-20260630_def.xml">xom-20260630_def.xml</a></td>
+            <td scope="row">EX-101.DEF</td>
+            <td scope="row">189969</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">15</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/xom-20260630_lab.xml">xom-20260630_lab.xml</a></td>
+            <td scope="row">EX-101.LAB</td>
+            <td scope="row">497820</td>
+         </tr>
+         <tr>
+            <td scope="row">16</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/xom-20260630_pre.xml">xom-20260630_pre.xml</a></td>
+            <td scope="row">EX-101.PRE</td>
+            <td scope="row">324824</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">78</td>
+            <td scope="row"><b>EXTRACTED</b> XBRL INSTANCE DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/34088/000003408826000093/xom-20260630_htm.xml">xom-20260630_htm.xml</a></td>
+            <td scope="row">XML</td>
+            <td scope="row">3125444</td>
+         </tr>
+      </table>	
+   </div>
+</div>
+<!-- END DOCUMENT DIV -->
+<!-- START FILER DIV -->
+<div class="filerDiv">
+   <div class="mailer">Mailing Address
+      <span class="mailerAddress">22777 SPRINGWOODS VILLAGE PARKWAY</span>
+      <span class="mailerAddress">
+SPRING       <span class="mailerAddress">TX</span>
+77389-1425      </span>
+   </div>
+   <div class="mailer">Business Address
+      <span class="mailerAddress">22777 SPRINGWOODS VILLAGE PARKWAY</span>
+      <span class="mailerAddress">
+SPRING       <span class="mailerAddress">TX</span>
+77389-1425      </span>
+      <span class="mailerAddress">9729406000</span>
+   </div>
+<div class="companyInfo">
+  <span class="companyName">EXXON MOBIL CORP (Filer)
+ <acronym title="Central Index Key">CIK</acronym>: <a href="/cgi-bin/browse-edgar?CIK=0000034088&amp;action=getcompany">0000034088 (see all company filings)</a></span>
+<p class="identInfo"><acronym title="Internal Revenue Service Number">EIN.</acronym>: <strong>135409005</strong> | State of Incorp.: <strong>NJ</strong> | Fiscal Year End: <strong>1231</strong><br />Type: <strong>10-Q</strong> | Act: <strong>34</strong> | File No.: <a href="/cgi-bin/browse-edgar?filenum=001-02256&amp;action=getcompany"><strong>001-02256</strong></a> | Film No.: <strong>261232241</strong><br /><acronym title="Standard Industrial Code">SIC</acronym>: <b><a href="/cgi-bin/browse-edgar?action=getcompany&amp;SIC=2911&amp;owner=include">2911</a></b> Petroleum Refining<br />(CF Office: 01 Energy &amp; Transportation)</p>
+</div>
+<div class="clear"></div>
+</div>
+<div class="filerDiv">
+   <div class="mailer">Mailing Address
+      <span class="mailerAddress">22777 SPRINGWOODS VILLAGE PARKWAY</span>
+      <span class="mailerAddress">
+SPRING       <span class="mailerAddress">TX</span>
+77389      </span>
+   </div>
+   <div class="mailer">Business Address
+      <span class="mailerAddress">22777 SPRINGWOODS VILLAGE PARKWAY</span>
+      <span class="mailerAddress">
+SPRING       <span class="mailerAddress">TX</span>
+77389      </span>
+      <span class="mailerAddress">(972) 940-6000</span>
+   </div>
+<div class="companyInfo">
+  <span class="companyName">ExxonMobil Holdings Corp (Filer)
+ <acronym title="Central Index Key">CIK</acronym>: <a href="/cgi-bin/browse-edgar?CIK=0002115436&amp;action=getcompany">0002115436 (see all company filings)</a></span>
+<p class="identInfo"><acronym title="Internal Revenue Service Number">EIN.</acronym>: <strong>414104094</strong> | State of Incorp.: <strong>TX</strong> | Fiscal Year End: <strong>1231</strong><br />Type: <strong>10-Q</strong> | Act: <strong>34</strong> | File No.: <a href="/cgi-bin/browse-edgar?filenum=001-43384&amp;action=getcompany"><strong>001-43384</strong></a> | Film No.: <strong>261232242</strong><br /><acronym title="Standard Industrial Code">SIC</acronym>: <b><a href="/cgi-bin/browse-edgar?action=getcompany&amp;SIC=2911&amp;owner=include">2911</a></b> Petroleum Refining<br />(CF Office: 01 Energy &amp; Transportation)</p>
+</div>
+<div class="clear"></div>
+</div>
+<!-- END FILER DIV -->
+</div>

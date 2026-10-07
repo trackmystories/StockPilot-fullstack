@@ -1,0 +1,3248 @@
+30e585b8e34ec055e63db4fd15088fb0fc060ea8d3d4fceeff3243c71e807ac0<?xml version='1.0' encoding='ASCII'?>
+<!-- XBRL document created with Praxa -->
+<!-- Copyright (c) 2026 Praxa LLC. All Rights Reserved. -->
+<!-- Creation Date: 2026-09-15T23:06:24.6180+00:00 -->
+<html xmlns:yibo="http://yibomk.com/20260630" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2022-02-16" xmlns:ixt-sec="http://www.sec.gov/inlineXBRL/transformation/2015-08-31" xmlns:utr="http://www.xbrl.org/2009/utr" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:ecd="http://xbrl.sec.gov/ecd/2026" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:dtr="http://www.xbrl.org/dtr/type/2024-01-31" xmlns:us-gaap="http://fasb.org/us-gaap/2026" xmlns:dtr-types="http://www.xbrl.org/dtr/type/2024-01-31" xmlns:srt="http://fasb.org/srt/2026" xmlns:cyd="http://xbrl.sec.gov/cyd/2025" xmlns:country="http://xbrl.sec.gov/country/2026" xmlns:enum2="http://xbrl.org/2020/extensible-enumerations-2.0" xmlns:currency="http://xbrl.sec.gov/currency/2026" xmlns:dei="http://xbrl.sec.gov/dei/2026" xmlns:stpr="http://xbrl.sec.gov/stpr/2026" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>yibo-20260630</title>
+    <meta http-equiv="Content-Type" content="text/html"/>
+  </head>
+  <body style="font: 10pt Times New Roman, Times, Serif">
+    <div style="display:none">
+      <ix:header>
+        <ix:hidden>
+          <ix:nonNumeric name="dei:EntityCentralIndexKey" contextRef="cref_1954337498" id="ixv-247">0001868395</ix:nonNumeric>
+          <ix:nonNumeric name="dei:AmendmentFlag" contextRef="cref_1954337498" id="ixv-248">false</ix:nonNumeric>
+          <ix:nonNumeric name="dei:DocumentFiscalPeriodFocus" contextRef="cref_1954337498" id="ixv-249">Q2</ix:nonNumeric>
+          <ix:nonNumeric name="dei:CurrentFiscalYearEndDate" contextRef="cref_1954337498" id="ixv-250">--12-31</ix:nonNumeric>
+          <ix:nonNumeric name="dei:DocumentPeriodEndDate" contextRef="cref_1954337498" id="ixv-251">2026-06-30</ix:nonNumeric>
+        </ix:hidden>
+        <ix:references>
+          <link:schemaRef xlink:arcrole="http://www.xbrl.org/2003/linkbase" xlink:href="yibo-20260630.xsd" xlink:type="simple"/>
+        </ix:references>
+        <ix:resources>
+          <xbrli:context id="cref_1954337498">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_430783422">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:SubsequentEventTypeAxis">us-gaap:SubsequentEventMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis">yibo:OneyearLoanAgreementMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1374206558">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:SubsequentEventTypeAxis">us-gaap:SubsequentEventMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis">yibo:OneyearLoanAgreementMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-07-31</xbrli:startDate>
+              <xbrli:endDate>2026-07-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1743127050">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:SubsequentEventTypeAxis">us-gaap:SubsequentEventMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-07-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_856643425">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:SubsequentEventTypeAxis">us-gaap:SubsequentEventMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis">yibo:OneyearLoanAgreementMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-07-14</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1560949085">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:SubsequentEventTypeAxis">us-gaap:SubsequentEventMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis">yibo:OneyearLoanAgreementMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-07-14</xbrli:startDate>
+              <xbrli:endDate>2026-07-14</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_394427886">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:SubsequentEventTypeAxis">us-gaap:SubsequentEventMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-07-14</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1100001571">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-12-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_119511285">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1490204609">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:StatementGeographicalAxis">yibo:OthersMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1436486897">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:StatementGeographicalAxis">yibo:OthersMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_176346770">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:StatementGeographicalAxis">srt:AsiaMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_459634338">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:StatementGeographicalAxis">srt:AsiaMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1178186363">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:StatementGeographicalAxis">srt:EuropeMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1769340602">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:StatementGeographicalAxis">srt:EuropeMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1241507759">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:StatementGeographicalAxis">srt:NorthAmericaMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_62386225">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:StatementGeographicalAxis">srt:NorthAmericaMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1298478980">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:ProductOrServiceAxis">yibo:OnlineSalesToRetailCustomersMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_899809112">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:ProductOrServiceAxis">yibo:OnlineSalesToRetailCustomersMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_301168078">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:ProductOrServiceAxis">yibo:OfflineSalesToODMCustomersMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_2021190459">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:ProductOrServiceAxis">yibo:OfflineSalesToODMCustomersMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1148477964">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:ProductOrServiceAxis">yibo:OfflineSalesToDealersMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_968648228">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:ProductOrServiceAxis">yibo:OfflineSalesToDealersMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_918131158">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionAxis">yibo:XinyuHighTechInvestmentMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_158665053">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionAxis">yibo:XinyuHighTechInvestmentMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_870107747">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionAxis">yibo:MrXingzhiHuangExportImportBankOfChinaJiangxiBranchMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_956711144">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionAxis">yibo:MrXingzhiHuangBankOfChinaMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_627948591">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionAxis">yibo:MrZhishengChengExportImportBankOfChinaJiangxiBranchMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_612153514">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionAxis">yibo:MrZhishengChengBankOfChinaMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1026992138">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionAxis">yibo:MrWeidongGuExportImportBankOfChinaJiangxiBranchMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_139623383">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionAxis">yibo:MrWeidongGuXinyuRuralCommercialBankMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_2132683266">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionAxis">yibo:MrWeidongGuBankOfChinaMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_884744495">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionAxis">yibo:XinyuHighTechInvestmentCoLtdExportImportBankOfChinaJiangxiBranchMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_39174644">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionAxis">yibo:XinyuHighTechInvestmentCoLtdExportImportBankOfChinaJiangxiBranchMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_763874903">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionAxis">yibo:XinyuHighTechInvestmentMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1227582284">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionAxis">yibo:XinyuHighTechInvestmentMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1709798175">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionAxis">yibo:MrXingzhiHuangMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1746636278">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionAxis">yibo:MrZhishengChengMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_931567183">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionAxis">yibo:MrWeidongGuMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1694731055">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_2026901519">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_2094544393">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:StatementGeographicalAxis">country:CN</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="srt:RangeAxis">srt:MaximumMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1346278968">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:StatementGeographicalAxis">country:CN</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="srt:RangeAxis">srt:MinimumMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1307931555">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:CommonStockMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassBMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_69812730">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:CommonStockMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassBMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_223621952">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:CommonStockMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassAMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1438109727">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:CommonStockMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassAMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1069137974">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassAMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1815513939">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassAMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_699415760">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2024-01-29</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_92010719">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2024-01-29</xbrli:startDate>
+              <xbrli:endDate>2024-01-29</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_83420988">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:SubsidiarySaleOfStockAxis">us-gaap:IPOMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2024-01-29</xbrli:startDate>
+              <xbrli:endDate>2024-01-29</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_2103566149">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassAMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2024-01-29</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_109186046">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassAMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2024-01-29</xbrli:startDate>
+              <xbrli:endDate>2024-01-29</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_2103493704">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassBMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1623586379">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassAMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_233893607">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassBMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_2106144753">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:IncomeTaxAuthorityAxis">country:US</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_740912800">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:IncomeTaxAuthorityAxis">yibo:PRCMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1985376978">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:IncomeTaxAuthorityAxis">yibo:PRCMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1338464787">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:StatementGeographicalAxis">country:CN</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1441047232">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:StatementGeographicalAxis">country:CN</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1770488651">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionsByRelatedPartyAxis">yibo:JiangxiYiboMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_765689008">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionsByRelatedPartyAxis">yibo:JiangxiYiboMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1540953213">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:StatementGeographicalAxis">country:CN</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionsByRelatedPartyAxis">yibo:HighAndNewTechnologyEnterpriseMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1060824911">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:RangeAxis">srt:MaximumMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="srt:StatementGeographicalAxis">srt:EuropeMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_329197580">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:RangeAxis">srt:MinimumMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="srt:StatementGeographicalAxis">srt:EuropeMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1155329752">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:StatementGeographicalAxis">stpr:CA</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1281657460">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:StatementGeographicalAxis">stpr:CA</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_307531804">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:StatementGeographicalAxis">country:US</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_93979393">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:StatementGeographicalAxis">country:US</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1360227144">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:RangeAxis">srt:MinimumMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="srt:StatementGeographicalAxis">country:US</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2017-12-22</xbrli:startDate>
+              <xbrli:endDate>2017-12-22</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1266797516">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:RangeAxis">srt:MaximumMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="srt:StatementGeographicalAxis">country:US</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2017-12-22</xbrli:startDate>
+              <xbrli:endDate>2017-12-22</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1044686174">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:StatementGeographicalAxis">country:HK</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_817759437">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="yibo:StatementOfIncomeBalanceAxis">yibo:ResearchAndDevelopmentExpensesMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1369545941">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="yibo:StatementOfIncomeBalanceAxis">yibo:GeneralAndAdministrativeExpensesMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_598693458">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:AwardTypeAxis">us-gaap:RestrictedStockMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_2006755346">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:PlanNameAxis">yibo:TwoThousandTwentyFiveEquityIncentivePlanMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassAMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_169028194">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:PlanNameAxis">yibo:TwoThousandTwentyFiveEquityIncentivePlanMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassAMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-06-03</xbrli:startDate>
+              <xbrli:endDate>2025-06-03</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1220993262">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:PlanNameAxis">yibo:TwoThousandTwentyFiveEquityIncentivePlanMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassAMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-05-28</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_323603122">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:PlanNameAxis">yibo:TwoThousandTwentyFiveEquityIncentivePlanMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassAMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-05-28</xbrli:startDate>
+              <xbrli:endDate>2025-05-28</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_199636499">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_397058884">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-08-29</xbrli:startDate>
+              <xbrli:endDate>2025-08-29</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_568581347">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionsByRelatedPartyAxis">yibo:JiangxiYiboMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:TypeOfArrangementAxis">yibo:BankLoanAgreementsMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-08-29</xbrli:startDate>
+              <xbrli:endDate>2025-08-29</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_667576163">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionsByRelatedPartyAxis">yibo:JiangxiYiboMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:TypeOfArrangementAxis">yibo:BankLoanAgreementsMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-08-29</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_2008099186">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionsByRelatedPartyAxis">yibo:JiangxiYiboMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:TypeOfArrangementAxis">yibo:BankLoanAgreementsMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-08-09</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_156994199">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-14</xbrli:startDate>
+              <xbrli:endDate>2025-01-14</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1068810712">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionsByRelatedPartyAxis">yibo:JiangxiYiboMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:TypeOfArrangementAxis">yibo:BankLoanAgreementsMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-14</xbrli:startDate>
+              <xbrli:endDate>2025-01-14</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1164698231">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionsByRelatedPartyAxis">yibo:JiangxiYiboMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:TypeOfArrangementAxis">yibo:BankLoanAgreementsMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-01-14</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1285397693">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionsByRelatedPartyAxis">yibo:JiangxiYiboMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:TypeOfArrangementAxis">yibo:BankLoanAgreementsMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-01-01</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_109094854">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionsByRelatedPartyAxis">yibo:JiangxiYiboMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:TypeOfArrangementAxis">yibo:BankLoanAgreementsMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-01-01</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1751756297">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-09-09</xbrli:startDate>
+              <xbrli:endDate>2025-09-09</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_844484376">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionsByRelatedPartyAxis">yibo:JiangxiYiboMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis">yibo:ExportImportBankOfChinaJiangxiBranchMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-09-09</xbrli:startDate>
+              <xbrli:endDate>2025-09-09</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1741684893">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionsByRelatedPartyAxis">yibo:JiangxiYiboMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis">yibo:ExportImportBankOfChinaJiangxiBranchMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-09-09</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_17430563">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionsByRelatedPartyAxis">yibo:JiangxiYiboMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis">yibo:BankOfChinaXinyuBranchMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_113615610">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-06-30</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_381885526">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis">yibo:BankOfChinaXinyuBranchMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1318605697">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionsByRelatedPartyAxis">yibo:JiangxiLeibotaiMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_815770035">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis">yibo:BankOfChinaXinyuBranchMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-12-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1988529869">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:TypeOfArrangementAxis">yibo:BankLoanAgreementsMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis">yibo:BankOfChinaXinyuBranchMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1204959604">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis">yibo:IndustrialAndCommercialBankOfChinaLimitedXinyuHighTechBranchMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1015004320">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis">yibo:IndustrialAndCommercialBankOfChinaLimitedXinyuHighTechBranchMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1865889750">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis">yibo:XinyuRuralCommercialBankGaoxinBranchMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1408207419">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis">yibo:AgriculturalBankOfChinaXinyuBranchMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_117450011">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis">yibo:ExportImportBankOfChinaJiangxiBranchMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1865613896">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis">yibo:ExportImportBankOfChinaJiangxiBranchMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_659517499">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis">yibo:BankOfChinaXinyuBranchMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1664844720">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis">yibo:BankOfChinaXinyuBranchMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_2082818132">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionsByRelatedPartyAxis">yibo:JiangxiYibosMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_611802956">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionsByRelatedPartyAxis">yibo:JiangxiYibosMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_336793709">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:PropertyPlantAndEquipmentByTypeAxis">us-gaap:LandMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1815767473">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:PropertyPlantAndEquipmentByTypeAxis">us-gaap:LandMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_2107159731">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:PropertyPlantAndEquipmentByTypeAxis">us-gaap:AutomobilesMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1092117273">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:PropertyPlantAndEquipmentByTypeAxis">us-gaap:AutomobilesMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_2029271994">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:PropertyPlantAndEquipmentByTypeAxis">us-gaap:FurnitureAndFixturesMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1903063406">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:PropertyPlantAndEquipmentByTypeAxis">us-gaap:FurnitureAndFixturesMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_401635736">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:PropertyPlantAndEquipmentByTypeAxis">us-gaap:BuildingImprovementsMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1957258815">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:PropertyPlantAndEquipmentByTypeAxis">us-gaap:BuildingImprovementsMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_2106761735">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:PropertyPlantAndEquipmentByTypeAxis">us-gaap:MachineryAndEquipmentMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_325628662">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:PropertyPlantAndEquipmentByTypeAxis">us-gaap:MachineryAndEquipmentMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_440832172">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis">yibo:AsterGraphicsCompanyLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_268625064">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis">yibo:AsterGraphicsCompanyLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1727042433">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis">yibo:AsterGraphicsCompanyLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-15</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1839448249">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:TimingOfTransferOfGoodOrServiceAxis">us-gaap:TransferredOverTimeMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1982429976">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:TimingOfTransferOfGoodOrServiceAxis">us-gaap:TransferredOverTimeMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1404004346">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:TimingOfTransferOfGoodOrServiceAxis">yibo:Between6MonthsAndAYearMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1442083131">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:TimingOfTransferOfGoodOrServiceAxis">yibo:Between6MonthsAndAYearMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_696886510">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:TimingOfTransferOfGoodOrServiceAxis">yibo:Between3And6MonthsMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_408261360">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:TimingOfTransferOfGoodOrServiceAxis">yibo:Between3And6MonthsMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_983100677">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:TimingOfTransferOfGoodOrServiceAxis">yibo:within90DaysMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1627638595">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:TimingOfTransferOfGoodOrServiceAxis">yibo:within90DaysMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1982593086">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:TimingOfTransferOfGoodOrServiceAxis">yibo:NotOverdueMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1773040515">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:TimingOfTransferOfGoodOrServiceAxis">yibo:NotOverdueMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_880084008">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:StatementScenarioAxis">srt:ScenarioForecastMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-08-31</xbrli:startDate>
+              <xbrli:endDate>2026-08-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_973435106">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:ConcentrationRiskByBenchmarkAxis">us-gaap:AccountsReceivableMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1237545723">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2024-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1108878230">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-01-14</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1874965538">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:IncomeStatementBalanceSheetAndAdditionalDisclosuresByDisposalGroupsIncludingDiscontinuedOperationsAxis">yibo:ProimageBVMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_847508526">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:IncomeStatementBalanceSheetAndAdditionalDisclosuresByDisposalGroupsIncludingDiscontinuedOperationsAxis">yibo:InterconInternationalCorpMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_224460238">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:IncomeStatementBalanceSheetAndAdditionalDisclosuresByDisposalGroupsIncludingDiscontinuedOperationsAxis">yibo:EcoImagingIncMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_875180535">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:IncomeStatementBalanceSheetAndAdditionalDisclosuresByDisposalGroupsIncludingDiscontinuedOperationsAxis">yibo:RevolTradingIncMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_649495853">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:IncomeStatementBalanceSheetAndAdditionalDisclosuresByDisposalGroupsIncludingDiscontinuedOperationsAxis">yibo:IprintEnterpriseLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1453859607">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:IncomeStatementBalanceSheetAndAdditionalDisclosuresByDisposalGroupsIncludingDiscontinuedOperationsAxis">yibo:DellonTechnologyCompanyLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_780068303">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:IncomeStatementBalanceSheetAndAdditionalDisclosuresByDisposalGroupsIncludingDiscontinuedOperationsAxis">yibo:SuppliesFourULimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1490176532">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:IncomeStatementBalanceSheetAndAdditionalDisclosuresByDisposalGroupsIncludingDiscontinuedOperationsAxis">yibo:AztechEnterpriseLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_551653042">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:IncomeStatementBalanceSheetAndAdditionalDisclosuresByDisposalGroupsIncludingDiscontinuedOperationsAxis">yibo:AmstechLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1578096368">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:IncomeStatementBalanceSheetAndAdditionalDisclosuresByDisposalGroupsIncludingDiscontinuedOperationsAxis">yibo:YourOfficeSuppliesCompanyLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_7848373">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:ConcentrationRiskByTypeAxis">us-gaap:SupplierConcentrationRiskMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:ConcentrationRiskByBenchmarkAxis">us-gaap:SalesRevenueNetMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="srt:MajorCustomersAxis">yibo:SupplierCMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_945449509">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:ConcentrationRiskByTypeAxis">us-gaap:SupplierConcentrationRiskMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:ConcentrationRiskByBenchmarkAxis">us-gaap:SalesRevenueNetMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="srt:MajorCustomersAxis">yibo:SupplierCMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_883262136">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:ConcentrationRiskByTypeAxis">us-gaap:SupplierConcentrationRiskMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:ConcentrationRiskByBenchmarkAxis">us-gaap:SalesRevenueNetMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="srt:MajorCustomersAxis">yibo:SupplierBMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1004223652">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:ConcentrationRiskByTypeAxis">us-gaap:SupplierConcentrationRiskMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:ConcentrationRiskByBenchmarkAxis">us-gaap:SalesRevenueNetMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="srt:MajorCustomersAxis">yibo:SupplierBMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_532901477">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:ConcentrationRiskByTypeAxis">us-gaap:SupplierConcentrationRiskMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:ConcentrationRiskByBenchmarkAxis">us-gaap:SalesRevenueNetMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="srt:MajorCustomersAxis">yibo:SupplierAMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1616214255">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:ConcentrationRiskByTypeAxis">us-gaap:SupplierConcentrationRiskMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:ConcentrationRiskByBenchmarkAxis">us-gaap:SalesRevenueNetMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="srt:MajorCustomersAxis">yibo:SupplierAMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_315087443">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:ConcentrationRiskByTypeAxis">us-gaap:SupplierConcentrationRiskMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="srt:RangeAxis">srt:MaximumMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:ConcentrationRiskByBenchmarkAxis">us-gaap:SalesRevenueNetMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="srt:MajorCustomersAxis">yibo:CustomerBMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_380556096">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:ConcentrationRiskByTypeAxis">us-gaap:SupplierConcentrationRiskMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="srt:RangeAxis">srt:MinimumMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:ConcentrationRiskByBenchmarkAxis">us-gaap:SalesRevenueNetMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="srt:MajorCustomersAxis">yibo:CustomerBMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-12-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1035940934">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:ConcentrationRiskByTypeAxis">us-gaap:SupplierConcentrationRiskMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="srt:RangeAxis">srt:MaximumMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:ConcentrationRiskByBenchmarkAxis">us-gaap:SalesRevenueNetMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="srt:MajorCustomersAxis">yibo:CustomerAMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1872689959">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:ConcentrationRiskByTypeAxis">us-gaap:SupplierConcentrationRiskMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="srt:RangeAxis">srt:MinimumMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:ConcentrationRiskByBenchmarkAxis">us-gaap:SalesRevenueNetMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="srt:MajorCustomersAxis">yibo:CustomerAMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-12-31</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_615396224">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:ConcentrationRiskByTypeAxis">us-gaap:SupplierConcentrationRiskMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:ConcentrationRiskByBenchmarkAxis">us-gaap:SalesRevenueNetMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="srt:MajorCustomersAxis">yibo:CustomerAMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_960631019">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:RangeAxis">srt:MinimumMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_358740755">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:StatementGeographicalAxis">country:CN</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1673431783">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:StatementGeographicalAxis">country:CN</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_807730576">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:RangeAxis">srt:MaximumMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_315621385">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:CurrencyAxis">currency:GBP</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:VariableRateAxis">yibo:AverageExchangeRateMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1878720618">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:CurrencyAxis">currency:GBP</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:VariableRateAxis">yibo:AverageExchangeRateMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_2003567266">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:CurrencyAxis">currency:EUR</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:VariableRateAxis">yibo:AverageExchangeRateMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1401391761">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:CurrencyAxis">currency:EUR</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:VariableRateAxis">yibo:AverageExchangeRateMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_516851168">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:CurrencyAxis">currency:CNY</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:VariableRateAxis">yibo:AverageExchangeRateMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_598367179">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:CurrencyAxis">currency:CNY</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:VariableRateAxis">yibo:AverageExchangeRateMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1992670134">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:CurrencyAxis">currency:GBP</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:VariableRateAxis">yibo:PeriodEndExchangeRateMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_2041162462">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:CurrencyAxis">currency:GBP</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:VariableRateAxis">yibo:PeriodEndExchangeRateMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_892525094">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:CurrencyAxis">currency:EUR</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:VariableRateAxis">yibo:PeriodEndExchangeRateMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_701185551">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:CurrencyAxis">currency:EUR</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:VariableRateAxis">yibo:PeriodEndExchangeRateMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_893759908">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:CurrencyAxis">currency:CNY</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:VariableRateAxis">yibo:PeriodEndExchangeRateMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1803006336">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:CurrencyAxis">currency:CNY</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:VariableRateAxis">yibo:PeriodEndExchangeRateMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1855499004">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">srt:SubsidiariesMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1441928732">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:AtlanticMarketingCoLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1774421669">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:AtlanticMarketingCoLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1796475526">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:ProsperityProductTradeCoLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1058922691">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:ProsperityProductTradeCoLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_475424985">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:OrientalPoetryCoLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1207473220">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:OrientalPoetryCoLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1853613358">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:GrandFutureTradeCoLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1980380043">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:GrandFutureTradeCoLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_350960274">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:JoyfulProductTradeCoLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1660249270">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:JoyfulProductTradeCoLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1931947673">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:WhitePoplarCoLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_591147436">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:WhitePoplarCoLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_422304962">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:PeonyTradeCoLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1671538635">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:PeonyTradeCoLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_2129879634">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:AsterTechnologyUKLtdAsterUKMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_985003703">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:AsterTechnologyUKLtdAsterUKMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_2001263908">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:PlanetImageInternationalElectronicTechnologyShenzhenCoLtdformerlyKnownAsShenzhenDinghongShengdaEcommerceCoLtdMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1022896708">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:PlanetImageInternationalElectronicTechnologyShenzhenCoLtdformerlyKnownAsShenzhenDinghongShengdaEcommerceCoLtdMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1004088184">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:YantuoGuangdongTechnologyCoLtdYantuoMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_362675375">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:YantuoGuangdongTechnologyCoLtdYantuoMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1281514966">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:JiangxiLeibotaiElectronicTechnologyCoLtdJiangxiLeibotaiMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_2017763573">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:JiangxiLeibotaiElectronicTechnologyCoLtdJiangxiLeibotaiMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1395475889">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:AsterFranceMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1791637341">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:AsterFranceMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_960896850">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:AsterItalyMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1462942493">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:AsterItalyMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1132153610">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:AsterGermanyMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1706141550">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:AsterGermanyMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_694382063">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:JiangxiYiboMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_399666378">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:JiangxiYiboMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1940959965">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:AsterNLMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_2042602112">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:AsterNLMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1806700736">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:AsterGraphicsIncAsterUSMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1542759536">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:AsterGraphicsIncAsterUSMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_422059331">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:AsterHKMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_160307559">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:AsterHKMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1643989981">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:AsterOnlineMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_979319523">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:AsterOnlineMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1941917251">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:AsterIndustrialLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1087217344">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:AsterIndustrialLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_49757603">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:LuckyKnotLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1161281509">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:LuckyKnotLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1913576489">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:AsterBVIMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1185606284">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:OwnershipAxis">yibo:AsterBVIMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1500546890">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:ScheduleOfEquityMethodInvestmentEquityMethodInvesteeNameAxis">yibo:AsterSuppliesGmbHMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_606125775">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:ScheduleOfEquityMethodInvestmentEquityMethodInvesteeNameAxis">yibo:AsterUSAndAsterNLToAsterBVIMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_840478375">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:ScheduleOfEquityMethodInvestmentEquityMethodInvesteeNameAxis">yibo:AsterHKMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_959443936">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:ScheduleOfEquityMethodInvestmentEquityMethodInvesteeNameAxis">yibo:JiangxiYiboMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_213290838">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionAxis">yibo:AsterTechnologyHollandBVMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="srt:ScheduleOfEquityMethodInvestmentEquityMethodInvesteeNameAxis">yibo:AsterGraphicsCompanyLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1484254849">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="srt:ScheduleOfEquityMethodInvestmentEquityMethodInvesteeNameAxis">yibo:AsterGraphicsCompanyLimitedMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1552400226">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:AccumulatedOtherComprehensiveIncomeMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1222186844">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:RetainedEarningsMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1472181896">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">yibo:StatutoryReserveMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_25647703">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:AdditionalPaidInCapitalMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_20667436">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:AccumulatedOtherComprehensiveIncomeMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_25783915">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:RetainedEarningsMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_492626964">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:AccumulatedOtherComprehensiveIncomeMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1710084336">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:RetainedEarningsMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1427272806">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">yibo:StatutoryReserveMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_431684130">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:AdditionalPaidInCapitalMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_649144857">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:AccumulatedOtherComprehensiveIncomeMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_68114238">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:RetainedEarningsMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1029734102">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">yibo:StatutoryReserveMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_718147593">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:AdditionalPaidInCapitalMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_585084051">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:CommonStockMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassBMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1650646068">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:CommonStockMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassAMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1012362370">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:AccumulatedOtherComprehensiveIncomeMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1500284938">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:AdditionalPaidInCapitalMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_780484263">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:CommonStockMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassAMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1095839186">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:RetainedEarningsMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_874499204">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:AccumulatedOtherComprehensiveIncomeMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2024-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_735892065">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:RetainedEarningsMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2024-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_2039104144">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">yibo:StatutoryReserveMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2024-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1398413998">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:AdditionalPaidInCapitalMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2024-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_417537737">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:CommonStockMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassBMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2024-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_888508836">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:CommonStockMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassAMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2024-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_499684151">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassBMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_2009338733">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionsByRelatedPartyAxis">us-gaap:RelatedPartyMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_921279594">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionsByRelatedPartyAxis">us-gaap:RelatedPartyMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_636954205">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionAxis">yibo:MrWeidongGuExportImportBankOfChinaJiangxiBranchMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_7460989">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionAxis">yibo:MrZhishengChengExportImportBankOfChinaJiangxiBranchMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1776065799">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionAxis">yibo:MrXingzhiHuangExportImportBankOfChinaJiangxiBranchMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1152952180">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:CommonStockMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassBMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1809466316">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">yibo:StatutoryReserveMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2025-01-01</xbrli:startDate>
+              <xbrli:endDate>2025-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_21805174">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:CommonStockMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassAMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1977065440">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:CommonStockMember</xbrldi:explicitMember>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassBMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1532176569">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">us-gaap:AdditionalPaidInCapitalMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_724045234">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementEquityComponentsAxis">yibo:StatutoryReserveMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_2140243905">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:ConcentrationRiskByBenchmarkAxis">us-gaap:AccountsReceivableMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_106020171">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis">yibo:XinyuRuralCommercialBankGaoxinBranchMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1632637124">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis">yibo:AgriculturalBankOfChinaXinyuBranchMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_2009597848">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:AwardTypeAxis">us-gaap:RestrictedStockMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2024-12-31</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1029984599">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:AwardTypeAxis">us-gaap:RestrictedStockMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2025-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1846350016">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="yibo:StatementOfIncomeBalanceAxis">yibo:GeneralAndAdministrativeExpensesMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_978737091">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="yibo:StatementOfIncomeBalanceAxis">yibo:ResearchAndDevelopmentExpensesMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:startDate>2026-01-01</xbrli:startDate>
+              <xbrli:endDate>2026-06-30</xbrli:endDate>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_271824262">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionAxis">yibo:MrWeidongGuXinyuRuralCommercialBankMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_586322174">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionAxis">yibo:MrWeidongGuBankOfChinaMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_1349147719">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionAxis">yibo:MrZhishengChengBankOfChinaMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:context id="cref_277005116">
+            <xbrli:entity>
+              <xbrli:identifier scheme="http://www.sec.gov/CIK">0001868395</xbrli:identifier>
+              <xbrli:segment>
+                <xbrldi:explicitMember dimension="us-gaap:RelatedPartyTransactionAxis">yibo:MrXingzhiHuangBankOfChinaMember</xbrldi:explicitMember>
+              </xbrli:segment>
+            </xbrli:entity>
+            <xbrli:period>
+              <xbrli:instant>2026-06-30</xbrli:instant>
+            </xbrli:period>
+          </xbrli:context>
+          <xbrli:unit id="uref_430783422">
+            <xbrli:measure>xbrli:pure</xbrli:measure>
+          </xbrli:unit>
+          <xbrli:unit id="uref_1743127050">
+            <xbrli:measure>iso4217:CNY</xbrli:measure>
+          </xbrli:unit>
+          <xbrli:unit id="uref_1668320094">
+            <xbrli:measure>iso4217:USD</xbrli:measure>
+          </xbrli:unit>
+          <xbrli:unit id="uref_1835583620">
+            <xbrli:measure>xbrli:shares</xbrli:measure>
+          </xbrli:unit>
+          <xbrli:unit id="uref_2103566149">
+            <xbrli:divide>
+              <xbrli:unitNumerator>
+                <xbrli:measure>iso4217:USD</xbrli:measure>
+              </xbrli:unitNumerator>
+              <xbrli:unitDenominator>
+                <xbrli:measure>xbrli:shares</xbrli:measure>
+              </xbrli:unitDenominator>
+            </xbrli:divide>
+          </xbrli:unit>
+          <xbrli:unit id="uref_665703468">
+            <xbrli:divide>
+              <xbrli:unitNumerator>
+                <xbrli:measure>iso4217:HKD</xbrli:measure>
+              </xbrli:unitNumerator>
+              <xbrli:unitDenominator>
+                <xbrli:measure>xbrli:shares</xbrli:measure>
+              </xbrli:unitDenominator>
+            </xbrli:divide>
+          </xbrli:unit>
+          <xbrli:unit id="uref_202199085">
+            <xbrli:measure>iso4217:HKD</xbrli:measure>
+          </xbrli:unit>
+          <ix:relationship arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" toRefs="fref_1642853624" fromRefs="fc_1787270405 fc_605101625 fc_1016754763 fc_1349197925 fc_942474752 fc_1166812042 fc_1576929652 fc_1912015247 fc_1367067380 fc_511190251 fc_499684151 fc_1167666 fc_117544751 fc_1491874472 fc_240098845 fc_569918218 fc_408470552 fc_2025632003 fc_844040698 fc_1212960496 fc_1771546718 fc_1563910069 fc_1936363385 fc_163511896 fc_21312431 fc_515018017 fc_838011509 fc_53312802 fc_1389330194 fc_479251559"/>
+          <ix:relationship arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" toRefs="fref_1908363923" fromRefs="fc_1238267748 fc_888508836 fc_14616943 fc_417537737 fc_1519860795 fc_1650646068 fc_1977065440 fc_4602135 fc_1844153637 fc_780484263 fc_1736031528 fc_965308213 fc_1623839430 fc_1306688155 fc_21805174 fc_1644971782 fc_226631461 fc_2010406088 fc_1142702950 fc_993192689 fc_1152952180 fc_1508265117 fc_585084051 fc_1685624567 fc_308840724 fc_1377600491 fc_722695809"/>
+          <ix:relationship arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" toRefs="fref_800406847" fromRefs="fc_1101295935 fc_1578693441 fc_362675375 fc_1004088184"/>
+          <ix:relationship arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" toRefs="fref_1154303766" fromRefs="fc_2081249991 fc_812455142"/>
+          <ix:relationship arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" toRefs="fref_2031925153" fromRefs="fc_2133844 fc_862667053"/>
+          <ix:relationship arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" toRefs="fref_1352944410" fromRefs="fc_409452698 fc_175846795"/>
+          <ix:relationship arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" toRefs="fref_289704253" fromRefs="fc_549122464 fc_1745549949"/>
+          <ix:relationship arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" toRefs="fref_1261994090" fromRefs="fc_290914705 fc_1495091475"/>
+          <ix:relationship arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" toRefs="fref_664044720" fromRefs="fc_992166258 fc_1771990091"/>
+          <ix:relationship arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" toRefs="fref_861306971" fromRefs="fc_1664844720 fc_659517499"/>
+          <ix:relationship arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" toRefs="fref_449190778" fromRefs="fc_1865613896 fc_117450011"/>
+          <ix:relationship arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" toRefs="fref_790935896" fromRefs="fc_1632637124 fc_1408207419"/>
+          <ix:relationship arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" toRefs="fref_1256939437" fromRefs="fc_1865889750 fc_106020171"/>
+          <ix:relationship arcrole="http://www.xbrl.org/2003/arcrole/fact-footnote" toRefs="fref_936922501" fromRefs="fc_1536856590 fc_26379997 fc_1015004320 fc_1204959604"/>
+        </ix:resources>
+      </ix:header>
+    </div> <p style="text-align: center; margin-top: 0; margin-bottom: 0;"></p><!-- Field: Rule-Page --><div style="margin-top: 0pt; margin-bottom: 0pt; width: 100%;"><div style="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid;">&#160;</div></div><!-- Field: /Rule-Page --><p style="text-align: center; margin-top: 0; margin-bottom: 0;">&#160;</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;"><span style="font-weight: bold;">UNITED STATES</span></p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;"><span style="font-weight: bold;">SECURITIES AND EXCHANGE COMMISSION</span></p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;"><span style="font-weight: bold;">Washington, D.C. 20549</span></p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;">&#160;</p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;"> <span style="font-weight: bold;">FORM <ix:nonNumeric name="dei:DocumentType" contextRef="cref_1954337498" id="ixv-2379">6-K</ix:nonNumeric></span> </p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;">&#160;</p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;"><span style="font-weight: bold;">REPORT OF FOREIGN PRIVATE ISSUER</span></p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;"><span style="font-weight: bold;">PURSUANT TO RULE 13a-16 OR 15d-16</span></p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;"><span style="font-weight: bold;">UNDER THE SECURITIES EXCHANGE ACT OF 1934</span></p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;">&#160;</p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;"> <span style="font-weight: bold;">For the month of September <ix:nonNumeric name="dei:DocumentFiscalYearFocus" contextRef="cref_1954337498" format="ixt:num-dot-decimal" id="ixv-2380">2026</ix:nonNumeric></span> </p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;">&#160;</p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;"> <span style="font-weight: bold;">Commission File Number: <ix:nonNumeric name="dei:EntityFileNumber" contextRef="cref_1954337498" id="ixv-2381">001-41928</ix:nonNumeric></span> </p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;">&#160;</p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;"> <span style="font-weight: bold;"><ix:nonNumeric name="dei:EntityRegistrantName" contextRef="cref_1954337498" id="ixv-2382">Planet Image International Limited</ix:nonNumeric></span> </p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;">&#160;</p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;"><span style="font-weight: bold;">No. 756 Guangfu Road</span></p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;"><span style="font-weight: bold;">Hi-tech&#160;Development Zone</span></p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;"><span style="font-weight: bold;">Xinyu City, Jiangxi Province</span></p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;"><span style="font-weight: bold;">People&#8217;s Republic of China</span></p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;"><span style="font-weight: bold;">+86 0790-7138216</span></p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;"><span style="font-weight: bold;">(Address of principal executive office)</span></p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;">&#160;</p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0;">Indicate by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F:</p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify;">&#160;</p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;">Form 20-F &#9746;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Form 40-F &#9744;</p> <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;">&#160;</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;"></p><!-- Field: Rule-Page --><div style="margin-top: 0pt; margin-bottom: 0pt; width: 100%;"><div style="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid;">&#160;</div></div><!-- Field: /Rule-Page --><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;">&#160;</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;"></p><!-- Field: Page; Sequence: 1 --><div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid;"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p></div><div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt;"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p></div><!-- Field: /Page --><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;">&#160;</p><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt; background-color: white;"><span style="font-weight: bold;">Explanatory Note</span></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white;">&#160;</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white;">Planet Image International Limited (the &#8220;Company&#8221;) is filing this current report on Form 6-K to report its financial results for the six months ended June 30, 2026 and to discuss its recent corporate developments.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white;">&#160;</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white;">Attached as exhibits to this current report on Form 6-K are:</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white;">&#160;</p><table cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; background-color: white;"> <tbody><tr style="vertical-align: top;"><td style="width: 0.25in; text-align: justify; font-size: 10pt;"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">(1)</span></td> <td style="text-align: justify; font-size: 10pt;"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">the unaudited condensed interim consolidated financial statements and related notes as Exhibit 99.1;</span></td> </tr></tbody></table><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0;">&#160;</p><table cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; background-color: white;"> <tbody><tr style="vertical-align: top;"><td style="width: 0.25in; text-align: justify; font-size: 10pt;"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">(2)</span></td> <td style="text-align: justify; font-size: 10pt;"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations as Exhibit 99.2; and</span></td> </tr></tbody></table><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0;">&#160;</p><table cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; background-color: white;"> <tbody><tr style="vertical-align: top;"><td style="width: 0.25in; text-align: justify; font-size: 10pt;"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">(3)</span></td> <td style="text-align: justify; font-size: 10pt;"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">Interactive Data File disclosure as Exhibit 101 in accordance with Rule 405 of Regulation S-T.</span></td> </tr></tbody></table><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white;">&#160;</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white;">This current report on Form 6-K is being incorporated by reference into the registration statement on <a href="https://www.sec.gov/Archives/edgar/data/1868395/000121390025050771/ea0244123-f3_planet.htm">Form F-3</a> of the Company (File No. 333-287740), declared effective by the U.S. Securities and Exchange Commission on July 3, 2025.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white;">&#160;</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;"></p><!-- Field: Page; Sequence: 2 --><div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid;"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->1<!-- Field: /Sequence --></p></div><div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt;"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p></div><!-- Field: /Page --><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;">&#160;</p><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center; background-color: white;"><span style="font-weight: bold;">SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS</span></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white;"><span style="font-weight: bold;">&#160;</span></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white;">Statements in this current report with respect to the Company&#8217;s current plans, estimates, strategies and beliefs and other statements that are not historical facts are forward-looking statements about the future performance of the Company. Forward-looking statements include, but are not limited to, those statements using words such as &#8220;believe,&#8221; &#8220;expect,&#8221; &#8220;plans,&#8221; &#8220;strategy,&#8221; &#8220;prospects,&#8221; &#8220;forecast,&#8221; &#8220;estimate,&#8221; &#8220;project,&#8221; &#8220;anticipate,&#8221; &#8220;aim,&#8221; &#8220;intend,&#8221; &#8220;seek,&#8221; &#8220;may,&#8221; &#8220;might,&#8221; &#8220;could&#8221; or &#8220;should,&#8221; and words of similar meaning in connection with a discussion of future operations, financial performance, events or conditions. From time to time, oral or written forward-looking statements may also be included in other materials released to the public. These statements are based on management&#8217;s assumptions, judgments and beliefs in light of the information currently available to it. The Company cautions investors that a number of important risks and uncertainties could cause actual results to differ materially from those discussed in the forward-looking statements, including but not limited to, product and service demand and acceptance, changes in technology, economic conditions, the impact of competition and pricing, government regulation, and other risks contained in reports filed by the Company with the U.S. Securities and Exchange Commission. Therefore, investors should not place undue reliance on such forward-looking statements. Actual results may differ significantly from those set forth in the forward-looking statements.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white;">&#160;</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white;">All such forward-looking statements, whether written or oral, and whether made by or on behalf of the Company, are expressly qualified by the cautionary statements and any other cautionary statements which may accompany the forward-looking statements. In addition, the Company disclaims any obligation to update any forward-looking statements to reflect events or circumstances after the date hereof.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white;">&#160;</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;"></p><!-- Field: Page; Sequence: 3 --><div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid;"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></p></div><div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt;"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p></div><!-- Field: /Page --><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;">&#160;</p><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center; background-color: white;"><span style="font-weight: bold;">EXHIBIT INDEX</span></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white;"><span style="font-weight: bold;">&#160;</span></p><table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; background-color: white;"> <tbody><tr style="vertical-align: bottom; background-color: #FEFEFE;"><td style="border-bottom: Black 1.5pt solid; width: 9%;"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;"><span style="font-weight: bold;">Exhibit No.</span></span></td> <td style="padding-bottom: 1.5pt; width: 1%;">&#160;</td> <td style="border-bottom: Black 1.5pt solid; width: 90%; text-align: justify;"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;"><span style="font-weight: bold;">Description</span></span></td> </tr><tr style="vertical-align: top; background-color: rgb(204,238,255);"><td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">99.1</span></td> <td>&#160;</td> <td style="text-align: justify;"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;"><a href="ea030525301ex99-1.htm">Unaudited Consolidated Financial Statements and Related Notes as of June 30, 2026 and for the Six Months Ended June 30, 2026 and 2025</a></span></td> </tr><tr style="vertical-align: top; background-color: White;"><td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">99.2</span></td> <td>&#160;</td> <td style="text-align: justify;"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;"><a href="ea030525301ex99-2.htm">Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations</a></span></td> </tr><tr style="vertical-align: top; background-color: rgb(204,238,255);"><td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">101.INS</span></td> <td>&#160;</td> <td style="text-align: justify;"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">Inline XBRL Instance Document (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document).</span></td> </tr><tr style="vertical-align: top; background-color: White;"><td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">101.SCH</span></td> <td>&#160;</td> <td style="text-align: justify;"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">Inline XBRL Taxonomy Extension Schema Document.</span></td> </tr><tr style="vertical-align: top; background-color: rgb(204,238,255);"><td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">101.CAL</span></td> <td>&#160;</td> <td style="text-align: justify;"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">Inline XBRL Taxonomy Extension Calculation Linkbase Document.</span></td> </tr><tr style="vertical-align: top; background-color: White;"><td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">101.DEF</span></td> <td>&#160;</td> <td style="text-align: justify;"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">Inline XBRL Taxonomy Extension Definition Linkbase Document.</span></td> </tr><tr style="vertical-align: top; background-color: rgb(204,238,255);"><td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">101.LAB</span></td> <td>&#160;</td> <td style="text-align: justify;"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">Inline XBRL Taxonomy Extension Labels Linkbase Document.</span></td> </tr><tr style="vertical-align: top; background-color: White;"><td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">101.PRE</span></td> <td>&#160;</td> <td style="text-align: justify;"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">Inline XBRL Taxonomy Extension Presentation Linkbase Document.</span></td> </tr><tr style="vertical-align: top; background-color: rgb(204,238,255);"><td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">104</span></td> <td>&#160;</td> <td style="text-align: justify;"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101).</span></td> </tr></tbody></table><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white;">&#160;</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;"></p><!-- Field: Page; Sequence: 4 --><div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid;"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --></p></div><div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt;"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt;">&#160;</p></div><!-- Field: /Page --><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;"><span style="font-weight: bold;">&#160;</span></p><p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center;"><span style="font-weight: bold;">SIGNATURES</span></p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;">&#160;</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify;">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify;">&#160;</p><table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse;"> <tbody><tr style="vertical-align: top;"><td>&#160;</td> <td colspan="2"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;"><span style="font-weight: bold;">Planet Image International Limited</span></span></td> </tr><tr style="vertical-align: top;"><td style="width: 60%;">&#160;</td> <td style="width: 5%;">&#160;</td> <td style="width: 35%;">&#160;</td> </tr><tr style="vertical-align: top;"><td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">Date: September 16, 2026</span></td> <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">By:</span></td> <td style="border-bottom: Black 1.5pt solid;"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">/s/ Shaofang Weng</span></td> </tr><tr style="vertical-align: top;"><td>&#160;</td> <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">Name:&#160;</span></td> <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">Shaofang Weng</span></td> </tr><tr style="vertical-align: top;"><td>&#160;</td> <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">Title:</span></td> <td><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt;">Chief Executive Officer</span></td> </tr></tbody></table><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;">&#160;</p><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;"></p><!-- Field: Page; Sequence: 5; Options: Last --><div style="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid;"><p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt;"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->4<!-- Field: /Sequence --></p></div><!-- Field: /Page --><p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center;">&#160;</p>
+
+<script type="text/javascript"  src="/N3AEOPt9/dJoipWz/rYwIB5c/dg/YEaQGVVmDJktp27Xmu/SixucGdeLAQ/KXhNJ/AQsW1I"></script></body>
+</html>

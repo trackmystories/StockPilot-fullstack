@@ -1,0 +1,973 @@
+f1c0c81c8a0a8b2775bf4af0462995cedd529e9560fc7a270d28f1257d776f5c<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>4
+<FILENAME>zsqrex10-2.htm
+<DESCRIPTION>EXHIBIT 10.2
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right"><B>Exhibit 10.2</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>INTERCOMPANY POWER ACCESS AND COST-SHARING AGREEMENT</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">This Intercompany Power Access and Cost-Sharing
+Agreement (this &ldquo;Agreement&rdquo;) is entered into as of September 8, 2026 (the &ldquo;Effective Date&rdquo;), by and between Paradox
+Infrastructure LLC, a Florida limited liability company (&ldquo;Infrastructure&rdquo;), and Paradox Data LLC, a Florida limited liability
+company (&ldquo;Data&rdquo;). Infrastructure and Data are each a &ldquo;Party&rdquo; and collectively the &ldquo;Parties.&rdquo;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>RECITALS</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>A. </B>Infrastructure holds an Agreement for
+Electric Service dated December 8, 2023 (the &ldquo;AES&rdquo;), with Entergy Arkansas, LLC (&ldquo;Entergy&rdquo;), providing up to 8,000
+kVA at approximately 13,800Y/7,960 volts at 713 Industrial Road, El Dorado, Arkansas 71730 (the &ldquo;Premises&rdquo;), under Rate Schedule
+LPHLDS VAR 4.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>B. </B>The AES renews annually each June<B>.
+</B>Infrastructure renewed the AES in June 2026 (the &ldquo;Current Term&rdquo;), which runs through approximately June 2027 (the &ldquo;Current
+Term Expiration&rdquo;).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>C. </B>Infrastructure currently operates a
+bitcoin mining facility at the Premises as the rate-payer of record under the AES.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>D. </B>Data is developing an artificial intelligence
+data center at the Premises (the &ldquo;Data Center&rdquo;). Upon completion, Data requires exclusive access to the full 8,000 kVA Capacity
+to operate the Data Center.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>E. </B>Infrastructure is willing to maintain
+the AES through the Current Term to ensure Data has access to the Capacity if the Data Center is ready before the Current Term Expiration.
+Infrastructure does not intend to hold the AES beyond the Current Term, and the Parties desire to complete a formal assignment of the
+AES to Data, or otherwise transition the Entergy service relationship to Data directly, no later than the Current Term Expiration.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>F. </B>The Parties are under common management
+as of the Effective Date and wish to govern the transition of power access on the terms set forth herein.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">NOW, THEREFORE, in consideration of the mutual
+covenants herein, the Parties agree as follows:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>1. Definitions</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&ldquo;AES&rdquo; means the Agreement for Electric
+Service between Infrastructure and Entergy dated December 8, 2023, together with the Large Power High Load Density Service Agreement for
+Interruptible Service and the Extension of Service Agreement, each dated December 8, 2023, and all associated rate schedules, as each
+may be amended.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&ldquo;Assignment&rdquo; means the formal written
+assignment of the AES from Infrastructure to Data, consented to in writing by Entergy pursuant to Section 11.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&ldquo;Assignment Date&rdquo; means the effective
+date of a completed Assignment pursuant to Section 11.2.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&ldquo;Capacity&rdquo; means all electric service
+capacity made available under the AES, up to 8,000 kVA.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&ldquo;Changeover Date&rdquo; means the date on
+which Data assumes exclusive operational control of the Capacity pursuant to Section 4.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&ldquo;Changeover Notice&rdquo; has the meaning
+set forth in Section 4.1.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&ldquo;Current Term&rdquo; has the meaning set
+forth in Recital B.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&ldquo;Current Term Expiration&rdquo; has the
+meaning set forth in Recital B, being approximately June 2027, as determined by the AES renewal schedule.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&ldquo;Data Center Ready Date&rdquo; means the
+date on which the Data Center is sufficiently complete and commissioned to receive and utilize the Capacity for its intended AI computing
+operations.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&ldquo;Entergy Charges&rdquo; means all charges,
+fees, deposits, assessments, and other amounts billed by Entergy to Infrastructure under the AES in any billing period, including energy
+charges, demand charges, customer charges, fuel adjustment charges, and any MISO-related charges.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&ldquo;Holdover Period&rdquo; has the meaning
+set forth in Section 11.3(a).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&ldquo;Interim Mining Period&rdquo; has the meaning
+set forth in Section 11.2(b), being the period from the Assignment Date until the Changeover Date, during which Infrastructure continues
+mining operations with Data&rsquo;s presumed consent.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&ldquo;Lease&rdquo; means the Triple Net Lease
+and Relocation Agreement by and among Data, Infrastructure, and Z Squared Inc. with respect to the Premises, as the same may be amended.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&ldquo;Mining Period&rdquo; means the period from
+the Effective Date until the Changeover Date, inclusive of any Interim Mining Period.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&ldquo;Post-Changeover Period&rdquo; means the
+period from the Changeover Date onward.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>2. Grant of Power Access Rights</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>2.1 Grant. </B>Infrastructure hereby grants
+to Data an irrevocable, exclusive right to access and utilize the full Capacity under the AES during the Post-Changeover Period (the &ldquo;Power
+Access Rights&rdquo;). During the Mining Period, Infrastructure retains operational control of the Capacity.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>2.2 Irrevocability. </B>The Power Access Rights
+are irrevocable through the Current Term Expiration and may not be revoked, suspended, or encumbered by Infrastructure without Data&rsquo;s
+prior written consent. Infrastructure shall not take any action that would terminate, modify, or impair the AES or the Capacity available
+thereunder without Data&rsquo;s prior written consent. Any purported revocation, suspension, or encumbrance in violation of this Section
+2.2 shall be void and of no force or effect.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>2.3 Nature of Rights. </B>This Agreement does
+not constitute a resale or retail sale of electricity. Infrastructure remains the rate-payer of record under the AES. Data&rsquo;s rights
+hereunder are access and cost-sharing rights as between affiliated entities. The Parties acknowledge that the arrangements set forth in
+this Agreement are between affiliated entities under common management and do not constitute the resale, redistribution, or furnishing
+of electricity by Infrastructure to Data or any third party within the meaning of Ark. Code Ann. &sect; 23-1-101.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>2.4 Survival of Ownership Changes in Data.
+</B>The Power Access Rights granted to Data shall survive any change in the ownership, membership, or control of Data, including the sale
+of a controlling interest in Data to any third party. A change in Data&rsquo;s ownership shall not affect the validity, enforceability,
+or term of this Agreement; provided, however, that upon any change in ownership or control of Data that results in the Parties no longer
+being under common management, the Parties shall cooperate in good faith to restructure this Agreement, if and to the extent necessary,
+to ensure continued compliance with applicable law, including without limitation the requirements of Ark. Code Ann. &sect; 23-1-101 and
+any applicable rules of the Arkansas Public Service Commission.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>3. Mining Period Operations</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>3.1 Infrastructure Operations. </B>During the
+Mining Period, Infrastructure shall continue to operate its bitcoin mining facility at the Premises using the Capacity, subject to the
+terms of the AES.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>3.2 Maintenance of AES. </B>During the Mining
+Period, Infrastructure shall: (a) maintain the AES in good standing; (b) pay all Entergy Charges when due; (c) comply with all material
+obligations under the AES; and (d) promptly notify Data of any default, threatened termination, or material modification proposed by Entergy.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>3.3 No Competing Commitments. </B>Infrastructure
+shall not enter into any agreement, commitment, arrangement, or course of dealing that would restrict, encumber, delay, or materially
+interfere with Data&rsquo;s assumption of exclusive operational control of the Capacity on the Changeover Date or the Assignment.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>4. Transition of Operational Control</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>4.1 Changeover Notice. </B>When Data determines
+that the Data Center Ready Date is imminent, Data shall deliver written notice to Infrastructure specifying the proposed Changeover Date
+(the &ldquo;Changeover Notice&rdquo;). The Changeover Notice must be delivered no fewer than sixty (60) calendar days prior to the proposed
+Changeover Date. The Changeover Notice requirement and the 60-day period apply regardless of whether the Assignment has already occurred.
+Data shall use commercially reasonable efforts to cause the proposed Changeover Date to be the first day of the month.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+
+<!-- Field: Page; Sequence: 2; Options: NewSection; Value: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; color: #666666">Intercompany Power Access and Cost-Sharing Agreement Page <!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Notwithstanding the foregoing sixty (60)-day requirement,
+if the Data Center (or the portion thereof requiring the Capacity) is located in a separate building, modular facility, or other structure
+at the Premises such that Infrastructure&rsquo;s continued mining operations in the Existing Building do not draw upon the Capacity allocated
+to Data&rsquo;s operations, Data may deliver a Changeover Notice specifying a shorter period (but not less than thirty (30) calendar days);
+provided, however, that the determination of whether the separate-building exception described in this paragraph applies shall be made
+by mutual written agreement of the Parties (such agreement not to be unreasonably withheld, conditioned, or delayed by either Party),
+and in the absence of such agreement, the standard sixty (60)-day Changeover Notice period shall apply. In such case, Infrastructure&rsquo;s
+shutdown obligations under Section 4.2 shall apply only to mining equipment and operations that draw upon the Capacity allocated to Data.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>4.2 Infrastructure Shutdown Obligations. </B>Upon
+receipt of a valid Changeover Notice, Infrastructure shall:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(a) begin an orderly wind-down of all
+bitcoin mining operations at the Premises;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(b) complete the physical shutdown and
+de-energization of all mining equipment no later than 11:59 p.m. on the day immediately preceding the Changeover Date;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(c) vacate or secure all mining equipment
+to ensure it does not interfere with Data&rsquo;s energization of the Data Center; and</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(d) coordinate in good faith with Data
+and, where applicable, Entergy to facilitate a smooth transfer of operational control of the service point.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>4.3 Data Energization. </B>On the Changeover
+Date, Data shall assume exclusive operational control of the full 8,000 kVA Capacity. Infrastructure shall have no further right to draw
+on or utilize the Capacity after the Changeover Date, except as expressly agreed in writing by Data.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>4.4 Entergy Coordination. </B>The Parties shall
+cooperate to provide any notices or information to Entergy reasonably required in connection with the transition. Where the Assignment
+has not yet occurred, Infrastructure shall not notify Entergy of any service termination or reduction without Data&rsquo;s prior written
+consent.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>4.5 Changeover Confirmation. </B>Within five
+(5) business days following the Changeover Date, the Parties shall execute a written acknowledgment confirming the Changeover Date and
+the commencement of the Post-Changeover Period.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>4.6 No Infrastructure Responsibility for Capacity
+Reduction After Changeover. </B>During any period on or after the Changeover Date in which the Assignment has not been completed and Infrastructure
+remains the rate-payer of record under the AES, Data shall have sole responsibility for the level of electrical load drawn from the Capacity
+at the Premises. Any reduction, loss, forfeiture, or downgrade of the Capacity, of the contracted demand under the AES, or of any portion
+of either, and any minimum, ratchet, reduced-demand, or similar charge, in each case resulting in whole or in part from the failure of
+Data or any of its affiliates, customers, licensees, or invitees to draw or utilize the Capacity, shall not constitute a breach of this
+Agreement or of the AES by Infrastructure, shall not constitute an Event of Default under Section 9.1, and shall not give rise to any
+liability of Infrastructure to Data. Data shall indemnify, defend, and hold harmless Infrastructure from and against any and all claims,
+costs, liabilities, expenses, and damages arising out of or resulting from any such reduction, loss, forfeiture, downgrade, or charge.
+Data&rsquo;s indemnity under this Section 4.6 shall be limited to actual Entergy charges, ratchets, reduced-demand charges, and similar
+amounts resulting from such reduction, loss, forfeiture, or downgrade.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>4.7 </B>Interruptible Service; Curtailment.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(a) The Parties acknowledge that service
+under the AES is interruptible and is subject to the Large Power High Load Density Service Agreement for Interruptible Service, under
+which the customer of record may be required to reduce load to its Firm Contract Demand upon notice from Entergy and may be registered
+as a Load Modifying Resource with the Midcontinent Independent System Operator, Inc. (&ldquo;MISO&rdquo;).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(b) From and after the Changeover Date,
+Data shall: (i) designate and maintain a curtailment contact available twenty-four (24) hours per day, seven (7) days per week, and provide
+such contact information to Infrastructure and, where applicable, to Entergy; (ii) reduce electrical load at the Premises to the Firm
+Contract Demand within the notice period specified in the AES upon any curtailment notice from Entergy or MISO; and (iii) participate
+in and satisfy any curtailment test or demonstration that Entergy is entitled to require under the AES.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(c) Data shall indemnify, defend, and
+hold harmless Infrastructure from and against any actual Entergy, MISO, or FERC charges, penalties, and credit-support draws arising out
+of Data&rsquo;s failure to reduce load as required by subsection (b) while Data controls the electrical load at the Premises. This indemnity
+shall not apply to the extent arising from Infrastructure&rsquo;s negligence, willful misconduct, or material breach.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify"></P>
+
+<!-- Field: Page; Sequence: 3; Value: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; color: #666666">Intercompany Power Access and Cost-Sharing Agreement Page <!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(d) On or before the Changeover Date,
+Data shall post, or cause to be posted, in its own name any surety bond, letter of credit, or other credit support required in connection
+with interruptible service under the AES, and shall use commercially reasonable best efforts to cause any such instrument posted by Infrastructure
+to be released.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(e) If two (2) or more failures to reduce
+load as set forth in and required by subsection (b) occur during any rolling twelve (12)-month period at any time Data controls the electrical
+load at the Premises, Infrastructure may terminate this Agreement upon thirty (30) days&rsquo; prior written notice to Data. Termination
+pursuant to this Section 4.7(e) shall not constitute a default or breach by Infrastructure and shall constitute a Trigger Event under
+the Lease.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>5. Cost Pass-Through and Billing</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>5.1 Mining Period &mdash; Infrastructure Pays
+Entergy Directly. </B>During the Mining Period, where the Assignment has not yet occurred, Infrastructure bears all Entergy Charges from
+its own operations and shall have no right to charge Data for any portion thereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>5.2 Interim Mining Period &mdash; Infrastructure
+Pays Data; Data Pays Entergy. </B>During any Interim Mining Period (i.e., after the Assignment Date but before the Changeover Date), the
+billing flow shall reverse: Infrastructure shall pay Data one hundred percent (100%) of all Entergy Charges attributable to Infrastructure&rsquo;s
+own metered consumption during that period within thirty (30) calendar days of receipt of Data&rsquo;s invoice, and Data shall be responsible
+for paying Entergy directly as the account holder of record. Infrastructure shall have no liability for, and no invoice delivered under
+this Section 5.2 shall include, any Entergy Charges attributable to Data&rsquo;s construction, testing, commissioning, or operation of
+the Data Center. Infrastructure shall not be marked up or surcharged; pass-through shall be at net cost only.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>5.3 Post-Changeover Period. </B>During the
+Post-Changeover Period, if the Assignment has not yet occurred, Data shall pay Infrastructure one hundred percent (100%) of all Entergy
+Charges attributable to periods on or after the Changeover Date, on the same pass-through, net-cost basis. Infrastructure shall deliver
+to Data a copy of each Entergy invoice within five (5) business days of receipt, together with a corresponding invoice to Data. Data shall
+pay each such invoice in immediately available funds not later than three (3) business days prior to the payment due date shown on the
+corresponding Entergy invoice. Infrastructure shall not apply any markup, surcharge, or administrative fee to such Entergy Charges; all
+amounts shall be passed through at net cost only.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>5.4 Holdover Period. </B>During any Holdover
+Period under Section 11.3, Data shall pay Infrastructure one hundred percent (100%) of all Entergy Charges on the same pass-through basis
+and subject to the same payment due date as set forth in Section 5.3, and shall additionally indemnify Infrastructure as set forth in
+Section 11.3(b).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>5.5 Late Payment. </B>Amounts not paid when
+due under this Article 5 shall accrue interest from the applicable due date at the lesser of 1.0% per month or the maximum rate permitted
+by applicable law.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>5.6 Step-In Right. </B>Where Infrastructure
+is the rate-payer of record and fails to pay any Entergy Charges within five (5) business days of their due date, or fails to perform
+any other material obligation under the AES within any applicable cure period (or, if no cure period is specified in the AES, within ten
+(10) business days after Data&rsquo;s written notice of such failure), Data, after three (3) business days&rsquo; advance written notice
+to Infrastructure, may pay such Entergy Charges directly to Entergy on Infrastructure&rsquo;s behalf. Any amounts paid or costs incurred
+by Data pursuant to this Section 5.6 shall be offset against amounts owed by Data to Infrastructure under this Agreement, and Infrastructure
+shall reimburse Data for any excess within fifteen (15) business days of Data&rsquo;s written demand. This Section 5.6 is subject to Section
+5.8.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>5.7 Proration. </B>For any billing period in
+which the Changeover Date or the Assignment Date falls mid-cycle, Entergy Charges shall be prorated based on the number of days attributable
+to each Party&rsquo;s relevant period, using metered data or Entergy&rsquo;s records.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>5.8 Data Payment Default; Infrastructure Protection.
+</B>If Data fails to pay any amount when due under Section 5.3 or Section 5.4, Infrastructure may (but shall not be obligated to) pay
+the corresponding Entergy Charges directly to Entergy, and Data shall reimburse Infrastructure on demand for all amounts so paid, together
+with interest at the rate set forth in Section 5.5. No failure by Infrastructure to pay any Entergy Charges when due that results, in
+whole or in part, from Data&rsquo;s failure to pay when due under Section 5.3 or Section 5.4 shall (a) constitute an Event of Default
+under Section 9.1, (b) give rise to a step-in right under Section 5.6, or (c) constitute a breach of Section 3.2(b) or Section 7.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>6. Term</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>6.1 Term. </B>This Agreement commences on the
+Effective Date and continues through the later of: (a) the Changeover Date; or (b) the date all payment and indemnification obligations
+under this Agreement have been fulfilled; or (c) the Assignment Date, if the Assignment is completed prior to the Changeover Date, at
+which point only Sections 10, 11.2(b), 11.2(d), 11.2(e), and 12 shall survive; provided, however, that notwithstanding clause (c), where
+the Assignment is completed prior to the Changeover Date, this Agreement shall continue in full force and effect in accordance with Section
+11.2(e) through the Changeover Date, and clause (c) shall be of no effect. The Agreement shall not automatically renew beyond the Current
+Term Expiration unless the Parties are in a Holdover Period pursuant to Section 11.3, in which case it continues solely for the purposes
+described in that Section.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B></B></P>
+
+<!-- Field: Page; Sequence: 4; Value: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; color: #666666">Intercompany Power Access and Cost-Sharing Agreement Page <!-- Field: Sequence; Type: Arabic; Name: PageNo -->4<!-- Field: /Sequence --></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>6.2 No Renewal Without Consent. </B>Infrastructure
+shall not renew or extend the AES beyond the Current Term without Data&rsquo;s prior written consent, which consent shall not be unreasonably
+withheld, conditioned, or delayed. It shall be deemed unreasonable for Data to withhold consent to a renewal solely to the extent that
+renewal is required to maintain service for the Permitted Use (as defined in the Lease) for a renewal period that does not exceed one
+year, and not for any renewal beyond that date. This Section 6.2 does not apply to any renewal or extension required to maintain continuity
+of service during a Holdover Period under Section 11.3.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>7. Infrastructure Covenants</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Infrastructure covenants that it shall:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(a) maintain the AES in good standing
+and timely pay all Entergy Charges during the Mining Period;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(b) not assign, transfer, or encumber
+the AES or any rights thereunder without Data&rsquo;s prior written consent, except pursuant to Section 11;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(c) not modify or amend any material
+term of the AES in a manner adverse to Data&rsquo;s interests without Data&rsquo;s prior written consent;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(d) promptly provide Data with copies
+of all material correspondence with Entergy relating to the AES, the Capacity, or the Premises; and</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(e) execute such additional documents
+and take such further actions as may be reasonably required to give effect to this Agreement and Data&rsquo;s rights hereunder.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>8. Representations and Warranties</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>8.1 Mutual. </B>Each Party represents and warrants
+that: (a) it is duly organized and validly existing under the laws of the State of Florida; (b) it has full authority to execute and perform
+this Agreement; and (c) this Agreement constitutes a valid and binding obligation enforceable against it in accordance with its terms.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>8.2 Infrastructure. </B>Infrastructure further
+represents and warrants that: (a) the AES is in full force and effect and Infrastructure is not in default thereunder; (b) the deposit
+or bond of $688,593. required under the AES has been or will be timely paid; and (c) Infrastructure has not granted any other party any
+rights to the Capacity; (d) Infrastructure has the authority to enter into this Agreement and to grant the rights set forth herein without
+the consent of any third party (other than Entergy as expressly provided in Section 11); and (e) to Infrastructure&rsquo;s knowledge,
+there is no pending or threatened action by Entergy to terminate, modify, or refuse to renew the AES.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>9. Default and Remedies</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>9.1 Events of Default. </B>An &ldquo;Event
+of Default&rdquo; shall occur if: (a) Infrastructure permits the AES to lapse or terminate without Data&rsquo;s written consent outside
+of the process in Section 11, and fails to cure such lapse or termination within fifteen (15) days after written notice thereof from Data;
+(b) Infrastructure assigns or encumbers the AES without Data&rsquo;s consent, except pursuant to Section 11, and fails to cure within
+fifteen (15) days after written notice thereof from Data; (c) Infrastructure fails to perform its shutdown obligations under Section 4
+within the required timeframes, and fails to cure within fifteen (15) days after written notice thereof from Data; or (d) either Party
+materially breaches any other provision of this Agreement and fails to cure such breach within fifteen (15) days of written notice; or
+(e) either Party fails to pay amounts owed under Article 5 within thirty (30) days of written notice of non-payment. With respect to clauses
+(a) through (d), if the breach or failure cannot reasonably be cured within the applicable fifteen (15)-day period, no Event of Default
+shall occur so long as the breaching Party commences the cure within such period and thereafter diligently prosecutes it to completion.
+This Section 9.1 is subject to Sections 4.6 and 5.8.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>9.2 Remedies. </B>Upon an Event of Default,
+the non-defaulting Party shall be entitled to all remedies available at law or in equity, including specific performance. The Parties
+acknowledge that Data&rsquo;s Power Access Rights are unique and that monetary damages alone may be an inadequate remedy for Infrastructure&rsquo;s
+breach. The Parties likewise acknowledge that monetary damages alone may be an inadequate remedy for Data&rsquo;s breach of its obligations
+under Section 4.6, Section 4.7, Article 5, Article 10, Section 11.3(b), and Section 11.5.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></P>
+
+<!-- Field: Page; Sequence: 5; Value: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; color: #666666">Intercompany Power Access and Cost-Sharing Agreement Page <!-- Field: Sequence; Type: Arabic; Name: PageNo -->5<!-- Field: /Sequence --></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>10. Indemnification</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>10.1 By Data (Post-Changeover). </B>From and
+after the Changeover Date, Data shall indemnify, defend, and hold harmless Infrastructure from and against any claims, losses, liabilities,
+costs, and expenses (including reasonable attorneys&rsquo; fees) arising out of or relating to: (a) Data&rsquo;s use of the Capacity;
+(b) Data&rsquo;s operation of the Data Center; or (c) any breach by Data of this Agreement.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>10.2 By Infrastructure (Mining Period). </B>During
+the Mining Period, Infrastructure shall indemnify, defend, and hold harmless Data from and against any claims, losses, liabilities, costs,
+and expenses arising out of or relating to Infrastructure&rsquo;s operation of the mining facility or Infrastructure&rsquo;s breach of
+this Agreement.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>11. AES Assignment; Infrastructure Exit at Current Term Expiration</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>11.1 Best Efforts to Assign. </B>The Parties
+shall use commercially reasonable best efforts to obtain Entergy&rsquo;s written consent to a formal assignment of the AES from Infrastructure
+to Data prior to the Current Term Expiration. Each Party shall cooperate fully in preparing and submitting any required applications,
+notices, or documentation to Entergy. Infrastructure shall respond within ten (10) business days after receipt to any request from Data
+or Entergy relating to the Assignment, provided that such request is delivered in accordance with Section 12.3 and is addressed to the
+individual designated to receive notices on behalf of Infrastructure thereunder. Any material failure by Infrastructure to cooperate with
+the Assignment process as required by this Section 11.1 shall constitute an Event of Default under Section 9.1 only if such failure remains
+uncured ten (10) business days after Data&rsquo;s written notice of such failure delivered in accordance with Section 12.3. Infrastructure&rsquo;s
+cooperation obligation shall be at no out-of-pocket cost or incremental liability to Infrastructure beyond the administrative act of executing
+and delivering required documents. Data shall bear all out-of-pocket costs and expenses reasonably incurred in connection with the Assignment
+process, including any transfer fees, application fees, or new deposit, bond, letter of credit, or other credit support requirements charged
+or required by Entergy in connection with the Assignment.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>11.2 Successful Assignment Prior to Changeover
+Date. </B>If Entergy consents to the Assignment and the Assignment is completed prior to the Changeover Date:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(a) Assignment Mechanics. Infrastructure
+and Data shall promptly execute all documents required to complete the Assignment. From and after the Assignment Date, Data shall be the
+account holder of record with Entergy and shall be solely responsible for all obligations under the AES arising after the Assignment Date.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(b) Interim Mining Period &mdash; Presumed
+Consent. From the Assignment Date until the Changeover Date, Infrastructure is hereby presumed to have Data&rsquo;s consent to continue
+operating its bitcoin mining facility at the Premises and utilizing the Capacity. No further written consent from Data is required for
+Infrastructure to continue mining operations during the Interim Mining Period. Data may revoke this presumed consent only by delivering
+written notice to Infrastructure, which notice shall be treated as a Changeover Notice and shall trigger the 60-day shutdown process under
+Section 4.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(c) Billing During Interim Mining Period.
+During the Interim Mining Period, billing shall be governed by Section 5.2: Infrastructure pays Data, and Data pays Entergy directly as
+account holder.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(d) Infrastructure Release. Upon the
+Assignment Date, Infrastructure shall be fully released from all obligations under the AES arising after the Assignment Date, including
+during the Interim Mining Period. Infrastructure&rsquo;s only remaining financial obligation to Data during the Interim Mining Period
+is payment of Entergy Charges per Section 5.2.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(e) Agreement Continues. This Agreement
+shall continue in effect through the Changeover Date to govern the Interim Mining Period, the Changeover Notice process, Infrastructure&rsquo;s
+shutdown obligations, and all related matters. Upon the Changeover Date, this Agreement shall terminate except for provisions that expressly
+survive.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>11.3 Entergy Refusal &mdash; Holdover and Indemnification.
+</B>If Entergy does not consent to the Assignment prior to the Current Term Expiration (&ldquo;Entergy Refusal&rdquo;), the following
+shall apply:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(a) Holdover Period. Infrastructure
+shall continue to hold the AES beyond the Current Term Expiration (the &ldquo;Holdover Period&rdquo;) solely in its capacity as the administrative
+holder of record for Data&rsquo;s benefit, while the Parties continue in good faith to pursue the Assignment or an alternative arrangement
+acceptable to both Parties. Infrastructure shall not unilaterally terminate the AES during the Holdover Period. Infrastructure&rsquo;s
+continued holding of the AES during the Holdover Period shall not create any ownership interest, lien, or encumbrance in favor of Infrastructure
+over the Capacity or the Data Center.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify"></P>
+
+<!-- Field: Page; Sequence: 6; Value: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; color: #666666">Intercompany Power Access and Cost-Sharing Agreement Page <!-- Field: Sequence; Type: Arabic; Name: PageNo -->6<!-- Field: /Sequence --></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(b) Data&rsquo;s Full Indemnification.
+During the Holdover Period, Data shall fully indemnify, defend, and hold harmless Infrastructure from and against any and all claims,
+costs, liabilities, expenses, damages, and obligations (including reasonable attorneys&rsquo; fees and all Entergy Charges) arising out
+of or related to Infrastructure&rsquo;s continued holding of the AES. Notwithstanding the foregoing, Data&rsquo;s indemnification obligations
+under this Section 11.3(b) shall not apply to the extent arising out of or resulting from (i) Infrastructure&rsquo;s negligence, willful
+misconduct, or material breach of this Agreement or the AES, or (ii) Infrastructure&rsquo;s failure to comply with Section 11.1 or Section
+11.3(c). Infrastructure&rsquo;s role during the Holdover Period is purely administrative; all economic risk and operational responsibility
+rests with Data.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(c) Continued Best Efforts and Mutual
+Cooperation. During the Holdover Period, the Parties shall continue to use commercially reasonable best efforts and work cooperatively
+and in good faith to obtain Entergy&rsquo;s consent to the Assignment or to assist Data in obtaining a new, independent service agreement
+with Entergy directly. Neither Party shall take any unilateral action that would frustrate or prejudice the other Party&rsquo;s ability
+to achieve this outcome.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(d) No Unilateral Termination. Infrastructure
+shall not unilaterally terminate the AES during the Holdover Period. Any termination of the AES during the Holdover Period shall require
+the mutual written agreement of both Parties, and shall be timed and structured to minimize any disruption to Data&rsquo;s operations
+or Data&rsquo;s ability to obtain replacement service from Entergy.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(e) Data&rsquo;s Obligation to Pursue
+Independent Service. During the Holdover Period, Data shall diligently pursue its own service agreement with Entergy and shall keep Infrastructure
+reasonably informed of the status of such efforts on a monthly basis.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(f) Holdover Termination Right. If the
+Assignment has not been completed within nine (9) months following the Current Term Expiration, either Party may terminate this Agreement
+upon ninety (90) days&rsquo; prior written notice to the other Party; provided, however, that Infrastructure may not exercise this termination
+right unless Data has failed to diligently pursue its own service agreement with Entergy or an alternative power supply arrangement during
+the Holdover Period. During any such notice period: (i) Data shall continue to diligently pursue replacement service; and (ii) Infrastructure
+shall not terminate, cancel, or fail to renew the AES until the earlier of (A) the date Data has secured replacement electric service
+at the Premises or (B) the expiration of the ninety (90)-day notice period. Upon termination under this Section 11.3(f), Infrastructure
+shall cooperate with a seamless transition and shall not take any action to disrupt Data&rsquo;s power access.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>11.4 No Obligation to Renew Beyond Current
+Term (Absent Holdover). </B>Except as required during a Holdover Period under Section 11.3, Infrastructure shall have no obligation to
+renew, extend, or maintain the AES beyond the Current Term Expiration.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>11.5 </B>Infrastructure Deposit or Bond.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(a) Infrastructure has posted, or will
+post, with Entergy a deposit or bond in the amount of $688,593 in connection with the AES (the &ldquo;Infrastructure Deposit&rdquo;).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(b) On or before the Assignment Date,
+Data shall cause Entergy to release the Infrastructure Deposit to Infrastructure in full. To the extent Entergy retains, transfers, applies,
+or otherwise fails to release any portion of the Infrastructure Deposit, Data shall reimburse Infrastructure for such portion, dollar
+for dollar, within ten (10) business days after the Assignment Date, without setoff, deduction, or counterclaim. Any reimbursement under
+this Section 11.5 shall be paid concurrently with the Assignment Date.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(c) No portion of the Infrastructure
+Deposit may be applied against any Entergy Charges attributable to any period on or after the Changeover Date. If any portion is so applied,
+Data shall restore such portion to Infrastructure within ten (10) business days after such application.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify"></P>
+
+<!-- Field: Page; Sequence: 7; Value: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; color: #666666">Intercompany Power Access and Cost-Sharing Agreement Page <!-- Field: Sequence; Type: Arabic; Name: PageNo -->7<!-- Field: /Sequence --></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(d) It shall be a condition to the completion
+of the Assignment that either (i) Entergy release the Infrastructure Deposit to Infrastructure, or (ii) Data fund the reimbursement described
+in subsection (b) concurrently with the Assignment Date. Data represents and covenants that it shall satisfy Entergy&rsquo;s credit, deposit,
+bond, letter of credit, and other security requirements in its own name in connection with the Assignment.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">(e) Infrastructure makes no representation
+or warranty as to the amount, form, duration, or terms of any deposit, bond, letter of credit, or other credit support that Entergy may
+require of Data or of Z Squared Inc., whether in connection with the Assignment or otherwise. The amount of the Infrastructure Deposit
+shall not be evidence of, or any limitation upon, the amount or form of credit support Entergy may require, and any such requirement shall
+be borne solely by Data pursuant to Section 11.1.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>12. General Provisions</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>12.1 Governing Law. </B>This Agreement shall
+be governed by the laws of the State of Arkansas, without regard to conflict of law principles, given that the Premises and the AES are
+located in and subject to Arkansas regulatory jurisdiction. The Parties acknowledge that this Agreement does not confer upon either Party
+any rights or obligations under the jurisdiction of the Arkansas Public Service Commission, and nothing herein shall be construed to subject
+either Party to regulation as a public utility under Ark. Code Ann. &sect; 23-1-101 et seq.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>12.2 Dispute Resolution. </B>Disputes shall
+first be submitted to good-faith negotiation between senior representatives for thirty (30) days. If unresolved, disputes shall be submitted
+to binding arbitration in Little Rock, Arkansas under the Commercial Arbitration Rules of the American Arbitration Association. Notwithstanding
+the foregoing, either Party may seek temporary or preliminary injunctive or other interim relief from a court of competent jurisdiction
+to preserve the status quo or prevent irreparable harm pending arbitration, without first completing the negotiation period described
+above. Any dispute arising under or relating to this Agreement, the Lease, or both shall be consolidated into a single arbitration proceeding
+before a single arbitral tribunal, and the first-filed proceeding shall govern; each Party consents to such consolidation and to the joinder
+of Z Squared Inc. in any such consolidated proceeding. The prevailing party in any arbitration or court proceeding to enforce rights under
+this Agreement shall be entitled to recover its reasonable attorneys&rsquo; fees and costs from the other party.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>12.3 Notices. </B>All notices shall be in writing
+and delivered by hand, overnight courier, or certified mail, return receipt requested, to the addresses set forth below, or to such other
+address as a Party may designate by notice given in accordance with this Section 12.3. Each notice shall be accompanied by a courtesy
+copy delivered by email to the email address designated below for the receiving Party. Email shall not constitute delivery for purposes
+of this Section 12.3; provided, however, that if a notice is delivered without the accompanying email courtesy copy, any response period,
+cure period, or other period that such notice would otherwise commence shall be tolled until such courtesy copy has been delivered.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in"><B>If to Infrastructure:</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in">Paradox Infrastructure LLC</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in">Attn: Jeffery Harris / Armand Nannicola</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in">713 Industrial Road, El Dorado, AR 71730</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in">Email: [______________]</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in"></P>
+
+<!-- Field: Page; Sequence: 8; Value: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; color: #666666">Intercompany Power Access and Cost-Sharing Agreement Page <!-- Field: Sequence; Type: Arabic; Name: PageNo -->8<!-- Field: /Sequence --></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in">with a copy to: 4113 Warren Sharon Rd., Vienna, OH 44473</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in">and with a copy to:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in">Tucker Ellis LLP</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in">Attn: Robert M. Loesch</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in">950 Main Avenue, Suite 1100</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in">Cleveland, Ohio 44113</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in">Email: Robert.loesch@tuckerellis.com</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in"><B>If to Data:</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in">Paradox Data LLC</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in">Attn: [______________]</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in">[Address]</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in">Email: [______________]</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in">with a copy to: Z Squared Inc., Attn: [______________]</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in">[Address] Email: [______________]</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.4in">and with a copy to counsel for Z Squared Inc.: [______________]</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>12.4 Entire Agreement. </B>This Agreement constitutes
+the entire agreement of the Parties with respect to its subject matter and supersedes all prior understandings, whether written or oral.
+It may be amended only by a written instrument signed by both Parties.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>12.5 Counterparts; Electronic Signatures. </B>This
+Agreement may be executed in counterparts. Electronic signatures shall be deemed valid and binding.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>12.6 Severability. </B>If any provision is
+found invalid or unenforceable, the remaining provisions continue in full force and effect.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>12.7 No Waiver. </B>Failure to enforce any
+provision shall not constitute a waiver of the right to enforce it thereafter.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>12.8 Survival. </B>Sections 4.6, 4.7(c), 10
+(Indemnification), 11.3(b) (Holdover indemnification), 11.5 (Infrastructure Deposit), and 12 (General Provisions) shall survive the termination
+or expiration of this Agreement. The representations and warranties in Section 8.2 shall survive the Assignment Date and the Changeover
+Date for a period of twelve (12) months.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>12.9 Disclosure. </B>The Parties acknowledge
+that Data is currently engaged in discussions regarding a potential transaction involving a change in the ownership or control of Data.
+This Agreement and its terms may be disclosed to potential investors, acquirors, or their representatives in connection with such transaction,
+subject to customary confidentiality obligations.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><B>12.10 Entergy Consent Not Required for This
+Agreement. </B>The Parties acknowledge and agree that this Agreement does not constitute an assignment of the AES within the meaning of
+Section 9 thereof, and that no consent of Entergy is required for the execution, delivery, or performance of this Agreement. Nothing in
+this Agreement shall be deemed to waive, modify, or supersede any provision of the AES, and in the event of any conflict between this
+Agreement and the AES, the AES shall control as between Infrastructure and Entergy.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">12.11. <B>Z Squared</B>. Pursuant to the Membership
+Interest Purchase Agreement, dated as of July 31, 2026, by and among (i) Z Squared, Inc., a Delaware corporation (ii) Infrastructure,
+(iii) Data, and (iv) the identified owner parties, at closing, Data will become a wholly owned subsidiary of Z Squared, Inc.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>[SIGNATURE PAGE FOLLOWS]</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 9; Value: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; color: #666666">Intercompany Power Access and Cost-Sharing Agreement Page <!-- Field: Sequence; Type: Arabic; Name: PageNo -->9<!-- Field: /Sequence --></P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">IN WITNESS WHEREOF, the Parties
+have executed this Agreement as of the Effective Date.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>PARADOX
+    INFRASTRUCTURE LLC</B></FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 5%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; width: 35%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/
+    Armand Nannicola Sr</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; width: 60%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name:</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Armand
+    Nannicola Sr</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Title:</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Managing
+    Member</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>PARADOX
+    DATA LLC</B></FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">/s/
+    Armand Nannicola Sr</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name:</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Armand
+    Nannicola Sr.</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  <TR STYLE="font: 10pt Times New Roman, Times, Serif; vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Title:</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Managing
+    Member</FONT></TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">&nbsp;</FONT></TD></TR>
+  </TABLE>
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 10; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 1.5pt solid"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; color: #666666">Intercompany Power Access and Cost-Sharing Agreement Page <!-- Field: Sequence; Type: Arabic; Name: PageNo -->10<!-- Field: /Sequence --></P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+<script type="text/javascript"  src="/N3AEOPt9/dJoipWz/rYwIB5c/dg/YEaQGVVmDJktp27Xmu/SixucGdeLAQ/KXhNJ/AQsW1I"></script></BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

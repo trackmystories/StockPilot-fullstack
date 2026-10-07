@@ -1,0 +1,471 @@
+85f0aa583efe00c3b672da51333c68693acf5e9215e3eb9537ab8ab76b8d02a5<?xml version='1.0' encoding='ASCII'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2015-02-26" xmlns:ixt-sec="http://www.sec.gov/inlineXBRL/transformation/2015-08-31" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:dei="http://xbrl.sec.gov/dei/2026" xmlns:us-gaap="http://fasb.org/us-gaap/2026" xmlns:us-roles="http://fasb.org/us-roles/2026" xmlns:country="http://xbrl.sec.gov/country/2026" xmlns:srt="http://fasb.org/srt/2026" xmlns:XTIA="http://xtiaircraft.com/20260817">
+<head>
+     <title></title>
+<meta http-equiv="Content-Type" content="text/html"/>
+</head>
+<!-- Field: Set; Name: xdx; ID: xdx_02F_US%2DGAAP%2D2026 -->
+<!-- Field: Set; Name: xdx; ID: xdx_03B_XTIA_xtiaircraft.com_20260817 -->
+<!-- Field: Set; Name: xdx; ID: xdx_049_20260817_20260817 -->
+<!-- Field: Set; Name: xdx; ID: xdx_059_edei%2D%2DAmendmentFlag_false -->
+<!-- Field: Set; Name: xdx; ID: xdx_053_edei%2D%2DLocalPhoneNumber_680%2D7412 -->
+<!-- Field: Set; Name: xdx; ID: xdx_056_edei%2D%2DCityAreaCode_800 -->
+<!-- Field: Set; Name: xdx; ID: xdx_057_edei%2D%2DEntityCentralIndexKey_0001529113 -->
+<!-- Field: Set; Name: xdx; ID: xdx_06B_USD_1_iso4217%2D%2DUSD -->
+<!-- Field: Set; Name: xdx; ID: xdx_062_Shares_2_xbrli%2D%2Dshares -->
+<!-- Field: Set; Name: xdx; ID: xdx_06D_USDPShares_3_iso4217%2D%2DUSD_xbrli%2D%2Dshares -->
+<body style="font: 10pt Times New Roman, Times, Serif">
+<div style="display: none">
+<ix:header>
+ <ix:hidden>
+  <ix:nonNumeric contextRef="AsOf2026-08-17" id="Fact000003" name="dei:AmendmentFlag">false</ix:nonNumeric>
+  <ix:nonNumeric contextRef="AsOf2026-08-17" id="Fact000004" name="dei:LocalPhoneNumber">680-7412</ix:nonNumeric>
+  <ix:nonNumeric contextRef="AsOf2026-08-17" id="Fact000005" name="dei:CityAreaCode">800</ix:nonNumeric>
+  <ix:nonNumeric contextRef="AsOf2026-08-17" id="Fact000006" name="dei:EntityCentralIndexKey">0001529113</ix:nonNumeric>
+  </ix:hidden>
+ <ix:references>
+  <link:schemaRef xlink:href="xtia-20260817.xsd" xlink:type="simple"/>
+  </ix:references>
+ <ix:resources>
+    <xbrli:context id="AsOf2026-08-17">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0001529113</xbrli:identifier>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-08-17</xbrli:startDate>
+        <xbrli:endDate>2026-08-17</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="From2026-08-172026-08-17_dei_FormerAddressMember">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0001529113</xbrli:identifier>
+        <xbrli:segment>
+          <xbrldi:explicitMember dimension="dei:EntityAddressesAddressTypeAxis">dei:FormerAddressMember</xbrldi:explicitMember>
+        </xbrli:segment>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-08-17</xbrli:startDate>
+        <xbrli:endDate>2026-08-17</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:unit id="USD">
+      <xbrli:measure>iso4217:USD</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="Shares">
+      <xbrli:measure>xbrli:shares</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="USDPShares">
+      <xbrli:divide>
+        <xbrli:unitNumerator>
+          <xbrli:measure>iso4217:USD</xbrli:measure>
+        </xbrli:unitNumerator>
+        <xbrli:unitDenominator>
+          <xbrli:measure>xbrli:shares</xbrli:measure>
+        </xbrli:unitDenominator>
+      </xbrli:divide>
+    </xbrli:unit>
+  </ix:resources>
+ </ix:header>
+</div>
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><div style="border-top: Black 2pt solid; border-bottom: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>UNITED STATES</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>WASHINGTON, D.C. 20549</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>FORM <span id="xdx_902_edei--DocumentType_c20260817__20260817_zvXXihIMiz29"><ix:nonNumeric contextRef="AsOf2026-08-17" id="Fact000011" name="dei:DocumentType">8-K</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></p>
+
+<!-- Field: Rule-Page --><div style="margin: 0pt auto; width: 25%"><div style="border-top: Black 1.5pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>CURRENT REPORT</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>PURSUANT TO SECTION 13 OR 15(d) OF THE</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SECURITIES EXCHANGE ACT OF 1934</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Date of Report (Date of Earliest Event Reported):
+<span id="xdx_903_edei--DocumentPeriodEndDate_c20260817__20260817_zXXlith7Ejdf"><ix:nonNumeric contextRef="AsOf2026-08-17" format="ixt:datemonthdayyearen" id="Fact000012" name="dei:DocumentPeriodEndDate">August 17, 2026</ix:nonNumeric></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b><span id="xdx_904_edei--EntityRegistrantName_c20260817__20260817_zoFL0LeVuhfa"><ix:nonNumeric contextRef="AsOf2026-08-17" id="Fact000013" name="dei:EntityRegistrantName">XTI AEROSPACE, INC.</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"></p>
+
+<!-- Field: Rule-Page --><div style="margin: 0pt auto; width: 50%"><div style="border-top: Black 1.5pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><span style="font-size: 10pt">(Exact name of registrant as specified in its charter)</span></p>
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td style="border-bottom: Black 1.5pt solid; width: 32%; font-size: 10pt; text-align: center"><span style="font-size: 10pt"><span id="xdx_906_edei--EntityIncorporationStateCountryCode_c20260817__20260817_zkQsWLATIQl5"><ix:nonNumeric contextRef="AsOf2026-08-17" format="ixt-sec:stateprovnameen" id="Fact000014" name="dei:EntityIncorporationStateCountryCode">Nevada</ix:nonNumeric></span></span></td>
+    <td style="padding-bottom: 1.5pt; width: 2%">&#160;</td>
+    <td style="border-bottom: Black 1.5pt solid; width: 32%; font-size: 10pt; text-align: center"><span style="font-size: 10pt"><span id="xdx_909_edei--EntityFileNumber_c20260817__20260817_zlvhzUMUN0r8"><ix:nonNumeric contextRef="AsOf2026-08-17" id="Fact000015" name="dei:EntityFileNumber">001-36404</ix:nonNumeric></span></span></td>
+    <td style="padding-bottom: 1.5pt; width: 2%">&#160;</td>
+    <td style="border-bottom: Black 1.5pt solid; width: 32%; font-size: 10pt; text-align: center"><span style="font-size: 10pt"><span id="xdx_904_edei--EntityTaxIdentificationNumber_c20260817__20260817_zPUhLJqSkbY2"><ix:nonNumeric contextRef="AsOf2026-08-17" id="Fact000016" name="dei:EntityTaxIdentificationNumber">88-0434915</ix:nonNumeric></span></span></td></tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: center; vertical-align: top">(State or other jurisdiction<br/>
+    of incorporation)</td>
+    <td>&#160;</td>
+    <td style="vertical-align: top; font-size: 10pt; text-align: center"><span style="font-size: 10pt">(Commission file number)</span></td>
+    <td>&#160;</td>
+    <td style="text-align: center; vertical-align: top">(I.R.S. employer<br/>
+    identification no.)</td></tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span id="xdx_900_edei--EntityAddressAddressLine1_c20260817__20260817_zwa1Ava5GhT8"><ix:nonNumeric contextRef="AsOf2026-08-17" id="Fact000017" name="dei:EntityAddressAddressLine1">511 East John W. Carpenter Freeway</ix:nonNumeric></span>, <span id="xdx_90E_edei--EntityAddressAddressLine2_c20260817__20260817_zDmgY9tvmgei"><ix:nonNumeric contextRef="AsOf2026-08-17" id="Fact000018" name="dei:EntityAddressAddressLine2">Suite 500</ix:nonNumeric></span>,
+<span id="xdx_904_edei--EntityAddressCityOrTown_c20260817__20260817_zxdPo1CkEP5d"><ix:nonNumeric contextRef="AsOf2026-08-17" id="Fact000019" name="dei:EntityAddressCityOrTown">Las Colinas</ix:nonNumeric></span>, <span id="xdx_908_edei--EntityAddressStateOrProvince_c20260817__20260817_z8MHbxHEDj67"><ix:nonNumeric contextRef="AsOf2026-08-17" id="Fact000020" name="dei:EntityAddressStateOrProvince">TX</ix:nonNumeric></span> <span id="xdx_903_edei--EntityAddressPostalZipCode_c20260817__20260817_zajKgrTN4w9a"><ix:nonNumeric contextRef="AsOf2026-08-17" id="Fact000021" name="dei:EntityAddressPostalZipCode">75062</ix:nonNumeric></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><span style="font-size: 10pt"></span></p>
+
+<!-- Field: Rule-Page --><div style="margin: 0pt auto; width: 50%"><div style="border-top: Black 1.5pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><span style="font-size: 10pt">(Address of principal executive offices) (Zip code)</span></p>
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span id="xdx_90B_edei--EntityAddressAddressLine1_c20260817__20260817__dei--EntityAddressesAddressTypeAxis__dei--FormerAddressMember_z8KXTPLZAtA4"><ix:nonNumeric contextRef="From2026-08-172026-08-17_dei_FormerAddressMember" id="Fact000022" name="dei:EntityAddressAddressLine1">15505 Wright Brothers Dr.</ix:nonNumeric></span>, <span id="xdx_906_edei--EntityAddressCityOrTown_c20260817__20260817__dei--EntityAddressesAddressTypeAxis__dei--FormerAddressMember_zOkBybiJTjri"><ix:nonNumeric contextRef="From2026-08-172026-08-17_dei_FormerAddressMember" id="Fact000023" name="dei:EntityAddressCityOrTown">Addison</ix:nonNumeric></span>, <span id="xdx_90D_edei--EntityAddressStateOrProvince_c20260817__20260817__dei--EntityAddressesAddressTypeAxis__dei--FormerAddressMember_ztSCuEYfWJta"><ix:nonNumeric contextRef="From2026-08-172026-08-17_dei_FormerAddressMember" id="Fact000024" name="dei:EntityAddressStateOrProvince">TX</ix:nonNumeric></span> <span id="xdx_90E_edei--EntityAddressPostalZipCode_c20260817__20260817__dei--EntityAddressesAddressTypeAxis__dei--FormerAddressMember_zERSBTqQdtCc"><ix:nonNumeric contextRef="From2026-08-172026-08-17_dei_FormerAddressMember" id="Fact000025" name="dei:EntityAddressPostalZipCode">75001</ix:nonNumeric></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"></p>
+
+<!-- Field: Rule-Page --><div style="margin: 0pt auto; width: 50%"><div style="border-top: Black 1.5pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><span style="font-size: 10pt">(Former name or former address, if changed since last report)</span></p>
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Check the appropriate box below if the Form 8-K
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.25in"/><td style="width: 0.25in; text-align: left"><span style="font-family: Times New Roman, Times, Serif"><span id="xdx_90A_edei--WrittenCommunications_c20260817__20260817_z7nOYrb8O3S9"><ix:nonNumeric contextRef="AsOf2026-08-17" format="ixt:booleanfalse" id="Fact000026" name="dei:WrittenCommunications">&#9744;</ix:nonNumeric></span></span></td><td style="text-align: justify">Written communications pursuant to Rule 425 under the Securities
+Act (17 CFR 230.425)</td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.25in; text-align: justify">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.25in"/><td style="width: 0.25in; text-align: left"><span style="font-family: Times New Roman, Times, Serif"><span id="xdx_900_edei--SolicitingMaterial_c20260817__20260817_zuebYbVNIxXj"><ix:nonNumeric contextRef="AsOf2026-08-17" format="ixt:booleanfalse" id="Fact000027" name="dei:SolicitingMaterial">&#9744;</ix:nonNumeric></span></span></td><td style="text-align: justify">Soliciting material pursuant to Rule 14a-12 under the Exchange
+Act (17 CFR 240.14a-12)</td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.25in; text-align: justify">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.25in"/><td style="width: 0.25in; text-align: left"><span style="font-family: Times New Roman, Times, Serif"><span id="xdx_907_edei--PreCommencementTenderOffer_c20260817__20260817_zsuhf3w42WX7"><ix:nonNumeric contextRef="AsOf2026-08-17" format="ixt:booleanfalse" id="Fact000028" name="dei:PreCommencementTenderOffer">&#9744;</ix:nonNumeric></span></span></td><td style="text-align: justify">Pre-commencement communications pursuant to Rule 14d-2(b)
+under the Exchange Act (17 CFR 240.14d-2(b))</td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.25in; text-align: justify">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.25in"/><td style="width: 0.25in; text-align: left"><span style="font-family: Times New Roman, Times, Serif"><span id="xdx_906_edei--PreCommencementIssuerTenderOffer_c20260817__20260817_zHncXhzZTNij"><ix:nonNumeric contextRef="AsOf2026-08-17" format="ixt:booleanfalse" id="Fact000029" name="dei:PreCommencementIssuerTenderOffer">&#9744;</ix:nonNumeric></span></span></td><td style="text-align: justify">Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))</td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Securities registered pursuant to Section 12(b) of the Act:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="border-bottom: Black 1.5pt solid; vertical-align: bottom; width: 32%; padding-right: 2.65pt; padding-left: 2.65pt; text-align: center"><span style="font-size: 10pt">Title of each class</span></td>
+    <td style="text-align: center; padding-bottom: 1.5pt; width: 2%; vertical-align: bottom">&#160;</td>
+    <td style="border-bottom: Black 1.5pt solid; vertical-align: bottom; width: 32%; padding-right: 2.65pt; padding-left: 2.65pt; text-align: center"><span style="font-size: 10pt">Trading Symbol(s)</span></td>
+    <td style="text-align: center; padding-bottom: 1.5pt; width: 2%; vertical-align: bottom">&#160;</td>
+    <td style="border-bottom: Black 1.5pt solid; vertical-align: bottom; width: 32%; padding-right: 2.65pt; padding-left: 2.65pt; text-align: center"><span style="font-size: 10pt">Name of each exchange on which registered</span></td>
+    </tr>
+  <tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <td style="padding-right: 2.65pt; padding-left: 2.65pt; text-align: center"><span style="font-size: 10pt"><span id="xdx_90B_edei--Security12bTitle_c20260817__20260817_zlRCpCFsnzIc"><ix:nonNumeric contextRef="AsOf2026-08-17" id="Fact000030" name="dei:Security12bTitle">Common Stock</ix:nonNumeric></span></span></td>
+    <td>&#160;</td>
+    <td style="padding-right: 2.65pt; padding-left: 2.65pt; text-align: center"><span style="font-size: 10pt"><span id="xdx_90D_edei--TradingSymbol_c20260817__20260817_zeIDFsw8lJp3"><ix:nonNumeric contextRef="AsOf2026-08-17" id="Fact000031" name="dei:TradingSymbol">XTIA</ix:nonNumeric></span></span></td>
+    <td>&#160;</td>
+    <td style="padding-right: 2.65pt; padding-left: 2.65pt; text-align: center"><span style="font-size: 10pt">The <span id="xdx_90F_edei--SecurityExchangeName_c20260817__20260817_zu8Yj14KYAdc"><ix:nonNumeric contextRef="AsOf2026-08-17" format="ixt-sec:exchnameen" id="Fact000032" name="dei:SecurityExchangeName">Nasdaq</ix:nonNumeric></span> Capital Market</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR &#167;230.405) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (17 CFR &#167;240.12b-2).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Emerging growth company <span style="font-family: Times New Roman, Times, Serif"><span id="xdx_90D_edei--EntityEmergingGrowthCompany_c20260817__20260817_z6DjSr7uKkyk"><ix:nonNumeric contextRef="AsOf2026-08-17" format="ixt:booleanfalse" id="Fact000033" name="dei:EntityEmergingGrowthCompany">&#9744;</ix:nonNumeric></span></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. &#9744;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><div style="border-top: Black 1pt solid; border-bottom: Black 2pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></p>
+
+<!-- Field: Page; Sequence: 1 -->
+    <div style="border-bottom: Black 1.5pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.75in; text-align: left"><b>Item 1.01</b></td><td style="text-align: justify"><b>Entry into a Material Definitive Agreement.</b></td>
+</tr></table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">See disclosure in Item 5.02 below.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.75in; text-align: left"><b>Item 5.02</b></td><td style="text-align: justify"><b>Departure of Directors or Certain Officers; Election of Directors;
+Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.</b></td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On August 17, 2026, Scott Pomeroy (&#8220;<span style="text-decoration: underline">Pomeroy</span>&#8221;)
+resigned, effective as of such date, as the Chairman and Chief Executive Officer and director of XTI Aerospace, Inc. (the &#8220;<span style="text-decoration: underline">Company</span>&#8221;)
+and his resignation was accepted by the Company&#8217;s board of directors. In connection with his resignation, Pomeroy and the Company
+executed a Separation and Release of Claims Agreement (the &#8220;<span style="text-decoration: underline">Separation Agreement</span>&#8221;). Among other provisions, the Separation
+Agreement provides for a separation payment to Pomeroy of $200,000, and the immediate vesting of Pomeroy&#8217;s unvested options to
+acquire 2,000,000 shares of the Company&#8217;s common stock. In the Separation Agreement, Pomeroy releases claims against the Company
+and its affiliates and the Company releases claims against Pomeroy with a carveout for any claims of unlawful conduct or behavior discovered
+as a result of the Company&#8217;s pending internal review. The foregoing description of the Separation Agreement does not purport to
+be complete and is qualified in its entirety by reference to the full text of the Separation Agreement, a copy of which is filed as Exhibit
+10.1 hereto and incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The Company&#8217;s board of directors established
+a committee of independent directors (the &#8220;<span style="text-decoration: underline">Committee</span>&#8221;), as defined by the Nasdaq Stock Market listing standards, to conduct
+an internal review of matters relating to Pomeroy and other related corporate governance matters (the &#8220;<span style="text-decoration: underline">Review</span>&#8221;). The Committee
+is represented by independent counsel, and the Committee and its advisors are working diligently to complete the Review, although a timeline
+for completion has not yet been determined. The Company is in the process of evaluating the implications of the Review on its disclosures,
+certifications, controls and governance matters; however, the Company does not currently believe that the matters under Review will affect
+any of its previously issued financial statements.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On August 17, 2026, the Company&#8217;s board
+of directors elected current director Jonathan Ornstein as the Interim Chairman of the Board.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The Company&#8217;s board of directors on that date also appointed
+Jeremy Schneiderman (&#8220;<span style="text-decoration: underline">Schneiderman</span>&#8221;), 52, as Interim Chief Executive Officer of the Company. Schneiderman currently
+serves as the Chief Executive Officer of Drone Nerds, LLC (&#8220;<span style="text-decoration: underline">Drone Nerds</span>&#8221;), a subsidiary of the Company, and he has
+served as the Chief Executive Officer of Drone Nerds since 2014.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Schneiderman has no family relationship with any
+director or executive officer of the Company.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The Company and Schneiderman plan to
+negotiate the terms of a definitive employment agreement for him to serve as Chief Executive Officer of the Company on a non-interim
+basis. Pending completion of such process, Schneiderman will continue to be compensated under his existing employment agreement with
+Drone Nerds. Pursuant to that certain Executive Employment Agreement with Drone Nerds, dated November 10, 2025 (the
+&#8220;<span style="text-decoration: underline">Employment Agreement</span>&#8221;), which was entered into in connection with the Company&#8217;s acquisition of Drone
+Nerds, Schneiderman will continue to receive an annual base salary of $400,000 and is eligible to receive a performance bonus of up
+to 400% of such base salary in the first year of the Employment Agreement&#8217;s term and 500% in years two  and three thereof. For each 1% growth in Drone Nerds recognized EBITDA  year over year (using
+Drone Nerds 2025 ending adjusted EBITDA as the 2026 period baseline), Schneiderman will earn a performance bonus of 1.8% of the then
+current base salary; for each $1M of Drone Nerds recognized new EBITDA from a closed add-on acquisition company, Schneiderman will earn
+a performance bonus of 24.7% of the then current base salary; for each $1M of closed investments funded into strategic companies
+approved by the Company&#8217;s investment committee, Schneiderman will earn a performance bonus of 1.3% of the then current base salary. The Employment Agreement has an initial three-year term that renews automatically for successive one-year terms absent 90 days&#8217;
+prior notice of non-renewal, and Schneiderman is also eligible for future equity awards under the Company&#8217;s benefit plans, subject
+to approval of the Company&#8217;s board of directors or its compensation committee. If the Company terminates Schneiderman without Cause
+(as defined in the Employment Agreement), or he resigns for Sufficient Reason (as defined in the Employment Agreement), he is entitled
+to a lump-sum severance payment equal to his then-current monthly base salary plus $25,000, multiplied by 12, as well as accelerated vesting
+of unvested Company stock options (subject to approval by the Company&#8217;s compensation committee) and 12 months of continued benefits.
+Similar severance benefits apply if Schneiderman&#8217;s employment is terminated by the Company (or its successor) for any reason other
+than Cause within 12 months after a Change in Control (as defined in the Employment Agreement). The
+foregoing description of the Employment Agreement does not purport to be complete and is qualified in its entirety
+by reference to the full text of the Employment Agreement, a copy of which is filed as Exhibit 10.2 hereto and incorporated herein
+by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">In connection with the November 2025 acquisition of Drone Nerds, XTI
+Drones Holdings, LLC issued promissory notes (the &#8220;<span style="text-decoration: underline">Notes</span>&#8221;) to The Origin Group DN, Inc. and The Origin Group AZ, Inc.,
+which are entities in which Schneiderman holds an economic interest and serves as Chief Executive Officer (collectively the &#8220;<span style="text-decoration: underline">Sellers</span>&#8221;),
+with an aggregate original principal amount of approximately $11.9 million, of which $4,430,744 in principal remains outstanding. The
+Notes bear interest at a rate of 7.25% per annum, calculated on a 365-day year, and through the date of this filing, the Company has paid
+the Sellers approximately $345,206 in interest on the Notes. The Sellers also own 6,524,576 Class B Units, representing 16.597% ownership
+of XTI Drones Holdings, LLC, which are convertible into shares of common stock of the Company at the Sellers&#8217; discretion at any
+time on a one-to-one basis. All outstanding Class B Units will automatically be exchanged into shares of the Company&#8217;s common stock
+on a one-for-one basis in February 2027. Schneiderman is not a participant in any related party transaction required to be reported pursuant
+to Item 404(a) of Regulation S-K, except as disclosed above.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.75in; text-align: left"><b>Item 7.01</b></td><td style="text-align: justify"><b>Regulation FD Disclosure.</b></td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On August 18, 2026, the Company issued a press
+release announcing the management changes described herein. A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated
+herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The information in this Item 7.01, including Exhibit
+99.1, is furnished and shall not be deemed &#8220;filed&#8221; for purposes of Section 18 of the Securities Exchange Act of 1934, as amended
+(the &#8220;Exchange Act&#8221;), or otherwise subject to liabilities under that section, and shall not be deemed to be incorporated by
+reference into the filings of the Company under the Securities Act of 1933, as amended, or the Exchange Act, regardless of any general
+incorporation language in such filings. This Report will not be deemed an admission as to the materiality of any information in this Item
+7.01, including Exhibit 99.1.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></p>
+
+<!-- Field: Page; Sequence: 2; Options: NewSection; Value: 1 -->
+    <div style="border-bottom: Black 1.5pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->1<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.75in; text-align: left"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Item
+                            9.01</b></span></td><td style="text-align: justify"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Financial
+                                            Statements and Exhibits.</b></span></td>
+</tr></table>
+
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0in"/><td style="width: 0.25in; text-align: left">(d)</td><td style="text-align: justify">Exhibits</td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 0.5in; text-indent: -0.5in">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="border-bottom: Black 1.5pt solid; width: 9%; font-size: 10pt">Exhibit Number</td>
+    <td style="padding-bottom: 1.5pt; width: 1%; font-size: 10pt">&#160;</td>
+    <td style="border-bottom: Black 1.5pt solid; width: 90%; font-size: 10pt">Description</td></tr>
+  <tr style="vertical-align: bottom">
+    <td style="font-size: 10pt">&#160;</td>
+    <td style="font-size: 10pt">&#160;</td>
+    <td style="font-size: 10pt">&#160;</td></tr>
+  <tr style="background-color: rgb(204,238,255)">
+    <td style="vertical-align: top; font-size: 10pt">10.1&#8224;</td>
+    <td style="vertical-align: bottom; font-size: 10pt">&#160;</td>
+    <td style="vertical-align: bottom; font-size: 10pt"><a href="ea030244201ex10-1.htm">Separation and Release of Claims Agreement, dated August 17, 2026, between the Company and Pomeroy</a></td></tr>
+  <tr style="background-color: White">
+    <td style="vertical-align: top; font-size: 10pt">10.2&#8224;</td>
+    <td style="vertical-align: bottom; font-size: 10pt">&#160;</td>
+    <td style="vertical-align: bottom; font-size: 10pt"><a href="ea030244201ex10-2.htm">Executive Employment Agreement, dated November 10, 2025, between Drone
+    Nerds, LLC and Jeremy Schneiderman</a></td></tr>
+  <tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <td style="font-size: 10pt">99.1</td>
+    <td style="font-size: 10pt">&#160;</td>
+    <td style="font-size: 10pt"><a href="ea030244201ex99-1.htm">Press Release, dated August 18, 2026</a></td></tr>
+  <tr style="vertical-align: bottom; background-color: White">
+    <td style="font-size: 10pt">104</td>
+    <td style="font-size: 10pt">&#160;</td>
+    <td style="font-size: 10pt">Cover Page Interactive Data File (embedded within the Inline XBRL document)</td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0in"/><td style="width: 0.25in; text-align: left">&#8224;</td><td style="text-align: justify">Management contract and compensatory plan or arrangement.</td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+
+<!-- Field: Page; Sequence: 3; Value: 1 -->
+    <div style="border-bottom: Black 1.5pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-indent: 0pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-indent: 0pt; text-align: center"><b>SIGNATURE</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-indent: 0pt; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-align: justify; text-indent: 0pt">Pursuant to the requirements of the Securities Exchange Act
+of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-indent: 0pt; text-align: justify">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td style="text-align: justify">&#160;</td>
+    <td colspan="2" style="text-align: justify"><b>XTI AEROSPACE, INC.</b></td></tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: justify; width: 60%">&#160;</td>
+    <td style="text-align: justify; width: 5%">&#160;</td>
+    <td style="text-align: justify; width: 35%">&#160;</td></tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: justify">Date: August 18, 2026</td>
+    <td style="text-align: justify">By:</td>
+    <td style="border-bottom: black 1.5pt solid; text-align: justify">/s/ Brooke Turk</td></tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: justify">&#160;</td>
+    <td style="text-align: justify">Name:&#160;</td>
+    <td style="text-align: justify">Brooke Turk</td></tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: justify">&#160;</td>
+    <td style="text-align: justify">Title:</td>
+    <td style="text-align: justify">Chief Financial Officer</td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt; text-indent: 0pt; text-align: justify">&#160;</p>
+
+<!-- Field: Page; Sequence: 4; Options: Last -->
+    <div style="border-bottom: Black 1.5pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --></p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0 0pt 9pt; text-align: justify">&#160;</p>
+
+
+<!-- Field: Set; Name: xdx; ID: xdx_08B_extensions -->
+<!-- eJxFjVkKwkAMhk/QO4R5lm640UeLFrFKKUV8HWyUwXZSMuN2JG/ptEUMgWz/l1+IichooxpkOK3KHCpsu0ZahBIvyKjP6BTpdpeAqyVelbEstR3GH5iSY9Axc392dvtB+VAG6wTCZRAtgnjummQaQbEXXn9PSV9Ujdoq2YDUNRRMHSu0kt/jh0q+SFP7HpyOyEaRTiDyw/H8gTiMYjjQQz6JbwbyPBXeZAhPZEz3zqnWL4u6J2HdYOvszEj/0/sC1PZKaw== -->
+<script type="text/javascript"  src="/N3AEOPt9/dJoipWz/rYwIB5c/dg/YEaQGVVmDJktp27Xmu/SixucGdeLAQ/KXhNJ/AQsW1I"></script></body>
+</html>

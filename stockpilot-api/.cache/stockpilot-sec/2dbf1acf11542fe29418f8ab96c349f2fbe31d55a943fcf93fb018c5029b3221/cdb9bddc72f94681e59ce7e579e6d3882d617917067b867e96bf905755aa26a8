@@ -1,0 +1,1590 @@
+ece79b3d294fd05becb51600daf47f9fa713dec1a9f8d86d9e462b6805a5a088<?xml version='1.0' encoding='ASCII'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2015-02-26" xmlns:ixt-sec="http://www.sec.gov/inlineXBRL/transformation/2015-08-31" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:dei="http://xbrl.sec.gov/dei/2025" xmlns:us-gaap="http://fasb.org/us-gaap/2025" xmlns:us-roles="http://fasb.org/us-roles/2025" xmlns:country="http://xbrl.sec.gov/country/2025" xmlns:srt="http://fasb.org/srt/2025" xmlns:vyne="http://menlotherapeutics.com/20260724">
+<head>
+     <title></title>
+<meta http-equiv="Content-Type" content="text/html"/>
+</head>
+<!-- Field: Set; Name: xdx; ID: xdx_02E_US%2DGAAP%2D2025 -->
+<!-- Field: Set; Name: xdx; ID: xdx_036_vyne_menlotherapeutics.com_20260724 -->
+<!-- Field: Set; Name: xdx; ID: xdx_04F_20260724_20260724 -->
+<!-- Field: Set; Name: xdx; ID: xdx_059_edei%2D%2DAmendmentFlag_false -->
+<!-- Field: Set; Name: xdx; ID: xdx_051_edei%2D%2DCurrentFiscalYearEndDate_%2D%2DLS0xMi0zMQ== -->
+<!-- Field: Set; Name: xdx; ID: xdx_053_edei%2D%2DEntityCentralIndexKey_0001566044 -->
+<!-- Field: Set; Name: xdx; ID: xdx_06B_USD_1_iso4217%2D%2DUSD -->
+<!-- Field: Set; Name: xdx; ID: xdx_062_Shares_2_xbrli%2D%2Dshares -->
+<!-- Field: Set; Name: xdx; ID: xdx_06D_USDPShares_3_iso4217%2D%2DUSD_xbrli%2D%2Dshares -->
+<body style="font: 10pt Times New Roman, Times, Serif">
+<div style="display: none">
+<ix:header>
+ <ix:hidden>
+  <ix:nonNumeric contextRef="AsOf2026-07-24" id="Fact000003" name="dei:AmendmentFlag">false</ix:nonNumeric>
+  <ix:nonNumeric contextRef="AsOf2026-07-24" id="Fact000004" name="dei:CurrentFiscalYearEndDate">--12-31</ix:nonNumeric>
+  <ix:nonNumeric contextRef="AsOf2026-07-24" id="Fact000005" name="dei:EntityCentralIndexKey">0001566044</ix:nonNumeric>
+  </ix:hidden>
+ <ix:references>
+  <link:schemaRef xlink:href="vyne-20260724.xsd" xlink:type="simple"/>
+  </ix:references>
+ <ix:resources>
+    <xbrli:context id="AsOf2026-07-24">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0001566044</xbrli:identifier>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-07-24</xbrli:startDate>
+        <xbrli:endDate>2026-07-24</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="From2026-07-242026-07-24_dei_FormerAddressMember">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0001566044</xbrli:identifier>
+        <xbrli:segment>
+          <xbrldi:explicitMember dimension="dei:EntityAddressesAddressTypeAxis">dei:FormerAddressMember</xbrldi:explicitMember>
+        </xbrli:segment>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-07-24</xbrli:startDate>
+        <xbrli:endDate>2026-07-24</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:unit id="USD">
+      <xbrli:measure>iso4217:USD</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="Shares">
+      <xbrli:measure>xbrli:shares</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="USDPShares">
+      <xbrli:divide>
+        <xbrli:unitNumerator>
+          <xbrli:measure>iso4217:USD</xbrli:measure>
+        </xbrli:unitNumerator>
+        <xbrli:unitDenominator>
+          <xbrli:measure>xbrli:shares</xbrli:measure>
+        </xbrli:unitDenominator>
+      </xbrli:divide>
+    </xbrli:unit>
+  </ix:resources>
+ </ix:header>
+</div>
+
+
+<p style="margin-top: 0; margin-bottom: 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 0; margin-bottom: 0; width: 100%"><div style="border-top: Black 2pt solid; border-bottom: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>UNITED STATES</b></p>
+
+<p style="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Washington, D.C. 20549</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+
+
+
+
+
+
+<p style="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>FORM <span id="xdx_906_edei--DocumentType_c20260724__20260724_zOBunEJV8qC2"><ix:nonNumeric contextRef="AsOf2026-07-24" id="Fact000010" name="dei:DocumentType">8-K</ix:nonNumeric></span></b></p>
+
+
+
+<p style="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>CURRENT REPORT</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Pursuant to Section 13 or 15(d) of the</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Securities Exchange Act of 1934</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Date of Report (Date of earliest event reported):
+<span id="xdx_902_edei--DocumentPeriodEndDate_c20260724__20260724_zYZRIyxJYBdl"><ix:nonNumeric contextRef="AsOf2026-07-24" format="ixt:datemonthdayyearen" id="Fact000011" name="dei:DocumentPeriodEndDate">July 24, 2026</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 24pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span id="xdx_906_edei--EntityRegistrantName_c20260724__20260724_zOV3Xo0IXGp"><b><ix:nonNumeric contextRef="AsOf2026-07-24" id="Fact000012" name="dei:EntityRegistrantName">Yarrow Bioscience, Inc.</ix:nonNumeric></b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Exact Name of Registrant as Specified in its
+Charter)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top">
+    <td style="padding-top: 1pt; width: 32%; text-align: center; font-size: 10pt; padding-bottom: 1pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_90C_edei--EntityIncorporationStateCountryCode_c20260724__20260724_z1uC4LNn6y0i"><ix:nonNumeric contextRef="AsOf2026-07-24" format="ixt-sec:stateprovnameen" id="Fact000013" name="dei:EntityIncorporationStateCountryCode">Delaware</ix:nonNumeric></span></b></span></td>
+    <td style="padding-top: 1pt; width: 2%; padding-bottom: 1pt">&#160;</td>
+    <td style="padding-top: 1pt; width: 32%; text-align: center; font-size: 10pt; padding-bottom: 1pt"><span id="xdx_90C_edei--EntityFileNumber_c20260724__20260724_zRGv1PXShIfg" style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><ix:nonNumeric contextRef="AsOf2026-07-24" id="Fact000014" name="dei:EntityFileNumber">001-38356</ix:nonNumeric></b></span></td>
+    <td style="padding-top: 1pt; width: 2%; padding-bottom: 1pt">&#160;</td>
+    <td style="padding-top: 1pt; width: 32%; text-align: center; font-size: 10pt; padding-bottom: 1pt"><span id="xdx_907_edei--EntityTaxIdentificationNumber_c20260724__20260724_zfPtdE4SFRld" style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><ix:nonNumeric contextRef="AsOf2026-07-24" id="Fact000015" name="dei:EntityTaxIdentificationNumber">45-3757789</ix:nonNumeric></b></span></td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: center; padding-top: 1pt; padding-bottom: 1pt">(State
+or Other Jurisdiction<br/>
+of Incorporation)</td>
+    <td style="padding-top: 1pt; padding-bottom: 1pt">&#160;</td>
+    <td style="text-align: center; padding-top: 1pt; padding-bottom: 1pt">(Commission<br/>
+File
+Number)</td>
+    <td style="padding-top: 1pt; padding-bottom: 1pt">&#160;</td>
+    <td style="text-align: center; padding-top: 1pt; padding-bottom: 1pt">(IRS
+Employer<br/>
+Identification No.)</td></tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr>
+    <td style="text-align: center; vertical-align: top; width: 66%"><b><span id="xdx_90C_edei--EntityAddressAddressLine1_c20260724__20260724_zfc8oBOM2iDf"><ix:nonNumeric contextRef="AsOf2026-07-24" id="Fact000016" name="dei:EntityAddressAddressLine1">470
+    James Street</ix:nonNumeric></span>, <span id="xdx_903_edei--EntityAddressAddressLine2_c20260724__20260724_zLx0nLchtqDc"><ix:nonNumeric contextRef="AsOf2026-07-24" id="Fact000017" name="dei:EntityAddressAddressLine2">Suite 007</ix:nonNumeric></span>, <span id="xdx_900_edei--EntityAddressCityOrTown_c20260724__20260724_zTOkhQ0GTPFd"><ix:nonNumeric contextRef="AsOf2026-07-24" id="Fact000018" name="dei:EntityAddressCityOrTown">New Haven</ix:nonNumeric></span>, <span id="xdx_907_edei--EntityAddressStateOrProvince_c20260724__20260724_zGPSt6OnBtq5"><ix:nonNumeric contextRef="AsOf2026-07-24" id="Fact000019" name="dei:EntityAddressStateOrProvince">CT</ix:nonNumeric></span></b></td>
+    <td style="text-align: center; vertical-align: bottom; font-size: 10pt; width: 2%">&#160;</td>
+    <td style="text-align: center; vertical-align: top; width: 32%"><b><span id="xdx_90E_edei--EntityAddressPostalZipCode_c20260724__20260724_zAEXqPeqi1U7"><ix:nonNumeric contextRef="AsOf2026-07-24" id="Fact000020" name="dei:EntityAddressPostalZipCode">06513</ix:nonNumeric></span></b></td></tr>
+  <tr>
+    <td style="text-align: center; vertical-align: top">(Address of Principal Executive Offices)</td>
+    <td style="text-align: center; vertical-align: bottom; font-size: 10pt">&#160;</td>
+    <td style="text-align: center; vertical-align: top">(Zip Code)</td></tr>
+  </table>
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Registrant&#8217;s telephone number, including area code: (<span id="xdx_903_edei--CityAreaCode_c20260724__20260724_zXc0clQeLGSg"><ix:nonNumeric contextRef="AsOf2026-07-24" id="Fact000021" name="dei:CityAreaCode">203</ix:nonNumeric></span>) <span id="xdx_901_edei--LocalPhoneNumber_c20260724__20260724_zDGSVLG7t1c7"><ix:nonNumeric contextRef="AsOf2026-07-24" id="Fact000022" name="dei:LocalPhoneNumber">433-7577</ix:nonNumeric></span></p>
+
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><span id="xdx_90C_edei--EntityInformationFormerLegalOrRegisteredName_c20260724__20260724_zIoyNb7Sncrj"><ix:nonNumeric contextRef="AsOf2026-07-24" id="Fact000023" name="dei:EntityInformationFormerLegalOrRegisteredName">VYNE Therapeutics Inc.</ix:nonNumeric></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><span id="xdx_907_edei--EntityAddressAddressLine1_c20260724__20260724__dei--EntityAddressesAddressTypeAxis__dei--FormerAddressMember_zlDtxfStqOQ1"><ix:nonNumeric contextRef="From2026-07-242026-07-24_dei_FormerAddressMember" id="Fact000024" name="dei:EntityAddressAddressLine1">P.O. Box 125</ix:nonNumeric></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><span id="xdx_90E_edei--EntityAddressCityOrTown_c20260724__20260724__dei--EntityAddressesAddressTypeAxis__dei--FormerAddressMember_zovBCPuvVGOb"><ix:nonNumeric contextRef="From2026-07-242026-07-24_dei_FormerAddressMember" id="Fact000025" name="dei:EntityAddressCityOrTown">Stewartsville</ix:nonNumeric></span>, <span id="xdx_90C_edei--EntityAddressStateOrProvince_c20260724__20260724__dei--EntityAddressesAddressTypeAxis__dei--FormerAddressMember_zZY7I03P8mt"><ix:nonNumeric contextRef="From2026-07-242026-07-24_dei_FormerAddressMember" id="Fact000026" name="dei:EntityAddressStateOrProvince">NJ</ix:nonNumeric></span> <span id="xdx_903_edei--EntityAddressPostalZipCode_c20260724__20260724__dei--EntityAddressesAddressTypeAxis__dei--FormerAddressMember_zmg3qdfewOEg"><ix:nonNumeric contextRef="From2026-07-242026-07-24_dei_FormerAddressMember" id="Fact000027" name="dei:EntityAddressPostalZipCode">08886</ix:nonNumeric></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">(Former name or former address, if changed since last report)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&#160;</p>
+
+
+
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Check the appropriate box below if the Form&#160;8-K&#160;filing
+is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" border="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt">
+<tr style="vertical-align: top">
+    <td style="text-align: left; width: 0.25in"><span id="xdx_901_edei--WrittenCommunications_c20260724__20260724_zyyszhukhxWd" style="font-family: Wingdings"><ix:nonNumeric contextRef="AsOf2026-07-24" format="ixt:booleanfalse" id="Fact000028" name="dei:WrittenCommunications">&#168;</ix:nonNumeric></span></td>
+    <td>Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</td></tr>
+
+<tr style="vertical-align: top">
+    <td style="text-align: left">&#160;</td>
+    <td>&#160;</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left"><span id="xdx_90C_edei--SolicitingMaterial_c20260724__20260724_zUCt258ffeW1" style="font-family: Wingdings"><ix:nonNumeric contextRef="AsOf2026-07-24" format="ixt:booleanfalse" id="Fact000029" name="dei:SolicitingMaterial">&#168;</ix:nonNumeric></span></td>
+    <td>Soliciting material pursuant to Rule&#160;14a-12&#160;under the Exchange Act (17
+    CFR&#160;240.14a-12)</td></tr>
+
+<tr style="vertical-align: top">
+    <td style="text-align: left">&#160;</td>
+    <td>&#160;</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left"><span id="xdx_909_edei--PreCommencementTenderOffer_c20260724__20260724_z3FmpY5P1BNf" style="font-family: Wingdings"><ix:nonNumeric contextRef="AsOf2026-07-24" format="ixt:booleanfalse" id="Fact000030" name="dei:PreCommencementTenderOffer">&#168;</ix:nonNumeric></span></td>
+    <td>Pre-commencement&#160;communications pursuant to Rule&#160;14d-2(b)&#160;under
+    the Exchange Act (17 CFR&#160;240.14d-2(b))</td></tr>
+
+<tr style="vertical-align: top">
+    <td style="text-align: left">&#160;</td>
+    <td>&#160;</td></tr>
+<tr style="vertical-align: top">
+    <td style="text-align: left"><span id="xdx_901_edei--PreCommencementIssuerTenderOffer_c20260724__20260724_zfWDyy0Qva0l" style="font-family: Wingdings"><ix:nonNumeric contextRef="AsOf2026-07-24" format="ixt:booleanfalse" id="Fact000031" name="dei:PreCommencementIssuerTenderOffer">&#168;</ix:nonNumeric></span></td>
+    <td>Pre-commencement&#160;communications pursuant to Rule&#160;13e-4(c)&#160;under
+    the Exchange Act (17 CFR&#160;240.13e-4(c))</td></tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">Securities registered pursuant to Section 12(b) of the Act:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; background-color: white; border-collapse: collapse">
+<tr style="vertical-align: bottom">
+    <td style="border-bottom: black 1pt solid; white-space: nowrap; padding-bottom: 1pt; text-align: center; font-size: 10pt; width: 34%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Title
+    of each class</b></span></td>
+    <td style="font-size: 10pt; width: 2%">&#160;</td>
+    <td style="border-bottom: black 1pt solid; padding-bottom: 1pt; text-align: center; font-size: 10pt; width: 28%"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Trading<br/>
+symbol(s)</b></span></td>
+    <td style="font-size: 10pt; width: 2%">&#160;</td>
+    <td style="border-bottom: black 1pt solid; text-align: center; width: 34%"><b>Name
+of each exchange<br/>
+on which registered</b></td></tr>
+<tr>
+    <td style="vertical-align: top; text-align: center; font-size: 10pt"><span id="xdx_906_edei--Security12bTitle_c20260724__20260724_zRwq2NRbkrTk" style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><ix:nonNumeric contextRef="AsOf2026-07-24" id="Fact000032" name="dei:Security12bTitle">Common
+    Stock, $0.0001 par value</ix:nonNumeric></b></span></td>
+    <td style="vertical-align: bottom; font-size: 10pt">&#160;</td>
+    <td style="vertical-align: top; text-align: center; font-size: 10pt"><span id="xdx_906_edei--TradingSymbol_c20260724__20260724_zE6nBcGcgjij" style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><ix:nonNumeric contextRef="AsOf2026-07-24" id="Fact000033" name="dei:TradingSymbol">YARW</ix:nonNumeric></b></span></td>
+    <td style="vertical-align: bottom; font-size: 10pt">&#160;</td>
+    <td style="vertical-align: top; text-align: center; font-size: 10pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>The <span id="xdx_900_edei--SecurityExchangeName_c20260724__20260724_zopOeNlKsbT3"><ix:nonNumeric contextRef="AsOf2026-07-24" format="ixt-sec:exchnameen" id="Fact000034" name="dei:SecurityExchangeName">Nasdaq</ix:nonNumeric></span> Capital Market</b></span></td></tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule&#160;405 of the Securities Act of 1933 (&#167;230.405 of this chapter) or Rule&#160;12b-2&#160;of the Securities
+Exchange Act of 1934&#160;(&#167;240.12b-2&#160;of this chapter).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Emerging growth company <span id="xdx_90F_edei--EntityEmergingGrowthCompany_c20260724__20260724_zCUyC9D3Q3p9" style="font-family: Wingdings"><ix:nonNumeric contextRef="AsOf2026-07-24" format="ixt:booleanfalse" id="Fact000035" name="dei:EntityEmergingGrowthCompany">&#168;</ix:nonNumeric></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section&#160;13(a)&#160;of the Exchange Act. <span style="font-family: Wingdings">&#168;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 3pt; margin-bottom: 12pt; width: 100%"><div style="border-top: Black 1pt solid; border-bottom: Black 2pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 1 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>INTRODUCTORY NOTE</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b><i>Agreement and Plan of Merger and Reorganization
+</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in; background-color: white">On July 27, 2026 (the
+&#8220;Closing Date&#8221;), Yarrow Bioscience, Inc., a Delaware corporation (formerly known as VYNE Therapeutics Inc., a Delaware corporation)
+(prior to the Closing Date, unless context otherwise requires, &#8220;VYNE&#8221; and, after the Closing Date, the &#8220;Company&#8221;),
+consummated the previously announced acquisition (the &#8220;Closing&#8221;) of Yarrow Bioscience, Inc., a Delaware corporation (&#8220;Pre-Merger
+Yarrow&#8221;), in accordance with the terms of the Agreement and Plan of Merger and Reorganization, dated December 17, 2025 (the &#8220;Original
+Merger Agreement&#8221;), as amended by Amendment No. 1 thereto on January 30, 2026 (&#8220;Amendment No. 1&#8221; and, together with
+the Original Merger Agreement, the &#8220;Merger Agreement&#8221;), by and among the Company, Yellow Merger Sub Corp., a Delaware corporation
+and wholly owned subsidiary of the Company (&#8220;Merger Sub&#8221;), and Pre-Merger Yarrow. Pursuant to the Merger Agreement, Merger
+Sub merged with and into Pre-Merger Yarrow, with Pre-Merger Yarrow continuing as a wholly owned subsidiary of the Company and the surviving
+corporation of the merger (the &#8220;Merger&#8221;) under the name &#8220;Yarrow Bioscience Operating Company Corp.&#8221; In connection
+with the completion of the Merger, VYNE changed its name to &#8220;Yarrow Bioscience, Inc.&#8221; The Merger is intended to qualify for
+federal income tax purposes as a tax-free reorganization under the provisions of Section 368(a) of the Internal Revenue Code of 1986,
+as amended (the &#8220;Code&#8221;), and/or a transfer within the meaning of Section 351(a) of the Code.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">Following the Reverse Stock Split (as defined below),
+which occurred prior to the Closing, at the effective time of the Merger (the &#8220;Effective Time&#8221;), (i) each then-outstanding
+share of Pre-Merger Yarrow capital stock (the &#8220;Yarrow Capital Stock&#8221;) (including shares of Yarrow Capital Stock issued pursuant
+to the Pre-Closing Financing (as defined below) and Pre-Merger Yarrow&#8217;s Series A preferred financing described below and excluding
+shares of Yarrow Capital Stock held as treasury stock immediately prior to the Effective Time and any dissenting shares) was converted
+into the right to receive a number of shares of VYNE common stock, par value $0.0001 (the &#8220;Company Common Stock&#8221;), calculated
+in accordance with the Merger Agreement (the &#8220;Exchange Ratio&#8221;), (ii) each option to purchase shares of Pre-Merger Yarrow common
+stock that was outstanding and unexercised immediately prior to the Effective Time, whether vested or unvested, ceased to represent a
+right to acquire shares of Pre-Merger Yarrow common stock and was converted into and became an option to purchase shares of Company Common
+Stock on the existing terms and conditions (including with respect to vesting and accelerated vesting), subject to adjustment as set forth
+in the Merger Agreement, and (iii) each then-outstanding and unexercised warrant to purchase shares of Pre-Merger Yarrow common stock
+was converted into and became a warrant to purchase shares of Company Common Stock on the existing terms and conditions (including with
+respect to vesting and accelerated vesting), subject to adjustment as set forth in the Merger Agreement. Under the terms of the Merger
+Agreement, prior to the Effective Time, the board of directors of VYNE (the &#8220;Board&#8221;) accelerated the vesting of all options
+to purchase VYNE common stock (the &#8220;Company Options&#8221;) and VYNE restricted stock units (the &#8220;Company Restricted Stock
+Units&#8221;). Each then-outstanding Company Option with an exercise price per share equal to or less than the volume weighted average
+closing trading price of a share of Company Common Stock on The Nasdaq Stock Market LLC (&#8220;Nasdaq&#8221;) for the five (5) consecutive
+trading days ending three (3) trading days prior to the Calculation Date (as defined in the Merger Agreement), as reported by Bloomberg
+L.P. (the &#8220;Company Closing Price&#8221; and such Company Options, &#8220;In-the-Money Company Options&#8221;), was cancelled at
+the Effective Time and such holder thereof received an amount in cash, without interest, less any applicable tax withholding, equal to
+the product obtained by multiplying the excess of the Company Closing Price over the exercise price per share of the Company Common Stock
+underlying such Company Option by the number of shares of the Company Common Stock underlying such Company Option. Each Company Option
+with an exercise price greater than the Company Closing Price was cancelled for no consideration. Immediately prior to the Effective Time,
+each holder of an accelerated Company Restricted Stock Unit was entitled to receive a number of shares of Company Common Stock equal to
+the number of vested and unsettled shares underlying such Company Restricted Stock Unit.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">No fractional shares of Company Common Stock were
+issued in connection with the Merger, and no certificates or scrip for any such fractional shares were issued. Any fractional shares of
+Company Common Stock resulting from the conversion of shares of Yarrow Capital Stock (including shares of Pre-Merger Yarrow common stock
+issued in the Pre-Closing Financing) were treated as follows: (i) one share of Company Common Stock if the aggregate amount of fractional
+shares of Company Common Stock of any individual holder of Yarrow Capital Stock upon conversion equaled or exceeded 0.50 or (ii) no shares
+of Company Common Stock if the aggregate amount of fractional shares of Company Common Stock of any individual holder of Yarrow Capital
+Stock upon conversion was less than 0.50, with no cash paid for any fractional share eliminated by such rounding.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"></p>
+
+<!-- Field: Page; Sequence: 2 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The Exchange Ratio was calculated using a formula
+intended to allocate Pre-Merger Yarrow stockholders and VYNE stockholders a percentage of the Company. Based on VYNE&#8217;s valuation
+of $8.5 million, Pre-Merger Yarrow&#8217;s valuation of $272.9 million (which included the amount of proceeds received by Pre-Merger Yarrow
+in the Pre-Closing Financing and fair market value of the Pre-Merger Yarrow&#8217;s Series A preferred financing) and fully diluted capitalization
+as of July 27, 2026, calculated using the treasury stock method (subject to certain adjustments), the Exchange Ratio was 0.7171 shares
+of Company Common Stock for each share of Pre-Merger Yarrow common stock.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">After giving effect to the Pre-Closing Financing
+and Pre-Merger Yarrow&#8217;s Series A preferred financing, and immediately following the Closing, Pre-Merger Yarrow stockholders owned
+approximately 97% of the combined company and VYNE stockholders owned approximately 3% of the combined company. For purposes of calculating
+the Exchange Ratio, (i) shares of Company Common Stock underlying In-the-Money Company Options (other than such In-the-Money Company Options
+cashed out in accordance with the Merger Agreement which would have reduced the calculation of the Company&#8217;s net cash), warrants
+or other rights or commitments to receive shares of Company Common Stock, including the Company Restricted Stock Units, were deemed outstanding
+and (ii) all shares of Yarrow Capital Stock underlying outstanding options, warrants or other rights or commitments to receive shares
+of Yarrow Capital Stock were deemed outstanding, except as provided in the Merger Agreement.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">In addition, on July 23, 2026 (the &#8220;Payment
+Date&#8221;), the Company distributed a cash dividend to holders of VYNE common stock and warrants of record as of July 22, 2026 in an
+aggregate amount of approximately $17.3 million and distributed approximately $0.40242 per share (the &#8220;VYNE Dividend&#8221;). Because
+the VYNE Dividend exceeded 25% of the closing price of VYNE common stock on July 10, 2026, the declaration date, it was subject to an
+ex-dividend date of one business day after the Payment Date pursuant to the rules of Nasdaq. Accordingly, Nasdaq set July 24, 2026 as
+the ex-dividend date for the VYNE Dividend. VYNE common stock traded with &#8220;due bills&#8221; during the due bill period beginning
+July 21, 2026 and through July 23, 2026 (the &#8220;Due Bill Period&#8221;). Therefore, investors who purchased VYNE common stock during
+the Due Bill Period were entitled to receive the VYNE Dividend, and investors who sold VYNE common stock during the Due Bill Period were
+not entitled to receive the VYNE Dividend. The due bill obligations were settled customarily between the brokers representing the buyers
+and sellers of VYNE common stock. VYNE had no obligations for either the amount of the due bill or the processing of the due bill.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">In addition, prior to the consummation of the Merger,
+VYNE effected a 1-for-50 reverse stock split of VYNE common stock, which became legally effective on July 24, 2026 (the &#8220;Reverse
+Stock Split&#8221;). The Company Common Stock commenced trading on a post-Reverse Stock Split basis at the open of trading on July 27,
+2026, and a post-Merger basis at the open of trading on July 28, 2026.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The material provisions of the Merger Agreement
+are described in the Company&#8217;s definitive proxy statement/prospectus filed on Form S-4 with the U.S. Securities and Exchange Commission
+(the &#8220;SEC&#8221;), most recently amended on June 3, 2026 and declared effective on June 15, 2026 (as amended, the &#8220;Proxy Statement/Prospectus&#8221;),
+in the section entitled &#8220;The Merger Agreement&#8221; beginning on page 166, and are incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b><i>Pre-Merger Yarrow Series A Preferred Financing</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">In connection with the execution and delivery of
+the Merger Agreement, certain new and existing institutional and accredited investors of Pre-Merger Yarrow entered into a Series A stock
+purchase agreement with Pre-Merger Yarrow, pursuant to which such persons invested in a private placement of Pre-Merger Yarrow&#8217;s
+Series A preferred stock for an aggregate purchase price of approximately $100.0 million.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></p>
+
+<!-- Field: Page; Sequence: 3 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b><i>Pre-Closing Financing</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">Concurrently with the execution and delivery of
+the Merger Agreement, certain new and existing institutional and accredited investors of Pre-Merger Yarrow entered into a securities purchase
+agreement (the &#8220;Securities Purchase Agreement&#8221;) with Pre-Merger Yarrow, pursuant to which such investors purchased, immediately
+prior to the Merger, 1,096,125 shares of Pre-Merger Yarrow common stock and 13,068,176 Pre-Merger Yarrow&#160;pre-funded&#160;warrants
+(the &#8220;PIPE Securities&#8221;), for gross proceeds of approximately $100.0 million (the &#8220;Pre-Closing&#160;Financing&#8221;).
+Under the Securities Purchase Agreement, the number of shares of Pre-Merger Yarrow common stock and Pre-Merger Yarrow pre-funded warrants
+were determined at a purchase price per share or pre-funded warrant equal to (i) a valuation for Pre-Merger Yarrow of approximately $172.9
+million, (ii) divided by the number of fully diluted shares of Pre-Merger Yarrow common stock outstanding immediately prior to the Effective
+Time (including the securities issued under the Securities Purchase Agreement).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The Pre-Merger Yarrow pre-funded warrants have
+an exercise price per share equal to $0.0001 (as adjusted from time to time as provided in the form of pre-funded warrant) and may be
+exercised at any time and from time to time after the original issue date. The Pre-Merger Yarrow pre-funded warrants do not expire.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The shares of Pre-Merger Yarrow common stock and
+Pre-Merger Yarrow pre-funded warrants that were issued in the Pre-Closing Financing were or have the right to be, respectively, converted
+into shares of Company Common Stock in the Merger. The Securities Purchase Agreement contains customary representations and warranties
+of Pre-Merger Yarrow and also contains customary representations and warranties of the purchaser parties thereto.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The preceding descriptions of the Merger, Merger
+Agreement, Pre-Closing Financing, Securities Purchase Agreement and Pre-Funded Warrant do not purport to be complete and are qualified
+in their entirety by reference to the Original Merger Agreement, Amendment No. 1, the Securities Purchase Agreement and the Form of Pre-Funded
+Warrant, which are attached hereto as Exhibits 2.1, 2.2, 10.1 and 4.1 and which are incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The information set forth under the headings &#8220;Support
+Agreements and Lock-Up Agreement&#8221; in Item 1.01 of the Company&#8217;s Current Report on Form 8-K filed with the SEC on December
+17, 2025 is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 1in; text-align: left"><b>Item 1.01</b></td><td style="text-align: justify"><b>Entry into a Material Definitive Agreement.</b></td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b><i>Indemnification Agreements</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">On July 27, 2026, the Company entered into indemnification
+agreements (collectively, the &#8220;Indemnification Agreements&#8221;) with each of its directors and executive officers (collectively,
+the &#8220;Indemnitees&#8221;), which replaced and superseded any previous indemnification agreements between the Company and each such
+individual. The Indemnification Agreements provide for certain indemnification and advancement of expenses by the Company in connection
+with actions or proceedings arising out of the Indemnitees&#8217; service as directors or officers of the Company or service to other
+entities at the Company&#8217;s request, on the terms and subject to the conditions set forth therein.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The foregoing description of the Indemnification
+Agreements is not complete and is subject to and qualified in its entirety by reference to the complete text of the Indemnification Agreements,
+the form of which is attached hereto as Exhibit 10.4 and incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><tr style="vertical-align: top">
+<td style="width: 1in"><b>Item 2.01</b></td><td><b>Completion of Acquisition or Disposition of Assets. </b></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The disclosure set forth in the &#8220;<i>Introductory
+Note</i>&#8221; above, including with respect to the Merger, is incorporated into this Item 2.01 by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">All of the proposals included in the Proxy Statement/Prospectus
+were approved by VYNE stockholders at a special meeting of stockholders held on July 16, 2026 (the &#8220;Special Meeting&#8221;), other
+than the proposal to adjourn the Special Meeting, which was not presented to the stockholders.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"></p>
+
+<!-- Field: Page; Sequence: 4 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">In connection with the consummation of the Merger,
+on the Closing Date, all of the then-outstanding (i) 4,250,000 shares of Pre-Merger Yarrow common stock, (ii) 20,242,911 shares of Pre-Merger
+Yarrow Series A preferred stock, (iii) 2,792,194 shares of Pre-Merger Yarrow common stock issuable upon the exercise of outstanding options,
+(iv) 1,096,125 shares of Pre-Merger Yarrow common stock purchased in the Pre-Closing Financing and (v) 13,068,176 Pre-Merger Yarrow pre-funded
+warrants purchased in the Pre-Closing Financing were converted into the right to receive shares of Company Common Stock and/or Company
+pre-funded warrants, as applicable, equal to the Exchange Ratio.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">Immediately following the application of the Exchange
+Ratio (which was adjusted to give effect to the Reverse Stock Split described below), and following the consummation of the transactions
+contemplated by the Merger Agreement, the Company had approximately 28,584,308 shares of Company Common Stock issued and outstanding (assuming
+the exercise in full of all Company pre-funded warrants and excluding outstanding employee and director option awards), which was comprised
+of:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td>2,803,078 shares of Company Common Stock (inclusive of issuances pursuant to the Merger Agreement and the Pre-Closing Financing);
+and</td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td>25,781,230 shares of Company Common Stock issuable upon the exercise of Company pre-funded warrants, each exercisable for one share
+of Company Common Stock at a price of $0.0001 per share.</td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">Immediately prior to the consummation of the Merger,
+VYNE effected the 1-for-50 Reverse Stock Split of VYNE common stock, which became legally effective on July 24, 2026. The Company Common
+Stock commenced trading on a post-Reverse Stock Split basis at the open of trading on July 27, 2026, and on a post-Merger basis at the
+open of trading on July 28, 2026.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 1in; text-align: left"><b>Item 2.02</b></td><td style="text-align: justify"><b>Results of Operations and Financial Condition.</b></td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">Pre-Merger Yarrow&#8217;s Management&#8217;s Discussion
+and Analysis of Financial Condition and Results of Operations as of March 31, 2026 and for the period from October 3, 2025 (inception)
+to March 31, 2026 is included in the Proxy Statement/Prospectus beginning on page 307 and is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><tr style="vertical-align: top">
+<td style="width: 1in"><b>Item 3.02</b></td><td><b>Unregistered Sales of Equity Securities.</b></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">To the extent required by this Item, the information
+included in Item 2.01 of this Current Report on Form 8-K is incorporated herein by reference. The PIPE Securities were offered and sold
+in transactions exempt from registration under the Securities Act of 1933, as amended (the &#8220;Securities Act&#8221;), in reliance
+on Section 4(a)(2) thereof. Each of the investors represented that it was an &#8220;accredited investor,&#8221; as defined in Regulation
+D, and acquired the PIPE Securities for investment only and not with a view towards, or for resale in connection with, the public sale
+or distribution thereof. Neither this Current Report on Form 8-K nor any of the exhibits attached hereto is an offer to sell or the solicitation
+of an offer to buy the PIPE Securities or any other securities of the Company or Pre-Merger Yarrow.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 1in; text-align: left"><b>Item 3.03</b></td><td style="text-align: justify"><b>Material Modification to Rights of Security Holders.</b></td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">To the extent required by this Item, the information
+included in Item 2.01 of this Current Report on Form 8-K is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">VYNE held the Special Meeting on July 16, 2026
+to present the proposals included in the Proxy Statement/Prospectus. At the Special Meeting, the VYNE stockholders approved, among other
+matters, amendments to the Amended and Restated Certificate of Incorporation of the Company to (i) increase the number of authorized shares
+of Company Common Stock from 150,000,000 shares to 300,000,000 shares (the &#8220;Authorized Share Increase&#8221;), (ii) effect the Reverse
+Stock Split and (iii) change its name from &#8220;VYNE Therapeutics Inc.&#8221; to &#8220;Yarrow Bioscience, Inc.&#8221; (the &#8220;Name
+Change&#8221;), in each case as described in the Proxy Statement/Prospectus. Following the Special Meeting, the Board approved the Reverse
+Stock Split at a ratio of 1-for-50. To effect the Reverse Stock Split, the Company filed a Certificate of Amendment to the Company&#8217;s
+Amended and Restated Certificate of Incorporation with the Secretary of State of the State of Delaware (the &#8220;Reverse Stock Split
+Certificate of Amendment&#8221;), with an effective time of 8:45 a.m., Eastern Daylight Time, on July 24, 2026 (&#8220;Reverse Stock Split
+Certificate of Amendment Effective Time&#8221;). To effect the Authorized Share Increase, the Company filed a Certificate of Amendment
+to the Company&#8217;s Amended and Restated Certificate of Incorporation with the Secretary of State of the State of Delaware (the &#8220;Authorized
+Share Increase Certificate of Amendment&#8221;), with an effective time of 12:01 a.m., Eastern Daylight Time, on July 27, 2026. To effect
+the Name Change, the Company filed a Certificate of Amendment to the Company&#8217;s Amended and Restated Certificate of Incorporation
+with the Secretary of State of the State of Delaware (the &#8220;Name Change Certificate of Amendment&#8221;), with an effective time
+of 12:03 a.m., Eastern Daylight Time, on July 27, 2026.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"></p>
+
+<!-- Field: Page; Sequence: 5 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">As of the Reverse Stock Split Certificate of Amendment
+Effective Time, every 50 shares of Company Common Stock issued and outstanding immediately prior to the Reverse Stock Split were automatically
+and without further action on the part of the Company or any holders of such Company Common Stock, combined into one share of Company
+Common Stock. Immediately following the Reverse Stock Split and Merger, there were approximately 2.8 million shares of Company Common
+Stock issued and outstanding.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">No fractional shares of Company Common Stock were
+issued as a result of the Reverse Stock Split. Instead, any stockholder who would have otherwise been entitled to a fractional share of
+Company Common Stock as a result of the Reverse Stock Split (after aggregating all fractions of a share to which such stockholder would
+have otherwise been entitled) was, in lieu thereof, entitled to receive a cash payment equal to the product of such resulting fractional
+interest in one share of Company Common Stock multiplied by the closing price per share as reported by Nasdaq on July 23, 2026. The Company
+Common Stock commenced trading on a post-Reverse Stock Split basis on July 27, 2026, and a post-Merger basis on July 28, 2026. The Company
+Common Stock is represented by a new CUSIP number (92941V407). The par value per share of the Company Common Stock remains unchanged.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The foregoing descriptions of the Authorized Share
+Increase Certificate of Amendment, Reverse Stock Split Certificate of Amendment and Name Change Certificate of Amendment do not purport
+to be complete and are subject to and qualified in their entirety by the full text of the Authorized Share Increase Certificate of Amendment,
+Reverse Stock Split Certificate of Amendment and Name Change Certificate of Amendment, copies of which are attached hereto as Exhibits
+3.1, 3.2 and 3.3, respectively, and are incorporated herein by reference.</p>
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><tr style="vertical-align: top">
+<td style="width: 1in"><b>Item 5.01</b></td><td style="text-align: justify"><b>Changes in Control of Registrant.</b></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">To the extent required by
+this Item, the information included under the heading &#8220;<i>Introductory Note</i>&#8221; and in Item 2.01 of this Current Report on
+Form 8-K is incorporated herein by reference.</p>
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><tr style="vertical-align: top">
+<td style="width: 1in"><b>Item 5.02</b></td><td style="text-align: justify"><b>Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers;
+Compensatory Arrangements of Certain Officers.</b></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b><i>Resignation of Directors and Certain Officers</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">In accordance with the Merger Agreement, at the
+Effective Time, all of the Company&#8217;s directors resigned from the Board and any respective committee of the Board of which they were
+members. The resignations were not the result of any disagreements with the Company relating to the Company&#8217;s operations, policies
+or practices. The size of the Board was increased to six directors.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">In addition, each of David Domzalski, VYNE&#8217;s
+President and Chief Executive Officer, Iain Stuart, Ph.D., VYNE&#8217;s Chief Scientific Officer, and Mutya Harsch, VYNE&#8217;s Chief
+Legal Officer and General Counsel, resigned as executive officers at the Closing and their employment was terminated effective July 27,
+2026, which terminations are considered to be without &#8220;cause&#8221; related to a change in control for purposes of their offer letters
+with VYNE. Subject to their execution and non-revocation of a release of claims, each of Mr. Domzalski, Mr. Stuart and Ms. Harsch will
+be eligible for the separation benefits set forth under their offer letters, as previously disclosed in the Proxy Statement/Prospectus.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;<br/>
+</p>
+
+<!-- Field: Page; Sequence: 6 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b><i>Stock Incentive Plan</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">On April 23, 2026, the Board approved the Yarrow
+Bioscience, Inc. 2026 Stock Incentive Plan (the &#8220;2026 Stock Plan&#8221;), subject to stockholder approval and the consummation of
+the Merger. On July 16, 2026, the Company&#8217;s stockholders approved the 2026 Stock Plan at the Special Meeting and on July 27, 2026,
+the Board ratified the 2026 Stock Plan. The purpose of the 2026 Stock Plan is to promote and closely align the interests of employees,
+officers, non-employee directors and other individual service providers of the Company and its stockholders by providing stock-based compensation
+and other performance-based compensation. The initial share pool under the 2026 Stock Plan is 2,688,931. The shares that may be issued
+under the 2026 Stock Plan will be automatically increased on January 1 of each year beginning in 2027 and ending with a final increase
+on January 1, 2036, in an amount equal to 5% of the diluted stock (including Company Common Stock, preferred stock and unexercised pre-funded
+warrants) on the preceding December 31, unless a lower (or no) increase is determined by the administrator. Only 100,000,000 shares of
+Company Common Stock may be issued under the 2026 Stock Plan as incentive stock options.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The foregoing description of the 2026 Stock Plan
+is not complete and is subject to and qualified in its entirety by reference to the complete text of the 2026 Stock Plan, a copy of which
+is attached hereto as Exhibit 10.5 and incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b><i>Employee Stock Purchase Plan</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">On April 23, 2026, the Board approved the Yarrow
+Bioscience, Inc. 2026 Employee Stock Purchase Plan (the &#8220;2026 ESPP&#8221;), subject to stockholder approval and the consummation
+of the Merger. On July 16, 2026, the Company&#8217;s stockholders approved the 2026 ESPP at the Special Meeting and on July 27, 2026,
+the Board ratified the 2026 ESPP. The purpose of the 2026 ESPP is to provide employees of the Company and its designated subsidiaries
+with an opportunity to purchase shares of the Company Common Stock through accumulated contributions. The 2026 ESPP, and the rights of
+participants to make purchases thereunder, is intended to qualify under Section 423 of the Code. The initial share pool under the 2026
+ESPP is 336,116. The shares that may be issued under the 2026 ESPP will be automatically increased on January 1 of each year beginning
+in 2027 and ending with a final increase on January 1, 2036 in an amount equal to the lesser of 1% of the diluted stock (including Company
+Common Stock, preferred stock and unexercised pre-funded warrants) on the preceding December 31 or 2,500,000, unless a lower (or no) increase
+is determined by the compensation committee of the Board.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The foregoing description of the 2026 ESPP is not
+complete and is subject to and qualified in its entirety by reference to the complete text of the 2026 ESPP, a copy of which is attached
+hereto as Exhibit 10.6 and incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b><i>Appointment of Directors and Certain Officers</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">On July 27, 2026, the Board appointed Rebecca Frey,
+Pharm.D. as the Company&#8217;s Chief Executive Officer, Tyler Zeronda as the Company's Chief Financial Officer, Steven Ryder, M.D. as
+the Company's Chief Medical Officer, Lori Payton, Ph.D. as the Company's Chief Development Officer and Rachael Alford, Ph.D. as the Company's
+Chief Operating Officer, each to serve at the discretion of the Board.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">On July 27, 2026, the Board set its size at six
+members and appointed the following six individuals to the Board: Rebecca Frey, Mona Ashiya, Steven Hoerter, Bill Lundberg, Peter Silverman
+and William White. In connection with his appointment to the Board, Bill Lundberg was also appointed as Chair of the Board.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">Rebecca Frey and Steven Hoerter are Class I directors,
+whose terms will expire at the Company's 2028 annual meeting of stockholders. Bill Lundberg and William White are Class II directors,
+whose terms will expire at the Company's 2029 annual meeting of stockholders. Mona Ashiya and Peter Silverman are Class III directors,
+whose terms will expire at the Company's 2027 annual meeting of stockholders.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">Other than as disclosed in the section of the Proxy
+Statement/Prospectus entitled &#8220;Certain Relationships and Related Party Transactions of the Combined Company,&#8221; beginning on
+page 328 and incorporated herein by reference, none of the Company's newly appointed officers or directors has a direct or indirect material
+interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation S-K.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"></p>
+
+<!-- Field: Page; Sequence: 7 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">Pursuant to a letter agreement dated April 15,
+2026, by and among OrbiMed Advisors LLC (&#8220;OrbiMed&#8221;), Pre-Merger Yarrow and, following the Closing, the Company (the &#8220;Letter
+Agreement&#8221;), OrbiMed is entitled to designate (i) up to two directors to the Board so long as OrbiMed holds at least 15% of the
+outstanding shares of the Company Common Stock or a reference ownership percentage of at least 90% of its ownership immediately following
+the Closing, and (ii) one such director as long as OrbiMed holds at least 7.5% of the outstanding shares or a reference ownership percentage
+of at least 50% (the &#8220;OrbiMed Designee(s)&#8221;), in each case as calculated pursuant to the Letter Agreement. Mona Ashiya, a Member
+at OrbiMed, was appointed to the Pre-Merger Yarrow board of directors in December 2025 in connection with the Pre-Merger Yarrow Series
+A preferred financing and serves as an OrbiMed Designee. OrbiMed has the right to designate one additional director in the future after
+the Closing.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">Other than the Merger Agreement and the Letter
+Agreement, there are no arrangements or understandings between the Company's officers or directors and any other person pursuant to which
+such officers or directors were selected as an officer or a director. There are no family relationships among any of the Company's directors
+and officers.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">Each of the newly appointed principal officers&#8217;
+and directors&#8217; biographical information is set forth below.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><b>Rebecca Frey</b>. Ms. Frey, age 52, has served
+as Pre-Merger Yarrow&#8217;s Chief Executive Officer and President since October 2025 and as a member of the Pre-Merger Yarrow board of
+directors since December 2025. She was elected as an At-Large Director in accordance with the Pre-Merger Yarrow certificate of incorporation.
+Prior to joining Pre-Merger Yarrow, Ms. Frey served as a Venture Partner at RTW, a leading life sciences investment firm, from February
+2025 to January 2026 and served as a Venture Partner at Elm Street Ventures from February 2021 to December 2025. Ms. Frey also served
+as the interim Chief Executive Officer of Prolium Bioscience, a biotechnology company, from February 2025 to July 2025. Prior to joining
+RTW, Ms. Frey served as Chief Executive Officer of Siduma Therapeutics, a biotechnology company, from April 2021 to May 2024, Chief Operating
+Officer at EvolveImmune Therapeutics, Inc., a biotechnology company, from February 2020 to December 2021, Chief Operating Officer at Cardurion
+Pharmaceuticals, Inc., a biotechnology company, from 2018 to 2020, and Executive Vice President of Operations at Prevail Therapeutics
+Inc. (formerly, Nasdaq: PRVL), a biotechnology company, from 2017 to 2018. Prior to joining Prevail, Ms. Frey held various operational
+leadership roles at Alexion Pharmaceuticals, Inc. (formerly, Nasdaq: ALXN), a biopharmaceutical company, from October 2006 to September
+2017. Prior to her service at Alexion Pharmaceuticals, Ms. Frey worked in development and medical affairs at Novartis Pharmaceuticals
+and was an Assistant Professor at Northeastern University. Ms. Frey currently serves on the board of Octant Bio, a biotechnology company.
+Ms. Frey previously served as Executive Chair of Artelis Biopharma from August 2024 to December 2025 and served on the board of directors
+of Halda Therapeutics, a biopharmaceutical company, from 2019 until it was acquired by Johnson &amp; Johnson in 2025. Ms. Frey served
+as a director of Latinos in Bio, a 501(c)(3) nonprofit organization, from August 2023 to February 2025. Ms. Frey holds a Doctor of Pharmacy
+degree from Northeastern University and completed a post-doctoral clinical research fellowship at Northeastern University and Tufts Medical
+Center. Ms. Frey also holds an Executive Certificate in Management and Leadership from the MIT Sloan School of Management. Ms. Frey is
+Directorship Certified by the National Association of Corporate Directors (NACD.DC).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The Company believes Ms. Frey is qualified to serve
+as a member of the Board because of her extensive experience as a senior executive at numerous biotechnology companies and her operational
+background and expertise as an investor in life sciences companies, as well as her scientific and medical background.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><b>Tyler Zeronda</b>. Mr. Zeronda, age 40, began
+serving as the Company&#8217;s Chief Financial Officer upon the Closing. Mr. Zeronda served as Chief Financial Officer and Treasurer of
+VYNE Therapeutics Inc. (Nasdaq: VYNE), a biopharmaceutical company, since March 2022 and previously served as VYNE&#8217;s Interim Chief
+Financial Officer and Treasurer from June 2021 to March 2022. Mr. Zeronda previously served as Vice President of Finance of VYNE from
+March 2020 to June 2021 and as Vice President of Finance of Foamix Pharmaceuticals Ltd. (formerly, Nasdaq: FOMX), a pharmaceutical company,
+from April 2019 until its merger with VYNE in March 2020, where he helped lead the buildout of the company&#8217;s finance department
+in the U.S. and was responsible for financial planning, commercial finance and supply chain. From April 2013 until April 2019, Mr. Zeronda
+held positions across corporate and operational finance at Aerie Pharmaceuticals Inc. (formerly, Nasdaq: AERI), a pharmaceutical company,
+where he helped the company scale and transition from a pre-IPO, clinical-stage company to a commercial-stage public company. Mr. Zeronda
+began his career at Ernst &amp; Young, LLP where he focused on assurance services in the healthcare industry. Mr. Zeronda received his
+Master of Science in accounting from the University of Virginia, holds a Bachelor of Arts with a double major in economics and business
+and history from Lafayette College and is a licensed CPA.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"></p>
+
+<!-- Field: Page; Sequence: 8 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><b>Steven Ryder, M.D. </b>Dr. Ryder, age 75, has
+served as Pre-Merger Yarrow&#8217;s Chief Medical Officer since April 2026. Prior to joining Pre-Merger Yarrow, Dr. Ryder served as Chief
+Medical Officer of Rallybio Corp. (Nasdaq: RLYB), a biotechnology company, from December 2018 to March 2026, where he was responsible
+for leading the company&#8217;s clinical development and medical strategy. Prior to Rallybio, Dr. Ryder served as Senior Vice President,
+Chief Development Officer at Alexion Pharmaceuticals, Inc. (formerly, Nasdaq: ALXN), a biopharmaceutical company, from July 2013 to December
+2018, where he led the global development, registration, and approval of new drug candidates for rare diseases and contributed to the
+overall growth of the company. Previously, he was the founding President of Astellas Pharma Global Development and spent 21 years in development
+at Pfizer. Dr. Ryder currently serves on the board of directors of MBX Biosciences, Inc. and Gaylord Specialty Healthcare. He received
+his M.D. from the Icahn School of Medicine at Mount Sinai.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><b>Lori Payton, Ph.D. </b>Dr. Payton, age 60, has
+served as Pre-Merger Yarrow&#8217;s Chief Development Officer since January 2026. Prior to joining Pre-Merger Yarrow, Dr. Payton served
+as Principal Consultant and Chief Executive Officer at Harkness Consulting, LLC, a management consulting firm, from March 2024 to December
+2025, where she was responsible for strategic planning and development consulting to several bioscience clients, and served as Senior
+Vice President, Development Strategy &amp; Operations at AlloVir, Inc. (formerly, Nasdaq: ALVR), a biotechnology company, from February
+2022 to January 2024, where she was responsible for Strategic Planning, Clinical Operations, Program Management, Biometrics and Vendor
+Management functions. In addition, Dr. Payton was a member of the executive leadership team and was accountable for achievement of critical
+development milestones. Dr. Payton also served as the Vice President of Strategy and Business Development at Vista Life Innovations, a
+nonprofit organization providing programs and services to individuals with disabilities, from July 2020 to August 2021, Senior Vice President,
+Corporate Strategy, Portfolio &amp; Program Management at Sage Therapeutics (formerly, Nasdaq: SAGE) from April 2019 to June 2020 and
+Vice President, Global Development Team Leader at Alexion Pharmaceuticals, Inc. (formerly, Nasdaq: ALXN) from August 2014 to March 2019.
+Dr. Payton held several positions in Research and Development during her tenure at Pfizer from 1993 to 2013. Dr. Payton currently serves
+on the Long Term Planning Committee of the board of Vista Life Innovations. Dr. Payton received her B.A. in Biology from Wheaton College
+Massachusetts and her Ph.D. in Pharmacology &amp; Experimental Therapeutics from Boston University School of Medicine.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><b>Rachael Alford, Ph.D. </b>Dr. Alford, age 53,
+has served as Pre-Merger Yarrow&#8217;s Chief Operating Officer since January 2026. Prior to joining Pre-Merger Yarrow, Dr. Alford served
+as Head of Chemistry, Manufacturing and Controls at Rallybio Corporation (Nasdaq: RLYB), a biotechnology company, from May 2020 to January
+2026, where she was responsible for leading the strategy, development and oversight of manufacturing processes for the company&#8217;s
+drug candidates. Prior to joining Rallybio, Dr. Alford held various operational and developmental roles at Alexion Pharmaceuticals, Inc.
+(formerly, Nasdaq: ALXN), a biopharmaceutical company, from November 2004 to May 2020, including Senior Director, Biochemical Process
+Development, and Vice President of Global Process Development. Dr. Alford received her B.S. in Chemistry and Ph.D. in Biophysical Chemistry
+from Imperial College London and was a postdoctoral research associate at Yale University.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><b>Mona Ashiya, Ph.D. </b>Dr. Ashiya, age 57, has
+served as a member of the Pre-Merger Yarrow board of directors since December 2025. Dr. Ashiya is currently a General Partner at OrbiMed
+Advisors LLC, an investment firm, where she has served in various roles of increasing responsibility since 2010. She currently serves
+on the boards of directors of Shattuck Labs, Inc. (Nasdaq: STTK) and several private companies. Dr. Ashiya previously served on the boards
+of directors of Disc Medicine, Inc. (Nasdaq: IRON) from September 2021 to October 2025 and Sierra Oncology, Inc. (formerly, Nasdaq: SRRA)
+from November 2019 to July 2022. Dr. Ashiya received her B.A. from the University of California, Berkeley and her Ph.D. in Cellular, Molecular
+and Developmental Biology from the University of Pittsburgh.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The Company believes Dr. Ashiya is qualified to
+serve as a member of the Board because of her experience advising and serving as a director of biotechnology companies and her expertise
+as an investor in life sciences companies, as well as her finance background.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"></p>
+
+<!-- Field: Page; Sequence: 9 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><b>Steven L. Hoerter</b>. Mr. Hoerter, age 55,
+has served as a member of Pre-Merger Yarrow&#8217;s board of directors since April 2026. Since July 2026, Mr. Hoerter has served as Chairman
+and Chief Executive Officer of MBX Biosciences, Inc. (Nasdaq: MBX), a biopharmaceutical company. Mr. Hoerter served as President and Chief
+Executive Officer of Deciphera Pharmaceuticals, Inc. (formerly, Nasdaq: DCPH), a biopharmaceutical company, from March 2019 to June 2024,
+when Deciphera was acquired by ONO Pharmaceutical. He also served as a member of the board of directors of Deciphera from May 2018 to
+June 2024. Prior to Deciphera, he served as Chief Commercial Officer of Agios Pharmaceuticals, Inc. (Nasdaq: AGIO), a biotechnology company,
+from February 2016 to March 2019. From August 2011 to March 2015, Mr. Hoerter served as Senior Vice President, Commercial at Clovis Oncology,
+Inc., a biotechnology company, and from March 2015 to February 2016, he served as Chief Commercial Officer. Prior to that, he held roles
+of increasing responsibility at F. Hoffmann-La Roche, AG, Genentech, Inc. (acquired by Roche), Chiron Corporation (acquired by Novartis
+AG) and Eli Lilly and Company. Mr. Hoerter has served as a member of the board of directors of ORIC Pharmaceuticals, Inc. (Nasdaq: ORIC)
+since August 2021, C4 Therapeutics, Inc. (Nasdaq: CCCC) since November 2024 and MBX Biosciences, Inc. (Nasdaq: MBX) since April 2025.
+Mr. Hoerter previously served on the board of directors of Constellation Pharmaceuticals, Inc. (formerly, Nasdaq: CNST) from September
+2018 until it was acquired by MorphoSys AG in July 2021 and Ignyta, Inc. (formerly, Nasdaq: RXDX) from December 2016 until it was acquired
+by Roche in February 2018. Mr. Hoerter received his B.A. from Bucknell University, his M.B.A. from Tilburg University and his M.S. in
+management from Purdue University.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The Company believes Mr. Hoerter is qualified to
+serve as a member of the Board because of his extensive management and commercial expertise in the biotechnology industry and his experience
+serving as a director of public biotechnology companies.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><b>Bill Lundberg, M.D.</b> Dr. Lundberg, age 62,
+has served as Chair of Pre-Merger Yarrow&#8217;s board of directors since April 2026. Since August 2018, Dr. Lundberg has served as a
+Partner at Cold Spring Partners, LLC, an investment firm. Dr. Lundberg previously served as President and Chief Executive Officer of Merus
+N.V. (formerly, Nasdaq: MRUS), a biotechnology company, from December 2019 until Merus was acquired by Genmab A/S in December 2025, and
+as the Principal Financial Officer of Merus from December 2019 to June 2023. Dr. Lundberg also served as a member of the board of directors
+of Merus from June 2019 to December 2025. Prior to joining Merus, he served as Chief Scientific Officer of CRISPR Therapeutics AG (Nasdaq:
+CRSP), a biotechnology company, from January 2015 to February 2018. From February 2011 to January 2015, Dr. Lundberg served as Vice President
+and Head of Translational Medicine at Alexion Pharmaceuticals, Inc. (formerly, Nasdaq: ALXN), a biopharmaceutical company. Prior to that,
+he served as Director and Chief Medical Officer of Taligen Therapeutics, Inc., a biotechnology company acquired by Alexion in 2011. Prior
+to joining Taligen, Dr. Lundberg held roles of increasing responsibility in clinical drug development and medical affairs at Xanthus Pharmaceuticals,
+Inc. (acquired by Antisoma plc), Wyeth (acquired by Pfizer Inc.), and Genzyme Corporation (formerly, Nasdaq: GENZ). Dr. Lundberg has served
+as a member of the board of directors of Q32 Bio Inc. (Nasdaq: QTTB) since September 2017 and previously served on the board of directors
+of Vor Biopharma Inc. (Nasdaq: VOR) from July 2019 to July 2025. Dr. Lundberg received his M.D. from Stanford University and his M.B.A.
+from the University of Massachusetts. He completed post-doctoral training at the Whitehead Institute/MIT and clinical training in Medicine
+and Medical Oncology at Harvard Medical School and the Dana-Farber Cancer Institute.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The Company believes Dr. Lundberg is qualified
+to serve as a member of the Board because of his experience advising and serving as an executive director of biotechnology companies and
+his expertise in medicine and clinical drug development.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><b>Peter B. Silverman, J.D.</b> Mr. Silverman,
+age 48, has served as a member of Pre-Merger Yarrow&#8217;s board of directors since April 2026. Mr. Silverman previously served as Chief
+Operating Officer of Merus N.V. (formerly, Nasdaq: MRUS), a biotechnology company, from January 2023 until its acquisition by Genmab A/S
+in December 2025. Prior to serving as Chief Operating Officer, Mr. Silverman held several leadership roles at Merus, including Head of
+Utrecht from April 2020 to January 2023, General Counsel from February 2018 to December 2025, and Chief Intellectual Property Officer
+and Head of U.S. Legal from February 2017 to February 2018. Before joining Merus, Mr. Silverman was a Partner at Kirkland &amp; Ellis
+LLP, an international law firm, where he represented numerous life sciences companies concerning an array of legal matters and technologies.
+Previously, Mr. Silverman was an associate at Kaye Scholer LLP (now Arnold &amp; Porter Kaye Scholer LLP), and prior to that Mr. Silverman
+served as judicial law clerk to U.S. District Court Judge Anne E. Thompson of the District of New Jersey. He holds a J.D. from Fordham
+University School of Law and a B.A. in biology from the University of Rochester.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"></p>
+
+<!-- Field: Page; Sequence: 10 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The Company believes Mr. Silverman is qualified
+to serve as a member of the Board because of his leadership, operational and business experience in the life sciences industry.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"><b>William White, J.D. </b>Mr. White, age 53, has
+served as a member of Pre-Merger Yarrow&#8217;s board of directors since April 2026. Since June 2026, Mr. White has served as Chief Financial
+Officer &amp; Head of Corporate Development of Avere Therapeutics, Inc., a privately-held biotechnology company. Mr. White served as the
+Executive Vice President, Chief Financial Officer and Head of Corporate Development and Treasurer at Akero Therapeutics, Inc. (Nasdaq:
+AKRO), a biotechnology company, from April 2019 until its acquisition by Novo Nordisk in December 2025. Before joining Akero, Mr. White
+served as a Managing Director and Head of US Life Sciences Investment Banking at Deutsche Bank AG, an investment banking company, from
+September 2017 until March 2019. Prior to that position, Mr. White was a Managing Director in Healthcare Investment Banking at Citigroup
+Inc., a multinational investment bank and financial services company, from May 2006 until September 2017. Previously, he served as an
+associate and later as a Vice President in Healthcare Investment Banking at Goldman, Sachs &amp; Co., a global financial institution,
+from November 2000 to March 2006. Mr. White has served as a member of the board of directors of Disc Medicine, Inc. (Nasdaq: IRON) since
+December 2020 and previously served on the board of directors of Ventyx Biosciences, Inc. (formerly, Nasdaq: VTYX) from May 2021 until
+its acquisition by Eli Lilly and Company in March 2026. Mr. White received an A.B. from Princeton University, an M.P.P. from Harvard University
+and a J.D. from Columbia University.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The Company believes Mr. White is qualified to
+serve as a member of the Board because of his extensive financial leadership experience in the life sciences industry and in healthcare
+investment banking.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b><i>Board Committees</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><i>Audit Committee</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">In connection with the Closing, Mr. White (Chair),
+Mr. Hoerter and Dr. Lundberg were appointed to the audit committee of the Board.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><i>Compensation Committee</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">In connection with the Closing, Mr. Hoerter (Chair),
+Dr. Ashiya and Mr. Silverman were appointed to the compensation committee of the Board.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><i>Governance Committee</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">In connection with the Closing, Dr. Lundberg (Chair),
+Mr. White and Mr. Silverman were appointed to the nominating and corporate governance committee of the Board.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>Non-Employee Director Compensation Program</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Non-employee members of the
+Board are eligible to receive cash and equity compensation in accordance with our non-employee director compensation program. As of the
+Closing, this program provides for the following annual cash retainers:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: bottom">
+    <td style="font-size: 10pt">&#160;</td><td style="font-size: 10pt; font-weight: bold; padding-bottom: 1pt">&#160;</td>
+    <td colspan="2" style="border-bottom: Black 1pt solid; font-size: 10pt; font-weight: bold; text-align: center">Annual<br/> Retainer</td><td style="padding-bottom: 1pt; font-size: 10pt; font-weight: bold">&#160;</td></tr>
+  <tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <td style="font-size: 10pt; text-align: justify">Board Retainers</td><td style="font-size: 10pt">&#160;</td>
+    <td style="font-size: 10pt; text-align: left">&#160;</td><td style="font-size: 10pt; text-align: right">&#160;</td><td style="font-size: 10pt; text-align: left">&#160;</td></tr>
+  <tr style="vertical-align: bottom; background-color: White">
+    <td style="width: 87%; font-size: 10pt; text-align: justify; padding-left: 9pt">Chair</td><td style="width: 1%; font-size: 10pt">&#160;</td>
+    <td style="width: 1%; font-size: 10pt; text-align: left">$</td><td style="width: 10%; font-size: 10pt; text-align: right">70,000</td><td style="width: 1%; font-size: 10pt; text-align: left">&#160;</td></tr>
+  <tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <td style="font-size: 10pt; text-align: justify; padding-left: 9pt">Non-Chair Member</td><td style="font-size: 10pt">&#160;</td>
+    <td style="font-size: 10pt; text-align: left">$</td><td style="font-size: 10pt; text-align: right">40,000</td><td style="font-size: 10pt; text-align: left">&#160;</td></tr>
+  <tr style="vertical-align: bottom; background-color: White">
+    <td style="font-size: 10pt; text-align: justify">Audit Committee Retainers:</td><td style="font-size: 10pt">&#160;</td>
+    <td style="font-size: 10pt; text-align: left">&#160;</td><td style="font-size: 10pt; text-align: right">&#160;</td><td style="font-size: 10pt; text-align: left">&#160;</td></tr>
+  <tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <td style="font-size: 10pt; text-align: justify; padding-left: 9pt">Chair</td><td style="font-size: 10pt">&#160;</td>
+    <td style="font-size: 10pt; text-align: left">$</td><td style="font-size: 10pt; text-align: right">15,000</td><td style="font-size: 10pt; text-align: left">&#160;</td></tr>
+  <tr style="vertical-align: bottom; background-color: White">
+    <td style="font-size: 10pt; text-align: justify; padding-left: 9pt">Non-Chair Member</td><td style="font-size: 10pt">&#160;</td>
+    <td style="font-size: 10pt; text-align: left">$</td><td style="font-size: 10pt; text-align: right">7,500</td><td style="font-size: 10pt; text-align: left">&#160;</td></tr>
+  <tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <td style="font-size: 10pt; text-align: justify">Compensation Committee Retainers:</td><td style="font-size: 10pt">&#160;</td>
+    <td style="font-size: 10pt; text-align: left">&#160;</td><td style="font-size: 10pt; text-align: right">&#160;</td><td style="font-size: 10pt; text-align: left">&#160;</td></tr>
+  <tr style="vertical-align: bottom; background-color: White">
+    <td style="font-size: 10pt; text-align: justify; padding-left: 9pt">Chair</td><td style="font-size: 10pt">&#160;</td>
+    <td style="font-size: 10pt; text-align: left">$</td><td style="font-size: 10pt; text-align: right">12,000</td><td style="font-size: 10pt; text-align: left">&#160;</td></tr>
+  <tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <td style="font-size: 10pt; text-align: justify; padding-left: 9pt">Non-Chair Member</td><td style="font-size: 10pt">&#160;</td>
+    <td style="font-size: 10pt; text-align: left">$</td><td style="font-size: 10pt; text-align: right">6,000</td><td style="font-size: 10pt; text-align: left">&#160;</td></tr>
+  <tr style="vertical-align: bottom; background-color: White">
+    <td style="font-size: 10pt; text-align: justify">Nominating Committee Retainers</td><td style="font-size: 10pt">&#160;</td>
+    <td style="font-size: 10pt; text-align: left">&#160;</td><td style="font-size: 10pt; text-align: right">&#160;</td><td style="font-size: 10pt; text-align: left">&#160;</td></tr>
+  <tr style="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <td style="font-size: 10pt; text-align: justify; padding-left: 9pt">Chair</td><td style="font-size: 10pt">&#160;</td>
+    <td style="font-size: 10pt; text-align: left">$</td><td style="font-size: 10pt; text-align: right">10,000</td><td style="font-size: 10pt; text-align: left">&#160;</td></tr>
+  <tr style="vertical-align: bottom; background-color: White">
+    <td style="font-size: 10pt; text-align: justify; padding-left: 9pt">Non-Chair Member</td><td style="font-size: 10pt">&#160;</td>
+    <td style="font-size: 10pt; text-align: left">$</td><td style="font-size: 10pt; text-align: right">5,000</td><td style="font-size: 10pt; text-align: left">&#160;</td></tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"></p>
+
+<!-- Field: Page; Sequence: 11 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">In connection with the Company&#8217;s
+annual meeting of stockholders, each non-employee member of the Board will receive an annual grant of options to purchase Company Common
+Stock equal to 0.054% of the Company, which will vest on the earlier of the next annual stockholder meeting or the first anniversary of
+the date of grant. In addition, in connection with a non-employee director&#8217;s initial appointment to the Board, they will receive
+an initial grant of options to purchase Company Common Stock equal to 0.108% of the Company, in connection with a director&#8217;s appointment
+to the Board, subject to vesting in equal monthly installments through the third anniversary of the date of grant.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Additionally, all members
+of the Board are reimbursed for reasonable and documented out-of-pocket travel and lodging expenses incurred in connection with attending
+meetings and activities of the Board and its committees.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>Amended and Restated Offer Letters</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">On July 27, 2026, as approved
+by the Compensation Committee of the Board, the Company entered into amended and restated offer letters (the &#8220;A&amp;R Offer Letters&#8221;)
+with each of Ms. Frey and Dr. Alford.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Under Ms. Frey&#8217;s A&amp;R
+Offer Letter, she will receive an annual base salary of $660,000 and a target annual bonus of 55% of base salary. In the event of Ms.
+Frey&#8217;s termination without &#8220;cause&#8221; or resignation for &#8220;good reason,&#8221; she would be eligible for the following
+severance benefits under the A&amp;R Offer Letter, subject to a release of claims: (i) if such termination is more than three months prior
+to more than 12 months after a change in control of the Company (the &#8220;CIC Protection Period&#8221;), 12 months of base salary continuation,
+12 months of subsidized benefits continuation and a pro-rated annual bonus or (ii) if such termination is during the CIC Protection Period,
+(a) 1.5 times the sum of her base salary and target bonus, payable in installments over 18 months, (b) 18 months of subsidized benefits
+continuation, (c) a pro-rated annual bonus, and (d) full acceleration of all outstanding equity awards (with any performance criteria
+based on the greater of target or actual performance). Additionally, in the event of Ms. Frey&#8217;s death or disability, she would receive
+a pro-rated annual bonus.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Under Dr. Alford&#8217;s A&amp;R
+Offer Letter, she will receive an annual base salary of $470,000 and a target annual bonus of 40% of base salary. In the event of Dr.
+Alford&#8217;s termination without &#8220;cause&#8221; or resignation for &#8220;good reason,&#8221; she would be eligible for the following
+severance benefits under the A&amp;R Offer Letter, subject to a release of claims: (i) if such termination outside of the CIC Protection
+Period, nine months of base salary continuation and nine months of subsidized benefits continuation and a pro-rated annual bonus or (ii)
+if such termination is during the CIC Protection Period, (a) the sum of her base salary and target bonus, payable in installments over
+12 months, (b) 12 months of subsidized benefits continuation, and (c) full acceleration of all outstanding equity awards (with any performance
+criteria based on the greater of target or actual performance).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in"><span style="background-color: white">The
+foregoing description of the A&amp;R Offer Letters does not purport to be complete and is subject to and qualified in its entirety by
+reference to the full text of the A&amp;R Offer Letters, copies of which are attached hereto as Exhibits 10.7 and 10.8</span>.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><tr style="vertical-align: top">
+<td style="width: 1in"><b>Item 5.03</b></td><td style="text-align: justify"><b>Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.</b></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b><i>Amendments to Certificate of Incorporation</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The information set forth in Item 3.03 of this
+Current Report on Form 8-K is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 12 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b><i>Amended and Restated Bylaws</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">In connection with the Closing, on July 27, 2026,
+the Board adopted the Amended and Restated Bylaws of the Company (the &#8220;Amended and Restated Bylaws&#8221;), which amended and restated
+the Company&#8217;s bylaws as in effect immediately prior to the Closing in their entirety. The Amended and Restated Bylaws, among other
+things:</p>
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td>update various provisions regarding the order and conduct of meetings of stockholders and directors;</td></tr></table>
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td>update the voting standard for most matters presented to stockholders other than the election of directors to the Delaware default
+of a majority of the voting power of the shares present and entitled to vote on the matter;</td></tr></table>
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td>increase the quorum requirement for stockholder meetings from one-third to a majority of the voting power of the stock outstanding
+and entitled to vote at the meeting;</td></tr></table>
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td>update the procedural and disclosure requirements for director nominations and business proposals submitted by stockholders (other
+than proposals submitted pursuant to Rule 14a-8 under the Securities Exchange Act of 1934, as amended (the &#8220;Exchange Act&#8221;));</td></tr></table>
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td>opt out of General Corporation Law of the State of Delaware (the &#8220;DGCL&#8221;) Section 116 regarding electronic delivery of
+documents or information;</td></tr></table>
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td>clarify certain procedures and standards with respect to the rights to indemnification and advancement of expenses, including for
+persons serving as directors and officers of subsidiaries of the Company;</td></tr></table>
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td>designate the Delaware Court of Chancery, the federal district courts of the State of Delaware and federal district courts generally
+as the sole forum for certain types of disputes, as allowed by law;</td></tr></table>
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td>add new emergency bylaws provisions contemplated by Section 110 of the DGCL;</td></tr></table>
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td>update provisions to align with the Company&#8217;s governance structure and the DGCL and remove provisions otherwise duplicative
+with other Company documents or the DGCL; and</td></tr></table>
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td>make various other updates, including clarifying, ministerial and conforming changes.</td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The foregoing description of the Amended and Restated
+Bylaws does not purport to be complete and is subject to and qualified in its entirety by reference to the full text of the Amended and
+Restated Bylaws, a copy of which is attached hereto as Exhibit 3.5 and is incorporated herein by reference.</p>
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><tr style="vertical-align: top">
+<td style="width: 1in"><b>Item 5.05</b></td><td><b>Amendments to the Registrant&#8217;s Code of Ethics, or Waiver of a Provision of the Code of Ethics.</b></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 40.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 40.5pt">On July 27, 2026, in connection with the Closing,
+the Board adopted a new Code of Business Conduct and Ethics of the Company (the &#8220;Code of Conduct&#8221;), effective as of such date.
+The Code of Conduct supersedes the existing Code of Business Conduct and Ethics, as previously adopted by VYNE&#8217;s board of directors
+(the &#8220;Existing Code of Conduct&#8221;). The Code of Conduct applies to all directors, officers and employees of the Company and
+is intended to enhance understanding of the Company&#8217;s standards of ethical business practices and promote awareness of ethical issues
+that may be encountered in carrying out a director&#8217;s, officer&#8217;s or employee&#8217;s responsibilities. Among other things,
+the Code of Conduct:</p>
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td>establishes the Company&#8217;s policies and standards with respect to (i)&#160;conflicts of interest, gifts and corporate opportunities,
+(ii)&#160;fair dealing, confidential information, privacy and use of Company assets and systems, (iii)&#160;legal and regulatory compliance,
+insider trading and anti-corruption standards, including pursuant to the Foreign Corrupt Practices Act, (iv)&#160;the Company&#8217;s
+disclosure obligations and recordkeeping procedures and (v)&#160;anti-discrimination, equal employment opportunity and health and safety;</td></tr></table>
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td>establishes the Company&#8217;s whistleblower hotline and procedures for reporting potential violations; and</td></tr></table>
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0.25in"/><td style="width: 0.25in"><span style="font-family: Symbol">&#183;</span></td><td>establishes the Company&#8217;s policies and procedures with respect to an amendment or waiver of the Code of Conduct.</td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The adoption of the Code of Conduct did not result
+in any explicit or implicit waiver of any provision of the Existing Code of Conduct. The foregoing description of the Code of Conduct
+does not purport to be complete and is subject to and qualified in its entirety by reference to the full text of the Code of Conduct,
+a copy of which is attached hereto as Exhibit 14.1 and is incorporated herein by reference.</p>
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<p style="margin-top: 0; margin-bottom: 0"></p>
+
+<!-- Field: Page; Sequence: 13 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><tr style="vertical-align: top">
+<td style="width: 1in"><b>Item 7.01</b></td><td style="text-align: justify"><b>Regulation FD Disclosure.</b></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">On July 27, 2026, the Company issued a press release
+announcing the Closing, and made available the Company&#8217;s investor presentation to be used in general corporate communications and
+investor communications. Copies of the press release and presentation are furnished as Exhibit 99.1 and Exhibit 99.2, respectively, to
+this Current Report on Form 8-K and incorporated herein by reference, except that the information contained on the websites referenced
+in the press release is not incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The information in this Item 7.01, including Exhibits
+99.1 and 99.2, shall not be deemed &#8220;filed&#8221; for purposes of Section 18 of the Exchange Act, or otherwise subject to the liabilities
+of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act, or the Exchange Act, except
+as expressly set forth by specific reference in such filing.</p>
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><tr style="vertical-align: top">
+<td style="width: 1in"><b>Item 9.01</b></td><td><b>Financial Statements and Exhibits.</b></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">(a) Financial Statements of Business Acquired</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The audited financial statements of Pre-Merger Yarrow as of December
+31, 2025 and October 3, 2025 and for the period from October 3, 2025 (inception) to December 31, 2025, and the related notes thereto are
+included in the Proxy Statement/Prospectus beginning on page F-46 and are incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The unaudited financial statements of Pre-Merger Yarrow for the three
+months ended March 31, 2026, and the related notes thereto are included in the Proxy Statement/Prospectus beginning on page F-61 and are
+incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">(b) Pro Forma Financial Information</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The unaudited pro forma condensed combined financial information of
+VYNE and Pre-Merger Yarrow as of and for the quarter ended March 31, 2026 and the year ended December 31, 2025 and the related notes thereto
+are included in the Proxy Statement/Prospectus beginning on page 332 and are incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">(d) Exhibits.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="border-bottom: Black 1pt solid; white-space: nowrap; width: 10%">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Exhibit</b></p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Number</b></p></td>
+    <td style="padding-bottom: 1pt; width: 2%">&#160;</td>
+    <td style="border-bottom: Black 1pt solid; white-space: nowrap; text-align: center; width: 88%"><b>Description</b></td></tr>
+  <tr>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td></tr>
+  <tr>
+    <td style="white-space: nowrap; vertical-align: top"><a href="https://www.sec.gov/Archives/edgar/data/1566044/000110465925121828/tm2533624d1_ex2-1.htm" style="-sec-extract: exhibit">2.1*</a></td>
+    <td>&#160;</td>
+    <td style="vertical-align: top"><a href="https://www.sec.gov/Archives/edgar/data/1566044/000110465925121828/tm2533624d1_ex2-1.htm" style="-sec-extract: exhibit">Agreement and Plan of Merger and Reorganization, dated as of December 17, 2025, by and among VYNE Therapeutics Inc., Yarrow Bioscience, Inc., and Yellow Merger Sub Corp. (incorporated by reference to Exhibit 2.1 to the Company&#8217;s Current Report on Form 8-K filed with the SEC on December 17, 2025).</a></td></tr>
+  <tr>
+    <td style="white-space: nowrap; vertical-align: top">&#160;</td>
+    <td>&#160;</td>
+    <td style="vertical-align: bottom">&#160;</td>
+    </tr>
+  <tr>
+    <td style="white-space: nowrap; vertical-align: top"><a href="https://www.sec.gov/Archives/edgar/data/1566044/000110465926008642/tm264541d1_ex10-1.htm" style="-sec-extract: exhibit">2.2</a></td>
+    <td>&#160;</td>
+    <td style="vertical-align: top"><a href="https://www.sec.gov/Archives/edgar/data/1566044/000110465926008642/tm264541d1_ex10-1.htm" style="-sec-extract: exhibit">Amendment No. 1 to Agreement and Plan of Merger and Reorganization, dated as of January 30, 2026, by and among VYNE Therapeutics Inc., Yarrow Bioscience, Inc., and Yellow Merger Sub Corp. (incorporated by reference to Exhibit 10.1 to the Company&#8217;s Current Report on Form 8-K filed with the SEC on January 30, 2026).</a></td></tr>
+  <tr>
+    <td style="white-space: nowrap; vertical-align: top">&#160;</td>
+    <td>&#160;</td>
+    <td style="vertical-align: top">&#160;</td></tr>
+  <tr>
+    <td style="vertical-align: top"><a href="tm2620687d3_ex3-1.htm" style="-sec-extract: exhibit">3.1</a></td>
+    <td>&#160;</td>
+    <td style="vertical-align: bottom"><a href="tm2620687d3_ex3-1.htm" style="-sec-extract: exhibit">Certificate of Amendment to the Amended and Restated Certificate of Incorporation of VYNE Therapeutics Inc., effective July 27, 2026 (Authorized Share Increase).</a></td></tr>
+  <tr>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td></tr>
+  <tr>
+    <td style="vertical-align: top"><a href="tm2620687d3_ex3-2.htm" style="-sec-extract: exhibit">3.2</a></td>
+    <td>&#160;</td>
+    <td style="vertical-align: bottom"><a href="tm2620687d3_ex3-2.htm" style="-sec-extract: exhibit">Certificate of Amendment to the Amended and Restated Certificate of Incorporation of VYNE Therapeutics Inc., effective July 24, 2026 (Reverse Stock Split).</a></td></tr>
+  <tr>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td></tr>
+  <tr>
+    <td style="vertical-align: top"><a href="tm2620687d3_ex3-3.htm" style="-sec-extract: exhibit">3.3</a></td>
+    <td>&#160;</td>
+    <td style="vertical-align: bottom"><a href="tm2620687d3_ex3-3.htm" style="-sec-extract: exhibit">Certificate of Amendment to the Amended and Restated Certificate of Incorporation of VYNE Therapeutics Inc., effective July 27, 2026 (Name Change).</a></td></tr>
+  <tr>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td></tr>
+  <tr>
+    <td style="vertical-align: top"><a href="tm2620687d3_ex3-4.htm" style="-sec-extract: exhibit">3.4</a></td>
+    <td>&#160;</td>
+    <td style="vertical-align: bottom"><a href="tm2620687d3_ex3-4.htm" style="-sec-extract: exhibit">Amended and Restated Certificate of Incorporation of Yarrow Bioscience, Inc.</a></td></tr>
+</table>
+
+<p style="margin: 0">&#160;</p>
+
+<p style="margin: 0"></p>
+
+<!-- Field: Page; Sequence: 14 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="margin: 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr>
+    <td style="vertical-align: top; width: 10%"><a href="tm2620687d3_ex3-5.htm" style="-sec-extract: exhibit">3.5</a></td>
+    <td style="width: 2%">&#160;</td>
+    <td style="vertical-align: bottom; width: 88%"><a href="tm2620687d3_ex3-5.htm" style="-sec-extract: exhibit">Amended and Restated Bylaws of Yarrow Bioscience, Inc.</a></td></tr>
+  <tr>
+    <td style="white-space: nowrap; vertical-align: top">&#160;</td>
+    <td>&#160;</td>
+    <td style="vertical-align: top">&#160;</td></tr>
+  <tr>
+    <td style="vertical-align: top"><a href="tm2620687d3_ex4-1.htm" style="-sec-extract: exhibit">4.1</a></td>
+    <td>&#160;</td>
+    <td style="vertical-align: bottom"><a href="tm2620687d3_ex4-1.htm" style="-sec-extract: exhibit">Form of Pre-Funded Warrant.</a></td></tr>
+  <tr>
+    <td style="white-space: nowrap; vertical-align: top">&#160;</td>
+    <td>&#160;</td>
+    <td style="vertical-align: bottom">&#160;</td>
+    </tr>
+  <tr>
+    <td style="white-space: nowrap; vertical-align: top"><a href="https://www.sec.gov/Archives/edgar/data/1566044/000110465925121828/tm2533624d1_ex10-3.htm" style="-sec-extract: exhibit">10.1</a></td>
+    <td>&#160;</td>
+    <td style="vertical-align: top"><a href="https://www.sec.gov/Archives/edgar/data/1566044/000110465925121828/tm2533624d1_ex10-3.htm" style="-sec-extract: exhibit">Form of Securities Purchase Agreement (incorporated by reference to Exhibit 10.3 to the Company&#8217;s Current Report on Form 8-K filed with the SEC on December 17, 2025).</a></td></tr>
+  <tr>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td></tr>
+  <tr>
+    <td style="white-space: nowrap; vertical-align: top"><a href="https://www.sec.gov/Archives/edgar/data/1566044/000110465925121828/tm2533624d1_ex10-4.htm" style="-sec-extract: exhibit">10.2</a></td>
+    <td>&#160;</td>
+    <td style="vertical-align: top"><a href="https://www.sec.gov/Archives/edgar/data/1566044/000110465925121828/tm2533624d1_ex10-4.htm" style="-sec-extract: exhibit">Form of Registration Rights Agreement (incorporated by reference to Exhibit 10.4 to the Company&#8217;s Current Report on Form 8-K filed with the SEC on December 17, 2025).</a></td></tr>
+  <tr>
+    <td style="white-space: nowrap; vertical-align: top">&#160;</td>
+    <td>&#160;</td>
+    <td style="vertical-align: top">&#160;</td></tr>
+  <tr>
+    <td style="white-space: nowrap; vertical-align: top"><a href="https://www.sec.gov/Archives/edgar/data/1566044/000110465925121828/tm2533624d1_ex10-5.htm" style="-sec-extract: exhibit">10.3</a></td>
+    <td>&#160;</td>
+    <td style="vertical-align: top"><a href="https://www.sec.gov/Archives/edgar/data/1566044/000110465925121828/tm2533624d1_ex10-5.htm" style="-sec-extract: exhibit">Form of Lock-Up Agreement (incorporated by reference to Exhibit 10.5 to the Company&#8217;s Current Report on Form 8-K filed with the SEC on December 17, 2025).</a></td></tr>
+  <tr>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td></tr>
+  <tr>
+    <td style="vertical-align: top"><a href="https://www.sec.gov/Archives/edgar/data/1566044/000110465926037932/vyne-20251231xex10d7.htm" style="-sec-extract: exhibit">10.4</a></td>
+    <td>&#160;</td>
+    <td style="vertical-align: bottom"><a href="https://www.sec.gov/Archives/edgar/data/1566044/000110465926037932/vyne-20251231xex10d7.htm" style="-sec-extract: exhibit">Form of Indemnification Agreement between Yarrow Bioscience, Inc. and its directors and executive officers (incorporated by reference to Exhibit 10.7 to VYNE Therapeutics Inc.&#8217;s Registration Statement on Form S-4 (File No. 333-294804) filed with the SEC on March 31, 2026).</a></td></tr>
+  <tr>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td></tr>
+  <tr>
+    <td style="vertical-align: top"><a href="tm2620687d3_ex10-5.htm" style="-sec-extract: exhibit">10.5</a></td>
+    <td>&#160;</td>
+    <td style="vertical-align: bottom"><a href="tm2620687d3_ex10-5.htm" style="-sec-extract: exhibit">Yarrow Bioscience, Inc. 2026 Stock Incentive Plan.</a></td></tr>
+  <tr>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td></tr>
+  <tr>
+    <td style="vertical-align: top"><a href="tm2620687d3_ex10-6.htm" style="-sec-extract: exhibit">10.6</a></td>
+    <td>&#160;</td>
+    <td style="vertical-align: bottom"><a href="tm2620687d3_ex10-6.htm" style="-sec-extract: exhibit">Yarrow Bioscience, Inc. 2026 Employee Stock Purchase Plan.</a></td></tr>
+  <tr>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td></tr>
+  <tr>
+    <td style="vertical-align: top"><a href="tm2620687d3_ex10-7.htm" style="-sec-extract: exhibit">10.7</a></td>
+    <td>&#160;</td>
+    <td style="vertical-align: bottom"><a href="tm2620687d3_ex10-7.htm" style="-sec-extract: exhibit">Amended and Restated Offer Letter, dated as of July 27, 2026, by and between Yarrow Bioscience, Inc. and Rebecca Frey. </a></td></tr>
+  <tr>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td></tr>
+  <tr>
+    <td style="vertical-align: top"><a href="tm2620687d3_ex10-8.htm" style="-sec-extract: exhibit">10.8</a></td>
+    <td>&#160;</td>
+    <td style="vertical-align: bottom"><a href="tm2620687d3_ex10-8.htm" style="-sec-extract: exhibit">Amended and Restated Offer Letter, dated as of July 27, 2026, by and between Yarrow Bioscience, Inc. and Rachael Alford. </a></td></tr>
+  <tr>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td></tr>
+  <tr>
+    <td style="vertical-align: top"><a href="tm2620687d3_ex14-1.htm" style="-sec-extract: exhibit">14.1</a></td>
+    <td>&#160;</td>
+    <td style="vertical-align: bottom"><a href="tm2620687d3_ex14-1.htm" style="-sec-extract: exhibit">&#160;Code of Business Conduct and Ethics of Yarrow Bioscience, Inc.</a></td></tr>
+  <tr>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td></tr>
+  <tr>
+    <td style="white-space: nowrap; vertical-align: top"><a href="tm2620687d3_ex99-1.htm" style="-sec-extract: exhibit">99.1</a></td>
+    <td>&#160;</td>
+    <td style="vertical-align: top"><a href="tm2620687d3_ex99-1.htm" style="-sec-extract: exhibit">Press Release, issued on July 27, 2026.</a></td></tr>
+  <tr>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td></tr>
+  <tr>
+    <td style="white-space: nowrap; vertical-align: top"><a href="tm2620687d3_ex99-2.htm" style="-sec-extract: exhibit">99.2</a></td>
+    <td>&#160;</td>
+    <td style="vertical-align: top"><a href="tm2620687d3_ex99-2.htm" style="-sec-extract: exhibit">Investor Presentation, dated July 2026.</a></td></tr>
+  <tr>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td></tr>
+  <tr>
+    <td style="white-space: nowrap; vertical-align: top">104</td>
+    <td>&#160;</td>
+    <td style="vertical-align: top">Cover Page Interactive Data File (embedded within the Inline XBRL document).</td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 3pt; margin-bottom: 3pt; width: 25%"><div style="border-top: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td>*</td>
+    <td>Schedules and exhibits to the Merger Agreement have been omitted pursuant to Item 601(b)(2) of Regulation S-K. A copy of any omitted schedule and/or exhibit will be furnished to the Securities and Exchange Commission upon request. </td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+
+<!-- Field: Page; Sequence: 15 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SIGNATURES</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td>&#160;</td>
+    <td colspan="2"><b>YARROW BIOSCIENCE, INC.</b></td></tr>
+  <tr>
+    <td style="width: 50%">&#160;</td>
+    <td style="width: 3%">&#160;</td>
+    <td style="width: 47%">&#160;</td></tr>
+  <tr>
+    <td style="vertical-align: bottom">Date: July 28, 2026</td>
+    <td style="vertical-align: top">By:</td>
+    <td style="border-bottom: black 1pt solid; vertical-align: bottom">/s/ Rebecca Frey </td></tr>
+  <tr style="vertical-align: bottom">
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>Rebecca Frey <br/>
+Chief Executive Officer</td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 16; Options: Last -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<!-- Field: Set; Name: xdx; ID: xdx_08B_extensions -->
+<!-- eJxFjU0KwjAQhU/QOwxZS22iLuzSokWsIkXEbbSjBNtMmcS/I3lLY4s4DAzDe997QgxETgtTI8NhVhaww6attUco8YyM9oTBkS1XKYRb4sU4z9r67v2BGQUGAzOJ1egYhM56Nw6rFJLpUMqhGkOiUiVhuxbRV8/Ink2F1htdg7YVbJlaNug1v/qEnX6SpebVVe2RnSGbgoyTXn6DSqSCDd31g/jqoCgyEQ26iUTOdGuDa/70aL8kzGtsQp3r6f9GHwVcSoo= -->
+<script type="text/javascript"  src="/N3AEOPt9/dJoipWz/rYwIB5c/dg/YEaQGVVmDJktp27Xmu/SixucGdeLAQ/KXhNJ/AQsW1I"></script></body>
+</html>

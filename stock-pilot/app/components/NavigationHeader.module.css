@@ -1,0 +1,208 @@
+.header {
+  width: 100%;
+
+  border-bottom: 1px solid #e9ecef;
+
+  background: #ffffff;
+}
+
+.container {
+  width: 100%;
+}
+
+.inner {
+  min-height: 72px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  gap: 2rem;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+
+  gap: 0.75rem;
+
+  flex-shrink: 0;
+
+  color: inherit;
+
+  text-decoration: none;
+}
+
+.logo {
+  width: auto;
+  height: 34px;
+
+  object-fit: contain;
+}
+
+.brandName {
+  color: #000000;
+
+  font-size: clamp(1.1rem, 1.5vw, 1.35rem);
+  line-height: 1;
+}
+
+.navigation {
+  display: flex;
+  align-items: center;
+
+  gap: 2rem;
+}
+
+.links {
+  flex-wrap: nowrap;
+}
+
+.link {
+  white-space: nowrap;
+
+  font-size: clamp(0.9rem, 1vw, 1rem);
+}
+
+.cta {
+  white-space: nowrap;
+}
+
+/* Tablet */
+
+@media (max-width: 900px) {
+  .inner {
+    gap: 1.25rem;
+  }
+
+  .navigation {
+    gap: 1.25rem;
+  }
+
+  .links {
+    gap: 1rem !important;
+  }
+
+  .logo {
+    height: 30px;
+  }
+
+  .brandName {
+    font-size: 1.1rem;
+  }
+
+  .cta {
+    padding-inline: 1rem;
+  }
+}
+
+/* Mobile */
+
+@media (max-width: 700px) {
+  .container {
+    padding-inline: 1rem;
+  }
+
+  .inner {
+    min-height: auto;
+
+    flex-direction: column;
+    align-items: stretch;
+
+    gap: 1rem;
+
+    padding: 1rem 0;
+  }
+
+  .brand {
+    justify-content: center;
+  }
+
+  .logo {
+    height: 32px;
+  }
+
+  .brandName {
+    font-size: 1.2rem;
+  }
+
+  .navigation {
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    gap: 1rem;
+  }
+
+  .links {
+    flex: 1;
+
+    display: flex;
+    justify-content: flex-start;
+
+    gap: 1.25rem !important;
+  }
+
+  .link {
+    font-size: 0.95rem;
+  }
+
+  .cta {
+    flex-shrink: 0;
+
+    height: 2.5rem;
+
+    padding-inline: 1rem;
+
+    font-size: 0.85rem;
+  }
+}
+
+/* Small mobile */
+
+@media (max-width: 480px) {
+  .inner {
+    gap: 0.9rem;
+
+    padding: 0.9rem 0;
+  }
+
+  .brand {
+    justify-content: flex-start;
+  }
+
+  .logo {
+    height: 28px;
+  }
+
+  .brandName {
+    font-size: 1.1rem;
+  }
+
+  .navigation {
+    flex-direction: column;
+    align-items: stretch;
+
+    gap: 0.9rem;
+  }
+
+  .links {
+    width: 100%;
+
+    justify-content: space-between;
+
+    gap: 0.5rem !important;
+  }
+
+  .link {
+    font-size: 0.9rem;
+  }
+
+  .cta {
+    width: 100%;
+
+    height: 2.75rem;
+  }
+}

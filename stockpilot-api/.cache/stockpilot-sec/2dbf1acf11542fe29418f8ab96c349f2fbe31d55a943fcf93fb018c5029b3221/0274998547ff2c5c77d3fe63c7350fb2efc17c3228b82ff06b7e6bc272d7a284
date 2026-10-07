@@ -1,0 +1,1883 @@
+2772b43fb4c1ca00128284534b3f5682d19695d562b78501a17e339205fab772<?xml version='1.0' encoding='ASCII'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2015-02-26" xmlns:ixt-sec="http://www.sec.gov/inlineXBRL/transformation/2015-08-31" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:dei="http://xbrl.sec.gov/dei/2026" xmlns:us-gaap="http://fasb.org/us-gaap/2026" xmlns:us-roles="http://fasb.org/us-roles/2026" xmlns:dtr-types="http://www.xbrl.org/dtr/type/2024-01-31" xmlns:country="http://xbrl.sec.gov/country/2026" xmlns:srt="http://fasb.org/srt/2026" xmlns:cik0002109869="http://cik0002109869/20260827">
+<head>
+     <title></title>
+<meta http-equiv="Content-Type" content="text/html"/>
+</head>
+<!-- Field: Set; Name: xdx; ID: xdx_02F_US%2DGAAP%2D2026 -->
+<!-- Field: Set; Name: xdx; ID: xdx_037_cik0002109869_cik0002109869_20260827 -->
+<!-- Field: Set; Name: xdx; ID: xdx_047_20260827_20260827 -->
+<!-- Field: Set; Name: xdx; ID: xdx_059_edei%2D%2DAmendmentFlag_false -->
+<!-- Field: Set; Name: xdx; ID: xdx_051_edei%2D%2DCurrentFiscalYearEndDate_%2D%2DLS0xMi0zMQ== -->
+<!-- Field: Set; Name: xdx; ID: xdx_05A_edei%2D%2DEntityCentralIndexKey_0002109869 -->
+<!-- Field: Set; Name: xdx; ID: xdx_06B_USD_1_iso4217%2D%2DUSD -->
+<!-- Field: Set; Name: xdx; ID: xdx_062_Shares_2_xbrli%2D%2Dshares -->
+<!-- Field: Set; Name: xdx; ID: xdx_06D_USDPShares_3_iso4217%2D%2DUSD_xbrli%2D%2Dshares -->
+<body>
+<div style="display: none">
+<ix:header>
+ <ix:hidden>
+  <ix:nonNumeric contextRef="AsOf2026-08-27" id="Fact000003" name="dei:AmendmentFlag">false</ix:nonNumeric>
+  <ix:nonNumeric contextRef="AsOf2026-08-27" id="Fact000004" name="dei:CurrentFiscalYearEndDate">--12-31</ix:nonNumeric>
+  <ix:nonNumeric contextRef="AsOf2026-08-27" id="Fact000005" name="dei:EntityCentralIndexKey">0002109869</ix:nonNumeric>
+  </ix:hidden>
+ <ix:references>
+  <link:schemaRef xlink:href="cik0002109869-20260827.xsd" xlink:type="simple"/>
+  </ix:references>
+ <ix:resources>
+    <xbrli:context id="AsOf2026-08-27">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0002109869</xbrli:identifier>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-08-27</xbrli:startDate>
+        <xbrli:endDate>2026-08-27</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="From2026-08-272026-08-27_dei_FormerAddressMember">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0002109869</xbrli:identifier>
+        <xbrli:segment>
+          <xbrldi:explicitMember dimension="dei:EntityAddressesAddressTypeAxis">dei:FormerAddressMember</xbrldi:explicitMember>
+        </xbrli:segment>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-08-27</xbrli:startDate>
+        <xbrli:endDate>2026-08-27</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="From2026-08-272026-08-27_custom_ClassCommonStock0.0001ParValuePerShareMember">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0002109869</xbrli:identifier>
+        <xbrli:segment>
+          <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">cik0002109869:ClassCommonStock0.0001ParValuePerShareMember</xbrldi:explicitMember>
+        </xbrli:segment>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-08-27</xbrli:startDate>
+        <xbrli:endDate>2026-08-27</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="From2026-08-272026-08-27_custom_WarrantsEachWholeWarrantExercisableForOneClassCommonStockAtExercisePriceOf11.50Member">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0002109869</xbrli:identifier>
+        <xbrli:segment>
+          <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">cik0002109869:WarrantsEachWholeWarrantExercisableForOneClassCommonStockAtExercisePriceOf11.50Member</xbrldi:explicitMember>
+        </xbrli:segment>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-08-27</xbrli:startDate>
+        <xbrli:endDate>2026-08-27</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:unit id="USD">
+      <xbrli:measure>iso4217:USD</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="Shares">
+      <xbrli:measure>xbrli:shares</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="USDPShares">
+      <xbrli:divide>
+        <xbrli:unitNumerator>
+          <xbrli:measure>iso4217:USD</xbrli:measure>
+        </xbrli:unitNumerator>
+        <xbrli:unitDenominator>
+          <xbrli:measure>xbrli:shares</xbrli:measure>
+        </xbrli:unitDenominator>
+      </xbrli:divide>
+    </xbrli:unit>
+  </ix:resources>
+ </ix:header>
+</div>
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<!-- Field: Rule-Page --><div style="width: 100%"><div style="border-top: Black 2pt solid; border-bottom: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0"><b>UNITED STATES</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0"><b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0"><b>WASHINGTON, D.C. 20549</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 14pt Times New Roman, Times, serif; text-align: center; margin-top: 0; margin-bottom: 0"><b>FORM <span id="xdx_902_edei--DocumentType_c20260827__20260827_zLfkiQfce9vi"><ix:nonNumeric contextRef="AsOf2026-08-27" id="Fact000010" name="dei:DocumentType">8-K</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0"><b>CURRENT REPORT</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0"><b>PURSUANT TO SECTION 13 OR 15(d) OF THE</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0"><b>SECURITIES EXCHANGE ACT OF 1934</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0">Date of Report (Date of earliest event reported): <span id="xdx_90A_edei--DocumentPeriodEndDate_c20260827__20260827_zpBFcNZh2QK3"><ix:nonNumeric contextRef="AsOf2026-08-27" format="ixt:datemonthdayyearen" id="Fact000011" name="dei:DocumentPeriodEndDate">August 27, 2026</ix:nonNumeric></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 14pt Times New Roman, Times, serif; text-align: center; margin-top: 0; margin-bottom: 0"><b><span id="xdx_90C_edei--EntityRegistrantName_c20260827__20260827_zn1UGRJjiQ1c"><ix:nonNumeric contextRef="AsOf2026-08-27" id="Fact000012" name="dei:EntityRegistrantName">EXASCALE LABS HOLDINGS INC.</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0">(Exact name of registrant as specified in charter)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="border-bottom: Black 1pt solid; text-align: center; width: 32%"><b><span id="xdx_90E_edei--EntityIncorporationStateCountryCode_c20260827__20260827_zP2CuLdRkgMc"><ix:nonNumeric contextRef="AsOf2026-08-27" format="ixt-sec:stateprovnameen" id="Fact000013" name="dei:EntityIncorporationStateCountryCode">Delaware</ix:nonNumeric></span></b></td>
+    <td style="width: 2%; padding-bottom: 0.5pt">&#160;</td>
+    <td style="border-bottom: Black 1pt solid; text-align: center; width: 32%"><b><span style="display: none">000-0000</span><span id="xdx_90D_edei--EntityFileNumber_c20260827__20260827_zmNdf6UbKEl2"><ix:nonNumeric contextRef="AsOf2026-08-27" id="Fact000014" name="dei:EntityFileNumber">001-43465</ix:nonNumeric></span></b></td>
+    <td style="width: 2%; padding-bottom: 0.5pt">&#160;</td>
+    <td style="border-bottom: Black 1pt solid; text-align: center; width: 32%"><b><span id="xdx_907_edei--EntityTaxIdentificationNumber_c20260827__20260827_zaKVvUa8aFe9"><ix:nonNumeric contextRef="AsOf2026-08-27" id="Fact000015" name="dei:EntityTaxIdentificationNumber">42-3035215</ix:nonNumeric></span></b></td> </tr>
+  <tr style="vertical-align: top">
+    <td>
+        <p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0">(State or other jurisdiction</p>
+        <p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0">of incorporation)</p> </td>
+    <td>&#160;</td>
+    <td>
+        <p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0">(Commission</p>
+        <p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0">File Number)</p> </td>
+    <td>&#160;</td>
+    <td>
+        <p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0">(IRS Employer</p>
+        <p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0">Identification No.)</p> </td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0"><b><span id="xdx_908_edei--EntityAddressAddressLine1_c20260827__20260827_ztzcN9zKO6e"><ix:nonNumeric contextRef="AsOf2026-08-27" id="Fact000016" name="dei:EntityAddressAddressLine1">820 Gessner Road</ix:nonNumeric></span>, <span id="xdx_900_edei--EntityAddressAddressLine2_c20260827__20260827_zorgCVCwOzU6"><ix:nonNumeric contextRef="AsOf2026-08-27" id="Fact000017" name="dei:EntityAddressAddressLine2">Suite 332</ix:nonNumeric></span><br/><span id="xdx_906_edei--EntityAddressCityOrTown_c20260827__20260827_z4BIFWtJFne1"><ix:nonNumeric contextRef="AsOf2026-08-27" id="Fact000018" name="dei:EntityAddressCityOrTown">Houston</ix:nonNumeric></span>, <span id="xdx_908_edei--EntityAddressStateOrProvince_c20260827__20260827_zKyBGA0qZim2"><ix:nonNumeric contextRef="AsOf2026-08-27" id="Fact000019" name="dei:EntityAddressStateOrProvince">TX</ix:nonNumeric></span> <span id="xdx_902_edei--EntityAddressPostalZipCode_c20260827__20260827_zQspy4dUDq9b"><ix:nonNumeric contextRef="AsOf2026-08-27" id="Fact000020" name="dei:EntityAddressPostalZipCode">77024</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0">(Address of principal executive offices) (Zip Code)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0"><b><span id="xdx_901_edei--CityAreaCode_c20260827__20260827_zoh2a8Ukctv7"><ix:nonNumeric contextRef="AsOf2026-08-27" id="Fact000021" name="dei:CityAreaCode">(650)</ix:nonNumeric></span> <span id="xdx_90A_edei--LocalPhoneNumber_c20260827__20260827_zwzSdUJfM93i"><ix:nonNumeric contextRef="AsOf2026-08-27" id="Fact000022" name="dei:LocalPhoneNumber">537-7553</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0">(Registrant&#8217;s telephone number, including area code)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0"><b><span id="xdx_909_edei--EntityAddressAddressLine1_c20260827__20260827__dei--EntityAddressesAddressTypeAxis__dei--FormerAddressMember_zdta7txw15s2"><ix:nonNumeric contextRef="From2026-08-272026-08-27_dei_FormerAddressMember" id="Fact000023" name="dei:EntityAddressAddressLine1">D. Boral ARC Merger Corporation</ix:nonNumeric></span><br/><span id="xdx_905_edei--EntityAddressAddressLine2_c20260827__20260827__dei--EntityAddressesAddressTypeAxis__dei--FormerAddressMember_z8QFSE30deG4"><ix:nonNumeric contextRef="From2026-08-272026-08-27_dei_FormerAddressMember" id="Fact000024" name="dei:EntityAddressAddressLine2">10 East 53rd Street</ix:nonNumeric></span>, <span id="xdx_905_edei--EntityAddressAddressLine3_c20260827__20260827__dei--EntityAddressesAddressTypeAxis__dei--FormerAddressMember_z11Ig1XJDLql"><ix:nonNumeric contextRef="From2026-08-272026-08-27_dei_FormerAddressMember" id="Fact000025" name="dei:EntityAddressAddressLine3">Suite 3001</ix:nonNumeric></span><br/><span id="xdx_90C_edei--EntityAddressCityOrTown_c20260827__20260827__dei--EntityAddressesAddressTypeAxis__dei--FormerAddressMember_ziev0uO1swS4"><ix:nonNumeric contextRef="From2026-08-272026-08-27_dei_FormerAddressMember" id="Fact000026" name="dei:EntityAddressCityOrTown">New York</ix:nonNumeric></span>, <span id="xdx_905_edei--EntityAddressStateOrProvince_c20260827__20260827__dei--EntityAddressesAddressTypeAxis__dei--FormerAddressMember_zmU4Ujp0RKE1"><ix:nonNumeric contextRef="From2026-08-272026-08-27_dei_FormerAddressMember" id="Fact000027" name="dei:EntityAddressStateOrProvince">NY</ix:nonNumeric></span> <span id="xdx_909_edei--EntityAddressPostalZipCode_c20260827__20260827__dei--EntityAddressesAddressTypeAxis__dei--FormerAddressMember_zst3We8Ks6i"><ix:nonNumeric contextRef="From2026-08-272026-08-27_dei_FormerAddressMember" id="Fact000028" name="dei:EntityAddressPostalZipCode">10022</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0">(Former name or former address, if changed since last report)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in; text-align: justify"><span id="xdx_908_edei--WrittenCommunications_c20260827__20260827_zg8UNWSCVkR4"><ix:nonNumeric contextRef="AsOf2026-08-27" format="ixt:booleanfalse" id="Fact000029" name="dei:WrittenCommunications">&#9744;</ix:nonNumeric></span></td>
+    <td style="text-align: justify">Written communications pursuant to Rule&#160;425 under the Securities Act (17 CFR 230.425)</td> </tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: justify">&#160;</td>
+    <td style="text-align: justify">&#160;</td> </tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: justify"><span id="xdx_908_edei--SolicitingMaterial_c20260827__20260827_zXepjPA6LvE7"><ix:nonNumeric contextRef="AsOf2026-08-27" format="ixt:booleanfalse" id="Fact000030" name="dei:SolicitingMaterial">&#9744;</ix:nonNumeric></span></td>
+    <td style="text-align: justify">Soliciting material pursuant to Rule&#160;14a-12 under the Exchange Act (17 CFR 240.14a-12)</td> </tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: justify">&#160;</td>
+    <td style="text-align: justify">&#160;</td> </tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: justify"><span id="xdx_90E_edei--PreCommencementTenderOffer_c20260827__20260827_z3Qi38VIojMf"><ix:nonNumeric contextRef="AsOf2026-08-27" format="ixt:booleanfalse" id="Fact000031" name="dei:PreCommencementTenderOffer">&#9744;</ix:nonNumeric></span></td>
+    <td style="text-align: justify">Pre-commencement communications pursuant to Rule&#160;14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</td> </tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: justify">&#160;</td>
+    <td style="text-align: justify">&#160;</td> </tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: justify"><span id="xdx_90B_edei--PreCommencementIssuerTenderOffer_c20260827__20260827_zZPKwnlpV9ph"><ix:nonNumeric contextRef="AsOf2026-08-27" format="ixt:booleanfalse" id="Fact000032" name="dei:PreCommencementIssuerTenderOffer">&#9744;</ix:nonNumeric></span></td>
+    <td style="text-align: justify">Pre-commencement communications pursuant to Rule&#160;13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">Securities registered pursuant to Section&#160;12(b) of the Act:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="border-bottom: Black 1pt solid; text-align: center; vertical-align: bottom; width: 38%"><b>Title of each class</b></td>
+    <td style="text-align: center; vertical-align: bottom; width: 2%; padding-bottom: 0.5pt">&#160;</td>
+    <td style="border-bottom: Black 1pt solid; text-align: center; vertical-align: bottom; width: 20%"><b>Trading Symbol(s)</b></td>
+    <td style="text-align: center; vertical-align: bottom; width: 2%; padding-bottom: 0.5pt">&#160;</td>
+    <td style="border-bottom: Black 1pt solid; text-align: center; vertical-align: bottom; width: 38%"><b>Name of each exchange on which registered</b></td> </tr>
+  <tr style="vertical-align: top; background-color: rgb(204,238,255)">
+    <td style="text-align: center"><span id="xdx_901_edei--Security12bTitle_c20260827__20260827__us-gaap--StatementClassOfStockAxis__custom--ClassCommonStock0.0001ParValuePerShareMember_zKBeTfPgFuud"><ix:nonNumeric contextRef="From2026-08-272026-08-27_custom_ClassCommonStock0.0001ParValuePerShareMember" id="Fact000033" name="dei:Security12bTitle">Class A Common Stock, $0.0001 par value per share</ix:nonNumeric></span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="text-align: center"><span id="xdx_905_edei--TradingSymbol_c20260827__20260827__us-gaap--StatementClassOfStockAxis__custom--ClassCommonStock0.0001ParValuePerShareMember_z0r92ymuqNv7"><ix:nonNumeric contextRef="From2026-08-272026-08-27_custom_ClassCommonStock0.0001ParValuePerShareMember" id="Fact000034" name="dei:TradingSymbol">XLAB</ix:nonNumeric></span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="text-align: center"><span id="xdx_90B_edei--SecurityExchangeName_c20260827__20260827__us-gaap--StatementClassOfStockAxis__custom--ClassCommonStock0.0001ParValuePerShareMember_z32dVKQ7bqcd"><ix:nonNumeric contextRef="From2026-08-272026-08-27_custom_ClassCommonStock0.0001ParValuePerShareMember" format="ixt-sec:exchnameen" id="Fact000035" name="dei:SecurityExchangeName">The Nasdaq Stock Market LLC</ix:nonNumeric></span></td> </tr>
+  <tr style="vertical-align: top; background-color: White">
+    <td style="text-align: center"><span id="xdx_90E_edei--Security12bTitle_c20260827__20260827__us-gaap--StatementClassOfStockAxis__custom--WarrantsEachWholeWarrantExercisableForOneClassCommonStockAtExercisePriceOf11.50Member_zXX5IluetX26"><ix:nonNumeric contextRef="From2026-08-272026-08-27_custom_WarrantsEachWholeWarrantExercisableForOneClassCommonStockAtExercisePriceOf11.50Member" id="Fact000036" name="dei:Security12bTitle">Warrants, each whole warrant exercisable for one Class A Common Stock at an exercise price of $11.50</ix:nonNumeric></span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="text-align: center"><span id="xdx_900_edei--TradingSymbol_c20260827__20260827__us-gaap--StatementClassOfStockAxis__custom--WarrantsEachWholeWarrantExercisableForOneClassCommonStockAtExercisePriceOf11.50Member_zHiZVw1B9yic"><ix:nonNumeric contextRef="From2026-08-272026-08-27_custom_WarrantsEachWholeWarrantExercisableForOneClassCommonStockAtExercisePriceOf11.50Member" id="Fact000037" name="dei:TradingSymbol">XLABW</ix:nonNumeric></span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="text-align: center"><span id="xdx_90F_edei--SecurityExchangeName_c20260827__20260827__us-gaap--StatementClassOfStockAxis__custom--WarrantsEachWholeWarrantExercisableForOneClassCommonStockAtExercisePriceOf11.50Member_z9VNbNwvqqF7"><ix:nonNumeric contextRef="From2026-08-272026-08-27_custom_WarrantsEachWholeWarrantExercisableForOneClassCommonStockAtExercisePriceOf11.50Member" format="ixt-sec:exchnameen" id="Fact000038" name="dei:SecurityExchangeName">The Nasdaq Stock Market LLC</ix:nonNumeric></span></td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">Indicate by check mark whether the registrant is an emerging growth company as defined in Rule&#160;405 of the Securities Act of 1933 (&#167;230.405 of this chapter) or Rule&#160;12b-2 of the Securities Exchange Act of 1934 (&#167;240.12b-2 of this chapter).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">Emerging growth company <span id="xdx_90D_edei--EntityEmergingGrowthCompany_c20260827__20260827_z3Hj8Woj3iR9"><ix:nonNumeric contextRef="AsOf2026-08-27" format="ixt:booleantrue" id="Fact000039" name="dei:EntityEmergingGrowthCompany">&#9746;</ix:nonNumeric></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section&#160;13(a) of the Exchange Act. <span id="xdx_900_edei--EntityExTransitionPeriod_c20260827__20260827_zjvUyHa7oqT7"><ix:nonNumeric contextRef="AsOf2026-08-27" format="ixt:booleanfalse" id="Fact000040" name="dei:EntityExTransitionPeriod">&#9744;</ix:nonNumeric></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<!-- Field: Rule-Page --><div style="width: 100%"><div style="border-top: Black 1pt solid; border-bottom: Black 2pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<!-- Field: Page; Sequence: 1; Options: NewSection -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0"><b>Introductory Note</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">As previously disclosed, on January&#160;11, 2026, D. Boral ARC Acquisition I Corp., a British Virgin Islands business company (&#8220;<b>BCAR</b>&#8221;) entered into an Agreement and Plan of Merger (the &#8220;<b>Business Combination Agreement</b>&#8221;), with D. Boral ARC Merger Corporation, a Delaware corporation and a wholly owned subsidiary of BCAR (&#8220;<b>PubCo</b>&#8221;), D. Boral Arc Merger Sub Inc., a Delaware corporation and a wholly owned subsidiary of BCAR (&#8220;<b>Merger Sub</b>&#8221;), and Exascale Labs Inc., a Delaware corporation (&#8220;<b>Exascale</b>&#8221;). Capitalized terms used herein but not defined herein shall have the meanings ascribed to them in the Proxy Statement/Prospectus (as defined below).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">On August&#160;27, 2026 (the &#8220;<b>Closing Date</b>&#8221;), the parties consummated the transactions contemplated by the Business Combination Agreement (the &#8220;<b>Business Combination</b>&#8221;), following their approval by the shareholders of BCAR at the extraordinary general meeting of the shareholders of BCAR held on July&#160;29, 2026 (the &#8220;<b>Extraordinary General Meeting</b>&#8221;), as follows:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b><i>The Domestication Merger</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">Prior to the effective time of the Acquisition Merger (as defined below), and in connection with the Business Combination, BCAR continued out of the British Virgin Islands and into the State of Delaware and redomiciled as, and became a, Delaware corporation by merging with and into PubCo (the &#8220;<b>Domestication Merger</b>&#8221;), with PubCo continuing as the surviving corporation pursuant to the Business Companies Act, (Revised Edition 2020) as amended, of the British Virgin Islands and Section&#160;388 and other applicable provisions of the General Corporation Law of the State of Delaware. Upon the Domestication Merger, PubCo changed its name from &#8220;D. Boral ARC Merger Corporation&#8221; to &#8220;Exascale Labs Holdings Inc.&#8221;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">At the effective time of the Domestication Merger, (i) each outstanding BCAR Class A ordinary share, par value, $0.0001 per share (&#8220;<b>BCAR Class A Ordinary Share</b>&#8221;) and BCAR Class B ordinary share, par value, $0.0001 per share (&#8220;<b>BCAR Class B Ordinary Share,</b>&#8221; and together with the BCAR Class A Ordinary Share, the &#8220;<b>BCAR Ordinary Shares</b>&#8221;) (other than BCAR Ordinary Shares owned by BCAR as treasury shares or owned by a direct or indirect subsidiary of BCAR, BCAR Ordinary Shares held by BCAR shareholders who properly exercised their dissenter&#8217;s rights under applicable British Virgin Islands law, and BCAR Class A Ordinary Shares that were redeemed in connection with the BCAR shareholder vote to approve the Business Combination and related proposals at the Extraordinary General Meeting) was cancelled and automatically converted into one share of Class A common stock, par value $0.0001 per share, of PubCo (&#8220;<b>PubCo Class A Ordinary Common Stock</b>&#8221;) and (ii) each outstanding warrant of BCAR (a &#8220;<b>BCAR Warrant</b>&#8221;) was assumed by and became an outstanding warrant of PubCo (&#8220;<b>PubCo Warrant</b>&#8221;), exercisable for PubCo Class A Ordinary Common Stock on the same terms, with adjustments as provided in the Business Combination Agreement.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b><i>The Acquisition Merger</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">Following the Domestication Merger, Merger Sub merged with and into Exascale, with Exascale surviving as a wholly-owned subsidiary of PubCo (the &#8220;<b>Acquisition Merger</b>&#8221;).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">At the closing of the Acquisition Merger:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">Each issued and outstanding Simple Agreement for Future Equity (each, a &#8220;<b>SAFE</b>&#8221;), by and between Exascale and the holder thereof (each, a &#8220;<b>SAFEholder</b>&#8221;), was canceled and converted into the right to receive a number of shares of PubCo Class A Ordinary Common Stock based on the SAFE&#8217;s &#8220;implied ownership percentage&#8221; as determined under the terms of the applicable SAFE (such implied ownership percentage being, in general, the product of (i) the quotient obtained by dividing (x) the SAFE&#8217;s purchase amount by (y) the SAFE&#8217;s post-money valuation cap, multiplied by (ii) 100);</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<!-- Field: Page; Sequence: 2; Options: NewSection -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->1<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">That certain base camp agreement, dated May&#160;9, 2023, between Exascale and an investor (the &#8220;<b>Base Camp Investment Agreement</b>&#8221;) was cancelled and converted into the right to receive a number of shares of PubCo Class A Ordinary Common Stock based on the &#8220;implied ownership percentage&#8221; attributable to the Base Camp Investment Agreement (such implied ownership percentage being a fixed percentage determined in accordance with the terms of the Base Camp Investment Agreement);</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">Each outstanding exascale equity incentive award was cancelled and converted into the right to receive a number of shares of PubCo Class A Ordinary Common Stock based on the &#8220;implied ownership percentage&#8221; attributable to the applicable award (such implied ownership percentage having been determined based on Exascale&#8217;s fully diluted capitalization);</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">Each issued and outstanding Exascale Class A common stock was cancelled and converted into the right to receive a number of shares of PubCo Class A Ordinary Common Stock based on the &#8220;implied ownership percentage&#8221; attributable to Exascale&#8217;s Class A common stock (such implied ownership percentage having been determined based on Exascale&#8217;s fully diluted capitalization);</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">Each issued and outstanding Exascale Class B common stock was cancelled and converted into the right to receive a number of shares of PubCo Class B common stock, par value $0.0001 per share (&#8220;<b>PubCo Class B Super Common Stock</b>,&#8221; and together with the PubCo Class A Ordinary Common Stock, the &#8220;<b>PubCo Common Stock</b>&#8221;) based on the &#8220;implied ownership percentage&#8221; attributable to Exascale&#8217;s Class B common stock (such implied ownership percentage having been determined based on Exascale&#8217;s fully diluted capitalization); and</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">Each share in Merger Sub issued and outstanding immediately prior to the effective time of the Acquisition Merger, automatically became an issued share of Exascale (with such shares becoming the only issued shares of Exascale immediately after the effective time of the Acquisition Merger).</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">No fractional shares of PubCo Common Stock were issued in connection with the Business Combination.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">In connection with the Extraordinary General Meeting
+and the Business Combination, holders of 26,865,211 BCAR Class A Ordinary Shares exercised their right to redeem their shares for cash.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">On the Closing Date, PubCo issued, or reserved
+for issuance, a total aggregate of 33,689,050 shares of PubCo Class A Ordinary Common Stock and 30,645,739 shares of PubCo Class B Super
+Common Stock, of which an aggregate of 19,354,261 shares of PubCo Class A Ordinary Common Stock and 30,645,739 shares of PubCo Class B
+Super Common Stock were issued to the former Exascale securityholders in exchange for their equity interests in Exascale, representing
+an aggregate merger consideration of $500,000,000 based on a deemed value of $10.00 per share of PubCo Common Stock.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">As of the Closing Date and
+following the completion of the Business Combination, PubCo had approximately 64,334,789 shares of PubCo Common Stock issued and outstanding,
+consisting of approximately 33,689,050 shares of PubCo Class A Ordinary Common Stock and 30,645,739 shares of PubCo Class B Super Common
+Stock, and no shares of PubCo preferred stock issued and outstanding. In addition, as of the Closing Date, PubCo had 14,099,992 PubCo
+Warrants issued and outstanding, each whole PubCo Warrant entitling the holder thereof to purchase one share of PubCo Class A Ordinary
+Common Stock at an exercise price of $11.50 per share.</p>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<!-- Field: Page; Sequence: 3 -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b><i>Listing of Securities</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">Prior to the Closing Date, BCAR&#8217;s units (the &#8220;<b>BCAR Units</b>&#8221;), the BCAR Class A Ordinary Shares and the BCAR Warrants were listed on the Nasdaq Stock Market LLC (&#8220;<b>Nasdaq</b>&#8221;) under the symbols &#8220;BCARU,&#8221; &#8220;BCAR&#8221; and &#8220;BCARW,&#8221; respectively. In connection with the Business Combination, all of the BCAR Units separated into their component parts and ceased trading on Nasdaq.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">As of the open of trading on August&#160;28, 2026, the PubCo Class A Ordinary Common Stock and PubCo Warrants began trading on Nasdaq under the symbols &#8220;XLAB&#8221; and XLABW,&#8221; respectively. The PubCo Class B Super Common Stock are not listed on Nasdaq or any other securities exchange and are not publicly traded.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The description of the Business Combination Agreement contained in this Current Report on Form 8-K does not purport to be complete and is qualified in its entirety by the text of the Business Combination Agreement, a copy of which is attached as Exhibit 2.1 to this Current Report on Form 8-K and is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The Business Combination Agreement is also described in detail in the definitive proxy statement/prospectus for the Business Combination filed by BCAR with the Securities and Exchange Commission (the &#8220;<b>Proxy Statement/Prospectus</b>&#8221;).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Item 1.01 Entry into a Material Definitive Agreement.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The information set forth in the Introductory Note of this Current Report on Form 8-K is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b><i>Lock-Up Agreements</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">In connection with the Business Combination, PubCo
+entered into lock-up agreements (the &#8220;<b>Lock-Up Agreements</b>&#8221;) with the former stockholders of Exascale and the former
+SAFEholders pursuant to which such former stockholders and former SAFEholders agreed, subject to certain customary exceptions, not to
+effect any sale or distribution of certain shares of PubCo Common Stock issued to them in the Business Combination during the period commencing
+on the Closing Date and ending on the earlier of (i) the date that is six months after the Closing Date and (ii) the date on which PubCo
+completes a liquidation, merger, share exchange, reorganization or other similar transaction that results in all of the stockholders of
+PubCo having the right to exchange their shares of PubCo Common Stock for cash, securities or other property.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The foregoing description of the Lock-Up Agreements
+is qualified in its entirety by reference to the full text of the agreement relating to the former stockholders of Exascale and the agreement
+relating to the former SAFEholders of Exascale, copies of the forms of which are attached as Exhibit 10.1 and Exhibit 10.2, respectively,
+to this Current Report on Form 8-K and are incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b><i>Indemnification Agreements</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">In connection with the Business Combination, on the Closing Date, PubCo entered into indemnification agreements (the &#8220;<b>Indemnification Agreements</b>&#8221;) with each of its directors and executive officers. Subject to certain exceptions, the Indemnification Agreements provide that PubCo will indemnify each of its directors and executive officers for certain expenses, which may include attorneys&#8217; fees, judgments, fines and settlement amounts, incurred by a director or officer in any action or proceeding arising out of that person&#8217;s services as a director or officer of PubCo or of any other company or enterprise to which the person provides services at PubCo&#8217;s request.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The foregoing description of the Indemnification Agreements is qualified in its entirety by reference to the form of Indemnification Agreement, a copy of the form of which is attached as Exhibit 10.3 to this Current Report on Form 8-K and is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<!-- Field: Page; Sequence: 4 -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Item 1.02 Termination of a Material Definitive Agreement.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The information set forth in the Introductory Note of this Current Report on Form 8-K and Item 1.01 is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">On the Closing Date, in connection with the consummation of the Business Combination, the Investment Management Trust Agreement between BCAR and Odyssey Transfer and Trust Company and the Administrative Services Agreement between BCAR and MFH 1, LLC (the &#8220;<b>Sponsor</b>&#8221;) were terminated. The Administrative Services Agreement had provided for monthly payments of $20,000 to the Sponsor in return for the Sponsor providing (or causing to be provided) certain office space and administrative services&#160;to BCAR.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Item 2.01 Completion of Acquisition or Disposition of Assets.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The disclosures set forth in the Introductory Note of this Current Report on Form 8-K and in Item 1.01 are incorporated into this Item 2.01 by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<!-- Field: Page; Sequence: 5 -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->4<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0"><b>FORM 10 INFORMATION</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">Item 2.01(f) of Form 8-K states that if the predecessor registrant was a shell company, as BCAR was immediately before the consummation of the Business Combination, then the registrant must disclose the information that would be required if the registrant were filing a general form for registration of securities on Form 10. Accordingly, PubCo is providing below the information that would be included in the Form 10 if it were to file a Form 10. Please note that the information provided below relates to PubCo following the consummation of the Business Combination, unless otherwise specifically indicated or the context otherwise requires.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">Through the Business Combination, PubCo succeeded to the business of Exascale. Certain historical information relating to PubCo contained or incorporated by reference in this section of this Current Report on Form 8-K reflects or are incorporated by reference to the historical business, operations and financial information of Exascale for periods prior to the Closing, as indicated by the context and the applicable disclosure.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Cautionary Note Regarding Forward-Looking Statements</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">This document and the information incorporated by reference herein include &#8220;forward-looking statements&#8221; within the meaning of the &#8220;safe harbor&#8221; provisions of the U.S. Private Securities Litigation Reform Act of 1995. All statements, other than statements of present or historical fact included in or incorporated by reference in this Current Report on Form 8-K, regarding PubCo&#8217;s future financial performance, as well as its strategy, future operations, financial position, estimated revenues and losses, projected costs, prospects, plans and objectives of PubCo&#8217;s management are forward-looking statements. When used in this Current Report on Form 8-K, the words &#8220;anticipate&#8221;, &#8220;believe&#8221;, &#8220;can&#8221;, &#8220;continue&#8221;, &#8220;could&#8221;, &#8220;estimate&#8221;, &#8220;expect&#8221;, &#8220;forecast&#8221;, &#8220;intend&#8221;, &#8220;may&#8221;, &#8220;might&#8221;, &#8220;plan&#8221;, &#8220;possible&#8221;, &#8220;potential&#8221;, &#8220;predict&#8221;, &#8220;project&#8221;, &#8220;seek&#8221;, &#8220;should&#8221;, &#8220;strive&#8221;, &#8220;target&#8221;, &#8220;will&#8221;, &#8220;would,&#8221; the negative of such terms and other similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain such identifying words. These forward-looking statements are based on PubCo&#8217;s management&#8217;s current expectations and assumptions about future events and are based on currently available information as to the outcome and timing of future events. PubCo cautions you that these forward-looking statements are subject to all of the risks and uncertainties incident to its business, most of which are difficult to predict and many of which are beyond the control of PubCo.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">These forward-looking statements are based on information available as of the date of this Current Report on Form 8-K, and current expectations, forecasts and assumptions, and involve a number of risks and uncertainties. Accordingly, forward-looking statements should not be relied upon as representing PubCo&#8217;s views as of any subsequent date, and PubCo does not undertake any obligation to update forward-looking statements to reflect events or circumstances after the date they were made, whether as a result of new information, future events or otherwise, except as may be required under applicable securities laws.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">As a result of a number of known and unknown risks and uncertainties, PubCo&#8217;s actual results or performance may be materially different from those expressed or implied by these forward-looking statements. Some factors that could cause actual results to differ include:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">PubCo&#8217;s limited operating history and history of losses, including the going concern qualification in PubCo&#8217;s audited financial statements;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">PubCo&#8217;s ability to recognize the anticipated benefits of the Business Combination, which may be affected by, among other things, competition, and the ability of PubCo to grow and manage growth profitably;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">PubCo&#8217;s future capital needs and PubCo&#8217;s ability to obtain sufficient additional financing on acceptable terms or at all;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<!-- Field: Page; Sequence: 6 -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->5<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">risks relating to the uncertainty of the projected financial information with respect to PubCo;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">the ability to maintain the listing of the PubCo Class A Ordinary Common Stock on Nasdaq following the Closing Date;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">changes in the market in which PubCo competes, including with respect to its competitive landscape, technology evolution or changes in applicable laws or regulations;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">demand uncertainty for artificial intelligence (&#8220;<b>AI</b>&#8221;) compute services, including slower-than-anticipated adoption of large language models, changes in customer workload requirements, budget constraints, or shifts toward alternative architectures or in-house compute solutions;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">fluctuations in utilization rates of PubCo&#8217;s graphics processing unit (&#8220;<b>GPU</b>&#8221;) capacity, which could negatively affect revenues, margins, and operating leverage;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">technological risks, including the performance, scalability, reliability, and security of PubCo&#8217;s platform, as well as the pace of innovation in AI hardware and software that could render PubCo&#8217;s offerings less competitive;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">competitive pressures from hyperscalers, cloud service providers, vertically integrated AI
+    infrastructure companies, and other GPU-as-a-Service providers with greater scale, resources, or pricing flexibility;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">the impact of macroeconomic events, such as inflation, recessions or depressions, and war or fears of war;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">changes in the vertical markets that PubCo targets;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">the impact of current or future government regulation and oversight, including the U.S. federal, state and local authorities;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">the ability to launch new services and products or to profitably expand into new markets;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">the ability to develop and maintain effective internal controls and procedures, correct or remediate the previously identified material weaknesses, or correct or remediate any future identified material weaknesses;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">increased costs associated with being a public company;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">the exposure to any liability, protracted and costly litigation or reputational damage relating to PubCo&#8217;s data security;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">PubCo&#8217;s controlled company status under Nasdaq rules; and</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">other risks and uncertainties set forth in the Proxy Statement/Prospectus in the section titled &#8220;<i>Risk Factors</i>.&#8221;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">&#160;</p>
+
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Business and Facilities</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The information set forth in the section of the Proxy Statement/Prospectus entitled &#8220;<i>Information About Exascale</i>&#8221; beginning on page 216 is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+
+<!-- Field: Page; Sequence: 7 -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->6<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Risk Factors</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The risks associated with PubCo&#8217;s business and operations following the Closing Date are described in the Proxy Statement/Prospectus in the section entitled &#8220;<i>Risk Factors</i>&#8221; beginning on page 54, which is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Financial Information</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b><i>Audited Financial Statements</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The following historical audited financial statements and the related notes are incorporated herein by reference from the Proxy Statement/Prospectus and filed as exhibits hereto:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">Audited consolidated financial statements of BCAR as of December&#160;31, 2025 and for the period from March&#160;20, 2025 (inception) through December&#160;31, 2025, audited by Guangdong Prouden CPAs GP.</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">Audited financial statements of Exascale as of and for the years ended June&#160;30, 2025 and 2024, audited by HTL International, LLC.</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The historical audited financial statements of
+BCAR and the related notes are included in the Proxy Statement/Prospectus beginning on page F-20 of the Proxy Statement/Prospectus and
+are incorporated by reference herein.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The historical audited financial
+statements of Exascale and the related notes are included in the Proxy Statement/Prospectus beginning on page F-61 of the Proxy Statement/Prospectus
+and are incorporated by reference herein.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b><i>Unaudited Interim Financial Statements</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The unaudited interim consolidated financial statements
+of Exascale as of and for the three and nine months ended March&#160;31, 2026 and March&#160;31, 2025, are included in the Proxy Statement/Prospectus
+beginning on page F-87 of the Proxy Statement/Prospectus and are incorporated by reference herein.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The unaudited interim consolidated
+financial statements of BCAR as of and for the three months ended March&#160;31, 2026, and as of and for the period from March&#160;20,
+2025 (inception) through March&#160;31, 2025, are included in the Proxy Statement/Prospectus beginning on page F-42 of the Proxy Statement/Prospectus
+and are incorporated by reference herein.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b><i>Unaudited Pro Forma Condensed Combined Financial Information</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The unaudited pro forma condensed combined financial information of BCAR and Exascale as of March&#160;31, 2026, for the nine months ended March&#160;31, 2026, and for the year ended June&#160;30, 2025 is set forth in Exhibit 99.1 hereto and incorporated by reference herein.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b><i>Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations of Exascale is included in the Proxy Statement/Prospectus in the section titled &#8220;<i>Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations of Exascale</i>&#8221; beginning on page 231 of the Proxy Statement/Prospectus and is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations of BCAR is included in the Proxy Statement/Prospectus in the section titled &#8220;<i>Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations of BCAR</i>&#8221; beginning on page 212 of the Proxy Statement/Prospectus and is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<!-- Field: Page; Sequence: 8 -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->7<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Security Ownership of Certain Beneficial Owners and Management</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The following table sets forth information regarding the beneficial ownership of PubCo Common Stock as of the Closing Date by:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">each person who is known to be the beneficial owner of more than 5% of the PubCo Common Stock;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">each executive officer and director of PubCo; and</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">all executive officers and directors of PubCo as a group.</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">Beneficial ownership is determined according to the rules of the SEC, which generally provide that a person has beneficial ownership of a security if he, she or it possesses sole or shared voting or investment power over that security, including options, rights and convertible securities that are currently exercisable or exercisable within 60 days.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The information set forth in the table below is
+based on 64,334,789 shares of PubCo Common Stock outstanding immediately following the Closing Date, consisting of 33,689,050 shares of
+PubCo Class A Ordinary Common Stock having one (1) vote per share and 30,645,739 shares of PubCo Class B Super Common Stock having twenty
+(20) votes per share.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="background-color: #FFFFFF; vertical-align: bottom">
+    <td style="border-bottom: Black 1pt solid"><b>Name<sup>(1)</sup></b></td>
+    <td style="padding-bottom: 0.5pt">&#160;</td>
+    <td colspan="2" style="border-bottom: Black 1pt solid; text-align: center"><b>PubCo Class</b><b>&#160;</b><b>A<br/>Ordinary Common Stock<br/>Beneficially Owned</b></td>
+    <td style="padding-bottom: 0.5pt">&#160;</td>
+    <td style="padding-bottom: 0.5pt">&#160;</td>
+    <td colspan="2" style="border-bottom: Black 1pt solid; text-align: center"><b>Percent of<br/>PubCo Class</b><b>&#160;</b><b>A<br/>Ordinary Common Stock</b></td>
+    <td style="padding-bottom: 0.5pt">&#160;</td>
+    <td style="padding-bottom: 0.5pt">&#160;</td>
+    <td colspan="2" style="border-bottom: Black 1pt solid; text-align: center"><b>PubCo Class</b><b>&#160;</b><b>B<br/>Super Common Stock Beneficially Owned</b></td>
+    <td style="padding-bottom: 0.5pt">&#160;</td>
+    <td style="padding-bottom: 0.5pt">&#160;</td>
+    <td colspan="2" style="border-bottom: Black 1pt solid; text-align: center"><b>Percent of<br/>PubCo Class</b><b>&#160;</b><b>B<br/>Super Common Stock</b></td>
+    <td style="padding-bottom: 0.5pt">&#160;</td>
+    <td style="padding-bottom: 0.5pt">&#160;</td>
+    <td colspan="2" style="border-bottom: Black 1pt solid; text-align: center"><b>Percent of <br/>Voting Control<sup>(2)</sup></b></td>
+    <td style="padding-bottom: 0.5pt">&#160;</td> </tr>
+  <tr style="background-color: #CCEEFF; vertical-align: bottom">
+    <td style="text-align: left; vertical-align: top; padding-left: 0.125in; text-indent: -0.125in"><b>Directors, and Other Named Executive Officers</b></td>
+    <td style="width: 1%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td>
+    <td style="width: 9%; text-align: right">&#160;</td>
+    <td style="width: 1%; text-align: left; white-space: nowrap">&#160;</td>
+    <td style="width: 1%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td>
+    <td style="width: 9%; text-align: right">&#160;</td>
+    <td style="width: 1%; text-align: left; white-space: nowrap">&#160;</td>
+    <td style="width: 1%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td>
+    <td style="width: 9%; text-align: right">&#160;</td>
+    <td style="width: 1%; text-align: left; white-space: nowrap">&#160;</td>
+    <td style="width: 1%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td>
+    <td style="width: 9%; text-align: right">&#160;</td>
+    <td style="width: 1%; text-align: left; white-space: nowrap">&#160;</td>
+    <td style="width: 1%">&#160;</td>
+    <td style="width: 1%; text-align: left">&#160;</td>
+    <td style="width: 9%; text-align: right">&#160;</td>
+    <td style="width: 1%; text-align: left; white-space: nowrap">&#160;</td> </tr>
+  <tr style="background-color: #FFFFFF; vertical-align: bottom">
+    <td style="text-align: left; vertical-align: top; padding-left: 0.125in; text-indent: -0.125in">Hoansoo Lee<sup>(3)</sup></td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">-</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">-</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">5,000,000</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">16.3</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">15.5</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td> </tr>
+  <tr style="background-color: #CCEEFF; vertical-align: bottom">
+    <td style="text-align: left; vertical-align: top; padding-left: 0.125in; text-indent: -0.125in">Wenying Jia<sup>(4)</sup></td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">-</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">-</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">25,645,739</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">83.7</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">79.3</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td> </tr>
+  <tr style="background-color: #FFFFFF; vertical-align: bottom">
+    <td style="text-align: left; vertical-align: top; padding-left: 0.125in; text-indent: -0.125in">David Card</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">-</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">-</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">-</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">-</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">-</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td> </tr>
+  <tr style="background-color: #CCEEFF; vertical-align: bottom">
+    <td style="text-align: left; vertical-align: top; padding-left: 0.125in; text-indent: -0.125in">Shachar Kariv</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">-</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">-</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">-</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">-</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">-</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td> </tr>
+  <tr style="background-color: #FFFFFF; vertical-align: bottom">
+    <td style="text-align: left; vertical-align: top; padding-left: 0.125in; text-indent: -0.125in">Jaeyoung Shin</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">-</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">-</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">-</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">-</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">-</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td> </tr>
+  <tr style="background-color: #CCEEFF; vertical-align: bottom">
+    <td style="text-align: left; vertical-align: top; padding-left: 0.125in; text-indent: -0.125in">All directors and executive officers as a group (5 persons)</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">-</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">-</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">30,645,739</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">100.0</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">94.8</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td> </tr>
+  <tr style="background-color: #FFFFFF; vertical-align: bottom">
+    <td style="text-align: left; vertical-align: top; padding-left: 0.125in; text-indent: -0.125in">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">&#160;</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">&#160;</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">&#160;</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">&#160;</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">&#160;</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td> </tr>
+  <tr style="background-color: #CCEEFF; vertical-align: bottom">
+    <td style="text-align: left; vertical-align: top; padding-left: 0.125in; text-indent: -0.125in"><b>5% Stockholders other than Directors and Officers</b></td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">&#160;</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">&#160;</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">&#160;</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">&#160;</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">&#160;</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td> </tr>
+  <tr style="background-color: #FFFFFF; vertical-align: bottom">
+    <td style="text-align: left; vertical-align: top; padding-left: 0.125in; text-indent: -0.125in">MFH 1, LLC<sup>(5)</sup></td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">11,633,369</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">34.5</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">-</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">-</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td>
+    <td>&#160;</td>
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">1.8</td>
+    <td style="text-align: left; white-space: nowrap">&#160;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<!-- Field: Rule-Page --><div style="width: 25%; margin-left: 0; margin-right: auto"><div style="border-top: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in; text-align: left">(1)</td>
+    <td style="text-align: justify">Unless otherwise noted, the business address of each of the following is c/o Exascale Labs Holdings Inc., 820 Gessner Road, Suite 332, Houston, Texas 77024.</td> </tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: left">(2)</td>
+    <td style="text-align: justify">Based on an aggregate of 64,334,789 Common Stock (consisting of 33,689,050 Class A Ordinary Common Stock having one (1) vote per share
+and 30,645,739 Class B Super Common Stock having twenty (20) votes per share). The voting percentage is calculated based on such voting
+rights.</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<!-- Field: Page; Sequence: 9 -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->8<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in; text-align: left">(3)</td>
+    <td style="text-align: justify">Consists of (i) 2,000,000 shares of Class B Super Common Stock directly held by HSL Capital Management LLC, (ii) 1,000,000 shares of Class B Super Common Stock directly held by the Jisu Paul Lee Non-Grantor Directed Trust, (iii) 1,000,000 shares of Class B Super Common Stock directly held by the Sophia Jisun Lee Non-Grantor Directed Trust and (iv) 1,000,000 shares of Class B Super Common Stock directly held by the Gabriel Jihwan Lee Non-Grantor Directed Trust. Hoansoo Lee is the sole member and manager of HSL Capital Management LLC and has sole voting and dispositive power with respect to the Class B Super Common Stock directly held by HSL Capital Management LLC. Hoansoo Lee is the settlor of, and serves as investment advisor to, each of the Jisu Paul Lee Non-Grantor Directed Trust, the Sophia Jisun Lee Non-Grantor Directed Trust, and the Gabriel Jihwan Lee Non-Grantor Directed Trust, and the beneficiaries of each of those trusts are the children of Hoansoo Lee. As such, Mr. Lee may be deemed to beneficially own the shares directly held by such trusts. Mr. Lee disclaims beneficial ownership of such shares directly held by such trusts except to the extent of his pecuniary interest therein, if any, and the inclusion of such shares in this table shall not be deemed an admission of beneficial ownership for any purpose.</td> </tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: left">(4)</td>
+    <td style="text-align: justify">Consists of shares of Class B Super Common Stock directly held by Zerowave Ltd. Ms. Jia is the sole member and manager of Zerowave Ltd and has sole voting and dispositive power with respect to the shares directly held by Zerowave Ltd.</td> </tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: left">(5)</td>
+    <td style="text-align: justify">John Darwin is the manager of MFH 1, LLC and, accordingly, Mr. Darwin has sole voting and investment discretion with respect to the shares held of record by MFH 1, LLC. Mr. Darwin disclaims any economic interest in the shares held by MFH 1, LLC, except to the extent of his pecuniary interest therein. The business address of MFH 1, LLC is 10 E. 53rd Street, Suite 3001, New York, NY 10022.</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Information about Directors and Executive Officers</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr>
+    <td style="border-bottom: Black 1pt solid; text-align: left; vertical-align: bottom; width: 30%"><b>Name</b></td>
+    <td style="vertical-align: bottom; text-align: center; width: 1%; padding-bottom: 0.5pt">&#160;</td>
+    <td style="border-bottom: Black 1pt solid; vertical-align: bottom; text-align: center; width: 9%"><b>Age</b></td>
+    <td style="vertical-align: bottom; text-align: center; width: 1%; padding-bottom: 0.5pt">&#160;</td>
+    <td style="border-bottom: Black 1pt solid; vertical-align: bottom; text-align: center; width: 59%"><b>Position(s) Held</b></td> </tr>
+  <tr>
+    <td style="text-align: left; vertical-align: top; background-color: #CCEEFF">Hoansoo Lee</td>
+    <td style="vertical-align: top; background-color: #CCEEFF; text-align: center">&#160;</td>
+    <td style="vertical-align: top; background-color: #CCEEFF; text-align: center">42</td>
+    <td style="vertical-align: top; background-color: #CCEEFF; text-align: center">&#160;</td>
+    <td style="vertical-align: top; background-color: #CCEEFF; text-align: justify">Chief Executive Officer, Interim Chief Financial Officer and Class III Director</td> </tr>
+  <tr>
+    <td style="text-align: left; vertical-align: top">Wenying Jia</td>
+    <td style="vertical-align: top; text-align: center">&#160;</td>
+    <td style="vertical-align: top; text-align: center">57</td>
+    <td style="vertical-align: top; text-align: center">&#160;</td>
+    <td style="vertical-align: top; text-align: justify">Chairperson and Class II Director</td> </tr>
+  <tr>
+    <td style="text-align: left; vertical-align: top; background-color: #CCEEFF">David Card</td>
+    <td style="vertical-align: top; background-color: #CCEEFF; text-align: center">&#160;</td>
+    <td style="vertical-align: top; background-color: #CCEEFF; text-align: center">70</td>
+    <td style="vertical-align: top; background-color: #CCEEFF; text-align: center">&#160;</td>
+    <td style="vertical-align: top; background-color: #CCEEFF; text-align: justify">Class II Director</td> </tr>
+  <tr>
+    <td style="text-align: left; vertical-align: top">Shachar Kariv</td>
+    <td style="vertical-align: top; text-align: center">&#160;</td>
+    <td style="vertical-align: top; text-align: center">55</td>
+    <td style="vertical-align: top; text-align: center">&#160;</td>
+    <td style="vertical-align: top; text-align: justify">Class I Director</td> </tr>
+  <tr>
+    <td style="text-align: left; vertical-align: top; background-color: #CCEEFF">Jaeyoung Shin</td>
+    <td style="vertical-align: top; background-color: #CCEEFF; text-align: center">&#160;</td>
+    <td style="vertical-align: top; background-color: #CCEEFF; text-align: center">48</td>
+    <td style="vertical-align: top; background-color: #CCEEFF; text-align: center">&#160;</td>
+    <td style="vertical-align: top; background-color: #CCEEFF; text-align: justify">Class I Director</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b><i>Resignations and Appointments</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">In connection with the closing of the Business
+Combination, the pre-existing officers and directors of BCAR resigned from their respective positions as officers and/or directors of
+BCAR, in each case effective as of the effective time of the Domestication Merger.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">In connection with the closing of the Business
+Combination, the pre-existing officers and directors of PubCo resigned from their respective positions as officers and/or directors of
+PubCo, in each case effective as of the Closing Date.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">Effective as of the Closing Date, Hoansoo Lee was appointed as Chief Executive Officer, Interim Chief Financial Officer and a member of the PubCo Board, Wenying Jia was appointed as the Chairperson, and a member of the PubCo Board, and each of David Card, Shachar Kariv and Jaeyoung Shin. was appointed as a member of the PubCo Board.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">Information, including biographical
+information, with respect to PubCo&#8217;s directors and executive officers after the Closing is included in the Proxy Statement/Prospectus
+in the section titled &#8220;<i>Executive Officers and Directors of Exascale and Executive Officers And Directors of PubCo</i>&#8221;
+beginning on page 257 of the Proxy Statement/Prospectus, which is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b><i>Board Composition</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">PubCo&#8217;s business and affairs are managed under the direction of the board of directors of PubCo (the &#8220;<b>PubCo Board</b>&#8221;). The PubCo Board consists of five directors and is divided into three classes, designated Class I, Class II and Class III, with each class serving staggered three-year terms and one class standing for election at each annual meeting of stockholders. Shachar Kariv and Jaeyoung Shin are the current Class I directors, David Card and Wenying Jia are the current Class II directors, and Hoansoo Lee is the current Class III director. The current terms of Class I, II and III directors will expire at the annual meeting of stockholders to be held in 2027, 2028 and 2029, respectively. Wenying Jia is the current Chairperson of the PubCo Board.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+
+
+<!-- Field: Page; Sequence: 10 -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->9<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b><i>Role of the Board in Risk Oversight</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The PubCo Board has extensive involvement in the oversight of risk management related to PubCo and its business and accomplished this oversight through the regular reporting to the PubCo Board by the audit committee. The audit committee represents the PubCo Board by periodically reviewing PubCo&#8217;s accounting, reporting and financial practices, including the integrity of its financial statements, the surveillance of administrative and financial controls and its compliance with legal and regulatory requirements.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b><i>Director Independence</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">David Card, Shachar Kariv and Jaeyoung Shin are PubCo&#8217;s independent directors, as defined under the rules promulgated by Nasdaq. PubCo&#8217;s independent directors have regularly scheduled meetings at which only independent directors are present. Any affiliated transactions are required to be on terms that the PubCo Board believes are no less favorable to PubCo than could be obtained from independent parties. None of the independent directors has any relationship with PubCo besides their service on the PubCo Board.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b><i>Board Committees</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The standing committees of the PubCo Board consist of an audit committee, a compensation committee and a nominating and corporate governance committee.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><i><span style="text-decoration: underline">Audit Committee</span></i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The audit committee of the PubCo Board consists of David Card, Shachar Kariv and Jaeyoung Shin, each of whom meets the definition of &#8220;independent director&#8221; for purposes of serving on the audit committee under the Nasdaq rules and the independence standards under Rule&#160;10A-3 of the Securities Exchange Act of 1934, as amended (the &#8220;<b>Exchange Act</b>&#8221;). Jaeyoung Shin is the chairperson of the audit committee. The audit committee&#8217;s duties, which are specified in PubCo&#8217;s Audit Committee Charter, include, but are not limited to:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">assisting board oversight of (i) the integrity of PubCo&#8217;s financial statements, (ii) PubCo&#8217;s compliance with legal and regulatory requirements, (iii) PubCo&#8217;s independent registered public accounting firm&#8217;s qualifications and independence, and (iv) the performance of PubCo&#8217;s internal audit function and independent registered public accounting firm;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">the appointment, compensation, retention, replacement and oversight of the work of the independent auditors and any other independent registered public accounting firm engaged by PubCo;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">pre-approving all audit and non-audit services to be provided by the independent auditors or any other registered public accounting firm engaged by PubCo, and establishing pre-approval policies and procedures; reviewing and discussing with the independent registered public accounting firm all relationships the auditors have with PubCo in order to evaluate their continued independence;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">setting clear policies for audit partner rotation in compliance with applicable laws and regulations;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">obtaining and reviewing a report, at least annually, from the independent registered public accounting firm describing (i) the independent registered public accounting firm&#8217;s internal quality-control procedures and (ii) any material issues raised by the most recent internal quality-control review, or peer review, of the audit firm, or by any inquiry or investigation by governmental or professional authorities, within the preceding five years respecting one or more independent audits carried out by the firm and any steps taken to deal with such issues;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+
+
+<!-- Field: Page; Sequence: 11 -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->10<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">meeting to review and discuss PubCo&#8217;s annual audited financial statements and quarterly financial statements with PubCo&#8217;s management and the independent auditor, including reviewing PubCo&#8217;s specific disclosures under &#8220;Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations&#8221;&#894;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">reviewing and approving any related party transaction required to be disclosed pursuant to Item 404 of Regulation S-K promulgated by the Securities and Exchange Commission (&#8220;<b>SEC</b>&#8221;) prior to PubCo entering into such transaction; and</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">reviewing with management, the registered public accounting firm and PubCo&#8217;s legal advisors, as appropriate, any legal, regulatory or compliance matters, including any correspondence with regulators or government agencies and any employee complaints or published reports that raise material issues regarding PubCo&#8217;s financial statements or accounting policies and any significant changes in accounting standards or rules promulgated by the Financial Accounting Standards Board, the SEC or other regulatory authorities.</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The PubCo Board has determined that Jaeyoung Shin qualifies as an &#8220;audit committee financial expert,&#8221; as defined under the rules and regulations of Nasdaq and the SEC.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><i><span style="text-decoration: underline">Corporate Governance and Nominating Committee</span></i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The corporate governance and nominating committee of the PubCo Board consists of David Card, Shachar Kariv and Jaeyoung Shin. David Card is the chairperson of the corporate governance and nominating committee. The corporate governance and nominating committee is responsible for overseeing the selection of persons to be nominated to serve on the PubCo Board. The corporate governance and nominating committee considers persons identified by its members, management, stockholders, investment bankers and others. The guidelines for selecting nominees, which are specified in PubCo&#8217;s Corporate Governance and Nominating Committee Charter, generally provide that persons to be nominated (i) should have demonstrated notable or significant achievements in business, education or public service, (ii) should possess the requisite intelligence, education and experience to make a significant contribution to the PubCo Board and bring a range of skills, diverse perspectives and backgrounds to its deliberations and (iii) should have the highest ethical standards, a strong sense of professionalism and intense dedication to serving the interests of the stockholders of PubCo. The corporate governance and nominating committee will consider a number of qualifications relating to management and leadership experience, background and integrity and professionalism in evaluating a person&#8217;s candidacy for membership on the PubCo Board. The corporate governance and nominating committee may require certain skills or attributes, such as financial or accounting experience, to meet specific board needs that arise from time to time and will also consider the overall experience and makeup of its members to obtain a broad and diverse mix of board members. The corporate governance and nominating committee does not distinguish among nominees recommended by stockholders and other persons.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><i><span style="text-decoration: underline">Compensation Committee</span></i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The compensation committee of the PubCo Board consists of David Card, Shachar Kariv and Jaeyoung Shin, each of whom meets the definition of &#8220;independent director&#8221; under the Nasdaq rules. Shachar Kariv is the chairperson of the compensation committee. The compensation committee&#8217;s duties, which are specified in PubCo&#8217;s Compensation Committee Charter, include, but are not limited to:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">reviewing and approving on an annual basis the corporate goals and objectives relevant to PubCo&#8217;s Chief Executive Officer&#8217;s compensation and evaluating PubCo&#8217;s Chief Executive Officer&#8217;s performance in light of such goals and objectives and determining and approving the remuneration of PubCo&#8217;s Chief Executive Officer based on such evaluation;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">reviewing and making recommendations to the PubCo Board with respect to compensation and any incentive compensation and equity-based plans that are subject to board approval of all of PubCo&#8217;s other officers;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">reviewing PubCo&#8217;s executive compensation policies and plans;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+
+
+<!-- Field: Page; Sequence: 12 -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->11<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">implementing and administering PubCo&#8217;s incentive compensation and equity-based remuneration plans;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">assisting PubCo&#8217;s management in complying with PubCo&#8217;s proxy statement and annual report disclosure requirements;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">reviewing and approving all special perquisites, special cash payments and other special compensation and benefit arrangements for PubCo&#8217;s officers and employees;</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">producing a report on executive compensation to be included in PubCo&#8217;s annual proxy statement; and</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">reviewing, evaluating and recommending changes, if appropriate, to the remuneration for directors.</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The charter also provides that the compensation committee may, in its sole discretion, retain or obtain the advice of a compensation consultant, independent legal counsel or other adviser and the compensation committee is directly responsible for the appointment, compensation and oversight of the work of any such adviser. However, before engaging or receiving advice from a compensation consultant, external legal counsel or any other adviser, the compensation committee is required to consider the independence of each such adviser, including the factors required by Nasdaq and the SEC.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b><i>Code of Ethics</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">PubCo has adopted a written code of ethics that applies to its directors, officers and employees, including its principal executive officer, principal financial officer, principal accounting officer or controller, or persons performing similar functions. A copy of the code is posted on PubCo&#8217;s website at https://www.exascalelabs.ai. In addition, PubCo intends to post on its website all disclosures that are required by law or the Nasdaq rules concerning any amendments to, or waivers from, any provision of the code. The information on PubCo&#8217;s website is not incorporated by reference in this Current Report on Form 8-K, and is provided as an inactive textual reference only.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Executive Compensation</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">Information with respect to the historical compensation of PubCo&#8217;s executive officers is included in the Proxy Statement/Prospectus in the section titled &#8220;<i>Compensation of Named Executive Officers and Directors of Exascale</i>&#8221; beginning on page 263 of the Proxy Statement/Prospectus, which is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">Going forward, decisions with respect to the compensation of PubCo&#8217;s executive officers, including its named executive officers, will be made by the compensation committee of the PubCo Board. PubCo anticipates that compensation for its executive officers will have the following components: base salary, cash bonus opportunities, equity compensation, employee benefits and severance protections.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Certain Relationships and Related Transactions</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">Certain relationships and related party transactions are described in the Proxy Statement/Prospectus in the section titled &#8220;<i>Certain Relationships and Related Party Transactions</i>&#8221; beginning on page 268 of the Proxy Statement/Prospectus, which is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+
+
+<!-- Field: Page; Sequence: 13 -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->12<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Legal Proceedings</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">From time to time, PubCo and its subsidiaries may become involved in legal proceedings arising in the ordinary course of its business. PubCo is not currently a party to or aware of any proceedings that PubCo believes will have, individually or in the aggregate, a material adverse effect on PubCo&#8217;s business, financial condition or results of operations. Regardless of outcome, litigation can have an adverse impact on PubCo because of defense and settlement costs, diversion of management resources and other factors.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Market Price of and Dividends on the Registrant&#8217;s Common Equity and Related Stockholder Matters</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b><i>Market Information and Holders</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">Immediately prior to the closing of the Business Combination, the BCAR Units, the BCAR Class A Ordinary Shares and the BCAR Warrants were listed on Nasdaq under the symbols &#8220;BCARU,&#8221; &#8220;BCAR&#8221; and &#8220;BCARW,&#8221; respectively.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">In connection with the Business Combination, as of the Closing Date, all of the BCAR Units separated into their component parts and ceased trading on Nasdaq.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">On August&#160;28, 2026, the PubCo Class A Ordinary Common Stock and PubCo Warrants began trading on Nasdaq under the symbols &#8220;XLAB&#8221; and XLABW,&#8221; respectively. The PubCo Class B Super Common Stock are not listed on Nasdaq or any other securities exchange and are not publicly traded.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">As of the Closing Date and following the completion of the Business Combination, PubCo had approximately 33,689,050 shares of PubCo Class A Ordinary Common Stock issued and outstanding held of record by 37 holders and 30,645,739 shares of PubCo Class B Super Common Stock issued and outstanding held of record by five holders.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b><i>Dividends</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">PubCo has not paid any cash dividends on the PubCo Common Stock to date, and currently does not anticipate declaring any cash dividends on the PubCo Common Stock in the foreseeable future. Any decision to declare and pay cash dividends on the PubCo Common Stock in the future will be made at the discretion of the PubCo Board and will depend on, among other things, PubCo&#8217;s revenues and earnings, if any, capital requirements, contractual restrictions, general financial condition and other factors the PubCo Board may deem relevant.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Recent Sales of Unregistered Securities</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">Information about recent sales of unregistered securities is set forth in the Proxy Statement/Prospectus in the section titled &#8220;<i>Information about Exascale&#8212;Recent Sales of Unregistered Securities</i>&#8221; on page 230 of the Proxy Statement/Prospectus, which is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Description of Registrant&#8217;s Securities</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The description of PubCo&#8217;s securities is set forth in the section of the Proxy Statement/Prospectus entitled &#8220;<i>Description of PubCo&#8217;s Securities</i>&#8221; beginning on page 304 of the Proxy Statement/Prospectus, which information is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+
+
+<!-- Field: Page; Sequence: 14 -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->13<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Indemnification of Directors and Officers</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">In connection with the Business Combination, on the Closing Date, PubCo entered into the Indemnification Agreements with each of its directors and executive officers. Subject to certain exceptions, the Indemnification Agreements provide that PubCo will indemnify each of its directors and executive officers for certain expenses, which may include attorneys&#8217; fees, judgments, fines and settlement amounts, incurred by a director or officer in any action or proceeding arising out of that person&#8217;s services as a director or officer of PubCo or of any other company or enterprise to which the person provides services at PubCo&#8217;s request.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The foregoing description of the Indemnification Agreements is qualified in its entirety by reference to the form of Indemnification Agreement, a copy of which is attached as Exhibit 10.3 to this Current Report on Form 8-K and is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Financial Statements and Supplementary Data</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The information set forth under Item 9.01 of this Current Report on Form 8-K is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Changes in and Disagreements with Accountants on Accounting and Financial Disclosure</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The information set forth in Item 4.01 of this Current Report on Form 8-K is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Financial Statements and Exhibits</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The information set forth in Item 9.01 of this Current Report on Form 8-K is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Item 3.01 Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">Prior to the consummation of the Business Combination, the BCAR Units, the BCAR Class A Ordinary Shares and the BCAR Warrants were listed on Nasdaq under the symbols &#8220;BCARU,&#8221; &#8220;BCAR&#8221; and &#8220;BCARW,&#8221; respectively. On the Closing Date, all of the issued and outstanding BCAR Units separated into their component securities and the BCAR Units, the BCAR Class A Common Stock and BCAR Rights ceased trading on Nasdaq.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">In connection with the Business Combination, the PubCo Class A Ordinary Common Stock and PubCo Warrants were approved for listing on Nasdaq. The PubCo Class A Ordinary Common Stock and the PubCo Warrants began trading on Nasdaq under the symbols &#8220;XLAB&#8221; and &#8220;XLABW,&#8221; respectively, on August&#160;28, 2026.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Item 3.03 Material Modification to Rights of Security Holders.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The material terms of the organizational documents of PubCo and the general effect upon the rights of holders of PubCo&#8217;s capital stock are described in the sections of the Proxy Statement/Prospectus entitled &#8220;<i>The Organizational Documents Proposal</i>&#8221; beginning on page 150 of the Proxy Statement/Prospectus, &#8220;<i>The Advisory Organizational Documents Proposals</i>&#8221; beginning on page 152 of the proxy statement/prospectus and &#8220;<i>Description of PubCo&#8217;s Securities</i>&#8221; beginning on page 304 of the Proxy Statement/Prospectus, which information is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">On the Closing Date, PubCo filed an Amended and Restated Certificate of Incorporation with the Secretary of State of Delaware and adopted new Bylaws in connection with the Business Combination. Copies of the Amended and Restated Certificate of Incorporation and Bylaws are filed as Exhibits 3.1 and 3.2 to this Current Report on Form 8-K, respectively, and are incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+
+
+<!-- Field: Page; Sequence: 15 -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->14<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Item 4.01 Changes in Registrant&#8217;s Certifying Accountant.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">Upon the consummation of the Business Combination, PubCo appointed HTL International, LLC as its independent registered public accounting firm to audit PubCo&#8217;s consolidated financial statements as of and for the year ending June&#160;30, 2027, effective immediately.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Accordingly, Guangdong Prouden CPAs GP (&#8220;<b>Guangdong
+Prouden</b>&#8221;), the independent registered public accounting firm for BCAR prior to the Business Combination, was dismissed as of
+the date of the consummation of the Business Combination.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Guangdong Prouden&#8217;s report on BCAR&#8217;s
+financial statements as of December&#160;31, 2025 and for the period from March&#160;20, 2025 (inception) through December&#160;31, 2025
+contained an explanatory paragraph relating to going concern, but otherwise did not contain any adverse opinion or disclaimer of opinion,
+nor was it qualified or modified as to uncertainty, audit scope or accounting principles.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">There were no &#8220;disagreements&#8221; (as
+such term is defined in Item 304(a)(1)(iv) of Regulation S-K and the related instructions) with Guangdong Prouden on any matter of accounting
+principles or practices, financial statement disclosure, or auditing scope or procedures, which disagreements, if not resolved to the
+satisfaction of Guangdong Prouden, would have caused Guangdong Prouden to make reference thereto in its report on BCAR&#8217;s financial
+statements for such periods. There have been no &#8220;reportable events&#8221; (as such term is defined in Item 304(a)(1)(v) of Regulation
+S-K).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">PubCo provided Guangdong Prouden with a copy of
+the foregoing disclosures and has requested that Guangdong Prouden furnish PubCo with a letter addressed to the SEC stating whether it
+agrees with the statements made by PubCo set forth above. A copy of Guangdong Prouden&#8217;s letter, dated September&#160;2, 2026, is
+filed as Exhibit 16.1 to this Current Report on Form 8-K.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Item 5.01 Changes in Control of Registrant.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The information set forth in the Introductory Note of this Current Report on Form 8-K and in the section entitled &#8220;Security Ownership of Certain Beneficial Owners and Management&#8221; in Item 2.01 of this Current Report on Form 8-K is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The information set forth in the Introductory Note of this Current Report on Form 8-K and in the section entitled &#8220;Information about Directors and Executive Officers&#8221; in Item 2.01 of this Current Report on Form 8-K is incorporated by reference herein.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b><i>Equity Incentive Plan</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">In connection with the Business Combination, PubCo adopted the Exascale Labs Holdings Inc. 2026 Omnibus Incentive Plan (the &#8220;<b>Equity Incentive Plan</b>&#8221;). The Equity Incentive Plan initially reserves 10,000,000 shares of PubCo Class A Ordinary Common Stock for issuance of awards under the Equity Incentive Plan. The Equity Incentive Plan provides that the number of shares reserved and available for issuance under the Equity Incentive Plan will automatically increase each January&#160;1, beginning on January&#160;1, 2027, by five percent of the outstanding number of shares of PubCo Class A Ordinary Common Stock on the immediately preceding December&#160;31, or such lesser amount as determined by the PubCo Board in its discretion. The material terms of the Equity Incentive Plan are discussed in the section of the Proxy Statement/Prospectus entitled &#8220;<i>The Equity Incentive Plan Proposal</i>&#8221; beginning on page 160 of the Proxy Statement/Prospectus, which information is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+
+
+<!-- Field: Page; Sequence: 16 -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->15<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b><i>Directors and Executive Officers</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The information regarding PubCo&#8217;s directors and executive officers set forth under the headings &#8220;Information about Directors and Executive Officers&#8221; and &#8220;Executive Compensation&#8221; in Item 2.01 of this Current Report on Form 8-K is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Item 5.03 Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The information set forth in Item 3.03 of this Current Report on Form 8-K is incorporated herein by reference. In connection with the consummation of the Business Combination, PubCo changed its fiscal year end from December&#160;31 to June&#160;30, which is the fiscal year end historically used by Exascale.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Item 5.06 Change in Shell Company Status.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">As a result of the Business Combination, which fulfilled the definition of a business combination as required by BCAR&#8217;s organizational documents, BCAR ceased to be a shell company (as defined in Rule&#160;12b-2 of the Exchange Act) as of the Closing Date. The material terms of the Business Combination are described in the Proxy Statement/Prospectus in the section entitled &#8220;<i>The Business Combination Proposal</i>&#8221; beginning on page 120 of the Proxy Statement/Prospectus which is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Item 7.01 Regulation FD Disclosure.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">On August&#160;27, 2026, PubCo issued a press release announcing the consummation of the Business Combination, which is included in this Current Report on Form 8-K as Exhibit 99.2.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Item 9.01 Financial Statements and Exhibits.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><i>(a) Financial Statements of Business Acquired</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The following historical audited financial statements and the related notes are incorporated herein by reference from the Proxy Statement/Prospectus:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">Audited consolidated financial statements of BCAR as of December&#160;31, 2025 and for the period from March&#160;20, 2025 (inception) through December&#160;31, 2025, audited by Guangdong Prouden CPAs GP.</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in">&#160;</td>
+    <td style="width: 0.25in; text-align: left">&#9679;</td>
+    <td style="text-align: justify">Audited financial statements of Exascale as of and for the years ended June&#160;30, 2025 and 2024, audited by HTL International, LLC.</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The historical audited financial statements of
+BCAR and the related notes are included in the Proxy Statement/Prospectus beginning on page F-20 of the Proxy Statement/Prospectus, and
+the historical audited financial statements of Exascale and the related notes are included in the Proxy Statement/Prospectus beginning
+on page F-61 of the Proxy Statement/Prospectus.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The unaudited interim consolidated financial statements
+of Exascale as of and for the three and nine months ended March&#160;31, 2026 and March&#160;31, 2025, are included in the Proxy Statement/Prospectus
+beginning on page F-87 of the Proxy Statement/Prospectus and are incorporated by reference herein.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The unaudited interim consolidated
+financial statements of BCAR as of and for the three months ended March&#160;31, 2026, and as of and for the period from March&#160;20,
+2025 (inception) through March&#160;31, 2025, are included in the Proxy Statement/Prospectus beginning on page F-42 of the Proxy Statement/Prospectus
+and are incorporated by reference herein.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+
+
+<!-- Field: Page; Sequence: 18 -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->17<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><i>(b) Pro Forma Financial Information</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">The unaudited pro forma condensed combined financial information of BCAR and Exascale as of March&#160;31, 2026, for the nine months ended March&#160;31, 2026, and for the year ended June&#160;30, 2025 is set forth in Exhibit 99.1 hereto and incorporated by reference herein</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><i>(d) Exhibits</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0"><b>Exhibit Index</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: bottom; background-color: #FFFFFF">
+    <td style="border-bottom: Black 1pt solid; text-align: justify; width: 9%"><b>Exhibit No.</b></td>
+    <td style="width: 1%; padding-bottom: 0.5pt">&#160;</td>
+    <td style="border-bottom: Black 1pt solid; text-align: center; width: 90%"><b>Description</b></td> </tr>
+  <tr style="vertical-align: top; background-color: rgb(204,238,255)">
+    <td style="text-align: justify">2.1+</td>
+    <td>&#160;</td>
+    <td style="text-align: justify"><a href="https://www.sec.gov/ix?doc=/Archives/edgar/data/2065779/000182912626007145/dboralarcacq_s4.htm#annex_a">Business Combination Agreement, dated January&#160;11, 2026, by and among D. Boral ARC Acquisition I Corp., D. Boral ARC Merger Corporation, D. Boral Arc Merger Sub Inc. and Exascale Labs Inc. (incorporated by reference to Annex A to the proxy statement/prospectus forming a part of the Registration Statement on Form S-4 filed with the SEC on July 1, 2026)</a></td> </tr>
+  <tr style="vertical-align: top; background-color: White">
+    <td style="text-align: justify">3.1</td>
+    <td>&#160;</td>
+    <td style="text-align: justify"><a href="exascalelabs_ex3-1.htm">Amended and Restated Certificate of Incorporation</a></td> </tr>
+  <tr style="vertical-align: top; background-color: rgb(204,238,255)">
+    <td style="text-align: justify">3.2</td>
+    <td>&#160;</td>
+    <td style="text-align: justify"><a href="exascalelabs_ex3-2.htm">Bylaws of Exascale Labs Holdings Inc.</a></td> </tr>
+  <tr style="vertical-align: top; background-color: White">
+    <td style="text-align: justify">10.1</td>
+    <td>&#160;</td>
+    <td style="text-align: justify"><a href="exascalelabs_ex10-1.htm">Form of Exascale Stockholder Lock-Up Agreement</a></td> </tr>
+  <tr style="vertical-align: top; background-color: rgb(204,238,255)">
+    <td style="text-align: justify">10.2</td>
+    <td>&#160;</td>
+    <td style="text-align: justify"><a href="exascalelabs_ex10-2.htm">Form of Exascale SAFEholder Acknowledgement and Lock-Up Agreement</a></td></tr>
+  <tr style="vertical-align: top; background-color: White">
+    <td style="text-align: justify">10.3</td>
+    <td>&#160;</td>
+    <td style="text-align: justify"><a href="exascalelabs_ex10-3.htm">Form of Indemnification Agreement</a></td> </tr>
+  <tr style="vertical-align: top; background-color: rgb(204,238,255)">
+    <td style="text-align: justify">10.4</td>
+    <td>&#160;</td>
+    <td style="text-align: justify"><a href="exascalelabs_ex10-4.htm">Exascale Labs Holdings Inc. 2026 Omnibus Equity Incentive Plan</a></td> </tr>
+  <tr style="vertical-align: top; background-color: White">
+    <td style="text-align: justify">16.1</td>
+    <td>&#160;</td>
+    <td style="text-align: justify"><a href="exascalelabs_ex16-1.htm">Letter from Guangdong Prouden CPAs GP to the Securities and Exchange Commission, dated September&#160;2, 2026.</a></td> </tr>
+  <tr style="vertical-align: top; background-color: rgb(204,238,255)">
+    <td style="text-align: justify">99.1</td>
+    <td>&#160;</td>
+    <td style="text-align: justify"><a href="exascalelabs_ex99-1.htm">Unaudited pro forma condensed combined financial information of BCAR and Exascale as of March&#160;31, 2026, for the nine months ended March&#160;31, 2026, and for the year ended June&#160;30, 2025.</a></td> </tr>
+  <tr style="vertical-align: top; background-color: White">
+    <td style="text-align: justify">99.2</td>
+    <td>&#160;</td>
+    <td style="text-align: justify"><a href="exascalelabs_ex99-2.htm">Press Release announcing consummation of the Business Combination.</a></td> </tr>
+  <tr style="vertical-align: top; background-color: rgb(204,238,255)">
+    <td style="text-align: justify">104</td>
+    <td>&#160;</td>
+    <td style="text-align: justify">Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101).</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<!-- Field: Rule-Page --><div style="width: 25%; margin-left: 0; margin-right: auto"><div style="border-top: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="width: 0.25in; text-align: left">+</td>
+    <td style="text-align: justify">Schedule and exhibits to this Exhibit omitted pursuant to Regulation S-K Item 601(b)(2). PubCo agrees to furnish supplementally a copy of any omitted schedule or exhibit to the SEC upon request.</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<!-- Field: Page; Sequence: 19 -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->18<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0; margin-bottom: 0"><b>SIGNATURE</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin-top: 0; margin-bottom: 0">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: top">
+    <td style="text-align: left">Dated: September&#160;2, 2026</td>
+    <td colspan="2" style="text-align: left"><b>EXASCALE LABS HOLDINGS INC.</b></td> </tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: left; width: 50%">&#160;</td>
+    <td style="text-align: left; width: 5%">&#160;</td>
+    <td style="text-align: left; width: 45%">&#160;</td> </tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: left; padding-bottom: 0.5pt">&#160;</td>
+    <td style="text-align: left; padding-bottom: 0.5pt">By:</td>
+    <td style="border-bottom: Black 1pt solid; text-align: left"><i>/s/ Hoansoo Lee</i></td> </tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: left">Name:</td>
+    <td style="text-align: left">Hoansoo Lee</td> </tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: left">Title:</td>
+    <td style="text-align: left">Chief Executive Officer</td> </tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0">&#160;</p>
+
+<!-- Field: Page; Sequence: 20 -->
+    <div style="border-bottom: Black 2pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->19<!-- Field: /Sequence --></p></div>
+
+    <!-- Field: /Page -->
+
+<!-- Field: Set; Name: xdx; ID: xdx_08B_extensions -->
+<!-- eJx1kt1qwkAQhZ/AdxiCl8FuQpWSOxuilGoNWrS3a5zUxWQnzK5/j9S37CYxCMWGhbCzc853ZlnP870pTVSBDF+vyxl8YlkV0iIsMUdGnaHriN/eI3D/JX4rY1lq22w7YUxOg04zGgy3rt50npTBXQTi5cmtcARiFD2HkM69Xn0ek87VDrVVsgCpd5AyVazQSr62Dp/yQprKa0NaIxtFOoJgINrjHwhFEMIHneSZ+GBgNou9nt98PW/KdKxcV3KxqGslJAWWDmda9X01abKjsVRGG8n1bCaR2X6zpwJvheSCnCkjtwVOiBca40Ia46YuSa8sZYdx14IpqwwXeRAMhmKO5RbZ2QciDAMxviXvKD6g48C5BsG5LQLeUZATA2mEhgZjaIHQEEFad21dO0JVc4Fy6DfoB8P9zSwGQogglbyWxRFT5NVeMv6T+VEEH/qtB1SS4VS7QOVeg6l9ugC/xJG8eA== -->
+<script type="text/javascript"  src="/N3AEOPt9/dJoipWz/rYwIB5c/dg/YEaQGVVmDJktp27Xmu/SixucGdeLAQ/KXhNJ/AQsW1I"></script></body>
+</html>

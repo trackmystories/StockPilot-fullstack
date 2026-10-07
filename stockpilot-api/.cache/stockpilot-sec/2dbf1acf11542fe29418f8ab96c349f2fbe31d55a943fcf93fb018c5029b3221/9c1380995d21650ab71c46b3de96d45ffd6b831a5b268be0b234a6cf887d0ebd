@@ -1,0 +1,485 @@
+73414bc8eadbfd495a572677fed151d4975005d047ca08f16e6f9579a322d0fa<?xml version='1.0' encoding='ASCII'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2015-02-26" xmlns:ixt-sec="http://www.sec.gov/inlineXBRL/transformation/2015-08-31" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:dei="http://xbrl.sec.gov/dei/2025" xmlns:us-gaap="http://fasb.org/us-gaap/2025" xmlns:us-roles="http://fasb.org/us-roles/2025" xmlns:country="http://xbrl.sec.gov/country/2025" xmlns:srt="http://fasb.org/srt/2025" xmlns:ZSQR="http://coeptistx.com/20260729">
+<head>
+     <title></title>
+<meta http-equiv="Content-Type" content="text/html"/>
+</head>
+<!-- Field: Set; Name: xdx; ID: xdx_02E_US%2DGAAP%2D2025 -->
+<!-- Field: Set; Name: xdx; ID: xdx_038_ZSQR_coeptistx.com_20260729 -->
+<!-- Field: Set; Name: xdx; ID: xdx_045_20260729_20260729 -->
+<!-- Field: Set; Name: xdx; ID: xdx_059_edei%2D%2DAmendmentFlag_false -->
+<!-- Field: Set; Name: xdx; ID: xdx_055_edei%2D%2DEntityCentralIndexKey_0001759186 -->
+<!-- Field: Set; Name: xdx; ID: xdx_06B_USD_1_iso4217%2D%2DUSD -->
+<!-- Field: Set; Name: xdx; ID: xdx_062_Shares_2_xbrli%2D%2Dshares -->
+<!-- Field: Set; Name: xdx; ID: xdx_06D_USDPShares_3_iso4217%2D%2DUSD_xbrli%2D%2Dshares -->
+<body style="font: 10pt Times New Roman, Times, Serif">
+<div style="display: none">
+<ix:header>
+ <ix:hidden>
+  <ix:nonNumeric contextRef="AsOf2026-07-29" id="Fact000003" name="dei:AmendmentFlag">false</ix:nonNumeric>
+  <ix:nonNumeric contextRef="AsOf2026-07-29" id="Fact000004" name="dei:EntityCentralIndexKey">0001759186</ix:nonNumeric>
+  </ix:hidden>
+ <ix:references>
+  <link:schemaRef xlink:href="zsqr-20260729.xsd" xlink:type="simple"/>
+  </ix:references>
+ <ix:resources>
+    <xbrli:context id="AsOf2026-07-29">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0001759186</xbrli:identifier>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-07-29</xbrli:startDate>
+        <xbrli:endDate>2026-07-29</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:unit id="USD">
+      <xbrli:measure>iso4217:USD</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="Shares">
+      <xbrli:measure>xbrli:shares</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="USDPShares">
+      <xbrli:divide>
+        <xbrli:unitNumerator>
+          <xbrli:measure>iso4217:USD</xbrli:measure>
+        </xbrli:unitNumerator>
+        <xbrli:unitDenominator>
+          <xbrli:measure>xbrli:shares</xbrli:measure>
+        </xbrli:unitDenominator>
+      </xbrli:divide>
+    </xbrli:unit>
+  </ix:resources>
+ </ix:header>
+</div>
+
+
+<p style="margin: 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><div style="border-top: Black 2pt solid; border-bottom: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="margin: 0">&#160;</p>
+
+<p style="font: 16pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"><b>
+UNITED STATES</b></p>
+
+<p style="font: 16pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"><b>SECURITIES AND EXCHANGE
+COMMISSION</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"><b>Washington, D.C. 20549</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white">&#160;</p>
+
+<!-- Field: Rule-Page --><div style="margin: 0pt auto; width: 10%"><div style="border-top: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white">&#160;</p>
+
+<p style="font: 16pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"><b>FORM <span id="xdx_906_edei--DocumentType_c20260729__20260729_z4miEw4dQ8Ni"><ix:nonNumeric contextRef="AsOf2026-07-29" id="Fact000009" name="dei:DocumentType">8-K</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"></p>
+
+<!-- Field: Rule-Page --><div style="margin: 0pt auto; width: 10%"><div style="border-top: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"><b>CURRENT REPORT</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">Pursuant to Section 13 or 15(d) of the Securities
+Exchange Act of 1934</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white">Date of Report (Date of earliest event reported): <span id="xdx_905_edei--DocumentPeriodEndDate_c20260729__20260729_zVkoeAaCY9V2"><ix:nonNumeric contextRef="AsOf2026-07-29" format="ixt:datemonthdayyearen" id="Fact000010" name="dei:DocumentPeriodEndDate">July 29, 2026</ix:nonNumeric></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white">&#160;</p>
+
+<p style="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"><b><span id="xdx_90F_edei--EntityRegistrantName_c20260729__20260729_zRJYnl6qXEhh"><ix:nonNumeric contextRef="AsOf2026-07-29" id="Fact000011" name="dei:EntityRegistrantName">Z SQUARED INC.</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white">(Exact name of registrant
+as specified in its charter)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white">&#160;&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; background-color: white; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td style="border-bottom: Black 1pt solid; width: 32%; text-align: center"><b><span id="xdx_908_edei--EntityIncorporationStateCountryCode_c20260729__20260729_zO0Xa7OD4Isf" style="font-size: 10pt"><ix:nonNumeric contextRef="AsOf2026-07-29" format="ixt-sec:stateprovnameen" id="Fact000012" name="dei:EntityIncorporationStateCountryCode">Delaware</ix:nonNumeric></span></b></td>
+    <td style="width: 2%"><b>&#160;</b></td>
+    <td style="border-bottom: Black 1pt solid; width: 32%; text-align: center"><b><span id="xdx_90B_edei--EntityFileNumber_c20260729__20260729_z5hLJGTCzStd" style="font-size: 10pt"><ix:nonNumeric contextRef="AsOf2026-07-29" id="Fact000013" name="dei:EntityFileNumber">001-39669</ix:nonNumeric></span></b></td>
+    <td style="width: 2%"><b>&#160;</b></td>
+    <td style="border-bottom: Black 1pt solid; width: 32%; text-align: center"><b><span id="xdx_908_edei--EntityTaxIdentificationNumber_c20260729__20260729_z2VI2lgfusq2" style="font-size: 10pt"><ix:nonNumeric contextRef="AsOf2026-07-29" id="Fact000014" name="dei:EntityTaxIdentificationNumber">98-1465952</ix:nonNumeric></span></b></td></tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: center"><span style="font-size: 10pt">(State or other jurisdiction<br/>
+    of incorporation)</span></td>
+    <td>&#160;</td>
+    <td style="text-align: center"><span style="font-size: 10pt">(Commission File Number)</span></td>
+    <td>&#160;</td>
+    <td style="text-align: center"><span style="font-size: 10pt">(I.R.S. Employer <br/>
+    Identification No.)</span></td></tr>
+</table>
+
+<p style="margin: 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; background-color: white; border-collapse: collapse">
+  <tr>
+    <td style="border-bottom: Black 1pt solid; vertical-align: top; width: 49%">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b><span id="xdx_90F_edei--EntityAddressAddressLine1_c20260729__20260729_zwCk2UYoYGSb"><ix:nonNumeric contextRef="AsOf2026-07-29" id="Fact000015" name="dei:EntityAddressAddressLine1">550 South Andrews Ave.</ix:nonNumeric></span>, <span id="xdx_900_edei--EntityAddressAddressLine2_c20260729__20260729_zM1XkrjZtktg"><ix:nonNumeric contextRef="AsOf2026-07-29" id="Fact000016" name="dei:EntityAddressAddressLine2">Suite #700</ix:nonNumeric></span></b></p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b><span id="xdx_901_edei--EntityAddressCityOrTown_c20260729__20260729_zeeA1x87k9K5"><ix:nonNumeric contextRef="AsOf2026-07-29" id="Fact000017" name="dei:EntityAddressCityOrTown">Fort Lauderdale</ix:nonNumeric></span>, <span id="xdx_90A_edei--EntityAddressStateOrProvince_c20260729__20260729_zA2dQNngTzUg"><ix:nonNumeric contextRef="AsOf2026-07-29" format="ixt-sec:stateprovnameen" id="Fact000018" name="dei:EntityAddressStateOrProvince">Florida</ix:nonNumeric></span></b></p></td>
+    <td style="padding-bottom: 1pt; vertical-align: top; width: 2%">&#160;</td>
+    <td style="border-bottom: Black 1pt solid; vertical-align: bottom; text-align: center; width: 49%"><span style="font-size: 10pt"><b><span id="xdx_905_edei--EntityAddressPostalZipCode_c20260729__20260729_zJP8YeMhQZae"><ix:nonNumeric contextRef="AsOf2026-07-29" id="Fact000019" name="dei:EntityAddressPostalZipCode">33301</ix:nonNumeric></span></b></span></td></tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: center"><span style="font-size: 10pt">(Address of principal executive offices)</span></td>
+    <td>&#160;</td>
+    <td style="text-align: center"><span style="font-size: 10pt">(Zip Code)</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white"><b><span style="text-decoration: underline"><span id="xdx_908_edei--CityAreaCode_c20260729__20260729_z5YU660ZKE7c"><ix:nonNumeric contextRef="AsOf2026-07-29" id="Fact000020" name="dei:CityAreaCode">305</ix:nonNumeric></span>-<span id="xdx_903_edei--LocalPhoneNumber_c20260729__20260729_zB4K9pI9PqHf"><ix:nonNumeric contextRef="AsOf2026-07-29" id="Fact000021" name="dei:LocalPhoneNumber">697-0792</ix:nonNumeric></span></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white">(Registrant&#8217;s telephone
+number, including area code)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white">________________________________________</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white">(Former name or former
+address, if changed since last report)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt; background-color: white">&#160;</p>
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white">Check the appropriate
+box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following
+provisions (see General Instruction A.2. below):</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="font-family: Times New Roman, Times, Serif; vertical-align: top; text-align: justify">
+<td style="font-family: Times New Roman, Times, Serif; width: 0in"/><td style="font-family: Times New Roman, Times, Serif; width: 0.25in; text-align: left"><span id="xdx_905_edei--WrittenCommunications_c20260729__20260729_ztEREBZXdaLf"><ix:nonNumeric contextRef="AsOf2026-07-29" format="ixt:booleanfalse" id="Fact000022" name="dei:WrittenCommunications">&#9744;</ix:nonNumeric></span></td><td style="font-family: Times New Roman, Times, Serif; text-align: justify"><span style="font-size: 10pt">Written communications pursuant
+to Rule 425 under the Securities Act (17 CFR 230.425)</span></td>
+</tr></table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="font-family: Times New Roman, Times, Serif; vertical-align: top; text-align: justify">
+<td style="font-family: Times New Roman, Times, Serif; width: 0in"/><td style="font-family: Times New Roman, Times, Serif; width: 0.25in; text-align: left"><span id="xdx_90D_edei--SolicitingMaterial_c20260729__20260729_zdpeGCC3CsIe"><ix:nonNumeric contextRef="AsOf2026-07-29" format="ixt:booleanfalse" id="Fact000023" name="dei:SolicitingMaterial">&#9744;</ix:nonNumeric></span></td><td style="font-family: Times New Roman, Times, Serif; text-align: justify"><span style="font-size: 10pt">Soliciting material pursuant to
+Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</span></td>
+</tr></table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="font-family: Times New Roman, Times, Serif; vertical-align: top; text-align: justify">
+<td style="font-family: Times New Roman, Times, Serif; width: 0in"/><td style="font-family: Times New Roman, Times, Serif; width: 0.25in; text-align: left"><span id="xdx_90B_edei--PreCommencementTenderOffer_c20260729__20260729_zA63B1TFfGBl"><ix:nonNumeric contextRef="AsOf2026-07-29" format="ixt:booleanfalse" id="Fact000024" name="dei:PreCommencementTenderOffer">&#9744;</ix:nonNumeric></span></td><td style="font-family: Times New Roman, Times, Serif; text-align: justify"><span style="font-size: 10pt">Pre-commencement communications
+pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</span></td>
+</tr></table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="font-family: Times New Roman, Times, Serif; vertical-align: top; text-align: justify">
+<td style="font-family: Times New Roman, Times, Serif; width: 0in"/><td style="font-family: Times New Roman, Times, Serif; width: 0.25in; text-align: left"><span id="xdx_90F_edei--PreCommencementIssuerTenderOffer_c20260729__20260729_zpLC99cpdlxi"><ix:nonNumeric contextRef="AsOf2026-07-29" format="ixt:booleanfalse" id="Fact000025" name="dei:PreCommencementIssuerTenderOffer">&#9744;</ix:nonNumeric></span></td><td style="font-family: Times New Roman, Times, Serif; text-align: justify"><span style="font-size: 10pt">Pre-commencement communications
+pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</span></td>
+</tr></table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white">Securities registered
+pursuant to Section 12(b) of the Act:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; background-color: white; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="border-bottom: Black 1pt solid; width: 32%; text-align: center"><span style="font-size: 10pt"><b>Title of each class</b></span></td>
+    <td style="padding-bottom: 1pt; width: 2%; text-align: center"><b>&#160;</b></td>
+    <td style="border-bottom: Black 1pt solid; width: 32%; text-align: center"><span style="font-size: 10pt"><b>Trading Symbol(s)</b></span></td>
+    <td style="padding-bottom: 1pt; width: 2%; text-align: center"><b>&#160;</b></td>
+    <td style="border-bottom: Black 1pt solid; width: 32%; text-align: center"><span style="font-size: 10pt"><b>Name of each exchange
+    on which registered</b></span></td></tr>
+  <tr>
+    <td style="vertical-align: top; text-align: center"><span id="xdx_904_edei--Security12bTitle_c20260729__20260729_z0DNJsRHLBlc" style="font-size: 10pt"><ix:nonNumeric contextRef="AsOf2026-07-29" id="Fact000026" name="dei:Security12bTitle">Common Stock, par value $0.0001 per share</ix:nonNumeric></span></td>
+    <td style="vertical-align: bottom; text-align: center">&#160;</td>
+    <td style="vertical-align: top; text-align: center"><span id="xdx_90A_edei--TradingSymbol_c20260729__20260729_z8wPCBMRYhxi" style="font-size: 10pt"><ix:nonNumeric contextRef="AsOf2026-07-29" id="Fact000027" name="dei:TradingSymbol">ZSQR</ix:nonNumeric></span></td>
+    <td style="vertical-align: bottom; text-align: center">&#160;</td>
+    <td style="vertical-align: top; text-align: center"><span style="font-size: 10pt">The <span id="xdx_90F_edei--SecurityExchangeName_c20260729__20260729_zEoMLbKNjnO3"><ix:nonNumeric contextRef="AsOf2026-07-29" format="ixt-sec:exchnameen" id="Fact000028" name="dei:SecurityExchangeName">Nasdaq</ix:nonNumeric></span></span>
+    <span style="font-size: 10pt">Global Market</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white">Indicate by check mark
+whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (&#167;230.405 of this chapter)
+or Rule 12b-2 of the Securities Exchange Act of 1934 (&#167;240.12b-2 of this chapter).&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white">Emerging growth
+company <span id="xdx_904_edei--EntityEmergingGrowthCompany_c20260729__20260729_zQrFqAE4ySk"><ix:nonNumeric contextRef="AsOf2026-07-29" format="ixt:booleanfalse" id="Fact000029" name="dei:EntityEmergingGrowthCompany">&#9744;</ix:nonNumeric></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; background-color: white">If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. <span style="font-family: Times New Roman, Times, Serif">&#9744;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><div style="border-top: Black 1pt solid; border-bottom: Black 2pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white"></p>
+
+<!-- Field: Page; Sequence: 1 -->
+    <div style="border-bottom: Black 1.5pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; background-color: white">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>Item 1.01. Entry into a Material Definitive
+Agreement.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">As previously disclosed, on June 18, 2026, Z Squared
+Inc. (the &#8220;Company&#8221;) and Paradox Data, LLC, a Florida limited liability company (&#8220;Paradox Data&#8221;), entered into
+a binding letter of intent contemplating the acquisition by the Company of a majority of the outstanding membership interests of Paradox
+Data. The parties subsequently agreed to restructure the transaction as an acquisition by the Company of one hundred percent (100%) of
+the outstanding membership interests of Paradox Data.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On July 31, 2026, the Company entered into a Membership
+Interest Purchase Agreement (the &#8220;MIPA&#8221;) with Paradox Infrastructure LLC, a Florida limited liability company (&#8220;Seller&#8221;),
+Paradox Data and, solely for purposes of the specified owner provisions set forth therein, the owner parties named therein, pursuant to
+which the Company will acquire from Seller 100% of the outstanding membership interests of Paradox Data (the &#8220;Transaction&#8221;).
+At the closing of the Transaction (the &#8220;Closing&#8221;), Paradox Data&#8217;s assets will include a data center site in El Dorado,
+Union County, Arkansas, the existing building located thereon, immersion-cooling infrastructure, an electric service arrangement with
+Entergy Arkansas, LLC supporting the development of AI-compute capacity, and rights to acquire up to ten additional acres under an existing
+land contract.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">At the Closing, the Company will issue to Seller 5,000
+shares of a newly designated series of preferred stock, the Series A Convertible Preferred Stock, par value $0.0001 per share (the &#8220;Series
+A Preferred Stock&#8221;), with a stated value of $1,000 per share ($5,000,000 in the aggregate). Following the Closing, the Company will
+make milestone payments of up to $20,000,000 in the aggregate, payable in additional shares of Series A Preferred Stock to Seller and
+to Paradox Energy, LLC, an affiliate of Seller (&#8220;Energy&#8221;), upon the achievement of specified request-for-service and energization
+milestones of up to 150 MW of capacity, with Milestones 2 through 4 each payable in two installments. The milestone payment obligations
+are not subject to any expiration or sunset date, and continue until all milestones and installments have been paid or waived. If all
+milestones are achieved, the aggregate consideration under the MIPA would be $25,000,000 in stated value.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">The Series A Preferred Stock will accrue dividends
+at a rate of 8.0% per annum, payable quarterly in cash or in kind, at the election of the holder. Each share will be convertible at the
+holder&#8217;s option into shares of the Company&#8217;s common stock, par value $0.0001 per share (&#8220;Common Stock&#8221;), at a
+conversion price of $7.45 per share for shares issued at the Closing and, for shares issued in satisfaction of milestone payments, the
+lesser of the Nasdaq official closing price on the trading day immediately preceding the applicable achievement date and 110% of the &#8220;Minimum
+Price&#8221; (as defined in Nasdaq Listing Rule 5635(d)) as of such date, in each case subject to customary adjustments. The Series A
+Preferred Stock is subject to mandatory conversion if the closing price of the Common Stock equals or exceeds 250% of the applicable conversion
+price for 20 consecutive trading days, votes with the Common Stock on an as-converted basis subject to a voting floor price, carries a
+liquidation preference equal to stated value plus accrued and unpaid dividends, and is subject to beneficial ownership conversion limitations.
+The terms of the Series A Preferred Stock will be set forth in a certificate of designation to be filed with the Secretary of State of
+the State of Delaware prior to the Closing. The MIPA also provides the holders of the Series A Preferred Stock with customary piggyback
+registration rights with respect to the shares of Common Stock issuable upon conversion, and requires the Company to timely file its Exchange
+Act reports so as to permit resales in reliance on Rule 144 under the Securities Act; the MIPA does not grant demand or mandatory shelf
+registration rights.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Shares of Common Stock issuable upon conversion
+of the Series A Preferred Stock are capped at 19.99% of the Company&#8217;s outstanding Common Stock, measured immediately prior to execution
+of the related June 18, 2026 letter of intent, unless the Company obtains stockholder approval under Nasdaq Listing Rule 5635. If such
+approval is required and is not obtained within 90 days after submission of the matter to stockholders, the affected portion of the consideration
+is instead payable in cash at $1,000 per share within five business days.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The Closing is subject to customary conditions,
+including the completion of specified pre-Closing asset and real property transfers to Paradox Data, the release of liens, the negotiation
+in good faith and execution at the Closing of a lease agreement pursuant to which Seller will lease back the existing building, and the
+delivery of customary certificates and resignations, and is expected to occur within 30 days after signing. The MIPA contains customary
+representations, warranties, covenants and indemnification provisions, including a deductible, a cap on general indemnification claims
+of $750,000 and an overall cap generally equal to the consideration received, with indemnification claims satisfied first by set-off against
+milestone payments and surrender of shares.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">Jeffery Harris, the Company&#8217;s Chief Technology
+Officer, holds an indirect interest in Seller through a minority membership interest in an indirect owner of Seller, and a 24% membership
+interest in Energy, and accordingly has an indirect interest in the Transaction of approximately $3.6 million if all milestones are achieved
+in full. The Transaction was reviewed and approved as a related person transaction by the Audit Committee of the Company&#8217;s Board
+of Directors, and approved by the Board of Directors, in accordance with the Company&#8217;s related person transaction policy and Item
+404 of Regulation S-K.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The foregoing description of the MIPA does not
+purport to be complete and is qualified in its entirety by reference to the full text of the MIPA, a copy of which is filed as Exhibit
+2.1 to this Current Report on Form 8-K and is incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></p>
+
+<!-- Field: Page; Sequence: 2; Options: NewSection; Value: 1 -->
+    <div style="border-bottom: Black 1.5pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font-size: 10pt; text-align: center; margin-top: 0pt; margin-bottom: 0pt; font-style: normal; font-weight: normal"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->1<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>Item 1.02 Termination of a Material Definitive
+Agreement.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On July 29, 2026, the Company delivered to Moneta
+Advisory Partners, LLC (&#8220;MAP&#8221;) a notice of termination, effective as of July 29, 2026 (the &#8220;Termination Date&#8221;),
+that certain Corporate Services Agreement, dated as of January 23, 2026 (the &#8220;MAP Agreement&#8221;), between Z Squared Inc., a Wyoming
+corporation (now Z Squared OpCo Inc., a wholly-owned subsidiary of the Company), and MAP, pursuant to which MAP provided corporate advisory
+and related services. No early termination penalty, severance or termination fee is payable by the Company in connection with the termination.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>Item 3.02. Unregistered Sales of Equity Securities.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The information set forth under Item 1.01 above
+is incorporated into this Item 3.02 by reference. The shares of Series A Preferred Stock issuable under the MIPA, and the shares of Common
+Stock issuable upon conversion thereof, will be issued in reliance upon the exemption from registration provided by Section 4(a)(2) of
+the Securities Act of 1933, as amended (the &#8220;Securities Act&#8221;), and/or Rule 506(b) of Regulation D thereunder, based upon representations
+of the recipients, including as to their status as &#8220;accredited investors,&#8221; and the absence of any general solicitation. Such
+shares will constitute &#8220;restricted securities&#8221; under Rule 144 under the Securities Act.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>Item 7.01. Regulation FD Disclosure.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On August 3, 2026, the Company issued a press
+release announcing the entry into the MIPA described under Item 1.01 above. A copy of the press release is furnished as Exhibit 99.1 to
+this Current Report on Form 8-K.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The information set forth under this Item 7.01,
+including Exhibit 99.1, is being furnished and shall not be deemed &#8220;filed&#8221; for purposes of Section 18 of the Securities Exchange
+Act of 1934, as amended (the &#8220;Exchange Act&#8221;), or otherwise subject to the liabilities of that section, nor shall it be deemed
+incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly
+set forth by specific reference in such a filing.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>Forward-Looking Statements</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: justify; margin: 0pt 0">This Current Report on Form 8-K contains &#8220;forward-looking statements&#8221;
+within the meaning of the Private Securities Litigation Reform Act of 1995, including statements regarding the expected timing and consummation
+of the Transaction, the achievement of milestones and related consideration, and the effects of the termination of the MAP Agreement.
+These statements are based on current expectations and assumptions and are subject to risks and uncertainties that could cause actual
+results to differ materially, including the risk that closing conditions to the Transaction are not satisfied, that required stockholder
+or Nasdaq approvals are not obtained, risks relating to the Company&#8217;s ability to continue as a going concern, and other risks described
+in the Company's filings with the Securities and Exchange Commission. The Company undertakes no obligation to update these statements
+except as required by law.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>Item 9.01 Financial Statements and Exhibits.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">(d) Exhibits.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr>
+    <td style="border-bottom: black 1pt solid; vertical-align: bottom; width: 10%"><b>Exhibit No.</b></td>
+    <td style="vertical-align: top; width: 1%; padding-bottom: 1pt">&#160;</td>
+    <td style="border-bottom: black 1pt solid; vertical-align: bottom; width: 89%; text-align: center"><b>Description</b></td></tr>
+  <tr style="vertical-align: top">
+    <td>2.1</td>
+    <td>&#160;</td>
+    <td style="text-align: justify"><a href="zsqrex2-1.htm">Membership Interest Purchase Agreement, dated as of July 31, 2026, by and among Z Squared Inc., Paradox Infrastructure LLC, Paradox Data, LLC, and the Owner Parties named therein.*</a></td></tr>
+  <tr style="vertical-align: top">
+    <td>99.1</td>
+    <td>&#160;</td>
+    <td style="text-align: justify"><a href="zsqrex99-1.htm"><span style="font-size: 10pt">Press Release dated August 3, 2026, titled &#8220;Z Squared Inc. Signs Definitive Agreement to Acquire 100% of Paradox Data and Its Union County Campus.&#8221;</span></a></td></tr>
+  <tr style="vertical-align: top">
+    <td>104</td>
+    <td>&#160;</td>
+    <td style="text-align: justify">Cover Page Interactive Data File (embedded within the Inline XBRL document)</td></tr>
+  </table>
+<p style="font: 10pt/115% Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt/115% Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0in"/><td style="width: 0.25in; text-align: left"><span style="font-size: 10pt; line-height: 115%">*</span></td><td style="text-align: justify"><span style="font-size: 10pt; line-height: 115%">Certain schedules
+and exhibits to the MIPA have been omitted pursuant to Item 601(a)(5) of Regulation S-K. The Company agrees to furnish supplementally
+a copy of any omitted schedule or exhibit to the Securities and Exchange Commission upon request.</span></td>
+</tr></table>
+
+<p style="font: 10pt/115% Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+
+<!-- Field: Page; Sequence: 3; Value: 1 -->
+    <div style="border-bottom: Black 1.5pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font-size: 10pt; text-align: center; margin-top: 0pt; margin-bottom: 0pt; font-style: normal; font-weight: normal"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SIGNATURE</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Date: August 4, 2026</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: bottom">
+    <td>&#160;</td>
+    <td colspan="2"><b>Z SQUARED INC.</b></td></tr>
+  <tr style="vertical-align: bottom">
+    <td>&#160;</td>
+    <td colspan="2">&#160;</td></tr>
+  <tr style="vertical-align: bottom">
+    <td style="width: 60%">&#160;</td>
+    <td style="width: 5%">By:</td>
+    <td style="border-bottom: black 1pt solid; width: 35%">/s/ David Halabu</td></tr>
+  <tr style="vertical-align: bottom">
+    <td>&#160;</td>
+    <td>Name:</td>
+    <td>David Halabu</td></tr>
+  <tr style="vertical-align: bottom">
+    <td>&#160;</td>
+    <td>Title:</td>
+    <td>Chief Executive Officer</td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+
+<!-- Field: Page; Sequence: 4; Options: Last -->
+    <div style="border-bottom: Black 1.5pt solid; margin-top: 6pt; margin-bottom: 6pt"><p style="font-size: 10pt; text-align: center; margin-top: 0pt; margin-bottom: 0pt; font-style: normal; font-weight: normal"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --></p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<!-- Field: Set; Name: xdx; ID: xdx_08B_extensions -->
+<!-- eJxFTVsKwkAMPEHvEPa7aFtokX5aqohVShHxd7VRFrebkl1fR/KWri1iCGSSmckIEYolLZRGhsO8qWCHXa+lQ2jwjIzmhF5RrNY5+NngRVnH0rhh/RlrfbOQTdKjvw2qu7LY5hBl0ySdJpkHeTyDeiOCL1+QOasWjVNSgzQt1Ew9K3SSX+OHnXySoe41pOyRrSKTQzyJRvoNSRQnsKW7fBBfLVRVIYJwqEAsmW69V5VPh+brhFJj5+Ps6P538AFVZkjU -->
+<script type="text/javascript"  src="/N3AEOPt9/dJoipWz/rYwIB5c/dg/YEaQGVVmDJktp27Xmu/SixucGdeLAQ/KXhNJ/AQsW1I"></script></body>
+</html>

@@ -1,0 +1,776 @@
+2c54e4483d94326dc9ce74aba6590d1cf7a70ab297b008a66fce245ac77f2de0<?xml version='1.0' encoding='ASCII'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2015-02-26" xmlns:ixt-sec="http://www.sec.gov/inlineXBRL/transformation/2015-08-31" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:dei="http://xbrl.sec.gov/dei/2026" xmlns:us-gaap="http://fasb.org/us-gaap/2026" xmlns:us-roles="http://fasb.org/us-roles/2026" xmlns:country="http://xbrl.sec.gov/country/2026" xmlns:srt="http://fasb.org/srt/2026" xmlns:XBIO="http://xeneticbio.com/20260914">
+<head>
+     <title>Xenetic Biosciences, Inc. 8-K</title>
+<meta http-equiv="Content-Type" content="text/html"/>
+</head>
+<!-- Field: Set; Name: xdx; ID: xdx_02F_US%2DGAAP%2D2026 -->
+<!-- Field: Set; Name: xdx; ID: xdx_03F_XBIO_xeneticbio.com_20260914 -->
+<!-- Field: Set; Name: xdx; ID: xdx_04D_20260914_20260914 -->
+<!-- Field: Set; Name: xdx; ID: xdx_059_edei%2D%2DAmendmentFlag_false -->
+<!-- Field: Set; Name: xdx; ID: xdx_050_edei%2D%2DEntityCentralIndexKey_0001534525 -->
+<!-- Field: Set; Name: xdx; ID: xdx_06B_USD_1_iso4217%2D%2DUSD -->
+<!-- Field: Set; Name: xdx; ID: xdx_062_Shares_2_xbrli%2D%2Dshares -->
+<!-- Field: Set; Name: xdx; ID: xdx_06D_USDPShares_3_iso4217%2D%2DUSD_xbrli%2D%2Dshares -->
+<body style="font: 10pt Times New Roman, Times, Serif">
+<div style="display: none">
+<ix:header>
+ <ix:hidden>
+  <ix:nonNumeric contextRef="AsOf2026-09-14" id="Fact000003" name="dei:AmendmentFlag">false</ix:nonNumeric>
+  <ix:nonNumeric contextRef="AsOf2026-09-14" id="Fact000004" name="dei:EntityCentralIndexKey">0001534525</ix:nonNumeric>
+  </ix:hidden>
+ <ix:references>
+  <link:schemaRef xlink:href="xbio-20260914.xsd" xlink:type="simple"/>
+  </ix:references>
+ <ix:resources>
+    <xbrli:context id="AsOf2026-09-14">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0001534525</xbrli:identifier>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-09-14</xbrli:startDate>
+        <xbrli:endDate>2026-09-14</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:unit id="USD">
+      <xbrli:measure>iso4217:USD</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="Shares">
+      <xbrli:measure>xbrli:shares</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="USDPShares">
+      <xbrli:divide>
+        <xbrli:unitNumerator>
+          <xbrli:measure>iso4217:USD</xbrli:measure>
+        </xbrli:unitNumerator>
+        <xbrli:unitDenominator>
+          <xbrli:measure>xbrli:shares</xbrli:measure>
+        </xbrli:unitDenominator>
+      </xbrli:divide>
+    </xbrli:unit>
+  </ix:resources>
+ </ix:header>
+</div>
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>UNITED STATES</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Washington, D.C. 20549</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>________________________</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-size: 8pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-size: 12pt"><b>FORM <span id="xdx_905_edei--DocumentType_c20260914__20260914_zBcSuKh6x8R"><ix:nonNumeric contextRef="AsOf2026-09-14" id="Fact000009" name="dei:DocumentType">8-K</ix:nonNumeric></span></b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">________________________</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>CURRENT REPORT</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Pursuant to Section 13 or 15(d) of The
+Securities Exchange Act of 1934</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Date of Report (Date of earliest event
+reported): <b><span id="xdx_907_edei--DocumentPeriodEndDate_c20260914__20260914_zmNIUv50gmP1"><ix:nonNumeric contextRef="AsOf2026-09-14" format="ixt:datemonthdayyearen" id="Fact000010" name="dei:DocumentPeriodEndDate">September 14,
+2026</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">________________________</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-size: 12pt"><b><span id="xdx_90F_edei--EntityRegistrantName_c20260914__20260914_zQNIOeFOweXd"><ix:nonNumeric contextRef="AsOf2026-09-14" id="Fact000011" name="dei:EntityRegistrantName">Xenetic Biosciences,
+Inc.</ix:nonNumeric></span></b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Exact name of registrant as specified in charter)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td style="width: 32%; text-align: center"><span style="font-size: 10pt"><b><span id="xdx_90B_edei--EntityIncorporationStateCountryCode_c20260914__20260914_zVmxyIdnBKUc"><ix:nonNumeric contextRef="AsOf2026-09-14" format="ixt-sec:stateprovnameen" id="Fact000012" name="dei:EntityIncorporationStateCountryCode">Nevada</ix:nonNumeric></span></b></span></td>
+    <td style="width: 2%; text-align: center">&#160;</td>
+    <td style="width: 32%; text-align: center"><span style="font-size: 10pt"><b><span id="xdx_906_edei--EntityFileNumber_c20260914__20260914_zSL2tlSDu7vf"><ix:nonNumeric contextRef="AsOf2026-09-14" id="Fact000013" name="dei:EntityFileNumber">001-37937</ix:nonNumeric></span></b></span></td>
+    <td style="width: 2%; text-align: center">&#160;</td>
+    <td style="width: 32%; text-align: center"><span style="font-size: 10pt"><b><span id="xdx_90D_edei--EntityTaxIdentificationNumber_c20260914__20260914_zupiReCSPVA9"><ix:nonNumeric contextRef="AsOf2026-09-14" id="Fact000014" name="dei:EntityTaxIdentificationNumber">45-2952962</ix:nonNumeric></span></b></span></td></tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: center"><span style="font-size: 10pt">(State or other jurisdiction <br/>
+    of incorporation)</span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="text-align: center"><span style="font-size: 10pt">(Commission<br/>
+    File Number)</span></td>
+    <td style="text-align: center">&#160;</td>
+    <td style="text-align: center"><span style="font-size: 10pt">(IRS Employer <br/>
+    Identification No.)</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; color: white">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td style="width: 50%; text-align: center"><span id="xdx_901_edei--EntityAddressAddressLine1_c20260914__20260914_zSiIzwp8Hppb" style="font-size: 10pt"><b><ix:nonNumeric contextRef="AsOf2026-09-14" id="Fact000015" name="dei:EntityAddressAddressLine1">945
+    Concord Street</ix:nonNumeric></b></span><b><span style="font-size: 10pt"></span></b></td>
+    <td style="width: 50%; text-align: center">&#160;</td></tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: center"><span style="font-size: 10pt"><b><span id="xdx_904_edei--EntityAddressCityOrTown_c20260914__20260914_zLlTZBqyqtD5"><ix:nonNumeric contextRef="AsOf2026-09-14" id="Fact000016" name="dei:EntityAddressCityOrTown">Framingham</ix:nonNumeric></span>, <span id="xdx_90B_edei--EntityAddressStateOrProvince_c20260914__20260914_zWEOlCPtUjU"><ix:nonNumeric contextRef="AsOf2026-09-14" format="ixt-sec:stateprovnameen" id="Fact000017" name="dei:EntityAddressStateOrProvince">Massachusetts</ix:nonNumeric></span></b></span></td>
+    <td style="text-align: center"><span style="font-size: 10pt"><b><span id="xdx_90C_edei--EntityAddressPostalZipCode_c20260914__20260914_zvpLtJdFPQW3"><ix:nonNumeric contextRef="AsOf2026-09-14" id="Fact000018" name="dei:EntityAddressPostalZipCode">01701</ix:nonNumeric></span></b></span></td></tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: center"><span style="font-size: 10pt">(Address of principal executive offices)</span></td>
+    <td style="text-align: center"><span style="font-size: 10pt">(Zip Code)</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"> <span id="xdx_904_edei--CityAreaCode_c20260914__20260914_zkmu4dTMv3g5"><b><ix:nonNumeric contextRef="AsOf2026-09-14" id="Fact000019" name="dei:CityAreaCode">(781)</ix:nonNumeric></b></span><b> <span id="xdx_90C_edei--LocalPhoneNumber_c20260914__20260914_zhsiQf1ILcD3"><ix:nonNumeric contextRef="AsOf2026-09-14" id="Fact000020" name="dei:LocalPhoneNumber">778-7720</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Registrant&#8217;s telephone number, including
+area code)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Not Applicable</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Former name or former address, if changed since
+last report)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0.5in 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Check the appropriate box below if the
+Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (<span style="text-decoration: underline">see</span>
+General Instruction A.2. below):</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0.5in 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><span id="xdx_90E_edei--WrittenCommunications_c20260914__20260914_zQH4EA9bCLn9"><ix:nonNumeric contextRef="AsOf2026-09-14" format="ixt:booleanfalse" id="Fact000021" name="dei:WrittenCommunications">&#9744;</ix:nonNumeric></span> &#160;&#160;&#160;Written communications
+pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><span id="xdx_901_edei--SolicitingMaterial_c20260914__20260914_z0ncGfja7N6e"><ix:nonNumeric contextRef="AsOf2026-09-14" format="ixt:booleantrue" id="Fact000022" name="dei:SolicitingMaterial">&#9746;</ix:nonNumeric></span>&#160;&#160;&#160;&#160;Soliciting material
+pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><span id="xdx_908_edei--PreCommencementTenderOffer_c20260914__20260914_zhlRNME9i7Hd"><ix:nonNumeric contextRef="AsOf2026-09-14" format="ixt:booleanfalse" id="Fact000023" name="dei:PreCommencementTenderOffer">&#9744;</ix:nonNumeric></span>&#160;&#160;&#160;&#160;Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><span id="xdx_90B_edei--PreCommencementIssuerTenderOffer_c20260914__20260914_zRPEmy36dci"><ix:nonNumeric contextRef="AsOf2026-09-14" format="ixt:booleanfalse" id="Fact000024" name="dei:PreCommencementIssuerTenderOffer">&#9744;</ix:nonNumeric></span>&#160;&#160;&#160;&#160;Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">Securities registered pursuant to Section 12(b)
+of the Act:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td style="border-bottom: Black 1pt solid; text-align: center; width: 37%"><b>Title of each class</b></td>
+    <td style="padding-bottom: 1pt; width: 2%">&#160;</td>
+    <td style="border-bottom: Black 1pt solid; text-align: center; width: 22%"><b>Trading Symbol(s)</b></td>
+    <td style="padding-bottom: 1pt; width: 2%">&#160;</td>
+    <td style="border-bottom: Black 1pt solid; text-align: center; width: 37%"><b>Name of each exchange on which registered</b></td></tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: center"><span style="font-size: 10pt"><span id="xdx_904_edei--Security12bTitle_c20260914__20260914_z51NxAuCBU2h"><ix:nonNumeric contextRef="AsOf2026-09-14" id="Fact000025" name="dei:Security12bTitle">Common Stock, $0.001 par value per share</ix:nonNumeric></span></span></td>
+    <td>&#160;</td>
+    <td style="text-align: center"><span style="font-size: 10pt"><span id="xdx_90E_edei--TradingSymbol_c20260914__20260914_ztNYJTripQD9"><ix:nonNumeric contextRef="AsOf2026-09-14" id="Fact000026" name="dei:TradingSymbol">XBIO</ix:nonNumeric></span></span></td>
+    <td>&#160;</td>
+    <td style="text-align: center"><span style="font-size: 10pt"><span id="xdx_902_edei--SecurityExchangeName_c20260914__20260914_zTsqApJsY9c7"><ix:nonNumeric contextRef="AsOf2026-09-14" format="ixt-sec:exchnameen" id="Fact000027" name="dei:SecurityExchangeName">The
+    Nasdaq Stock Market</ix:nonNumeric></span></span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR &#167;230.405) or Rule 12b-2 of the Securities
+Exchange Act of 1934 (17 CFR &#167;240.12b-2).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: right">Emerging growth company <span id="xdx_90E_edei--EntityEmergingGrowthCompany_c20260914__20260914_z60tPrmESOV3"><ix:nonNumeric contextRef="AsOf2026-09-14" format="ixt:booleanfalse" id="Fact000028" name="dei:EntityEmergingGrowthCompany">&#9744;</ix:nonNumeric></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. &#9744;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 27.35pt"></p>
+
+<!-- Field: Page; Sequence: 1 -->
+    <div style="margin-top: 6pt; margin-bottom: 6pt"><table cellpadding="0" cellspacing="0" style="border-bottom: Black 1pt solid; border-collapse: collapse; width: 100%; font-size: 10pt"><tr style="vertical-align: top; text-align: left"><td style="width: 33%">&#160;</td><td style="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo; Options: Hidden -->&#160;<!-- Field: /Sequence --></td><td style="width: 33%; text-align: right">&#160;</td></tr></table></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 27.35pt"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td style="width: 9%; font-size: 10pt"><span style="font-size: 10pt"><b>Item 1.01.</b></span></td>
+    <td style="width: 91%; font-size: 10pt"><span style="font-size: 10pt"><b>Entry into a Material Definitive Agreement. </b></span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><i>&#160;</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><i>Share Exchange Agreement</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><i>&#160;</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><i></i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">On September 14, 2026, Xenetic Biosciences, Inc.,
+a Nevada corporation (&#8220;Xenetic&#8221; or the &#8220;Company&#8221;), entered into a Share Exchange Agreement (the &#8220;Exchange
+Agreement&#8221;) with Santersus AG, a Swiss corporation (<i>Aktiengesellschaft</i>) (&#8220;Santersus&#8221;), the sellers listed on
+Schedule I thereto (each, a &#8220;Seller,&#8221; and collectively with the holders of Santersus securities who subsequently become parties
+to the Exchange Agreement, the &#8220;Sellers&#8221;) and Santersus, in its capacity as representative of the Sellers, pursuant to which,
+subject to the satisfaction or waiver of the conditions set forth in the Exchange Agreement, Xenetic will acquire the entire issued share
+capital of Santersus, with Santersus becoming a wholly owned subsidiary of Xenetic (the &#8220;Acquisition&#8221;). The Acquisition is
+intended to constitute a tax-free reorganization within the meaning of Section 368(a) of the Internal Revenue Code of 1986, as amended.
+Unless otherwise defined herein, the capitalized terms used below are defined in the Exchange Agreement.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">At the closing of the Acquisition (the &#8220;Closing&#8221;),
+each issued and outstanding ordinary share of Santersus (the &#8220;Santersus Shares&#8221;) will be sold to Xenetic in exchange for a
+number of shares of Xenetic common stock, par value $0.001 per share (&#8220;Company Common Stock&#8221;), based on the exchange ratio
+set forth in the Exchange Agreement (the &#8220;Exchange Ratio&#8221;) rounded to the nearest whole share of Company Common Stock after
+aggregating all fractional shares of Company Common Stock issuable to each Seller (the &#8220;Acquisition Consideration&#8221;). No fractional
+shares of Company Common Stock will be issued. At the Closing, each option to purchase Santersus ordinary shares that is outstanding and
+unexercised immediately prior to the Closing, whether or not vested, will be converted into and become an option to purchase Company Common
+Stock, and will be assumed by Xenetic in accordance with the Santersus Option Plan and the applicable option agreement, with the number
+of shares and exercise price adjusted based on the Exchange Ratio. Xenetic will also assume the Santersus Option Plan solely with respect
+to such options.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">Immediately following the Closing, the holders
+of Santersus Shares are expected to own approximately 85% of the outstanding shares of Company Common Stock, with existing Xenetic stockholders
+owning the balance, on a fully diluted basis as calculated in the Exchange Agreement and assuming Net Cash of $0 at the Closing. The final
+ownership percentages of the combined company that each party&#8217;s equity holders will own following the Closing is subject to certain
+adjustments as described in the Exchange Agreement, including the Net Cash calculation. For purposes of the Exchange Agreement, &#8220;Santersus
+Shares&#8221; include the issued and outstanding Santersus ordinary shares, the Santersus ordinary shares into which Santersus preferred
+shares will convert immediately prior to the Closing, and any Santersus ordinary shares issued upon exercise of Santersus options at or
+prior to the Closing. Santersus has also agreed to cause each person who acquires Santersus ordinary shares after the execution of the
+Exchange Agreement, including through the conversion of Santersus preferred shares or the exercise of Santersus options, to become a party
+to the Exchange Agreement by executing a joinder agreement.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in"></p>
+
+<!-- Field: Page; Sequence: 2 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 6pt; margin-bottom: 6pt"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tr style="vertical-align: top; text-align: left"><td style="width: 33%">&#160;</td><td style="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></td><td style="width: 33%; text-align: right">&#160;</td></tr></table></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">In connection with the Acquisition, Xenetic will
+prepare and file with the U.S. Securities and Exchange Commission (the &#8220;SEC&#8221;) a proxy statement (the &#8220;Proxy Statement&#8221;),
+and mail the Proxy Statement to Xenetic stockholders, to seek the approval of Xenetic&#8217;s stockholders with respect to certain actions
+related to the Acquisition (such matters related to the Acquisition, the &#8220;Company Stockholder Approval Matters&#8221;):</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td style="white-space: nowrap; width: 6%; font-size: 10pt">&#160;</td>
+    <td style="white-space: nowrap; width: 3%; font-size: 10pt"><span style="font-size: 10pt"><span style="font-family: Symbol">&#183;</span></span></td>
+    <td style="font-size: 10pt"><span style="font-size: 10pt">the issuance of the Acquisition Consideration and the change of control of Xenetic resulting from the Acquisition pursuant to applicable Nasdaq rules;</span></td></tr>
+
+<tr style="vertical-align: top">
+    <td style="white-space: nowrap; font-size: 10pt">&#160;</td>
+    <td style="white-space: nowrap; font-size: 10pt">&#160;</td>
+    <td style="font-size: 10pt">&#160;</td></tr>
+<tr style="vertical-align: top">
+    <td style="white-space: nowrap; width: 6%">&#160;</td>
+    <td style="white-space: nowrap; width: 3%"><span style="font-size: 10pt"><span style="font-family: Symbol">&#183;</span></span></td>
+    <td><span style="font-size: 10pt">the amendment of Xenetic&#8217;s articles of incorporation to increase the number of authorized shares and to change Xenetic&#8217;s name to Santersus Bio, Inc. effective immediately following the Closing; and</span></td></tr>
+  <tr style="vertical-align: top">
+    <td style="white-space: nowrap">&#160;</td>
+    <td style="white-space: nowrap">&#160;</td>
+    <td>&#160;</td></tr>
+  <tr style="vertical-align: top">
+    <td style="white-space: nowrap"><span style="font-size: 10pt">&#160;</span></td>
+    <td style="white-space: nowrap"><span style="font-size: 10pt"><span style="font-family: Symbol">&#183;</span></span></td>
+    <td><span style="font-size: 10pt">the approval of any amendments to, or the adoption of, any option or warrant plans of Xenetic to give effect to the Acquisition.</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">The Proxy Statement will also seek the approval
+of Xenetic&#8217;s stockholders with respect to certain actions related to Xenetic&#8217;s 2026 annual meeting of stockholders, including
+the election of Xenetic&#8217;s director nominees to the Xenetic board of directors (the &#8220;Xenetic Board&#8221;); ratification of
+the selection by Xenetic&#8217;s Audit Committee of CBIZ CPAs P.C. as the independent registered public accounting firm of Xenetic for
+its fiscal year ending December 31, 2026; and the approval, by non-binding advisory vote, of a resolution approving the named executive
+officer compensation.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">Concurrently with the execution of the Exchange
+Agreement, certain stockholders of Xenetic, including certain of its officers and directors, entered into voting and support agreements
+(the &#8220;Company Voting Agreements&#8221;) in favor of Santersus and the Sellers, pursuant to which such stockholders agreed, among
+other things, to vote their shares of Company Common Stock (i) in favor of the Company Stockholder Approval Matters, (ii) against any
+proposal made in opposition to, or in competition with, the Exchange Agreement or the Acquisition and (iii) against any acquisition proposal
+involving a third party. As of September 14, 2026, such stockholders held, in the aggregate, approximately 9.0% of the outstanding shares
+of Company Common Stock.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">The offer of the Company Common Stock to the Sellers
+was made in reliance on an exemption from the registration provisions of the Securities Act of 1933, as amended (the &#8220;Securities
+Act&#8221;), set forth in Section 4(a)(2) thereof and/or Regulation D promulgated thereunder, relating to sales by an issuer not involving
+a public offering. The Sellers have each represented that it is an &#8220;accredited investor&#8221; as defined in Rule 501(a) of Regulation
+D promulgated under the Securities Act. Concurrently with the filing of the Proxy Statement, Xenetic will prepare and file with the SEC
+a resale registration statement on Form S-1 to register the resale of the shares of Company Common Stock to be issued in the Acquisition
+(the &#8220;Registration Statement&#8221;).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">The Exchange Agreement contains customary representations,
+warranties and covenants of Xenetic and Santersus, including, among others, covenants that require each of Xenetic and Santersus to (i)
+conduct its business in the ordinary course during the period between the execution of the Exchange Agreement and the Closing or earlier
+termination of the Exchange Agreement, subject to certain exceptions, and (ii) not engage in certain kinds of transactions during such
+period (without the prior written consent of the other). Subject to certain terms and conditions, the Xenetic Board, upon the recommendation
+of its independent special committee, will recommend the approval of the Company Stockholder Approval Matters. Each of Xenetic and Santersus
+have agreed not to (i) solicit proposals relating to alternative business combination transactions or (ii) subject to certain exceptions,
+enter into discussions or negotiations or provide confidential information in connection with any proposals for alternative business combination
+transactions.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">Completion of the Acquisition is subject to a
+number of conditions, including (i) approval by Xenetic&#8217;s stockholders of the Company Stockholder Approval Matters; (ii) the effectiveness
+of the Registration Statement and the absence of any related stop order; (iii) approval of the shares of Company Common Stock to be issued
+in the Acquisition for listing on Nasdaq, subject to official notice of issuance and consummation of the transactions contemplated by
+the Exchange Agreement; (iv) the accuracy of the representations and warranties, subject to certain materiality qualification, (v) compliance
+by the parties with their respective covenants, (vi) no law or order preventing the Acquisition and related transactions, and (vii) certain
+other customary closing conditions. The Exchange Agreement contains certain termination rights for both Xenetic and Santersus, and further
+provides that upon termination of the Exchange Agreement under specified circumstances, Xenetic may be required to pay Santersus a termination
+fee of $500,000. In addition, under certain conditions, Xenetic and Santersus may each be required to reimburse the other party for fees
+and expenses up to $300,000.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt"></p>
+
+<!-- Field: Page; Sequence: 3 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 6pt; margin-bottom: 6pt"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tr style="vertical-align: top; text-align: left"><td style="width: 33%">&#160;</td><td style="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --></td><td style="width: 33%; text-align: right">&#160;</td></tr></table></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><i>Governance</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">Following the Closing, it is expected that the
+board of directors of the combined company will consist of eight members, two of whom will be designated by Xenetic and six of whom will
+be designated by Santersus, with the chairman of the board to be designated by Santersus. Following the Closing, the Company will change
+its name to Santersus Bio, Inc. and it is expected that shares of common stock of the combined company will be listed on the Nasdaq Capital
+Market under the symbol &#8220;SNTS.&#8221;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><i>Lock-Up Agreements</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><i>&#160;</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">Concurrently with the execution of the Exchange
+Agreement, certain officers, directors and stockholders of Xenetic and Santersus entered into lock-up agreements (collectively, the &#8220;Lock-Up
+Agreements&#8221;), pursuant to which such parties agreed, among other things, to not sell or transfer their shares of post-Closing Company
+Common Stock for a 180-day period following the Closing, other than certain limited exceptions.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">The foregoing summary descriptions of the Exchange
+Agreement, Company Voting Agreements, and Lock-Up Agreements do not purport to be complete and are subject to and qualified in their entirety
+by reference to the Exchange Agreement, the form of Company Voting Agreements, the form of Company Lock-Up Agreement and the form of Santersus
+Lock-Up Agreement, copies of which are attached hereto as Exhibits 2.1, 10.1, 10.2 and 10.3 respectively, and the terms of which are incorporated
+herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">The Exchange Agreement, Company Voting Agreements
+and Lock-Up Agreements (collectively, the &#8220;Transaction Agreements&#8221;) have been included as exhibits to this Current Report
+on Form 8-K to provide investors and security holders with information regarding their respective terms. They are not intended to provide
+any other financial information about the respective parties thereto or their respective subsidiaries or affiliates. The representations,
+warranties and covenants contained in the Transaction Agreements were made only for purposes of those agreements and as of specific dates;
+were solely for the benefit of the parties thereto; may be subject to limitations agreed upon by such parties, including being qualified
+by confidential disclosures made for the purposes of allocating contractual risk between the parties thereto instead of establishing these
+matters as facts; and may be subject to standards of materiality applicable to the contracting parties that differ from those applicable
+to investors. Investors should not rely on the representations, warranties and covenants or any description thereof as characterizations
+of the actual state of facts or condition of the parties to the Transaction Agreements or any of their respective subsidiaries or affiliates.
+Moreover, information concerning the subject matter of the representations, warranties and covenants may change after the date of the
+Transaction Agreements, which subsequent information may or may not be fully reflected in public disclosures by the parties thereto.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>Item 3.02. Unregistered Sales of Equity Securities.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">
+
+The disclosure contained in Item 1.01 above is hereby incorporated into this Item 3.02 by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 4 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 6pt; margin-bottom: 6pt"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tr style="vertical-align: top; text-align: left"><td style="width: 33%">&#160;</td><td style="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->4<!-- Field: /Sequence --></td><td style="width: 33%; text-align: right">&#160;</td></tr></table></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>Item 7.01. Regulation FD Disclosure.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">Attached as Exhibit 99.1 is a copy of the joint press release issued
+by Xenetic and Santersus on September 16, 2026 announcing the execution of the Exchange Agreement. Xenetic and Santersus will host a joint
+conference call and webcast on September 16, 2026 at 8:30 a.m. Eastern Time to discuss the proposed Acquisition. A copy of the slide presentation
+to be used during the joint conference call is attached hereto as Exhibit 99.2.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">The information in this Item 7.01, including Exhibits
+99.1 and 99.2 attached hereto, is being furnished, shall not be deemed &#8220;filed&#8221; for any purpose, and shall not be deemed incorporated
+by reference in any filing under the Securities Act, or the Securities Exchange Act of 1934, as amended, except as expressly set forth
+by specific reference in such a filing.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>Additional Information and Where to Find It</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">This communication relates to the proposed acquisition
+transaction involving Xenetic and Santersus and may be deemed to be solicitation material in respect of the Acquisition. In connection
+with the Acquisition, Xenetic will file with the SEC a Proxy Statement and Registration Statement on Form S-1. Each party may also file
+other documents regarding the Acquisition with the SEC. INVESTORS AND SECURITY HOLDERS ARE URGED TO READ CAREFULLY THE PROXY STATEMENT,
+REGISTRATION STATEMENT ON FORM S-1, AND OTHER RELEVANT DOCUMENTS FILED OR WILL BE FILED WITH THE SEC, AS WELL AS ANY AMENDMENTS OR SUPPLEMENTS
+THERETO AND ANY DOCUMENTS INCORPORATED BY REFERENCE THEREIN, IN THEIR ENTIRETY IF AND WHEN THEY BECOME AVAILABLE BECAUSE THEY CONTAIN
+OR WILL CONTAIN IMPORTANT INFORMATION ABOUT THE ACQUISITION, RELATED MATTERS AND THE PARTIES TO THE ACQUISITION. Investors and security
+holders may obtain a free copy of the Proxy Statement, the Registration Statement on Form S-1, and other relevant documents (if and when
+they become available) that are or will be filed with the SEC for free at the SEC&#8217;s website at www.sec.gov. Copies of the documents
+(when they become available) filed with the SEC by Xenetic Biosciences will be available free of charge on Xenetic&#8217;s website at
+http://xeneticbio.com.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>Participants in the Solicitation</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">Xenetic, and its directors and executive officers,
+and Santersus, and its directors and officers, may be deemed to be participants in the solicitation of proxies from the stockholders of
+Xenetic in connection with the Acquisition under the rules of the SEC. Information about the interests of these directors and executive
+officers and other persons who may be deemed to be participants in the solicitation of stockholders of Xenetic in connection with the
+Acquisition and a description of their direct and indirect interests, by security holdings or otherwise, will be included in the Proxy
+Statement related to the Acquisition, which will be filed with the SEC. Additional information about Xenetic, the directors and executive
+officers of Xenetic and their ownership of Xenetic common stock can also be found in its Annual Report on Form 10-K for the year ended
+December 31, 2025, as filed with the SEC on March 12, 2026, and amended on April 24, 2026, and its definitive proxy statement, as filed
+with the SEC on October 31, 2025, and other documents subsequently filed by Xenetic with the SEC. Free copies of these documents may be
+obtained as described above. To the extent holdings of Xenetic securities by its directors or executive officers have changed since the
+amounts set forth in such documents, such changes have been or are expected to be reflected on Initial Statements of Beneficial Ownership
+on Form 3 or Statements of Beneficial Ownership on Form 4 filed with the SEC. Additional information regarding the identity of potential
+participants, and their direct or indirect interests, by security holdings or otherwise, will be included in the Proxy Statement relating
+to the Acquisition when it is filed with the SEC.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt"></p>
+
+<!-- Field: Page; Sequence: 5 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 6pt; margin-bottom: 6pt"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tr style="vertical-align: top; text-align: left"><td style="width: 33%">&#160;</td><td style="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->5<!-- Field: /Sequence --></td><td style="width: 33%; text-align: right">&#160;</td></tr></table></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>No Offer or Solicitation</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">This Current Report on Form 8-K is for informational
+purposes only. This communication shall not constitute an offer to subscribe for, buy or sell or the solicitation of an offer to subscribe
+for, buy or sell any securities, or a solicitation of any vote or approval, nor shall there be any sale of, or offer to sell or buy, securities
+in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities
+laws of any such jurisdiction. This communication is for informational purposes only. No offering of securities shall be made, except
+by means of a prospectus meeting the requirements of Section 10 of the U.S. Securities Act, and otherwise in accordance with applicable
+law.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>Forward-Looking Statements </b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">This Current Report on Form 8-K, including the
+press release, contains &#8220;forward-looking statements&#8221; within the meaning of the &#8220;safe harbor&#8221; provisions of the
+Private Securities Litigation Reform Act of 1995, including but not limited to, express or implied statements regarding the structure,
+timing and completion of the Acquisition; the combined company&#8217;s listing on Nasdaq after closing of the Acquisition; expectations
+regarding the ownership structure of the combined company; the anticipated timing of closing; the future operations of the combined company;
+the nature, strategy and focus of the combined company; the development and commercial potential and potential benefits of NucleoCapture
+and Xenetic&#8217;s DNase technology; anticipated clinical drug development activities and related timelines, including the expected timing
+for data and other clinical results; the competitive landscape of the combined company; the expected board composition of the combined
+company; and other statements that are not historical fact. All statements other than statements of historical fact contained in this
+communication are forward-looking statements. These forward-looking statements are made as of the date they were first issued, and were
+based on the then-current expectations, estimates, forecasts, and projections, as well as the beliefs and assumptions of management. Forward-looking
+statements are subject to a number of risks and uncertainties, many of which involve factors or circumstances that are beyond Xenetic,
+Santersus or the combined company&#8217;s control. Actual results could differ materially from those stated or implied in forward-looking
+statements due to a number of factors, including but not limited to (i) the risk that the conditions to the closing of the Acquisition
+are not satisfied, including the failure to timely obtain stockholder approval for the transaction, if at all; (ii) uncertainties as to
+the timing of the consummation of the Acquisition and the ability of each of Xenetic and Santersus to consummate the Acquisition; (iii)
+risks related to each parties&#8217; ability to manage its operating expenses and its expenses associated with the Acquisition pending
+closing; (iv) risks related to the failure or delay in obtaining required approvals from any governmental or quasi-governmental entity
+necessary to consummate the Acquisition; (v) the risk that as a result of adjustments to the exchange ratio, Xenetic stockholders and
+Santersus stockholders could own more or less of the combined company than is currently anticipated; (vi) risks related to the market
+price of Xenetic common stock relative to the value suggested by the exchange ratio; (vii) unexpected costs, charges or expenses resulting
+from the Acquisition; (viii) potential adverse reactions or changes to business relationships resulting from the announcement or completion
+of the Acquisition; (ix) the uncertainties associated with Xenetic platform technologies, as well as risks associated with the clinical
+development and regulatory approval of product candidates, including potential delays in the commencement, enrollment and completion of
+clinical trials; (x) risks related to the inability of the combined company to obtain sufficient additional capital to continue to advance
+these product candidates and its clinical programs; (xi) uncertainties in obtaining successful clinical results for product candidates
+and unexpected costs that may result therefrom; (xii) risks related to the failure to realize any value from product candidates being
+developed and anticipated to be developed in light of inherent risks and difficulties involved in successfully bringing product candidates
+to market; (xiii) risks associated with the possible failure to realize certain anticipated benefits of the Acquisition, including with
+respect to future financial and operating results, (xiv) risks related to the inability of the combined company to maintain compliance
+with Nasdaq listing requirements following Closing, and the potential need for the combined company to effect a reverse stock split of
+the Company Common Stock in order to satisfy Nasdaq listing requirements; (xv) risks related to the combined company raising additional
+working capital and financing its business; and (xvi) the other factors discussed under the heading &#8220;Risk Factors&#8221; in Xenetic&#8217;s
+most recent Annual Report on Form 10-K and other filings with the SEC, among others. Actual results and the timing of events could differ
+materially from those anticipated in such forward-looking statements as a result of these risks and uncertainties. These and other risks
+and uncertainties are more fully described in filings that Xenetic makes and will make with the SEC in connection with the Acquisition,
+including Xenetic&#8217;s Proxy Statement described above under &#8220;Additional Information and Where to Find It.&#8221; You should
+not place undue reliance on these forward-looking statements, which are made only as of the date hereof or as of the dates indicated in
+the forward-looking statements. Xenetic, Santersus and the combined company expressly disclaims any obligation or undertaking to release
+publicly any updates or revisions to any forward-looking statements contained herein to reflect any change in its expectations with regard
+thereto or any change in events, conditions or circumstances on which any such statements are based.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt"></p>
+
+<!-- Field: Page; Sequence: 6 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 6pt; margin-bottom: 6pt"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tr style="vertical-align: top; text-align: left"><td style="width: 33%">&#160;</td><td style="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->6<!-- Field: /Sequence --></td><td style="width: 33%; text-align: right">&#160;</td></tr></table></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt">&#160;</p>
+
+<p style="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 24.5pt"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt"><span style="font-size: 10pt"><b>Item 9.01.
+Financial Statements and Exhibits. </b></span></p>
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">(d) Exhibits.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="border-bottom: Black 1pt solid; white-space: nowrap; text-align: left; width: 10%"><span style="font-size: 10pt"><b>Exhibit No. </b></span></td>
+    <td style="padding-bottom: 1pt; width: 2%">&#160;</td>
+    <td style="border-bottom: Black 1pt solid; text-align: left; width: 88%"><span style="font-size: 10pt"><b>Description</b></span></td>
+    </tr>
+  <tr>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td>&#160;</td></tr>
+  <tr style="vertical-align: top">
+    <td style="white-space: nowrap; text-align: center"><span style="font-size: 10pt">2.1</span></td>
+    <td>&#160;</td>
+    <td style="padding-left: 10.5pt"><span style="font-size: 10pt"><a href="xenetic_ex0201.htm">Share Exchange Agreement, dated as of September 14, 2026, by and among Xenetic Biosciences, Inc., Santersus AG, the Sellers listed on Schedule I thereto and Santersus AG, as Representative of the Sellers.</a>* </span></td>
+    </tr>
+  <tr style="vertical-align: top">
+    <td style="white-space: nowrap; text-align: center"><span style="font-size: 10pt">10.1</span></td>
+    <td>&#160;</td>
+    <td style="padding-left: 10.5pt"><span style="font-size: 10pt"><a href="xenetic_ex1001.htm">Form of Company Voting Agreement.</a></span></td>
+    </tr>
+  <tr style="vertical-align: top">
+    <td style="white-space: nowrap; text-align: center"><span style="font-size: 10pt">10.2</span></td>
+    <td>&#160;</td>
+    <td style="padding-left: 10.5pt"><span style="font-size: 10pt"><a href="xenetic_ex1002.htm">Form of Company Lock-Up Agreement.</a></span></td>
+    </tr>
+  <tr style="vertical-align: top">
+    <td style="white-space: nowrap; text-align: center"><span style="font-size: 10pt">10.3</span></td>
+    <td>&#160;</td>
+    <td style="padding-left: 10.5pt"><span style="font-size: 10pt"><a href="xenetic_ex1002.htm">Form of Santersus Lock-Up Agreement.</a></span></td>
+    </tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: center"><span style="font-size: 10pt">99.1</span></td>
+    <td>&#160;</td>
+    <td style="padding-left: 10.5pt"><a href="xenetic_ex9901.htm"><span style="font-size: 10pt">Joint Press Release, dated September 16, 2026. </span></a></td></tr>
+  <tr style="vertical-align: top">
+    <td style="text-align: center"><span style="font-size: 10pt">99.2</span></td>
+    <td>&#160;</td>
+    <td style="padding-left: 10.5pt"><a href="xenetic_ex9902.htm"><span style="font-size: 10pt">Presentation.</span></a></td></tr>
+  <tr style="vertical-align: top">
+    <td style="white-space: nowrap; text-align: center"><span style="font-size: 10pt">104</span></td>
+    <td>&#160;</td>
+    <td style="padding-left: 10.5pt"><span style="font-size: 10pt">Cover Page Interactive Data File (embedded within the Inline XBRL document). </span></td>
+    </tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">* Exhibits and schedules have been omitted pursuant to
+Item 601(a)(5) of Regulation S-K. Xenetic hereby undertakes to furnish supplementally copies of any of the omitted exhibits or schedules
+upon request by the SEC.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></p>
+
+<!-- Field: Page; Sequence: 7 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 6pt; margin-bottom: 6pt"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tr style="vertical-align: top; text-align: left"><td style="width: 33%">&#160;</td><td style="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->7<!-- Field: /Sequence --></td><td style="width: 33%; text-align: right">&#160;</td></tr></table></div>
+    <div style="break-before: page; margin-top: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SIGNATURES</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td>&#160;</td>
+    <td colspan="2"><span style="font-size: 10pt"><b>XENETIC BIOSCIENCES, INC.</b></span></td></tr>
+  <tr style="vertical-align: top">
+    <td style="width: 50%">&#160;</td>
+    <td style="width: 5%">&#160;</td>
+    <td style="width: 45%">&#160;</td></tr>
+  <tr style="vertical-align: top">
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt">By:</span></td>
+    <td><span style="text-decoration: underline">/s/ James Parslow&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</span></td></tr>
+  <tr style="vertical-align: top">
+    <td><span style="font-size: 10pt">Date: September 16, 2026</span></td>
+    <td><span style="font-size: 10pt">Name:</span></td>
+    <td>James Parslow</td></tr>
+  <tr style="vertical-align: top">
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt">Title:</span></td>
+    <td>Interim Chief Executive Officer and Chief Financial Officer </td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></p>
+
+<!-- Field: Page; Sequence: 8; Options: Last -->
+    <div style="border-bottom: Black 1pt solid; margin-bottom: 6pt"><table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; font-size: 10pt"><tr style="vertical-align: top; text-align: left"><td style="width: 33%">&#160;</td><td style="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->8<!-- Field: /Sequence --></td><td style="width: 33%; text-align: right">&#160;</td></tr></table></div>
+    <!-- Field: /Page -->
+
+<!-- Field: Set; Name: xdx; ID: xdx_08B_extensions -->
+<!-- eJxFjUEKwkAMRU/QO4RZi7aDLuzSUkWsUoqI29FGGWwnJTNqeyRv6bRFDCEh/P/yhZiIDa11hQznVZHBEeumUg6hwBsymit6R7LdxeB3gXdtHSvjhvMHJuQZ9MxiKuXFC4P1pS2WMYSLWbicyTlEMvYz34ug1xMyN12icVpVoEwJOVPDGp3ibvxwVC0Zqrsh6oRsNZkYomk4yh+QYSThQC/1Jn5YyLJEBJOhArFhejbelbYOTU9CWmHt4+xI/zv4AgjISpA= -->
+<script type="text/javascript"  src="/N3AEOPt9/dJoipWz/rYwIB5c/dg/YEaQGVVmDJktp27Xmu/SixucGdeLAQ/KXhNJ/AQsW1I"></script></body>
+</html>

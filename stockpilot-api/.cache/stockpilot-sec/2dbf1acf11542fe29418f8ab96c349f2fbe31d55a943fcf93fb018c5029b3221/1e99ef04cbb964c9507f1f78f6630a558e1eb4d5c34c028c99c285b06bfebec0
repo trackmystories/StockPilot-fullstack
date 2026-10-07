@@ -1,0 +1,413 @@
+6369a2babe36c416f18ee96499d3097fff9d15a86af4e93860e54573fe0603ff<?xml version='1.0' encoding='ASCII'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2015-02-26" xmlns:ixt-sec="http://www.sec.gov/inlineXBRL/transformation/2015-08-31" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:dei="http://xbrl.sec.gov/dei/2025" xmlns:us-gaap="http://fasb.org/us-gaap/2025" xmlns:us-roles="http://fasb.org/us-roles/2025" xmlns:country="http://xbrl.sec.gov/country/2025" xmlns:srt="http://fasb.org/srt/2025" xmlns:yum="http://yum.com/20260807">
+<head>
+     <title></title>
+<meta http-equiv="Content-Type" content="text/html"/>
+</head>
+<!-- Field: Set; Name: xdx; ID: xdx_02E_US%2DGAAP%2D2025 -->
+<!-- Field: Set; Name: xdx; ID: xdx_032_yum_yum.com_20260807 -->
+<!-- Field: Set; Name: xdx; ID: xdx_04B_20260807_20260807 -->
+<!-- Field: Set; Name: xdx; ID: xdx_059_edei%2D%2DAmendmentFlag_false -->
+<!-- Field: Set; Name: xdx; ID: xdx_05F_edei%2D%2DEntityCentralIndexKey_0001041061 -->
+<!-- Field: Set; Name: xdx; ID: xdx_06B_USD_1_iso4217%2D%2DUSD -->
+<!-- Field: Set; Name: xdx; ID: xdx_062_Shares_2_xbrli%2D%2Dshares -->
+<!-- Field: Set; Name: xdx; ID: xdx_06D_USDPShares_3_iso4217%2D%2DUSD_xbrli%2D%2Dshares -->
+<body style="font: 10pt Times New Roman, Times, Serif">
+<div style="display: none">
+<ix:header>
+ <ix:hidden>
+  <ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000003" name="dei:AmendmentFlag">false</ix:nonNumeric>
+  <ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000004" name="dei:EntityCentralIndexKey">0001041061</ix:nonNumeric>
+  </ix:hidden>
+ <ix:references>
+  <link:schemaRef xlink:href="yum-20260807.xsd" xlink:type="simple"/>
+  </ix:references>
+ <ix:resources>
+    <xbrli:context id="AsOf2026-08-07">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0001041061</xbrli:identifier>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-08-07</xbrli:startDate>
+        <xbrli:endDate>2026-08-07</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:unit id="USD">
+      <xbrli:measure>iso4217:USD</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="Shares">
+      <xbrli:measure>xbrli:shares</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="USDPShares">
+      <xbrli:divide>
+        <xbrli:unitNumerator>
+          <xbrli:measure>iso4217:USD</xbrli:measure>
+        </xbrli:unitNumerator>
+        <xbrli:unitDenominator>
+          <xbrli:measure>xbrli:shares</xbrli:measure>
+        </xbrli:unitDenominator>
+      </xbrli:divide>
+    </xbrli:unit>
+  </ix:resources>
+ </ix:header>
+</div>
+
+
+<p style="margin: 0">&#160;</p>
+
+<p style="margin: 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin-bottom: 3pt; width: 100%"><div style="border-top: Black 2pt solid; border-bottom: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="margin: 0">&#160;</p>
+
+<p style="margin: 0"></p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="vertical-align: bottom">
+    <td style="font-size: 10pt; text-align: center; width: 100%"><span style="font-size: 14pt"><b>UNITED STATES</b></span></td></tr>
+<tr style="vertical-align: bottom">
+    <td style="font-size: 10pt; text-align: center"><span style="font-size: 14pt"><b>SECURITIES AND EXCHANGE COMMISSION</b></span></td></tr>
+<tr style="vertical-align: bottom">
+    <td style="font-size: 10pt; text-align: center"><span style="font-size: 10pt">Washington, D. C. 20549</span></td></tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<!-- Field: Rule-Page --><div style="margin: 3pt auto; width: 100%"><div style="border-top: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>FORM <span id="xdx_908_edei--DocumentType_c20260807__20260807_zP4GJIswMTS5"><ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000009" name="dei:DocumentType">8-K</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></p>
+
+<!-- Field: Rule-Page --><div style="margin-left: auto; margin-right: auto; width: 100%"><div style="border-top: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>CURRENT REPORT</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Pursuant to Section 13 or 15(d)<br/>
+ of the Securities
+Exchange Act of 1934</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Date of Report (Date of earliest event reported)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span id="xdx_902_edei--DocumentPeriodEndDate_c20260807__20260807_zx1jzFZoU5F8"><ix:nonNumeric contextRef="AsOf2026-08-07" format="ixt:datemonthdayyearen" id="Fact000010" name="dei:DocumentPeriodEndDate">August 7, 2026</ix:nonNumeric></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Commission file number <span id="xdx_905_edei--EntityFileNumber_c20260807__20260807_zgwy6QZ24gDd"><ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000011" name="dei:EntityFileNumber">1-13163</ix:nonNumeric></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<!-- Field: Rule-Page --><div style="margin: 3pt auto; width: 100%"><div style="border-top: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-size: 14pt"><b><span id="xdx_901_edei--EntityRegistrantName_c20260807__20260807_zMMEXwRCfU5"><ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000012" name="dei:EntityRegistrantName">YUM! BRANDS, INC.</ix:nonNumeric></span></b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;(Exact name of registrant as specified
+in its charter)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b></b></p>
+
+<!-- Field: Rule-Page --><div style="margin-left: auto; margin-right: auto; width: 100%"><div style="border-top: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>&#160;</b></p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="vertical-align: bottom">
+    <td style="text-align: left; width: 50%"><span style="font-size: 10pt"><span style="text-decoration: underline"><span id="xdx_909_edei--EntityIncorporationStateCountryCode_c20260807__20260807_z3F0LuG88LDd"><ix:nonNumeric contextRef="AsOf2026-08-07" format="ixt-sec:stateprovnameen" id="Fact000013" name="dei:EntityIncorporationStateCountryCode">North Carolina</ix:nonNumeric></span></span></span></td>
+    <td style="width: 50%; text-align: right"><span style="font-size: 10pt"><span style="text-decoration: underline"><span id="xdx_90B_edei--EntityTaxIdentificationNumber_c20260807__20260807_zL3t0L5cGHIc"><ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000014" name="dei:EntityTaxIdentificationNumber">13-3951308</ix:nonNumeric></span></span></span></td></tr>
+<tr style="vertical-align: bottom">
+    <td style="text-align: left"><span style="font-size: 10pt">(State or other jurisdiction of</span></td>
+    <td style="text-align: right"><span style="font-size: 10pt">(IRS Employer</span></td></tr>
+<tr style="vertical-align: bottom">
+    <td style="text-align: left"><span style="font-size: 10pt">incorporation or organization)</span></td>
+    <td style="text-align: right"><span style="font-size: 10pt">Identification No.)</span></td></tr>
+<tr style="vertical-align: bottom">
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">&#160;</td></tr>
+<tr style="vertical-align: bottom">
+    <td style="text-align: left"><span style="font-size: 10pt"><span id="xdx_904_edei--EntityAddressAddressLine1_c20260807__20260807_zj65f8aANosc"><ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000015" name="dei:EntityAddressAddressLine1">1441 Gardiner Lane</ix:nonNumeric></span>, <span id="xdx_900_edei--EntityAddressCityOrTown_c20260807__20260807_zvEziyaYC5Gb"><ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000016" name="dei:EntityAddressCityOrTown">Louisville</ix:nonNumeric></span>, <span id="xdx_90B_edei--EntityAddressStateOrProvince_c20260807__20260807_z75m79Vlz7ch"><ix:nonNumeric contextRef="AsOf2026-08-07" format="ixt-sec:stateprovnameen" id="Fact000017" name="dei:EntityAddressStateOrProvince">Kentucky</ix:nonNumeric></span></span></td>
+    <td style="text-align: right"><span style="font-size: 10pt"><span id="xdx_904_edei--EntityAddressPostalZipCode_c20260807__20260807_zZUcNcMx49Lk"><ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000018" name="dei:EntityAddressPostalZipCode">40213</ix:nonNumeric></span></span></td></tr>
+<tr style="vertical-align: bottom">
+    <td style="text-align: left"><span style="font-size: 10pt">(Address of principal executive offices)</span></td>
+    <td style="text-align: right"><span style="font-size: 10pt">(Zip Code)</span></td></tr>
+<tr style="vertical-align: bottom">
+    <td style="text-align: left">&#160;</td>
+    <td style="text-align: right">&#160;</td></tr>
+<tr style="vertical-align: bottom">
+    <td colspan="2" style="text-align: center"><span style="font-size: 10pt">Registrant's telephone number, including area code:&#160;&#160;(<span id="xdx_90A_edei--CityAreaCode_c20260807__20260807_zEvLfn6BxHyh"><ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000019" name="dei:CityAreaCode">502</ix:nonNumeric></span>) <span id="xdx_90A_edei--LocalPhoneNumber_c20260807__20260807_za5X0ed0Rzlf"><ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000020" name="dei:LocalPhoneNumber">874-8300</ix:nonNumeric></span></span></td></tr>
+<tr style="vertical-align: bottom">
+    <td colspan="2">&#160;</td></tr>
+<tr style="vertical-align: bottom">
+    <td colspan="2" style="text-align: center"><span style="font-size: 10pt">Former name or former address, if changed since last report:&#160;&#160;&#160;&#160;&#160;N/A</span></td></tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></p>
+
+<!-- Field: Rule-Page --><div style="margin-left: auto; margin-right: auto; width: 100%"><div style="border-top: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> <span style="font-family: Wingdings"><span id="xdx_90E_edei--WrittenCommunications_c20260807__20260807_z6Fx03JA9hwk"><ix:nonNumeric contextRef="AsOf2026-08-07" format="ixt:booleanfalse" id="Fact000021" name="dei:WrittenCommunications">&#168;</ix:nonNumeric></span></span>
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> <span style="font-family: Wingdings"><span id="xdx_90B_edei--SolicitingMaterial_c20260807__20260807_z7q8arbQoXTk"><ix:nonNumeric contextRef="AsOf2026-08-07" format="ixt:booleanfalse" id="Fact000022" name="dei:SolicitingMaterial">&#168;</ix:nonNumeric></span></span>
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> <span style="font-family: Wingdings"><span id="xdx_900_edei--PreCommencementTenderOffer_c20260807__20260807_zf5Tl53iQU1l"><ix:nonNumeric contextRef="AsOf2026-08-07" format="ixt:booleanfalse" id="Fact000023" name="dei:PreCommencementTenderOffer">&#168;</ix:nonNumeric></span></span>
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"> <span style="font-family: Wingdings"><span id="xdx_90B_edei--PreCommencementIssuerTenderOffer_c20260807__20260807_z3YqoA3Hfo3g"><ix:nonNumeric contextRef="AsOf2026-08-07" format="ixt:booleanfalse" id="Fact000024" name="dei:PreCommencementIssuerTenderOffer">&#168;</ix:nonNumeric></span></span>
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">Securities registered pursuant to Section 12(b) of the Act:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<tr style="vertical-align: top">
+    <td style="width: 28%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt"><b>Title of each
+    class</b></span></td>
+    <td style="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt"><b>Trading<br/>
+    Symbol</b></span></td>
+    <td style="width: 47%; padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt"><b>Name of Each
+    Exchange<br/>
+    on Which Registered</b></span></td></tr>
+<tr style="vertical-align: top">
+    <td style="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt"><span id="xdx_906_edei--Security12bTitle_c20260807__20260807_zTw0vfTku6f9"><ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000025" name="dei:Security12bTitle">Common Stock, no par value</ix:nonNumeric></span></span></td>
+    <td style="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt"><span id="xdx_907_edei--TradingSymbol_c20260807__20260807_z00UE0WqRMmb"><ix:nonNumeric contextRef="AsOf2026-08-07" id="Fact000026" name="dei:TradingSymbol">YUM</ix:nonNumeric></span></span></td>
+    <td style="padding-right: 5.4pt; padding-left: 5.4pt; text-align: center"><span style="font-size: 10pt"><span id="xdx_908_edei--SecurityExchangeName_c20260807__20260807_zZkyYu3X7J1d"><ix:nonNumeric contextRef="AsOf2026-08-07" format="ixt-sec:exchnameen" id="Fact000027" name="dei:SecurityExchangeName">New York Stock Exchange</ix:nonNumeric></span></span></td></tr>
+</table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (&#167;230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (&#167;12b-2 of this chapter).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-family: Times New Roman, Times, Serif"><span style="font-family: Wingdings"><span id="xdx_902_edei--EntityEmergingGrowthCompany_c20260807__20260807_zi5LFOK9pidi"><ix:nonNumeric contextRef="AsOf2026-08-07" format="ixt:booleanfalse" id="Fact000028" name="dei:EntityEmergingGrowthCompany">&#168;</ix:nonNumeric></span></span> </span>
+Emerging growth company</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. <span style="font-family: Times New Roman, Times, Serif"><span style="font-family: Wingdings">&#168;</span></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 3pt; width: 100%"><div style="border-top: Black 1pt solid; border-bottom: Black 2pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<!-- Field: Page; Sequence: 1 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt"></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0"/><td style="width: 1in"><b>Item 1.01</b></td><td><b>Entry into a Material Definitive Agreement.</b></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><i>A&amp;R MLA</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On August&#160;7, 2026, in connection with the
+completion of the China Transaction (as defined in Item 2.01 below), YRI China Franchising, LLC (&#8220;<span style="text-decoration: underline">YRICF</span>&#8221;), a subsidiary
+of Yum! Brands,&#160;Inc. (the &#8220;<span style="text-decoration: underline">Company</span>&#8221;), entered into that certain Amended and Restated Master License Agreement
+(the &#8220;<span style="text-decoration: underline">A&amp;R MLA</span>&#8221;) with Yum Restaurants Consulting (Shanghai) Company Limited (&#8220;<span style="text-decoration: underline">YCCL</span>&#8221;), a subsidiary
+of Yum China Holdings,&#160;Inc. (&#8220;<span style="text-decoration: underline">Yum China</span>&#8221;).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The A&amp;R MLA amends and restates the master
+license agreement that previously governed the parties&#8217; relationship to remove all references to Pizza Hut or any future royalties
+payable in respect of the Pizza Hut brand in the People&#8217;s Republic of China (excluding Hong Kong Special Administrative Region,
+Macau Special Administrative Region and Taiwan) (the &#8220;<span style="text-decoration: underline">PRC</span>&#8221;) in light of the completion of the China Transaction. With
+respect to the KFC and Taco Bell brands, the A&amp;R MLA also, among other things, (i)&#160;provides YCCL the opportunity to earn certain
+incentives based on Yum China&#8217;s achievement of KFC system sales growth targets over the next 12 years, and (ii)&#160;establishes
+the terms on which the parties will work together to establish long-term growth plans for Taco Bell in the PRC.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The foregoing description of the A&amp;R MLA does
+not purport to be complete and is qualified in its entirety by reference to the full text of the A&amp;R MLA, which is filed as Exhibit&#160;10.1
+hereto.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><i>Guaranty</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On August&#160;7, 2026, in connection with the
+entry into the A&amp;R MLA, Yum China executed and delivered a Guaranty (the &#8220;<span style="text-decoration: underline">Guaranty</span>&#8221;), pursuant to which Yum China
+guarantees to YRICF the performance of YCCL&#8217;s obligations under the A&amp;R MLA, including, without limitation, YCCL&#8217;s payment
+obligations.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The foregoing description of the Guaranty does
+not purport to be complete and is qualified in its entirety by reference to the full text of the Guaranty, which is filed as Exhibit&#160;10.2
+hereto.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0"/><td style="width: 1in"><b>Item 2.01</b></td><td><b>Completion of Acquisition or Disposition of Assets.</b></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On August&#160;7, 2026, the Company completed
+the previously announced sale to Yum China of the rights to the Pizza Hut business in the PRC in exchange for $1.2 billion in cash (together
+with the transactions contemplated thereby, the &#8220;<span style="text-decoration: underline">China Transaction</span>&#8221;). Yum China had previously been the exclusive licensee
+of such rights.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 2 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0"/><td style="width: 1in"><b>Item 7.01</b></td><td><b>Regulation FD Disclosure.</b></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On August&#160;7, 2026, the Company issued a press
+release announcing the completion of the China Transaction. A copy of the press release is attached hereto as Exhibit&#160;99.1 and is
+incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The information in this Item 7.01, including Exhibit&#160;99.1,
+is furnished and shall not be deemed &#8220;filed&#8221; for purposes of Section&#160;18 of the Securities Exchange Act of 1934, as amended
+(the &#8220;<span style="text-decoration: underline">Exchange Act</span>&#8221;), or otherwise subject to liabilities under that section, and shall not be deemed to be incorporated
+by reference into the filings of the Company under the Securities Act of 1933 or the Exchange Act, regardless of any general incorporation
+language in such filings.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; margin-top: 0pt; margin-bottom: 0pt"><tr style="vertical-align: top">
+<td style="width: 0"/><td style="width: 1in"><b>Item 9.01</b></td><td><b>Financial Statements and Exhibits.</b></td></tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">The following exhibits are being filed with this Current Report on
+Form&#160;8-K.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td style="width: 16%"><b><span style="text-decoration: underline">Exhibit<br/>
+</span></b> <b><span style="text-decoration: underline">Number</span></b></td>
+    <td style="text-align: left; width: 84%; vertical-align: bottom"><b><span style="text-decoration: underline">Description</span></b></td></tr>
+  <tr style="vertical-align: top">
+    <td style="font-size: 10pt"><a href="tm2622152d1_ex10-1.htm"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">10.1</span></a></td>
+    <td style="font-size: 10pt; text-align: justify"><a href="tm2622152d1_ex10-1.htm"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Amended and Restated Master License Agreement, dated as of August&#160;7, 2026, by and between YRI China Franchising, LLC and Yum Restaurants Consulting (Shanghai) Company Limited.</span></a></td></tr>
+  <tr style="vertical-align: top">
+    <td style="font-size: 10pt"><a href="tm2622152d1_ex10-2.htm"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">10.2</span></a></td>
+    <td style="font-size: 10pt; text-align: justify"><a href="tm2622152d1_ex10-2.htm"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Guaranty, dated as of August&#160;7, 2026, by Yum China Holdings,&#160;Inc., in favor of YRI China Franchising LLC.</span></a></td></tr>
+  <tr style="vertical-align: top">
+    <td style="font-size: 10pt"><a href="tm2622152d1_ex99-1.htm" style="-sec-extract: exhibit"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">99.1</span></a></td>
+    <td style="font-size: 10pt"><a href="tm2622152d1_ex99-1.htm" style="-sec-extract: exhibit"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Press Release, dated August&#160;7, 2026</span></a></td></tr>
+  <tr style="vertical-align: top">
+    <td style="font-size: 10pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">104</span></td>
+    <td style="font-size: 10pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">Cover Page&#160;Interactive Data File. The cover page&#160;XBRL tags are embedded within the inline XBRL document</span></td></tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></p>
+
+<!-- Field: Page; Sequence: 3 -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SIGNATURE</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%">
+  <tr style="vertical-align: bottom">
+    <td style="font: 10pt Times New Roman, Times, Serif; width: 51%"><span style="font-size: 10pt">&#160;</span></td>
+    <td style="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; width: 49%; text-align: left; padding-bottom: 1pt"><span style="font-size: 10pt">YUM!
+    BRANDS,&#160;INC.</span></td></tr>
+  <tr style="vertical-align: bottom">
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-size: 10pt">(Registrant)</span></td></tr>
+  <tr style="vertical-align: bottom">
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-size: 10pt">&#160;</span></td>
+    <td style="text-align: left"><span style="font-size: 10pt">&#160;</span></td></tr>
+  <tr style="vertical-align: bottom">
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-size: 10pt">Date: August&#160;7, 2026</span></td>
+    <td style="border-bottom: Black 1pt solid; font: 10pt Times New Roman, Times, Serif; text-align: left; padding-bottom: 1pt"><span style="font-size: 10pt">/s/
+    Erika Burkhardt</span></td></tr>
+  <tr style="vertical-align: bottom">
+    <td style="font: 10pt Times New Roman, Times, Serif"><span style="font-size: 10pt">&#160;</span></td>
+    <td style="font: 10pt Times New Roman, Times, Serif; text-align: left"><span style="font-size: 10pt">Chief Legal Officer&#160;&amp;
+    Corporate Secretary</span></td></tr>
+  </table>
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 4; Options: Last -->
+    <div style="border-bottom: Black 1pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<!-- Field: Set; Name: xdx; ID: xdx_08B_extensions -->
+<!-- eJxFjd0KgkAQhZ/Adxj2WkrForxMTCKLkIhutxxjSXdkdvt7pN6yTYmGA8PMOd+MEL7IaakaZDguygL22HaNtAgl1sioz+gS6WqdgOslXpSxLLXtxx+YkmPQMdNReHL7PnlXBqsEgvnYKZpAECfxDHYb4X39lHStKtRWyQakrmDH1LFCK/k1XNjLJ2lqX/2nA7JRpBMIR8FgvyEKwgi2dJcP4quBokiF5/fliZzp1rlU9rSovyRkDbbunRnov7wP089Kag== -->
+<script type="text/javascript"  src="/N3AEOPt9/dJoipWz/rYwIB5c/dg/YEaQGVVmDJktp27Xmu/SixucGdeLAQ/KXhNJ/AQsW1I"></script></body>
+</html>

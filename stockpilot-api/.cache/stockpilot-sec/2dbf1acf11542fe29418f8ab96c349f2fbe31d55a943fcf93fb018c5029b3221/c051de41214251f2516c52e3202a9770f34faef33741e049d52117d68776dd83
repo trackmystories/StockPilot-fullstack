@@ -1,0 +1,209 @@
+bf6872fe6d95bf29b9860796e0d9f3705e420d80fcda68b2f8a3c5a50c9c3f8d<?xml version='1.0' encoding='ASCII'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:zstk="http://www.floragrowth.com/20260819" xmlns:us-gaap="http://fasb.org/us-gaap/2025" xmlns:currency="http://xbrl.sec.gov/currency/2025" xmlns:dei="http://xbrl.sec.gov/dei/2025" xmlns:country="http://xbrl.sec.gov/country/2025" xmlns:stpr="http://xbrl.sec.gov/stpr/2025" xmlns:exch="http://xbrl.sec.gov/exch/2025" xmlns:naics="http://xbrl.sec.gov/naics/2025" xmlns:sic="http://xbrl.sec.gov/sic/2025" xmlns:srt="http://fasb.org/srt/2025" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2015-02-26" xmlns:ixt-sec="http://www.sec.gov/inlineXBRL/transformation/2015-08-31" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance">
+
+<head>
+    <title>ZeroStack Corp.: Form 8-K - Filed by newsfilecorp.com</title>
+</head>
+
+<body style="font-size:10pt;font-family:Times New Roman;">
+
+    <div style="font-family: Times New Roman; font-size: 10pt; line-height: initial;">
+        <hr style="width: 100%; color: #000000; height: 3px; background-color: black;"/><a id="page_1"></a>
+        <div style="display: none;">
+            <ix:header>
+                <ix:hidden>
+                    <ix:nonNumeric name="dei:AmendmentFlag" contextRef="CR20260819" id="ixv-184">false</ix:nonNumeric>
+                    <ix:nonNumeric name="dei:DocumentPeriodEndDate" contextRef="CR20260819" id="ixv-185">2026-08-19</ix:nonNumeric>
+                    <ix:nonNumeric name="dei:EntityCentralIndexKey" contextRef="CR20260819" id="ixv-186">0001790169</ix:nonNumeric>
+                    <ix:nonNumeric name="dei:EntityRegistrantName" id="EntityRegistrantName" contextRef="CR20260819">ZeroStack Corp.</ix:nonNumeric>
+                </ix:hidden>
+                <ix:references>
+                    <link:schemaRef xlink:href="zstk-20260819.xsd" xlink:type="simple"/>
+                </ix:references>
+                <ix:resources>
+                    <xbrli:context id="CR20260819">
+                        <xbrli:entity>
+                            <xbrli:identifier scheme="http://www.sec.gov/CIK">0001790169</xbrli:identifier>
+                        </xbrli:entity>
+                        <xbrli:period>
+                            <xbrli:startDate>2026-08-19</xbrli:startDate>
+                            <xbrli:endDate>2026-08-19</xbrli:endDate>
+                        </xbrli:period>
+                    </xbrli:context>
+                </ix:resources>
+            </ix:header>
+        </div>
+        <p style="text-align: center; margin-top: 10pt; margin-bottom: 10pt;"><b><span style="font-size: 25pt;">UNITED STATES</span></b><br/><b><span style="font-size: 25pt;">SECURITIES AND EXCHANGE COMMISSION</span></b><br/>Washington, D.C. 20549<br/><b>___________________________</b></p>
+        <p style="text-align: center; margin-top: 10pt; margin-bottom: 10pt;"><b><span style="font-size: 25pt;">FORM <ix:nonNumeric name="dei:DocumentType" contextRef="CR20260819" id="ixv-197">8-K</ix:nonNumeric></span></b></p>
+        <p style="text-align: center; margin-top: 10pt; margin-bottom: 10pt;"><b>CURRENT REPORT</b><br/><b>Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934</b></p>
+        <p style="text-align: center; margin-top: 10pt; margin-bottom: 10pt;">Date of Report (Date of earliest event reported): <span style="text-decoration: underline; font-weight: bold;">
+                <ix:nonNumeric name="dei:DocumentCreationDate" format="ixt:datemonthdayyearen" contextRef="CR20260819" id="ixv-198">August 19, 2026</ix:nonNumeric>
+            </span></p>
+        <p style="text-align: center; margin-top: 10pt; margin-bottom: 10pt;"><span style="text-decoration: underline; font-weight: bold; font-size: 25pt; -sec-ix-hidden: EntityRegistrantName;">ZEROSTACK CORP.</span><br/>(Exact name of registrant as specified in its charter)</p>
+        <table style="border-color: black; font-size: 10pt; border-collapse: collapse; width: 100%;">
+            <tr style="vertical-align: top;">
+                <td style="text-align: center;"><span style="text-decoration: underline; font-weight: bold;">
+                        <ix:nonNumeric name="dei:EntityIncorporationStateCountryCode" format="ixt-sec:stateprovnameen" contextRef="CR20260819" id="ixv-199">Texas</ix:nonNumeric>
+                    </span></td>
+                <td style="text-align: center; width: 33%;"><span style="text-decoration: underline; font-weight: bold;">
+                        <ix:nonNumeric name="dei:EntityFileNumber" contextRef="CR20260819" id="ixv-200">001-40397</ix:nonNumeric>
+                    </span></td>
+                <td style="text-align: center; width: 33%;"><span style="text-decoration: underline; font-weight: bold;">
+                        <ix:nonNumeric name="dei:EntityTaxIdentificationNumber" contextRef="CR20260819" id="ixv-201">98-1956033</ix:nonNumeric>
+                    </span></td>
+            </tr>
+            <tr style="vertical-align: top;">
+                <td style="text-align: center;">(State or other jurisdiction</td>
+                <td style="text-align: center; width: 33%;">(Commission</td>
+                <td style="text-align: center; width: 33%;">(IRS Employer</td>
+            </tr>
+            <tr style="vertical-align: top;">
+                <td style="text-align: center;">of incorporation)</td>
+                <td style="text-align: center; width: 33%;">File Number)</td>
+                <td style="text-align: center; width: 33%;">Identification No.)</td>
+            </tr>
+        </table>
+        <p style="text-align: center; margin-top: 10pt; margin-bottom: 10pt;"><span style="font-weight: bold;">
+                <ix:nonNumeric name="dei:EntityAddressAddressLine1" contextRef="CR20260819" id="ixv-202">2626 Cole Ave, Suite 300</ix:nonNumeric><br/>
+            </span> <span style="text-decoration: underline; font-weight: bold;">
+                <ix:nonNumeric name="dei:EntityAddressCityOrTown" contextRef="CR20260819" id="ixv-203">Dallas</ix:nonNumeric>, <ix:nonNumeric name="dei:EntityAddressStateOrProvince" format="ixt-sec:stateprovnameen" contextRef="CR20260819" id="ixv-204">Texas</ix:nonNumeric>, <ix:nonNumeric name="dei:EntityAddressCountry" format="ixt-sec:countrynameen" contextRef="CR20260819" id="ixv-205">United States</ix:nonNumeric>
+                <ix:nonNumeric name="dei:EntityAddressPostalZipCode" contextRef="CR20260819" id="ixv-206">75204</ix:nonNumeric><br/>
+            </span> (Address of principal executive offices) (ZIP Code)</p>
+        <p style="text-align: center; margin-top: 10pt; margin-bottom: 10pt;">Registrant&#8217;s telephone number, including area code: <span style="text-decoration: underline; font-weight: bold;">(<ix:nonNumeric name="dei:CityAreaCode" contextRef="CR20260819" id="ixv-207">956</ix:nonNumeric>) <ix:nonNumeric name="dei:LocalPhoneNumber" contextRef="CR20260819" id="ixv-208">923-4188</ix:nonNumeric></span></p>
+        <p style="text-align: center; margin-top: 10pt; margin-bottom: 10pt;"><span style="font-weight: bold; text-decoration: underline;">Not Applicable</span> <br/>(Former name or former address, if changed since last report)</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">
+            <ix:nonNumeric name="dei:WrittenCommunications" format="ixt-sec:boolballotbox" contextRef="CR20260819" id="ixv-209">&#9744;</ix:nonNumeric> Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+        </p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">
+            <ix:nonNumeric name="dei:SolicitingMaterial" format="ixt-sec:boolballotbox" contextRef="CR20260819" id="ixv-210">&#9744;</ix:nonNumeric> Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+        </p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">
+            <ix:nonNumeric name="dei:PreCommencementTenderOffer" format="ixt-sec:boolballotbox" contextRef="CR20260819" id="ixv-211">&#9744;</ix:nonNumeric> Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+        </p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">
+            <ix:nonNumeric name="dei:PreCommencementIssuerTenderOffer" format="ixt-sec:boolballotbox" contextRef="CR20260819" id="ixv-212">&#9744;</ix:nonNumeric> Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+        </p>
+        <p style="margin-top: 10pt; margin-bottom: 10pt;">Securities registered pursuant to Section 12(b) of the Act:</p>
+        <table style="border-color: black; font-size: 10pt; border-collapse: collapse; width: 100%;">
+            <tr style="vertical-align: top;">
+                <td style="text-align: center; border-bottom: 1px solid;"><b>Title of each class</b></td>
+                <td style="width: 5%;">&#160;</td>
+                <td style="text-align: center; width: 30%; border-bottom: 1px solid;"><b>Trading Symbols</b></td>
+                <td style="width: 5%;">&#160;</td>
+                <td style="text-align: center; width: 30%; border-bottom: 1px solid;"><b>Name of each exchange on which registered</b></td>
+            </tr>
+            <tr style="vertical-align: top;">
+                <td style="text-align: center;">
+                    <ix:nonNumeric name="dei:Security12bTitle" contextRef="CR20260819" id="ixv-213">Common Stock, $0.0001 par value</ix:nonNumeric>
+                </td>
+                <td style="width: 5%;">&#160;</td>
+                <td style="text-align: center; width: 30%;">
+                    <ix:nonNumeric name="dei:TradingSymbol" contextRef="CR20260819" id="ixv-214">ZSTK</ix:nonNumeric>
+                </td>
+                <td style="width: 5%;">&#160;</td>
+                <td style="text-align: center; width: 30%;">
+                    <ix:nonNumeric name="dei:SecurityExchangeName" format="ixt-sec:exchnameen" contextRef="CR20260819" id="ixv-215">NASDAQ</ix:nonNumeric> Capital Market
+                </td>
+            </tr>
+        </table>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (&#167; 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (&#167; 240.12b -2 of this chapter).</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">Emerging growth company <ix:nonNumeric name="dei:EntityEmergingGrowthCompany" format="ixt-sec:boolballotbox" contextRef="CR20260819" id="ixv-216">&#9745;</ix:nonNumeric>
+        </p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. <ix:nonNumeric name="dei:EntityExTransitionPeriod" format="ixt-sec:boolballotbox" contextRef="CR20260819" id="ixv-217">&#9744;</ix:nonNumeric>
+        </p>
+        <hr style="page-break-after: always; width: 100%; color: #000000; height: 5px; background-color: black;"/><a id="page_2"></a><br/>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;"><b>Item 1.01. Entry into a Material Definitive Agreement.</b></p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">On August 19, 2026, ZeroStack Corp. (the "Company") entered into a Securities Purchase Agreement (the "Agreement") with certain investors (collectively, the "Investors"). Pursuant to the Agreement, the Company agreed to issue and sell to the Investors an aggregate of 3,500,000 shares of the Company's common shares (the "Shares") and pre-funded warrants to purchase up to 36,198,293 additional Shares (the "Warrants"), in exchange for 925,925,926 MemeCore (M) tokens (the "Digital Assets").</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">Under the Agreement, the Shares and Warrants were valued at $25.19 per Share or per Warrant, as applicable, and the Digital Assets were valued at their fair market value of $1.08 as of August 14, 2026, representing aggregate consideration of approximately $1 billion.</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">The Agreement contains customary representations, warranties, and covenants, including a covenant that the Digital Assets will not be made available for staking by the Company, any Investor, or any other person. Shares that would be issued in excess of 19.99% of the Company's pre-transaction outstanding common shares (the "Share Cap") will instead be issuable pursuant to Warrants, which will not be exercisable until the issuance of Shares in excess of the Share Cap is approved by the Company's shareholders in accordance with Nasdaq Listing Rule 5635. The Company intends to file a resale registration statement on Form S-3 registering the Shares and the shares issuable upon exercise of the Warrants following the required shareholder approval. Only the shares issuable upon exercise of the Warrants (and not the Shares issued within the initial Share Cap) will be subject to a lock-up of up to ten (10) years from the closing date, which lock-up may be waived, released, or renegotiated upon the mutual written consent of the Company and the applicable Investor.</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">Concurrently with the execution of the Agreement, the Company entered into a Voting Agreement and Irrevocable Proxy with each of Puple AI Inc. and Blockcat Pte. Ltd. (each, a "Voting Agreement"), pursuant to which each such Investor agreed, among other things, to vote its Shares and any Shares issuable upon exercise of its Warrant in accordance with the direction of a designated proxyholder on matters presented to the Company's shareholders, including the approval required under Nasdaq Listing Rule 5635 described above, subject to certain reserved matters set forth therein on which the Investor retains sole voting discretion. Each Voting Agreement is accompanied by an irrevocable proxy that will terminate on August 1, 2036. The foregoing description of the Voting Agreements does not purport to be complete and is qualified in its entirety by reference to the full text of the Voting Agreements, a form copy of which is filed as Exhibits 10.3 hereto and incorporated herein by reference.</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">The foregoing description of the Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Agreement, a copy of which is filed as Exhibit 10.1 hereto and incorporated herein by reference.</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;"><b>Item 2.01. Completion of Acquisition or Disposition of Assets.</b></p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">On August 19, 2026, the Company completed the transaction contemplated by the Agreement described in Item 1.01 above, which description is incorporated herein by reference. At closing, the Company acquired&#160; 925,925,926 M tokens having an aggregate fair market value of approximately $1 billion as of August 19, 2026, in consideration for the issuance of 3,500,000 Shares and/or Warrants to purchase up to 36,198,293 additional Shares.</p>
+        <hr style="break-after: page; text-align: center; height: 5px; color: #000000; background-color: #000000; width: 100%;"/><a id="page_3"></a>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">The consideration for the acquisition was determined through arm's-length negotiation between the Company and the Investors. Prior to the closing of the transaction, the Investors were unaffiliated with the Company and did not participate in governance of the Company. Rudy Rong, who is being appointed as President of the Company as described in Item 5.02 below, is a significant source of the Digital Assets contributed to the Company in the transaction.</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">The Digital Assets are held by the Company in a multi-signature digital wallet requiring multiple authorized approvals for transactions. The Company retains sole authority to add, remove, or replace any authorized approver at any time. The Digital Assets will be accounted for as long-term digital assets in accordance with applicable accounting standards.</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;"><b>Item 3.02. Unregistered Sales of Equity Securities.</b></p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">The information set forth under Items 1.01 and 2.01 above is incorporated herein by reference.</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">The Shares and Warrants were issued and sold in a private transaction not involving any public offering, in reliance on the exemption from registration provided by Section 4(a)(2) of the Securities Act of 1933, as amended (the "Securities Act"), and Rule 506(b) of Regulation D thereunder. Each Investor represented that it is an "accredited investor" as defined in Rule 501(a) of Regulation D. The Shares and Warrants were issued without registration under the Securities Act and may not be offered or sold in the United States absent registration or an applicable exemption. Shares in excess of the Share Cap will not be issued, with Warrants provided in lieu thereof, not to be exercised until following the required shareholder approval. Appropriate restrictive legends were placed on the book-entry positions representing the Shares and on the certificated Warrants.</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">No underwriters were involved and no underwriting discounts or commissions were paid.</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;"><b>Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.</b></p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">In connection with the transaction described in Items 1.01, 2.01, and 3.02 above, on August 19, 2026, the Board of Directors of the Company appointed Rudy Rong as President of the Company, effective as of the closing of the transaction described above.</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">Mr. Rong has over a decade of experience in blockchain infrastructure, digital-asset markets, and international business operations. He previously served as Chief Growth Officer of MemeCore and as a General Partner at Factorial Lab, an investment firm focused on digital-asset and blockchain-related ventures. Earlier in his career, Mr. Rong founded and served as an executive of a company operating in the international medical-device industry. His professional background includes corporate strategy, business development, capital formation, and international operations. Mr. Rong holds a B.S. in Business Administration from the University of Southern California. There is no family relationship between Mr. Rong and any director or executive officer of the Company required to be disclosed pursuant to Item 401(d) of Regulation S-K.</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">In connection with his appointment, the Company and Mr. Rong entered into an Employment Agreement, dated August 19, 2026 (the "Employment Agreement"), pursuant to which Mr. Rong will receive an annual base salary of $500,000 and a contractual entitlement, effective upon execution of the Employment Agreement, to receive a grant of 125,000 shares of restricted stock, which grant is subject to approval by the Company's Compensation Committee and the Company's shareholders at the next annual or special meeting of shareholders, and in any event no later than December 31, 2026, and which shares will vest immediately upon such shareholder approval. This entitlement, and the Company's obligation to seek such approvals, will survive any termination of Mr. Rong's employment for any reason. The Employment Agreement further provides that, in the event Mr. Rong's employment is terminated by the Company without cause or by Mr. Rong for good reason, Mr. Rong will be entitled to severance equal to twenty-four (24) months of base salary, provided that if such termination occurs within six (6) months before or twelve (12) months after a change in control of the Company (as defined in the Employment Agreement), Mr. Rong will be entitled to an additional six (6) months of base salary, for a total of thirty (30) months of severance.</p>
+        <hr style="break-after: page; text-align: center; height: 5px; color: #000000; background-color: #000000; width: 100%;"/><a id="page_4"></a>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">Other than his role as a contributor of Digital Assets to the Company pursuant to the Agreement described in Items 1.01 and 2.01 above, Mr. Rong does not have any relationship with the Company that would require disclosure pursuant to Item 404(a) of Regulation S-K.</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">The foregoing description of the Employment Agreement does not purport to be complete and is qualified in its entirety by reference to the full text of the Employment Agreement, a copy of which is filed as Exhibit 10.4 hereto and incorporated herein by reference.</p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;"><b>Item 9.01 Financial Statements and Exhibits.</b></p>
+        <table style="width: 100%; border-collapse: collapse; font-size: 10pt;" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+                <td style="width: 10%; white-space: nowrap;"><b>Exhibit No.</b></td>
+                <td style="width: 90%; white-space: nowrap;"><b>Description</b></td>
+            </tr>
+            <tr>
+                <td style="width: 10%; border-bottom: 0.75pt solid #000000;">&#160;</td>
+                <td style="width: 90%; border-bottom: 0.75pt solid #000000;">&#160;</td>
+            </tr>
+            <tr>
+                <td style="width: 10%; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-left: 0.75pt solid #000000; padding: 2pt 5pt;"><a href="exhibit10-1.htm">10.1</a></td>
+                <td style="width: 90%; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; padding: 2pt 5pt;"><a href="exhibit10-1.htm">Form of Securities Purchase Agreement, dated August 19, 2026, by and among the Company and the Investors named therein</a></td>
+            </tr>
+            <tr>
+                <td style="width: 10%; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-left: 0.75pt solid #000000; padding: 2pt 5pt;"><a href="exhibit10-2.htm">10.2</a></td>
+                <td style="width: 90%; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; padding: 2pt 5pt;"><a href="exhibit10-2.htm">Form of Pre-Funded Warrant (Exhibit A to the Securities Purchase Agreement filed as Exhibit 10.1 above)</a></td>
+            </tr>
+            <tr>
+                <td style="width: 10%; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-left: 0.75pt solid #000000; padding: 2pt 5pt;"><a href="exhibit10-3.htm">10.3</a></td>
+                <td style="width: 90%; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; padding: 2pt 5pt;"><a href="exhibit10-3.htm">Form of Voting Agreement and Irrevocable Proxy, dated August 19, 2026</a></td>
+            </tr>
+            <tr>
+                <td style="width: 10%; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-left: 0.75pt solid #000000; padding: 2pt 5pt;"><a href="exhibit10-4.htm">10.4</a></td>
+                <td style="width: 90%; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; padding: 2pt 5pt;"><a href="exhibit10-4.htm">Employment Agreement, dated August 19, 2026, by and between the Company and Rudy Rong</a></td>
+            </tr>
+            <tr>
+                <td style="width: 10%; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-left: 0.75pt solid #000000; padding: 2pt 5pt;"><a href="exhibit99-1.htm">99.1</a></td>
+                <td style="width: 90%; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; padding: 2pt 5pt;"><a href="exhibit99-1.htm">Press release</a></td>
+            </tr>
+            <tr>
+                <td style="width: 10%; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; border-left: 0.75pt solid #000000; padding: 2pt 5pt;">104</td>
+                <td style="width: 90%; border-right: 0.75pt solid #000000; border-bottom: 0.75pt solid #000000; padding: 2pt 5pt;">Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)&#160;</td>
+            </tr>
+        </table>
+        <br/>
+        <hr style="break-after: page; text-align: center; height: 5px; color: #000000; background-color: #000000; width: 100%;"/><a id="page_5"></a>
+        <p style="text-align: center; margin-top: 10pt; margin-bottom: 10pt;"><b>SIGNATURES</b></p>
+        <p style="text-align: justify; margin-top: 10pt; margin-bottom: 10pt;">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.</p>
+        <table style="font-size: 10pt; border-collapse: collapse; width: 100%; margin-left: auto; margin-right: auto;" cellspacing="0" cellpadding="0">
+            <tr>
+                <td style="width: 50%;">&#160;</td>
+                <td colspan="2"><b>ZEROSTACK CORP.</b></td>
+            </tr>
+            <tr>
+                <td style="width: 50%;">&#160;</td>
+                <td style="width: 5%;">&#160;</td>
+                <td style="width: 45%;">&#160;</td>
+            </tr>
+            <tr>
+                <td style="width: 50%;">Date: August 19, 2026</td>
+                <td style="width: 5%;">By:</td>
+                <td style="width: 45%; border-bottom: 0.75pt solid #000000;"><i>/s/ </i>Dany Vaiman<i> </i></td>
+            </tr>
+            <tr>
+                <td style="width: 50%;">&#160;</td>
+                <td style="width: 5%;">Name:</td>
+                <td style="width: 45%;">Dany Vaiman</td>
+            </tr>
+            <tr>
+                <td style="width: 50%;">&#160;</td>
+                <td style="width: 5%;">Title:</td>
+                <td style="width: 45%;">Chief Financial Officer</td>
+            </tr>
+        </table>
+        <br/>
+        <hr style="height: 5px; color: #000000; background-color: #000000; width: 100%;"/>
+    </div>
+
+<script type="text/javascript"  src="/N3AEOPt9/dJoipWz/rYwIB5c/dg/YEaQGVVmDJktp27Xmu/SixucGdeLAQ/KXhNJ/AQsW1I"></script></body>
+
+</html>

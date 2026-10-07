@@ -1,0 +1,86 @@
+{
+  "auditId": "audit-2026-09-25T10-53-16-843Z-0065d2ab",
+  "sourceRunId": "2026-09-24T15-26-27-001Z-53685267",
+  "auditVersion": 1,
+  "sourceCalculationVersion": 2,
+  "asOf": "2026-09-25T10:53:18.814Z",
+  "total": 1,
+  "succeeded": 1,
+  "failed": 0,
+  "findings": 37,
+  "researchCandidates": 0,
+  "reasons": {
+    "provenance_unavailable": 27,
+    "not_applicable": 9,
+    "currency_mismatch": 1
+  },
+  "lists": {
+    "financially-strong": {
+      "insufficient_evidence": 1
+    },
+    "strong-balance-sheet": {
+      "insufficient_evidence": 1
+    },
+    "high-quality": {
+      "insufficient_evidence": 1
+    },
+    "high-growth": {
+      "insufficient_evidence": 1
+    },
+    "undervalued": {
+      "insufficient_evidence": 1
+    },
+    "strong-momentum": {
+      "did_not_qualify": 1
+    },
+    "estimates-rising": {
+      "insufficient_evidence": 1
+    },
+    "quality-near-lows": {
+      "insufficient_evidence": 1
+    },
+    "quality-near-highs": {
+      "insufficient_evidence": 1
+    },
+    "growth-near-lows": {
+      "insufficient_evidence": 1
+    },
+    "oversold-quality": {
+      "insufficient_evidence": 1
+    },
+    "undervalued-momentum": {
+      "insufficient_evidence": 1
+    },
+    "small-cap-quality": {
+      "not_applicable": 1
+    },
+    "small-cap-growth": {
+      "not_applicable": 1
+    },
+    "low-cap-ai": {
+      "not_applicable": 1
+    },
+    "low-cap-ai-growth": {
+      "not_applicable": 1
+    },
+    "theme-ai": {
+      "did_not_qualify": 1
+    },
+    "theme-semiconductors": {
+      "did_not_qualify": 1
+    },
+    "theme-data-centers": {
+      "did_not_qualify": 1
+    },
+    "theme-energy": {
+      "did_not_qualify": 1
+    },
+    "theme-cybersecurity": {
+      "did_not_qualify": 1
+    },
+    "theme-robotics": {
+      "did_not_qualify": 1
+    }
+  },
+  "status": "completed"
+}

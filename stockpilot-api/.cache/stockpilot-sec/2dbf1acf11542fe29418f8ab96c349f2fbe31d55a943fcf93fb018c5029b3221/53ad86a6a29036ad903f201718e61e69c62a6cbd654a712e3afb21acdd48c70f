@@ -1,0 +1,706 @@
+f5e133644e4af71e60cb5147d459e7025756dba1e10c275c23b2f3ba0542ba70<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Last-Modified" content="Thu, 27 Aug 2026 20:15:20 GMT" />
+<title>EDGAR Filing Documents for 0000106535-26-000009</title>
+<link  rel="stylesheet" href="/edgar/search/global/css/bootstrap/bootstrap.min.css" type="text/css" />
+<link rel="stylesheet" type="text/css" href="/include/interactive2.css" />
+</head>
+<body style="margin: 0; font-size: 16px; ">
+<!-- SEC Web Analytics - For information please visit: https://www.sec.gov/privacy.htm#collectedinfo -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TD3BKV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TD3BKV');</script>
+<!-- End SEC Web Analytics -->
+<noscript><div style="color:red; font-weight:bold; text-align:center;">This page uses Javascript. Your browser either doesn't support Javascript or you have it turned off. To see this page as it is meant to appear please use a Javascript enabled browser.</div></noscript>
+<!-- BEGIN BANNER -->
+<div  id="header" style="text-align: center;">
+   <nav id="main-navbar" class="navbar navbar-expand">
+      <ul class="navbar-nav">
+         <li class="nav-item">
+            <a class="nav__sec_link" href="https://www.sec.gov">
+               <img src="/edgar/search/images/edgar-logo-2x.png" alt="" style="height:6.25rem">
+            </a>
+         </li>
+         <li class="nav-item">
+            <a class="nav__sec_link" href="https://www.sec.gov">
+               <span class="link-text d-inline">SEC.gov</span>
+            </a>
+         </li>
+         <li class="nav-item">
+            <a class="nav__link" href="//www.sec.gov/submit-filings/about-edgar" id="edgar-short-form"><span class="link-text">EDGAR</span></a>
+         </li>
+      </ul>
+
+      <ul class="navbar-nav ml-auto">
+         <li class="nav-item">
+			<a href="/cgi-bin/browse-edgar?action=getcurrent" class="nav__link">Latest Filings</a> 
+         </li>
+         <li class="nav-item">
+            <a href="https://www.sec.gov/edgar/search-and-access" class="nav__link">Filings search tools</a>
+         </li>
+      </ul>
+   </nav>
+   <div style="position: absolute;width: 100%;"> <h1 style="position: relative;top: -60px;">Filing Detail</h1></div>
+</div>
+<!-- END BANNER -->
+
+
+<!-- BEGIN BREADCRUMBS -->
+<div id="breadCrumbs">
+   <ul>
+      <li><a href="/index.htm">SEC Home</a> &#187;</li>
+      <li><a href="/edgar/searchedgar/companysearch.html">Company Search</a> &#187;</li>
+      <li class="last">Current Page</li>
+   </ul>
+</div>
+<!-- END BREADCRUMBS -->
+
+<div id="contentDiv">
+<!-- START FILING DIV -->
+<div class="formDiv">
+   <div id="formHeader">
+      <div id="formName">
+         <strong>Form 8-K</strong> - Current report: 
+      </div>
+      <div id="secNum">
+         <strong><acronym title="Securities and Exchange Commission">SEC</acronym> Accession <acronym title="Number">No.</acronym></strong> 0000106535-26-000009
+      </div>
+   </div>
+   <div class="formContent">
+   
+      <div class="formGrouping">
+         <div class="infoHead">Filing Date</div>
+         <div class="info">2026-08-27</div>
+         <div class="infoHead">Accepted</div>
+         <div class="info">2026-08-27 16:15:20</div>
+         <div class="infoHead">Documents</div>
+         <div class="info">84</div>
+      </div>
+      <div class="formGrouping">
+         <div class="infoHead">Period of Report</div>
+         <div class="info">2026-08-27</div>
+      </div>
+      <div class="formGrouping">
+         <div class="infoHead">Items</div>
+         <div class="info">Item 7.01: Regulation FD Disclosure<br />Item 9.01: Financial Statements and Exhibits<br /></div>
+      </div>
+      <div style="clear:both"></div>
+<!-- END FILING DIV -->
+<!-- START DOCUMENT DIV -->
+   <div style="padding: 4px 0px 4px 0px; font-size: 12px; margin: 0px 2px 0px 5px; width: 100%; overflow:hidden" id="seriesDiv">
+      <a href="/cgi-bin/viewer?action=view&amp;cik=106535&amp;accession_number=0000106535-26-000009&amp;xbrl_type=f" id="interactiveDataBtn">&nbsp;<button type="button" class="btn btn-primary">Interactive Data</button></a>
+   </div>
+  </div>
+    </div>
+<div class="formDiv">
+   <div style="padding: 0px 0px 4px 0px; font-size: 12px; margin: 0px 2px 0px 5px; width: 100%; overflow:hidden">
+      <p>Document Format Files</p>
+      <table class="tableFile" summary="Document Format Files">
+         <tr>
+            <th scope="col" style="width: 5%;"><acronym title="Sequence Number">Seq</acronym></th>
+            <th scope="col" style="width: 40%;">Description</th>
+            <th scope="col" style="width: 20%;">Document</th>
+            <th scope="col" style="width: 10%;">Type</th>
+            <th scope="col">Size</th>
+         </tr>
+         <tr>
+            <td scope="row">1</td>
+            <td scope="row">8-K</td>
+            <td scope="row"><a href="/ix?doc=/Archives/edgar/data/106535/000010653526000009/wy-20260827.htm">wy-20260827.htm</a> &nbsp;&nbsp;<span style="color: green">iXBRL</span></td>
+            <td scope="row">8-K</td>
+            <td scope="row">65522</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">2</td>
+            <td scope="row">EX-99.1</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1.htm">wy-ex99_1.htm</a></td>
+            <td scope="row">EX-99.1</td>
+            <td scope="row">115934</td>
+         </tr>
+         <tr>
+            <td scope="row">3</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s1.jpg">wy-ex99_1s1.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">265548</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">4</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s2.jpg">wy-ex99_1s2.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">1030963</td>
+         </tr>
+         <tr>
+            <td scope="row">5</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s3.jpg">wy-ex99_1s3.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">352917</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">6</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s4.jpg">wy-ex99_1s4.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">460018</td>
+         </tr>
+         <tr>
+            <td scope="row">7</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s5.jpg">wy-ex99_1s5.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">630760</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">8</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s6.jpg">wy-ex99_1s6.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">603027</td>
+         </tr>
+         <tr>
+            <td scope="row">9</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s7.jpg">wy-ex99_1s7.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">575504</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">10</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s8.jpg">wy-ex99_1s8.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">672703</td>
+         </tr>
+         <tr>
+            <td scope="row">11</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s9.jpg">wy-ex99_1s9.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">399700</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">12</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s10.jpg">wy-ex99_1s10.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">482327</td>
+         </tr>
+         <tr>
+            <td scope="row">13</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s11.jpg">wy-ex99_1s11.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">555013</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">14</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s12.jpg">wy-ex99_1s12.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">427704</td>
+         </tr>
+         <tr>
+            <td scope="row">15</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s13.jpg">wy-ex99_1s13.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">500549</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">16</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s14.jpg">wy-ex99_1s14.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">461959</td>
+         </tr>
+         <tr>
+            <td scope="row">17</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s15.jpg">wy-ex99_1s15.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">535424</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">18</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s16.jpg">wy-ex99_1s16.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">393644</td>
+         </tr>
+         <tr>
+            <td scope="row">19</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s17.jpg">wy-ex99_1s17.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">379103</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">20</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s18.jpg">wy-ex99_1s18.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">389550</td>
+         </tr>
+         <tr>
+            <td scope="row">21</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s19.jpg">wy-ex99_1s19.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">477087</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">22</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s20.jpg">wy-ex99_1s20.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">515602</td>
+         </tr>
+         <tr>
+            <td scope="row">23</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s21.jpg">wy-ex99_1s21.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">463663</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">24</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s22.jpg">wy-ex99_1s22.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">439113</td>
+         </tr>
+         <tr>
+            <td scope="row">25</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s23.jpg">wy-ex99_1s23.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">706800</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">26</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s24.jpg">wy-ex99_1s24.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">510900</td>
+         </tr>
+         <tr>
+            <td scope="row">27</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s25.jpg">wy-ex99_1s25.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">612155</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">28</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s26.jpg">wy-ex99_1s26.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">504887</td>
+         </tr>
+         <tr>
+            <td scope="row">29</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s27.jpg">wy-ex99_1s27.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">457619</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">30</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s28.jpg">wy-ex99_1s28.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">484159</td>
+         </tr>
+         <tr>
+            <td scope="row">31</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s29.jpg">wy-ex99_1s29.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">473080</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">32</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s30.jpg">wy-ex99_1s30.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">482151</td>
+         </tr>
+         <tr>
+            <td scope="row">33</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s31.jpg">wy-ex99_1s31.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">471135</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">34</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s32.jpg">wy-ex99_1s32.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">504126</td>
+         </tr>
+         <tr>
+            <td scope="row">35</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s33.jpg">wy-ex99_1s33.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">496998</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">36</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s34.jpg">wy-ex99_1s34.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">370565</td>
+         </tr>
+         <tr>
+            <td scope="row">37</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s35.jpg">wy-ex99_1s35.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">514488</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">38</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s36.jpg">wy-ex99_1s36.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">377278</td>
+         </tr>
+         <tr>
+            <td scope="row">39</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s37.jpg">wy-ex99_1s37.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">389139</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">40</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s38.jpg">wy-ex99_1s38.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">489469</td>
+         </tr>
+         <tr>
+            <td scope="row">41</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s39.jpg">wy-ex99_1s39.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">431434</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">42</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s40.jpg">wy-ex99_1s40.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">404498</td>
+         </tr>
+         <tr>
+            <td scope="row">43</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s41.jpg">wy-ex99_1s41.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">375116</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">44</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s42.jpg">wy-ex99_1s42.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">404997</td>
+         </tr>
+         <tr>
+            <td scope="row">45</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s43.jpg">wy-ex99_1s43.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">418499</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">46</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s44.jpg">wy-ex99_1s44.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">366147</td>
+         </tr>
+         <tr>
+            <td scope="row">47</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s45.jpg">wy-ex99_1s45.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">454144</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">48</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s46.jpg">wy-ex99_1s46.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">407749</td>
+         </tr>
+         <tr>
+            <td scope="row">49</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s47.jpg">wy-ex99_1s47.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">319439</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">50</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s48.jpg">wy-ex99_1s48.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">269936</td>
+         </tr>
+         <tr>
+            <td scope="row">51</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s49.jpg">wy-ex99_1s49.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">523413</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">52</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s50.jpg">wy-ex99_1s50.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">367706</td>
+         </tr>
+         <tr>
+            <td scope="row">53</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s51.jpg">wy-ex99_1s51.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">308553</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">54</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s52.jpg">wy-ex99_1s52.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">280409</td>
+         </tr>
+         <tr>
+            <td scope="row">55</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s53.jpg">wy-ex99_1s53.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">493954</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">56</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s54.jpg">wy-ex99_1s54.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">363506</td>
+         </tr>
+         <tr>
+            <td scope="row">57</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s55.jpg">wy-ex99_1s55.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">383451</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">58</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s56.jpg">wy-ex99_1s56.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">347896</td>
+         </tr>
+         <tr>
+            <td scope="row">59</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s57.jpg">wy-ex99_1s57.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">276071</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">60</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s58.jpg">wy-ex99_1s58.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">326479</td>
+         </tr>
+         <tr>
+            <td scope="row">61</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s59.jpg">wy-ex99_1s59.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">250502</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">62</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s60.jpg">wy-ex99_1s60.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">349642</td>
+         </tr>
+         <tr>
+            <td scope="row">63</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s61.jpg">wy-ex99_1s61.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">373268</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">64</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s62.jpg">wy-ex99_1s62.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">258557</td>
+         </tr>
+         <tr>
+            <td scope="row">65</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s63.jpg">wy-ex99_1s63.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">439781</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">66</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s64.jpg">wy-ex99_1s64.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">359114</td>
+         </tr>
+         <tr>
+            <td scope="row">67</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s65.jpg">wy-ex99_1s65.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">462929</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">68</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s66.jpg">wy-ex99_1s66.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">548658</td>
+         </tr>
+         <tr>
+            <td scope="row">69</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s67.jpg">wy-ex99_1s67.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">618218</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">70</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s68.jpg">wy-ex99_1s68.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">566092</td>
+         </tr>
+         <tr>
+            <td scope="row">71</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s69.jpg">wy-ex99_1s69.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">618745</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">72</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s70.jpg">wy-ex99_1s70.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">353197</td>
+         </tr>
+         <tr>
+            <td scope="row">73</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s71.jpg">wy-ex99_1s71.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">445119</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">74</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s72.jpg">wy-ex99_1s72.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">325883</td>
+         </tr>
+         <tr>
+            <td scope="row">75</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s73.jpg">wy-ex99_1s73.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">432688</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">76</td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-ex99_1s74.jpg">wy-ex99_1s74.jpg</a></td>
+            <td scope="row">GRAPHIC</td>
+            <td scope="row">400325</td>
+         </tr>
+         <tr>
+            <td scope="row">&nbsp;</td>
+            <td scope="row">Complete submission text file</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/0000106535-26-000009.txt">0000106535-26-000009.txt</a></td>
+            <td scope="row">&nbsp;</td>
+            <td scope="row">46029322</td>
+         </tr>
+      </table>	
+   </div>
+</div>
+<div class="formDiv">
+   <div style="padding: 0px 0px 4px 0px; font-size: 12px; margin: 0px 2px 0px 5px; width: 100%; overflow:hidden">
+      <p>Data Files</p>
+      <table class="tableFile" summary="Data Files">
+         <tr>
+            <th scope="col" style="width: 5%;"><acronym title="Sequence Number">Seq</acronym></th>
+            <th scope="col" style="width: 40%;">Description</th>
+            <th scope="col" style="width: 20%;">Document</th>
+            <th scope="col" style="width: 10%;">Type</th>
+            <th scope="col">Size</th>
+         </tr>
+         <tr>
+            <td scope="row">77</td>
+            <td scope="row">XBRL TAXONOMY EXTENSION SCHEMA WITH EMBEDDED LINKBASES DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-20260827.xsd">wy-20260827.xsd</a></td>
+            <td scope="row">EX-101.SCH</td>
+            <td scope="row">29660</td>
+         </tr>
+         <tr class="evenRow">
+            <td scope="row">87</td>
+            <td scope="row"><b>EXTRACTED</b> XBRL INSTANCE DOCUMENT</td>
+            <td scope="row"><a href="/Archives/edgar/data/106535/000010653526000009/wy-20260827_htm.xml">wy-20260827_htm.xml</a></td>
+            <td scope="row">XML</td>
+            <td scope="row">4517</td>
+         </tr>
+      </table>	
+   </div>
+</div>
+<!-- END DOCUMENT DIV -->
+<!-- START FILER DIV -->
+<div class="filerDiv">
+   <div class="mailer">Mailing Address
+      <span class="mailerAddress">220 OCCIDENTAL AVENUE SOUTH</span>
+      <span class="mailerAddress">
+SEATTLE       <span class="mailerAddress">WA</span>
+98104      </span>
+   </div>
+   <div class="mailer">Business Address
+      <span class="mailerAddress">220 OCCIDENTAL AVENUE SOUTH</span>
+      <span class="mailerAddress">
+SEATTLE       <span class="mailerAddress">WA</span>
+98104      </span>
+      <span class="mailerAddress">206-539-3000</span>
+   </div>
+<div class="companyInfo">
+  <span class="companyName">WEYERHAEUSER CO (Filer)
+ <acronym title="Central Index Key">CIK</acronym>: <a href="/cgi-bin/browse-edgar?CIK=0000106535&amp;action=getcompany">0000106535 (see all company filings)</a></span>
+<p class="identInfo"><acronym title="Internal Revenue Service Number">EIN.</acronym>: <strong>910470860</strong> | State of Incorp.: <strong>WA</strong> | Fiscal Year End: <strong>1231</strong><br />Type: <strong>8-K</strong> | Act: <strong>34</strong> | File No.: <a href="/cgi-bin/browse-edgar?filenum=001-04825&amp;action=getcompany"><strong>001-04825</strong></a> | Film No.: <strong>261330444</strong><br /><acronym title="Standard Industrial Code">SIC</acronym>: <b><a href="/cgi-bin/browse-edgar?action=getcompany&amp;SIC=6798&amp;owner=include">6798</a></b> Real Estate Investment Trusts<br />(CF Office: 05 Real Estate &amp; Construction)</p>
+</div>
+<div class="clear"></div>
+</div>
+<!-- END FILER DIV -->
+</div>

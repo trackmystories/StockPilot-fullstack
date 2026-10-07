@@ -1,0 +1,678 @@
+2c807ed37ee0445ae2d634ae0c95742324a28a3dba0eec848b98776bdb3ff3aa<?xml version='1.0' encoding='ASCII'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2015-02-26" xmlns:ixt-sec="http://www.sec.gov/inlineXBRL/transformation/2015-08-31" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:dei="http://xbrl.sec.gov/dei/2026" xmlns:us-gaap="http://fasb.org/us-gaap/2026" xmlns:us-roles="http://fasb.org/us-roles/2026" xmlns:country="http://xbrl.sec.gov/country/2026" xmlns:srt="http://fasb.org/srt/2026" xmlns:WYFI="http://whitefiber.com/20260730">
+<head>
+     <title></title>
+<meta http-equiv="Content-Type" content="text/html"/>
+</head>
+<!-- Field: Set; Name: xdx; ID: xdx_02F_US%2DGAAP%2D2026 -->
+<!-- Field: Set; Name: xdx; ID: xdx_037_WYFI_whitefiber.com_20260730 -->
+<!-- Field: Set; Name: xdx; ID: xdx_04A_20260730_20260730 -->
+<!-- Field: Set; Name: xdx; ID: xdx_059_edei%2D%2DAmendmentFlag_false -->
+<!-- Field: Set; Name: xdx; ID: xdx_05E_edei%2D%2DEntityCentralIndexKey_0002042022 -->
+<!-- Field: Set; Name: xdx; ID: xdx_06B_USD_1_iso4217%2D%2DUSD -->
+<!-- Field: Set; Name: xdx; ID: xdx_062_Shares_2_xbrli%2D%2Dshares -->
+<!-- Field: Set; Name: xdx; ID: xdx_06D_USDPShares_3_iso4217%2D%2DUSD_xbrli%2D%2Dshares -->
+<body style="font: 10pt Times New Roman, Times, Serif">
+<div style="display: none">
+<ix:header>
+ <ix:hidden>
+  <ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000003" name="dei:AmendmentFlag">false</ix:nonNumeric>
+  <ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000004" name="dei:EntityCentralIndexKey">0002042022</ix:nonNumeric>
+  </ix:hidden>
+ <ix:references>
+  <link:schemaRef xlink:href="wyfi-20260730.xsd" xlink:type="simple"/>
+  </ix:references>
+ <ix:resources>
+    <xbrli:context id="AsOf2026-07-30">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0002042022</xbrli:identifier>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-07-30</xbrli:startDate>
+        <xbrli:endDate>2026-07-30</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:unit id="USD">
+      <xbrli:measure>iso4217:USD</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="Shares">
+      <xbrli:measure>xbrli:shares</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="USDPShares">
+      <xbrli:divide>
+        <xbrli:unitNumerator>
+          <xbrli:measure>iso4217:USD</xbrli:measure>
+        </xbrli:unitNumerator>
+        <xbrli:unitDenominator>
+          <xbrli:measure>xbrli:shares</xbrli:measure>
+        </xbrli:unitDenominator>
+      </xbrli:divide>
+    </xbrli:unit>
+  </ix:resources>
+ </ix:header>
+</div>
+
+
+<p style="text-align: center; margin-top: 0; margin-bottom: 0"></p>
+
+<!-- Field: Rule-Page --><div style="width: 100%"><div style="border-top: Black 2pt solid; border-bottom: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="text-align: center; margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><b>UNITED STATES</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><b>Washington, D.C. 20549</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><b>FORM <span id="xdx_90C_edei--DocumentType_c20260730__20260730_zVVkJtrVfX4b"><ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000009" name="dei:DocumentType">8-K</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><b>Current Report</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><b>Pursuant to Section 13 or 15(d) of the Securities
+Exchange Act of 1934</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">Date of Report (Date of earliest event reported):
+<span id="xdx_909_edei--DocumentPeriodEndDate_c20260730__20260730_zmvMNTNrCi7b"><ix:nonNumeric contextRef="AsOf2026-07-30" format="ixt:datemonthdayyearen" id="Fact000010" name="dei:DocumentPeriodEndDate">July 30, 2026</ix:nonNumeric></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><b><span id="xdx_90B_edei--EntityRegistrantName_c20260730__20260730_zFdlU6endLL2"><ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000011" name="dei:EntityRegistrantName">WHITEFIBER, INC.</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">(Exact name of Registrant as specified in its charter)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="border-bottom: Black 1.5pt solid; text-align: center; width: 32%"><b><span id="xdx_90F_edei--EntityIncorporationStateCountryCode_c20260730__20260730_zaOm7Ly1pTYd"><ix:nonNumeric contextRef="AsOf2026-07-30" format="ixt-sec:edgarprovcountryen" id="Fact000012" name="dei:EntityIncorporationStateCountryCode">Cayman Islands</ix:nonNumeric></span></b></td>
+    <td style="padding-bottom: 1.5pt; text-align: center; width: 2%">&#160;</td>
+    <td style="border-bottom: Black 1.5pt solid; text-align: center; width: 32%"><b><span id="xdx_907_edei--EntityFileNumber_c20260730__20260730_zMo0ZbWUsZq8"><ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000013" name="dei:EntityFileNumber">001-42780</ix:nonNumeric></span></b></td>
+    <td style="padding-bottom: 1.5pt; text-align: center; width: 2%">&#160;</td>
+    <td style="border-bottom: Black 1.5pt solid; text-align: center; width: 32%"><b><span id="xdx_907_edei--EntityTaxIdentificationNumber_c20260730__20260730_zaNtFoTfwMIg"><ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000014" name="dei:EntityTaxIdentificationNumber">61-2222606</ix:nonNumeric></span></b></td></tr>
+  <tr>
+    <td style="text-align: center; vertical-align: top">(State or Other Jurisdiction<br/>
+of Incorporation)</td>
+    <td style="text-align: center; vertical-align: bottom">&#160;</td>
+    <td style="text-align: center; vertical-align: top">(Commission File Number)</td>
+    <td style="text-align: center; vertical-align: bottom">&#160;</td>
+    <td style="text-align: center; vertical-align: top">(IRS Employer<br/>
+Identification No.)</td></tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><b><span id="xdx_908_edei--EntityAddressAddressLine1_c20260730__20260730_zcpGB0GwCkff"><ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000015" name="dei:EntityAddressAddressLine1">31 Hudson Yards</ix:nonNumeric></span>, <span id="xdx_90C_edei--EntityAddressAddressLine2_c20260730__20260730_zrit1LDnZWf2"><ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000016" name="dei:EntityAddressAddressLine2">Floor 11</ix:nonNumeric></span>, <span id="xdx_90B_edei--EntityAddressAddressLine3_c20260730__20260730_zyE4LNyKWZme"><ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000017" name="dei:EntityAddressAddressLine3">Suite 30</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><b><span id="xdx_906_edei--EntityAddressCityOrTown_c20260730__20260730_zMOuXuHGnKk6"><ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000018" name="dei:EntityAddressCityOrTown">New York</ix:nonNumeric></span>, <span id="xdx_907_edei--EntityAddressStateOrProvince_c20260730__20260730_zAj0M11k7rd9"><ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000019" name="dei:EntityAddressStateOrProvince">NY</ix:nonNumeric></span> <span id="xdx_90A_edei--EntityAddressPostalZipCode_c20260730__20260730_z7j4y94b9rw9"><ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000020" name="dei:EntityAddressPostalZipCode">10001</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><b>(<span id="xdx_900_edei--CityAreaCode_c20260730__20260730_zFLytVa6Fin7"><ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000021" name="dei:CityAreaCode">646</ix:nonNumeric></span>) <span id="xdx_900_edei--LocalPhoneNumber_c20260730__20260730_zc9VIOZQMLbg"><ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000022" name="dei:LocalPhoneNumber">801-0779</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">(Address, Including Zip Code, and Telephone Number,
+Including Area Code, of Registrant&#8217;s Principal Executive Offices)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><b>Not Applicable</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><b></b>(Former name or former address, if
+changed since last report)</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.25in; text-align: left"><span style="font-family: Times New Roman, Times, Serif"><span id="xdx_90F_edei--WrittenCommunications_c20260730__20260730_zFO9slKNIUSl"><ix:nonNumeric contextRef="AsOf2026-07-30" format="ixt:booleanfalse" id="Fact000023" name="dei:WrittenCommunications">&#9744;</ix:nonNumeric></span></span></td><td style="text-align: justify">Written communications pursuant to Rule 425 under the Securities
+Act (17 CFR 230.425)</td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.25in; text-align: left"><span style="font-family: Times New Roman, Times, Serif"><span id="xdx_90A_edei--SolicitingMaterial_c20260730__20260730_z6nqCC7hYZDj"><ix:nonNumeric contextRef="AsOf2026-07-30" format="ixt:booleanfalse" id="Fact000024" name="dei:SolicitingMaterial">&#9744;</ix:nonNumeric></span></span></td><td style="text-align: justify">Soliciting material pursuant to Rule 14a-12 under the Exchange
+Act (17 CFR 240.14a-12)</td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.25in; text-align: left"><span style="font-family: Times New Roman, Times, Serif"><span id="xdx_900_edei--PreCommencementTenderOffer_c20260730__20260730_zxVSm7G2F006"><ix:nonNumeric contextRef="AsOf2026-07-30" format="ixt:booleanfalse" id="Fact000025" name="dei:PreCommencementTenderOffer">&#9744;</ix:nonNumeric></span></span></td><td style="text-align: justify">Pre-commencement communications pursuant to Rule 14d-2(b) under
+the Exchange Act (17 CFR 240.14d-2(b))</td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.25in; text-align: left"><span style="font-family: Times New Roman, Times, Serif"><span id="xdx_902_edei--PreCommencementIssuerTenderOffer_c20260730__20260730_zwheZwDksvc3"><ix:nonNumeric contextRef="AsOf2026-07-30" format="ixt:booleanfalse" id="Fact000026" name="dei:PreCommencementIssuerTenderOffer">&#9744;</ix:nonNumeric></span></span></td><td style="text-align: justify">Pre-commencement communications pursuant to Rule 13e-4(c)
+under the Exchange Act (17 CFR 240.13e-4(c))</td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Securities registered pursuant to Section 12(b) of the Act:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="border-bottom: Black 1.5pt solid; white-space: nowrap; width: 32%; font-size: 10pt; text-align: center"><span style="font-size: 10pt"><b>Title of each class</b></span></td>
+    <td style="padding-bottom: 1.5pt; text-align: center; width: 2%; font-size: 10pt">&#160;</td>
+    <td style="border-bottom: Black 1.5pt solid; width: 32%; font-size: 10pt; text-align: center"><span style="font-size: 10pt"><b>Trading
+    Symbol</b></span></td>
+    <td style="padding-bottom: 1.5pt; text-align: center; font-size: 10pt; width: 2%">&#160;</td>
+    <td style="border-bottom: Black 1.5pt solid; text-align: center; width: 32%"><b>Name of each exchange</b> <b>on which registered</b></td></tr>
+  <tr style="background-color: rgb(204,238,255)">
+    <td style="vertical-align: top; font-size: 10pt; text-align: center"><span style="font-size: 10pt"><span id="xdx_900_edei--Security12bTitle_c20260730__20260730_ztxhNiBYHbU4"><ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000027" name="dei:Security12bTitle">Ordinary Shares, par value $0.01 per share</ix:nonNumeric></span></span></td>
+    <td style="text-align: center; vertical-align: bottom; font-size: 10pt">&#160;</td>
+    <td style="vertical-align: top; font-size: 10pt; text-align: center"><span style="font-size: 10pt"><span id="xdx_905_edei--TradingSymbol_c20260730__20260730_zZIeluH4AIpg"><ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000028" name="dei:TradingSymbol">WYFI</ix:nonNumeric></span></span></td>
+    <td style="text-align: center; vertical-align: bottom; font-size: 10pt">&#160;</td>
+    <td style="vertical-align: top; font-size: 10pt; text-align: center"><span style="font-size: 10pt">The <span id="xdx_90E_edei--SecurityExchangeName_c20260730__20260730_z0fgSozin0Of"><ix:nonNumeric contextRef="AsOf2026-07-30" format="ixt-sec:exchnameen" id="Fact000029" name="dei:SecurityExchangeName">Nasdaq</ix:nonNumeric></span> Stock Market LLC</span></td></tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (&#167;230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (&#167;240.12b-2 of this chapter).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Emerging growth company <span style="font-family: Times New Roman, Times, Serif"><span id="xdx_908_edei--EntityEmergingGrowthCompany_c20260730__20260730_zHDF1Ia1sqsc"><ix:nonNumeric contextRef="AsOf2026-07-30" format="ixt:booleantrue" id="Fact000030" name="dei:EntityEmergingGrowthCompany">&#9746;</ix:nonNumeric></span></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">If an emerging growth company, indicate by
+check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. <span style="font-family: Times New Roman, Times, Serif"><span id="xdx_907_edei--EntityExTransitionPeriod_c20260730__20260730_zY3dzrnIEM4c"><ix:nonNumeric contextRef="AsOf2026-07-30" format="ixt:booleanfalse" id="Fact000031" name="dei:EntityExTransitionPeriod">&#9744;</ix:nonNumeric></span></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p>
+
+
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></p>
+
+<!-- Field: Rule-Page --><div style="width: 100%"><div style="border-top: Black 1pt solid; border-bottom: Black 2pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&#160;</p>
+
+<!-- Field: Page; Sequence: 1 -->
+    <div style="border-bottom: Black 1.5pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"></p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>Item 5.02 Departure of Directors or Certain
+Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b><i>Resignation of Erke Huang as Chief Financial Officer, Principal
+Financial Officer, Principal Accounting Officer and Director</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On&#160;July 30, 2026, Erke Huang notified the
+Board of Directors (the &#8220;Board&#8221;) of WhiteFiber, Inc. (the &#8220;Company&#8221;) that he would resign as the Company&#8217;s&#160;Principal
+Financial Officer, Principal Accounting Officer and Chief Financial Officer, effective August 1, 2026.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On July 30, 2026, Mr. Huang notified the Board
+that he will also step down as a member of the Board of the Company, effective&#160;August 1, 2026, but will transition to Senior Advisor
+to the Company and a non-voting observer to the Board, effective August 1, 2026. Upon Mr. Huang&#8217;s resignation, his director agreement
+with the Company, entered into on May 14, 2025 (the &#8220;Director Agreement&#8221;) automatically terminated. Mr. Huang will remain
+as the Chief Financial Officer of Bit Digital, Inc. Mr. Huang&#8217;s transition did not result from any disagreement with the Company
+on any matter relating to the Company&#8217;s operations, policies or practices. This transition occurred pursuant to the terms and conditions
+of the Transition Services Agreement dated July 30, 2025 by and between Bit Digital and the Company which will generally terminate in
+August 2027.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><i>&#160;</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><i>Huang Advisory Services Agreement</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On&#160;July 30, 2026, in connection with Mr.
+Huang&#8217;s appointment as Senior Advisor to the Company and a non-voting observer to the Board, the Company entered into an Advisory
+Services Agreement with Mr. Huang (the &#8220;Advisory Services Agreement&#8221;). Pursuant to the Advisory Services Agreement, Mr. Huang
+will retain Restricted Share Units (&#8220;RSUs&#8221;) previously awarded to him by the Board, which will vest immediately once certain
+specified performance criteria are satisfied during 2026.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Under the Advisory Services Agreement, Mr. Huang
+shall be entitled to attend all meetings of the Board and any of its Committees in a non-voting advisory capacity. Mr. Huang will not
+receive any additional compensation as an observer to the Board. The Advisory Services Agreement also provides that Mr. Huang will continue
+to comply with the Company&#8217;s confidentiality policies, insider trading policies, codes of business conduct, and applicable federal
+securities laws governing officers of a publicly traded company.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The foregoing is a summary of the Advisory Services Agreement and is
+not intended to be a complete description. It is qualified in its entirety by reference to the full text of the Advisory Services Agreement,
+which is filed as Exhibit 10.1 hereto, as well as the Director Agreement, the Transition Services Agreement, WhiteFiber 2025 Omnibus Equity&#160;Incentive
+Plan (the &#8220;2025 Plan&#8221;) and the related form Restricted Stock Unit Award Agreement, previously filed as exhibits to the Company&#8217;s
+reports with the Securities and Exchange Commission and incorporated herein by reference in their entirety.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b><i>&#160;</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b><i>Appointment of Justin Zhu as Chief Financial Officer, Principal
+Financial Officer and Principal Accounting Officer</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On&#160;July 30, 2026, the Board appointed Justin
+Zhu, age 45, as the Company&#8217;s Chief Financial Officer, Principal Financial Officer, and Principal Accounting Officer effective&#160;August&#160;1,
+2026. Upon Mr. Zhu&#8217;s appointment as Chief Financial Officer of the Company, he resigned from his positions with Bit Digital, described
+below.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Mr. Zhu has served as Senior Vice President of
+Finance and Chief Accounting Officer of the Company upon completion of the Company&#8217;s initial public offering in August 2025. Until
+his resignation as of August 1, 2026, Mr.&#160;Zhu served as Vice President of Finance with Bit Digital since July&#160;2021 and, effective
+as of July 2025, he was also appointed as Principal Financial Officer and Chief Accounting Officer of Bit Digital. From 2015 until July&#160;2021,
+Mr.&#160;Zhu was a Senior Manager at Ernst&#160;&amp; Young US LLP, where he advised Fortune 500 clients on accounting, reporting, and
+transaction-related regulatory requirements.&#160;He started his career at PricewaterhouseCoopers, LLP, from 2012 to 2015, focusing on
+public company audits. Mr.&#160;Zhu holds a Bachelor of Business Administration (Honors) in Accounting and a Master of Science in Taxation
+from Baruch College. He is a Certified Public Accountant in New York.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Other than as otherwise disclosed herein, there
+are no arrangements or understandings between Mr. Zhu and any other persons pursuant to which he was appointed as an officer, no family
+relationships requiring disclosure under Item 401(d) of Regulation S-K, and no related-party transactions with Mr. Zhu requiring disclosure
+under Item 404(a) of Regulation S-K.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"></p>
+
+<!-- Field: Page; Sequence: 2; Options: NewSection -->
+    <div style="border-bottom: Black 1.5pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->1<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"></p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><i>Zhu Employment Agreement and Indemnification
+Agreement</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On&#160;July 30, 2026, in connection with the
+appointment of Mr. Zhu as the Company&#8217;s Chief Financial Officer, Principal Financial Officer and Principal Accounting Officer, the
+Company entered into a new employment agreement with Mr. Zhu (the &#8220;Employment Agreement&#8221;), effective August 1, 2026. Pursuant
+to the Employment Agreement, Mr. Zhu will receive $450,000 per annum, with such compensation commencing on August 1, 2026. Mr. Zhu will
+be eligible for a cash bonus each calendar year based on such targets and performance criteria as shall be established by the Board of
+Directors in its discretion after consultation with Mr. Zhu. The agreement is for a term ending on July 31, 2028 and will renew automatically
+for a successive period of one year unless terminated by either party on at least 90 days prior written notice. Mr.&#160;Zhu was awarded
+a signing bonus of RSUs valued at $100,000 in ordinary shares of the Company. Mr. Zhu shall be entitled to three (3) months&#8217; Base
+Salary, plus a pro-rated portion of his most recent annual bonus, in the event he is terminated by the Company without Cause (as defined
+in the Employment Agreement), or by Mr. Zhu for Good Reason (as defined in the Employment Agreement), or as a result of expiration of
+the employment agreement by the Company&#8217;s non-renewal, or upon a Change of Control (as defined in the Employment Agreement).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">In addition, pursuant to the Employment Agreement,
+Mr. Zhu is entitled to receive RSUs, which will vest immediately once certain specified performance criteria are satisfied during 2026.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The Employment Agreement also provides that Mr.
+Zhu will continue to comply with the Company&#8217;s confidentiality policies, insider trading policies, codes of business conduct, and
+applicable federal securities laws governing officers of a publicly traded company.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On&#160;July 30, 2026, effective August&#160;1,
+2026, the Company and Mr. Zhu entered into an Indemnification Agreement, as a supplement to and in furtherance of the Company&#8217;s
+Articles of Association and Certificate of Incorporation and any resolutions adopted pursuant thereto.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The foregoing is a summary of the Employment Agreement
+and Indemnification Agreement and is not intended to be a complete description. It is qualified in its entirety by reference to the full
+text of the Employment Agreement and Indemnification Agreement, which are filed as Exhibits 10.2 and 10.3 hereto, respectively, as well
+as the 2025 Plan and the related form Restricted Stock Unit Award Agreement, previously filed as exhibits to the Company&#8217;s reports
+with the Securities and Exchange Commission and incorporated herein by reference in their entirety.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b><i>&#160;</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b><i>Resignation of Director, David Andre</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On&#160;July&#160;30, 2026, David Andre notified the Company of his
+resignation as a member of the Company&#8217;s Board, Audit Committee (the &#8220;Audit Committee&#8221;), Compensation Committee (the
+&#8220;Compensation Committee&#8221;), and Nominating Committee (the &#8220;Nominating Committee&#8221;), effective&#160;August 1, 2026.
+Upon Mr. Andre&#8217;s resignation, his Director Agreement with the Company, entered into on April 15, 2025, automatically terminated.
+Mr. Andre&#8217;s resignation did not result from any disagreement with the Company on any matter relating to the Company&#8217;s operations,
+policies or practices.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b><i>&#160;</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b><i>Election of Director, Sam Tabar</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On&#160;July&#160;30, 2026, the Board elected
+Sam Tabar to serve as director of the Company, effective&#160;August&#160;1,&#160;2026,&#160;until the Company&#8217;s next annual meeting
+of shareholders and until his successor is duly elected and qualified.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Mr.&#160;Sam Tabar, age 54, has served as WhiteFiber&#8217;s
+Chief Executive Officer since February&#160;2025. Mr.&#160;Tabar served as Chief Strategy Officer of Bit Digital from March&#160;31, 2021
+to March&#160;31, 2023, when he was appointed Chief Executive Officer of Bit Digital. Mr.&#160;Tabar was an independent contractor for
+Centerboard Securities LLC, as a FINRA registered representative, from June&#160;2020 until his resignation on March&#160;31, 2023. Prior
+thereto, Mr.&#160;Tabar served as the Co-Founder and Chief Strategy Officer of Fluidity from April&#160;2017 to June&#160;2020. Prior
+to this, he served as a Partner to FullCycle Fund from December&#160;2015 to April&#160;2017. Prior to this, he served as Director and
+Head of Capital Strategy (Asia Pacific Region) for Bank of America Merrill Lynch from February&#160;2011 to January&#160;2013. Prior to
+this, he was Co-Head of Marketing at Sparx Group from March&#160;2003 to 2011. Prior to this, he was an associate at Skadden, Arps, Meagher,
+Flom LLP&#160;&amp; Affiliates from May&#160;2001 to March&#160;2004. Mr.&#160;Tabar received his Bachelor of Arts from Oxford University
+in 2000 and received his Master of Law (LL.M.) from Columbia University School of Law in 2001. He was associate editor of the Columbia
+Law Business Law Journal in 2000, and is a current member of the New&#160;York State Bar Association.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Other than as otherwise disclosed herein, there
+are no arrangements or understandings between&#160;Mr. Tabar&#160;and any other persons pursuant to which he was elected as a director,
+no family relationships requiring disclosure under Item 401(d) of Regulation S-K, and no transactions requiring disclosure under Item
+404(a) of Regulation S-K.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><i>&#160;</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><i></i></p>
+
+<!-- Field: Page; Sequence: 3 -->
+    <div style="border-bottom: Black 1.5pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"></p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><i>&#160;</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><i>Tabar Director Agreement and Indemnification
+Agreement</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On&#160;July 30, 2026, the Board approved a Director
+Agreement (&#8220;Director Agreement&#8221;) with Mr. Tabar, effective August 1, 2026.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On&#160;July 30, 2026, effective August&#160;1,
+2026, the Company and Mr. Tabar entered into an Indemnification Agreement, as a supplement to and in furtherance of the Company&#8217;s
+Articles of Association and Certificate of Incorporation and any resolutions adopted pursuant thereto.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The foregoing is a summary of the Director Agreement
+and Indemnification Agreement and is not intended to be a complete description. It is qualified in its entirety by reference to the full
+text of the Director Agreement and Indemnification Agreement, which are filed hereto as Exhibit 10.4 and Exhibit 10.5, respectively, as
+well as the 2025 Plan and the related form Restricted Stock Unit Award Agreement, previously filed as exhibits to the Company&#8217;s
+reports with the Securities and Exchange Commission and incorporated herein by reference in their entirety.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b><i>&#160;</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b><i>Election of Director, Michael Rulf </i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On&#160;July&#160;30, 2026, the Board
+elected Michael Rulf to serve as an independent director of the Company, effective&#160;August&#160;1,&#160;2026,&#160; until the
+Company&#8217;s next annual meeting of shareholders and until his successor is duly elected and qualified. In addition, Mr. Rulf was
+also appointed as a member of the Board&#8217;s Compensation Committee and Nominating Committee. The Board also determined that Mr.
+Rulf does not have a relationship that would interfere with the exercise of independent judgment in carrying out the
+responsibilities of a director and that he is independent within the meaning of the Nasdaq Listing Rule 5605(a)(2).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Michael Rulf, age 55, was elected to serve as
+an independent director of WhiteFiber on August 1, 2026. Mr. Rulf has served as Chief Solutions Architect of Syntax Systems Ltd. since
+December 2025, where he manages product development initiatives for managed services and cloud providers and supports product lines in
+excess of $250 million in revenue. He previously served as Syntax Systems Ltd.&#8217;s Americas Chief Technology Officer from 2018 to
+2025 and as its Chief Technology Officer from 2012 to 2018. From April 2011 to August 2012, Mr. Rulf served as Vice President, Service
+Engineering Technology Office at Oracle Corporation, where he was responsible for providing strategic direction and vision for all Oracle
+Cloud Services products and development initiatives, including oversight of cross-functional product management and architecture teams
+of more than 200 individuals across domestic and international operations. From January 2008 to April 2011, Mr. Rulf served as Executive
+Director of Product Development at AT&amp;T Inc., where he provided strategic direction for all Cloud Services products and managed a
+cross-functional organization in excess of 500 individuals. From April 2005 to January 2008, Mr. Rulf served as Vice President of Advanced
+Engineering at USi Inc., where he was responsible for the strategic direction and management of all product engineering initiatives. From
+1998 to 2005, Mr. Rulf served as Vice President of Research and Development at Core Services Corporation, which was later acquired by
+Syntax Systems Limited, where he founded and led the company&#8217;s information security consulting practice. From 1995 to 1998, Mr.
+Rulf served as Information Services Manager at Production Arts, where he managed systems installation and software development across
+the company&#8217;s U.S. and international offices.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Mr. Rulf received his Bachelor of Arts in Computer
+Science and Engineering Applications for Theatre from The College of Wooster in 1993 and his Master of Fine Arts in Theater Engineering
+from Purdue University in 1997. In 2007, Mr. Rulf was recognized as Innovator of the Year by the Oracle Applications User Group. Mr. Rulf
+is qualified to serve as a member of the Company&#8217;s board of directors due to his more than two decades of executive experience leading
+cloud services, managed services, and SaaS platform development at major technology organizations, and brings a valuable strategic perspective
+applicable to the Company&#8217;s AI infrastructure and cloud services businesses.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Other than as otherwise disclosed herein, there
+are no arrangements or understandings between&#160;Mr. Rulf&#160;and any other persons pursuant to which he was elected as a director,
+no family relationships requiring disclosure under Item 401(d) of Regulation S-K, and no transactions requiring disclosure under Item
+404(a) of Regulation S-K.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><i>&#160;</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><i></i></p>
+
+<!-- Field: Page; Sequence: 4 -->
+    <div style="border-bottom: Black 1.5pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"></p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><i>&#160;</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><i>Rulf Director Agreement, Indemnification Agreement
+and Professional Services Agreement</i></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">On&#160;July 30, 2026, the Board approved a director
+agreement (the &#8220;Director Agreement&#8221;) with Mr. Rulf, effective August&#160;1,&#160;2026. Pursuant to his Director
+Agreement, Mr. Rulf will receive $150,000 per annum, paid on a quarterly basis, as compensation for his service on the Board and its Compensation Committee and Nominating
+Committee. On&#160;July 30, 2026, the Company and Mr. Rulf entered into an Indemnification Agreement, effective August&#160;1,&#160;2026,
+as a supplement to and in furtherance of the Company&#8217;s Articles of Association and Certificate of Incorporation and any resolutions
+adopted pursuant thereto. On July 30, 2026, the Company and Rasterwerk LLC, a Maryland limited liability company, owned by Michael Rulf,
+entered into a Professional Services Agreement, effective August 1, 2026 (the &#8220;PSA&#8221;). Mr. Rulf will provide consulting services
+on an as needed basis at standard rates when services are rendered. The PSA may be terminated by either party upon thirty (30) days&#8217;
+prior written notice.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The foregoing is a summary of the Director Agreement,
+the Indemnification Agreement and the PSA and is not intended to be a complete description. It is qualified in its entirety by reference
+to the full text of the Director Agreement, the Indemnification Agreement and the PSA, which are filed hereto as Exhibits 10.6, 10.7 and
+10.8, respectively, as well as the 2025 Plan and the related form Restricted Stock Unit Award Agreement, previously filed as exhibits
+to the Company&#8217;s reports with the Securities and Exchange Commission and incorporated herein by reference in their entirety.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b><i>&#160;</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b><i>Amendment to Pruitt Hall Director Agreement </i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Pruitt Hall is a continuing independent
+member of the Board and the Audit Committee, Compensation Committee and Nominating Committee. On&#160;July&#160;30, 2026, the Board
+approved an Amendment to the Director Agreement entered into between the Company and Mr. Hall on May 5, 2025, with the Amendment
+having an effective date of August 1, 2026 (the &#8220;Amendment&#8221;). Pursuant to the Amendment, Mr. Hall&#8217;s
+director&#8217;s compensation was increased from $150,000 to $270,000 per annum paid on a monthly basis. On July 30, 2026, in
+connection with Mr. Hall&#8217;s continued participation on the Company&#8217;s Audit Committee the Professional Services Agreement, by and between Mr. Hall and the Company, entered into in August 2025 was terminated. His Directorship Term (as defined in the Amendment) is for a one-year term automatically renewable
+for additional one-year terms, if not otherwise terminated by either party within three months prior to the expiration.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The Board determined that Mr. Hall qualifies for
+Audit Committee membership under Nasdaq Listing Rule 5605(a)(2)&#160;and the heightened independence standard for Audit Committee members
+set out in Rule 10A-3 of the Securities Exchange Act of 1934, as amended. The foregoing is a summary of the Amendment to the Director Agreement and is not intended to be a complete description. It is qualified
+in its entirety by reference to the full text of the Amendment to the Director Agreement, which is filed hereto as Exhibit 10.9, as well
+as the Director Agreement and the Professional Services Agreement previously filed as exhibits to the Company&#8217;s reports with the
+Securities and Exchange Commission and incorporated herein by reference in their entirety.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>Item 7.01 &#160;Regulation FD Disclosure.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">The information contained in this Item 7.01 of
+this Current Report shall not be deemed &#8220;filed&#8221; for purposes of Section 18 of the Securities Exchange
+Act of 1934, as amended (the &#8220;Exchange Act&#8221;), or otherwise subject to the liabilities of that section, nor shall it be incorporated
+by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific
+reference in such filing.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b><i>&#160;</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b><i>Forward-Looking Statements</i></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">This Current Report and the exhibits hereto contain
+&#8220;forward-looking&#8221; statements within the meaning of the federal securities laws that are based on management&#8217;s beliefs
+and assumptions and on information currently available to management. Forward-looking statements involve known and unknown risks, uncertainties
+and other factors that may cause actual events to differ, including those described under &#8220;Risk Factors&#8221; in the Company&#8217;s
+Annual Report on Form 10-K for the year ended December 31, 2025 filed with the SEC on March 26, 2026, and in the Company&#8217;s subsequent
+filings. The Company assumes no obligation to update these statements except as required by law.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b></b></p>
+
+<!-- Field: Page; Sequence: 5 -->
+    <div style="border-bottom: Black 1.5pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->4<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"></p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>Item 9.01. Financial Statements and Exhibits.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">(d) Exhibits:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: top">
+    <td style="border-bottom: black 1.5pt solid; width: 9%"><span style="font-size: 10pt">Number</span></td>
+    <td style="width: 1%">&#160;</td>
+    <td style="border-bottom: black 1.5pt solid; width: 90%"><span style="font-size: 10pt">Description</span></td></tr>
+  <tr style="vertical-align: top; background-color: rgb(204,238,255)">
+    <td><span style="font-size: 10pt">10.1</span></td>
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt"><a href="ea029977501ex10-1.htm">Advisory Services Agreement, by and between WhiteFiber, Inc. and Erke Huang</a></span></td></tr>
+  <tr style="vertical-align: top; background-color: White">
+    <td><span style="font-size: 10pt">10.2</span></td>
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt"><a href="ea029977501ex10-2.htm">Employment Agreement, by and between WhiteFiber, Inc. and Justin Zhu</a></span></td></tr>
+  <tr style="vertical-align: top; background-color: rgb(204,238,255)">
+    <td><span style="font-size: 10pt">10.3</span></td>
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt"><a href="ea029977501ex10-3.htm">Indemnification Agreement, by and between WhiteFiber, Inc. and Justin Zhu</a></span></td></tr>
+  <tr style="vertical-align: top; background-color: White">
+    <td><span style="font-size: 10pt">10.4</span></td>
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt"><a href="ea029977501ex10-4.htm">Director Agreement, by and between WhiteFiber, Inc. and Samir Tabar</a></span></td></tr>
+  <tr style="vertical-align: top; background-color: rgb(204,238,255)">
+    <td><span style="font-size: 10pt">10.5</span></td>
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt"><a href="ea029977501ex10-5.htm">Indemnification Agreement by and between WhiteFiber, Inc. and Samir Tabar</a></span></td></tr>
+  <tr style="vertical-align: top; background-color: White">
+    <td><span style="font-size: 10pt">10.6</span></td>
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt"><a href="ea029977501ex10-6.htm">Director Agreement, by and between WhiteFiber, Inc. and Michael Rulf</a></span></td></tr>
+  <tr style="vertical-align: top; background-color: rgb(204,238,255)">
+    <td><span style="font-size: 10pt">10.7</span></td>
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt"><a href="ea029977501ex10-7.htm">Indemnification Agreement by and between WhiteFiber, Inc. and Michael Rulf</a></span></td></tr>
+  <tr style="vertical-align: top; background-color: White">
+    <td><span style="font-size: 10pt">10.8</span></td>
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt"><a href="ea029977501ex10-8.htm">Professional Services Agreement by and between
+    WhiteFiber, Inc. and Rasterwerk LLC (Michael Rulf)</a></span></td></tr>
+  <tr style="vertical-align: top; background-color: rgb(204,238,255)">
+    <td><span style="font-size: 10pt">10.9</span></td>
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt"><a href="ea029977501ex10-9.htm">Amendment to Director Agreement by and between WhiteFiber, Inc. and Pruitt Hall</a> </span></td></tr>
+  <tr style="vertical-align: top; background-color: White">
+    <td><span style="font-size: 10pt">104</span></td>
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt">Cover Page Interactive Data File (formatted in Inline XBRL and included as Exhibit 101).</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 6 -->
+    <div style="border-bottom: Black 1.5pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->5<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt"></p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SIGNATURES</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Pursuant to the requirements of the Securities
+Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr>
+    <td>&#160;</td>
+    <td colspan="2"><span style="font-size: 10pt"><b>WHITEFIBER, INC.</b></span></td></tr>
+  <tr>
+    <td style="width: 60%">&#160;</td>
+    <td style="width: 4%">&#160;</td>
+    <td style="width: 36%">&#160;</td></tr>
+  <tr>
+    <td><span style="font-size: 10pt">Date: August 3, 2026</span></td>
+    <td><span style="font-size: 10pt">By:</span></td>
+    <td style="border-bottom: Black 1.5pt solid">/s/ Samir Tabar&#160;</td></tr>
+  <tr>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt">Samir Tabar</span></td></tr>
+  <tr>
+    <td>&#160;</td>
+    <td>&#160;</td>
+    <td><span style="font-size: 10pt">Chief Executive Officer</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt; text-align: left"></p>
+
+<!-- Field: Page; Sequence: 7; Options: Last -->
+    <div style="border-bottom: Black 1.5pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="font: normal 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->6<!-- Field: /Sequence --></p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-right: 0; margin-bottom: 0pt; text-align: left">&#160;</p>
+
+<!-- Field: Set; Name: xdx; ID: xdx_08B_extensions -->
+<!-- eJxFjd0KgkAQhZ/Adxj2OtIErbxMSiILEYlul5xiSXdkdvt7pN6yVYmGgWHmnG+OEBOR0UY1yHBalTlU2HaNtAglXpBRn9E50u0uATdLvCpjWWo7rD8wJcegY+JpJN19cD6UwTqBYO6HSz+MIYiTaAHFXni9npK+qBq1VbIBqWsomDpWaCW/xw+VfJGm9j0kHZGNIp3AbBqM8gfCYBbCgR7ySXwzkOep8CZDeSJjunfOtX5Z1D0J6wZbF2dG+t/eF9g/SnE= -->
+<script type="text/javascript"  src="/N3AEOPt9/dJoipWz/rYwIB5c/dg/YEaQGVVmDJktp27Xmu/SixucGdeLAQ/KXhNJ/AQsW1I"></script></body>
+</html>

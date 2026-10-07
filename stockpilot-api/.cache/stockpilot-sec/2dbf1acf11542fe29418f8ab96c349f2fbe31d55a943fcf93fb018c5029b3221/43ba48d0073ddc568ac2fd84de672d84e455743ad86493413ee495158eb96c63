@@ -1,0 +1,676 @@
+f6f211ede1e4d987d4fc683bfa53f2a6157add622c29abb3234f0f158c48faac<?xml version='1.0' encoding='ASCII'?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:ix="http://www.xbrl.org/2013/inlineXBRL" xmlns:ixt="http://www.xbrl.org/inlineXBRL/transformation/2015-02-26" xmlns:ixt-sec="http://www.sec.gov/inlineXBRL/transformation/2015-08-31" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:dei="http://xbrl.sec.gov/dei/2026" xmlns:us-gaap="http://fasb.org/us-gaap/2026" xmlns:us-roles="http://fasb.org/us-roles/2026" xmlns:dtr-types="http://www.xbrl.org/dtr/type/2024-01-31" xmlns:country="http://xbrl.sec.gov/country/2026" xmlns:srt="http://fasb.org/srt/2026" xmlns:XIIIU="http://churchillcapitalcorp13.com/20260730">
+<head>
+     <title></title>
+<meta http-equiv="Content-Type" content="text/html"/>
+</head>
+<!-- Field: Set; Name: xdx; ID: xdx_02F_US%2DGAAP%2D2026 -->
+<!-- Field: Set; Name: xdx; ID: xdx_031_XIIIU_churchillcapitalcorp13.com_20260730 -->
+<!-- Field: Set; Name: xdx; ID: xdx_04A_20260730_20260730 -->
+<!-- Field: Set; Name: xdx; ID: xdx_059_edei%2D%2DAmendmentFlag_false -->
+<!-- Field: Set; Name: xdx; ID: xdx_051_edei%2D%2DCurrentFiscalYearEndDate_%2D%2DLS0xMi0zMQ== -->
+<!-- Field: Set; Name: xdx; ID: xdx_054_edei%2D%2DEntityCentralIndexKey_0002114229 -->
+<!-- Field: Set; Name: xdx; ID: xdx_06B_USD_1_iso4217%2D%2DUSD -->
+<!-- Field: Set; Name: xdx; ID: xdx_062_Shares_2_xbrli%2D%2Dshares -->
+<!-- Field: Set; Name: xdx; ID: xdx_06D_USDPShares_3_iso4217%2D%2DUSD_xbrli%2D%2Dshares -->
+<body style="font: 10pt Times New Roman, Times, Serif">
+<div style="display: none">
+<ix:header>
+ <ix:hidden>
+  <ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000003" name="dei:AmendmentFlag">false</ix:nonNumeric>
+  <ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000004" name="dei:CurrentFiscalYearEndDate">--12-31</ix:nonNumeric>
+  <ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000005" name="dei:EntityCentralIndexKey">0002114229</ix:nonNumeric>
+  </ix:hidden>
+ <ix:references>
+  <link:schemaRef xlink:href="xiiiu-20260730.xsd" xlink:type="simple"/>
+  </ix:references>
+ <ix:resources>
+    <xbrli:context id="AsOf2026-07-30">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0002114229</xbrli:identifier>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-07-30</xbrli:startDate>
+        <xbrli:endDate>2026-07-30</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="From2026-07-302026-07-30_custom_UnitsEachConsistingOfOneClassOrdinaryShareAndOnetenthOfOneRedeemableWarrantMember">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0002114229</xbrli:identifier>
+        <xbrli:segment>
+          <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">XIIIU:UnitsEachConsistingOfOneClassOrdinaryShareAndOnetenthOfOneRedeemableWarrantMember</xbrldi:explicitMember>
+        </xbrli:segment>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-07-30</xbrli:startDate>
+        <xbrli:endDate>2026-07-30</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="From2026-07-302026-07-30_custom_ClassOrdinarySharesParValue0.0001PerShareMember">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0002114229</xbrli:identifier>
+        <xbrli:segment>
+          <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">XIIIU:ClassOrdinarySharesParValue0.0001PerShareMember</xbrldi:explicitMember>
+        </xbrli:segment>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-07-30</xbrli:startDate>
+        <xbrli:endDate>2026-07-30</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="From2026-07-302026-07-30_custom_WarrantsEachWholeWarrantExercisableForOneClassOrdinaryShareAtExercisePriceOf11.50PerShareMember">
+      <xbrli:entity>
+        <xbrli:identifier scheme="http://www.sec.gov/CIK">0002114229</xbrli:identifier>
+        <xbrli:segment>
+          <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">XIIIU:WarrantsEachWholeWarrantExercisableForOneClassOrdinaryShareAtExercisePriceOf11.50PerShareMember</xbrldi:explicitMember>
+        </xbrli:segment>
+      </xbrli:entity>
+      <xbrli:period>
+        <xbrli:startDate>2026-07-30</xbrli:startDate>
+        <xbrli:endDate>2026-07-30</xbrli:endDate>
+      </xbrli:period>
+    </xbrli:context>
+    <xbrli:unit id="USD">
+      <xbrli:measure>iso4217:USD</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="Shares">
+      <xbrli:measure>xbrli:shares</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="USDPShares">
+      <xbrli:divide>
+        <xbrli:unitNumerator>
+          <xbrli:measure>iso4217:USD</xbrli:measure>
+        </xbrli:unitNumerator>
+        <xbrli:unitDenominator>
+          <xbrli:measure>xbrli:shares</xbrli:measure>
+        </xbrli:unitDenominator>
+      </xbrli:divide>
+    </xbrli:unit>
+  </ix:resources>
+ </ix:header>
+</div>
+
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><div style="border-top: Black 2pt solid; border-bottom: Black 1pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>UNITED
+STATES</b></span></p>
+
+<p style="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>SECURITIES
+AND EXCHANGE COMMISSION</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Washington,
+D.C. 20549</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><div style="border-top: Black 1.5pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&#160;</b></span></p>
+
+<p style="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>FORM
+<span id="xdx_905_edei--DocumentType_c20260730__20260730_ziWNvOxWNWt"><ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000010" name="dei:DocumentType">8-K</ix:nonNumeric></span></b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><div style="border-top: Black 1.5pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&#160;</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>CURRENT
+REPORT</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>PURSUANT
+TO SECTION 13 OR 15(d)</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>OF
+THE SECURITIES EXCHANGE ACT OF 1934</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&#160;</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>Date
+of Report (Date of earliest event reported): <span id="xdx_90A_edei--DocumentPeriodEndDate_c20260730__20260730_z8js98HE1yEi"><ix:nonNumeric contextRef="AsOf2026-07-30" format="ixt:datemonthdayyearen" id="Fact000011" name="dei:DocumentPeriodEndDate">July 30, 2026</ix:nonNumeric></span></b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><div style="border-top: Black 1.5pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>&#160;</b></span></p>
+
+<p style="font: 24pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b><span id="xdx_901_edei--EntityRegistrantName_c20260730__20260730_zn4myp4X5WU3"><ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000012" name="dei:EntityRegistrantName">CHURCHILL CAPITAL CORP XIII</ix:nonNumeric></span></b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"><b>(Exact
+name of registrant as specified in its charter)</b></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt">&#160;</span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><span style="font-family: Times New Roman, Times, Serif; font-size: 10pt"></span></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><div style="border-top: Black 1.5pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr>
+    <td style="border-bottom: Black 1.5pt solid; vertical-align: top; font-size: 10pt; text-align: center; width: 32%"><span style="font-size: 10pt"><b><span id="xdx_90F_edei--EntityIncorporationStateCountryCode_c20260730__20260730_zgyOrKj8BoX4"><ix:nonNumeric contextRef="AsOf2026-07-30" format="ixt-sec:edgarprovcountryen" id="Fact000013" name="dei:EntityIncorporationStateCountryCode">Cayman Islands</ix:nonNumeric></span></b></span></td>
+    <td style="padding-bottom: 1.5pt; vertical-align: bottom; font-size: 10pt; width: 2%">&#160;</td>
+    <td style="border-bottom: Black 1.5pt solid; vertical-align: top; font-size: 10pt; text-align: center; width: 32%"><span style="font-size: 10pt"><b><span id="xdx_905_edei--EntityFileNumber_c20260730__20260730_zI4vFeNCbfnc"><ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000014" name="dei:EntityFileNumber">001-43428</ix:nonNumeric></span></b></span></td>
+    <td style="padding-bottom: 1.5pt; vertical-align: bottom; font-size: 10pt; width: 2%">&#160;</td>
+    <td style="border-bottom: Black 1.5pt solid; vertical-align: top; font-size: 10pt; text-align: center; width: 32%"><span style="font-size: 10pt"><b><span id="xdx_90A_edei--EntityTaxIdentificationNumber_c20260730__20260730_z1zt33DIElS7"><ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000015" name="dei:EntityTaxIdentificationNumber">98-1918594</ix:nonNumeric></span></b></span></td></tr>
+  <tr>
+    <td style="vertical-align: top">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>(State or other jurisdiction</b></p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>of incorporation)</b></p></td>
+    <td style="vertical-align: bottom; font-size: 10pt">&#160;</td>
+    <td style="vertical-align: top">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>(Commission File Number)</b></p></td>
+    <td style="vertical-align: bottom; font-size: 10pt">&#160;</td>
+    <td style="vertical-align: top">
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>(IRS Employer</b></p>
+    <p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Identification No.)</b></p></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b><span id="xdx_903_edei--EntityAddressAddressLine1_c20260730__20260730_z4qo4cf51jN1"><ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000016" name="dei:EntityAddressAddressLine1">640 Fifth Avenue</ix:nonNumeric></span>, <span id="xdx_90B_edei--EntityAddressAddressLine2_c20260730__20260730_zLPKuniSaCU6"><ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000017" name="dei:EntityAddressAddressLine2">14th Floor</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b><span id="xdx_90E_edei--EntityAddressCityOrTown_c20260730__20260730_zN4id6dE8hck"><ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000018" name="dei:EntityAddressCityOrTown">New York</ix:nonNumeric></span>, <span id="xdx_90B_edei--EntityAddressStateOrProvince_c20260730__20260730_zQUGxaMZP1S9"><ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000019" name="dei:EntityAddressStateOrProvince">NY</ix:nonNumeric></span> <span id="xdx_908_edei--EntityAddressPostalZipCode_c20260730__20260730_zH9RaMSACrSh"><ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000020" name="dei:EntityAddressPostalZipCode">10019</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>(Address of principal executive offices, including
+zip code)</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Registrant&#8217;s telephone number, including
+area code: (<span id="xdx_90A_edei--CityAreaCode_c20260730__20260730_zE1dcTlV1IBh"><ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000021" name="dei:CityAreaCode">212</ix:nonNumeric></span>) <span id="xdx_903_edei--LocalPhoneNumber_c20260730__20260730_zLRI1e2Uwetd"><ix:nonNumeric contextRef="AsOf2026-07-30" id="Fact000022" name="dei:LocalPhoneNumber">380-7500</ix:nonNumeric></span></b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>Not Applicable</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>(Former name or former address, if changed since
+last report)</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><div style="border-top: Black 1.5pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0in"/><td style="width: 0.25in; text-align: left"><span style="font-family: Times New Roman, Times, Serif"><span id="xdx_904_edei--WrittenCommunications_c20260730__20260730_zMj1ELTXJVW7"><ix:nonNumeric contextRef="AsOf2026-07-30" format="ixt:booleanfalse" id="Fact000023" name="dei:WrittenCommunications">&#9744;</ix:nonNumeric></span></span></td><td style="text-align: justify">Written communications pursuant to Rule 425 under the Securities
+Act (17 CFR 230.425)</td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0in"/><td style="width: 0.25in; text-align: left"><span style="font-family: Times New Roman, Times, Serif"><span id="xdx_90D_edei--SolicitingMaterial_c20260730__20260730_zudV0ijyLaU4"><ix:nonNumeric contextRef="AsOf2026-07-30" format="ixt:booleanfalse" id="Fact000024" name="dei:SolicitingMaterial">&#9744;</ix:nonNumeric></span></span></td><td style="text-align: justify">Soliciting material pursuant to Rule 14a-12 under the Exchange
+Act (17 CFR 240.14a-12)</td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0in"/><td style="width: 0.25in; text-align: left"><span style="font-family: Times New Roman, Times, Serif"><span id="xdx_905_edei--PreCommencementTenderOffer_c20260730__20260730_z0DZGyGjLEH3"><ix:nonNumeric contextRef="AsOf2026-07-30" format="ixt:booleanfalse" id="Fact000025" name="dei:PreCommencementTenderOffer">&#9744;</ix:nonNumeric></span></span></td><td style="text-align: justify">Pre-commencement communications pursuant to Rule 14d-2(b) under
+the Exchange Act (17 CFR 240.14d-2(b))</td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0in"/><td style="width: 0.25in; text-align: left"><span style="font-family: Times New Roman, Times, Serif"><span id="xdx_902_edei--PreCommencementIssuerTenderOffer_c20260730__20260730_z8J2IdkKcdg1"><ix:nonNumeric contextRef="AsOf2026-07-30" format="ixt:booleanfalse" id="Fact000026" name="dei:PreCommencementIssuerTenderOffer">&#9744;</ix:nonNumeric></span></span></td><td style="text-align: justify">Pre-commencement communications pursuant to Rule 13e-4(c) under
+the Exchange Act (17 CFR 240.13e-4(c))</td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Securities registered pursuant to Section 12(b) of the Act:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="border-bottom: Black 1.5pt solid; white-space: nowrap; width: 32%; text-align: center"><span style="font-size: 10pt"><b>Title of each class</b></span></td>
+    <td style="padding-bottom: 1.5pt; width: 2%">&#160;</td>
+    <td style="border-bottom: Black 1.5pt solid; width: 32%; text-align: center"><span style="font-size: 10pt"><b>Trading
+    Symbol(s)</b></span></td>
+    <td style="padding-bottom: 1.5pt; width: 2%">&#160;</td>
+    <td style="border-bottom: Black 1.5pt solid; width: 32%; text-align: center"><span style="font-size: 10pt"><b>Name of each exchange on which registered</b></span></td></tr>
+  <tr style="background-color: rgb(204,238,255)">
+    <td style="vertical-align: top; text-align: center"><span style="font-size: 10pt"><span id="xdx_905_edei--Security12bTitle_c20260730__20260730__us-gaap--StatementClassOfStockAxis__custom--UnitsEachConsistingOfOneClassOrdinaryShareAndOnetenthOfOneRedeemableWarrantMember_zR1SpyerTnk2"><ix:nonNumeric contextRef="From2026-07-302026-07-30_custom_UnitsEachConsistingOfOneClassOrdinaryShareAndOnetenthOfOneRedeemableWarrantMember" id="Fact000027" name="dei:Security12bTitle">Units, each consisting of one Class A ordinary share and one-tenth of one redeemable warrant</ix:nonNumeric></span></span></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: top; text-align: center"><span style="font-size: 10pt"><span id="xdx_908_edei--TradingSymbol_c20260730__20260730__us-gaap--StatementClassOfStockAxis__custom--UnitsEachConsistingOfOneClassOrdinaryShareAndOnetenthOfOneRedeemableWarrantMember_zAo6g8Y95K8h"><ix:nonNumeric contextRef="From2026-07-302026-07-30_custom_UnitsEachConsistingOfOneClassOrdinaryShareAndOnetenthOfOneRedeemableWarrantMember" id="Fact000028" name="dei:TradingSymbol">XIIIU</ix:nonNumeric></span></span></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: top; text-align: center"><span style="font-size: 10pt">The <span id="xdx_903_edei--SecurityExchangeName_c20260730__20260730__us-gaap--StatementClassOfStockAxis__custom--UnitsEachConsistingOfOneClassOrdinaryShareAndOnetenthOfOneRedeemableWarrantMember_zxpw4BxziaU6"><ix:nonNumeric contextRef="From2026-07-302026-07-30_custom_UnitsEachConsistingOfOneClassOrdinaryShareAndOnetenthOfOneRedeemableWarrantMember" format="ixt-sec:exchnameen" id="Fact000029" name="dei:SecurityExchangeName">Nasdaq</ix:nonNumeric></span> Stock Market LLC</span></td></tr>
+  <tr style="background-color: White">
+    <td style="vertical-align: top; text-align: center"><span style="font-size: 10pt"><span id="xdx_90C_edei--Security12bTitle_c20260730__20260730__us-gaap--StatementClassOfStockAxis__custom--ClassOrdinarySharesParValue0.0001PerShareMember_zc2p4k9aZ1b6"><ix:nonNumeric contextRef="From2026-07-302026-07-30_custom_ClassOrdinarySharesParValue0.0001PerShareMember" id="Fact000030" name="dei:Security12bTitle">Class A ordinary shares, par value $0.0001 per share</ix:nonNumeric></span></span></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: top; text-align: center"><span style="font-size: 10pt"><span id="xdx_90D_edei--TradingSymbol_c20260730__20260730__us-gaap--StatementClassOfStockAxis__custom--ClassOrdinarySharesParValue0.0001PerShareMember_zzwpFKUgKVD7"><ix:nonNumeric contextRef="From2026-07-302026-07-30_custom_ClassOrdinarySharesParValue0.0001PerShareMember" id="Fact000031" name="dei:TradingSymbol">XIII</ix:nonNumeric></span></span></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: top; text-align: center"><span style="font-size: 10pt">The <span id="xdx_907_edei--SecurityExchangeName_c20260730__20260730__us-gaap--StatementClassOfStockAxis__custom--ClassOrdinarySharesParValue0.0001PerShareMember_z2sP8l17eoPd"><ix:nonNumeric contextRef="From2026-07-302026-07-30_custom_ClassOrdinarySharesParValue0.0001PerShareMember" format="ixt-sec:exchnameen" id="Fact000032" name="dei:SecurityExchangeName">Nasdaq</ix:nonNumeric></span> Stock Market LLC</span></td></tr>
+  <tr style="background-color: rgb(204,238,255)">
+    <td style="vertical-align: top; text-align: center"><span style="font-size: 10pt"><span id="xdx_90E_edei--Security12bTitle_c20260730__20260730__us-gaap--StatementClassOfStockAxis__custom--WarrantsEachWholeWarrantExercisableForOneClassOrdinaryShareAtExercisePriceOf11.50PerShareMember_zoTKzd71Ddh3"><ix:nonNumeric contextRef="From2026-07-302026-07-30_custom_WarrantsEachWholeWarrantExercisableForOneClassOrdinaryShareAtExercisePriceOf11.50PerShareMember" id="Fact000033" name="dei:Security12bTitle">Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share</ix:nonNumeric></span></span></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: top; text-align: center"><span style="font-size: 10pt"><span id="xdx_90E_edei--TradingSymbol_c20260730__20260730__us-gaap--StatementClassOfStockAxis__custom--WarrantsEachWholeWarrantExercisableForOneClassOrdinaryShareAtExercisePriceOf11.50PerShareMember_z9fhdBS5IOk1"><ix:nonNumeric contextRef="From2026-07-302026-07-30_custom_WarrantsEachWholeWarrantExercisableForOneClassOrdinaryShareAtExercisePriceOf11.50PerShareMember" id="Fact000034" name="dei:TradingSymbol">XIIIW</ix:nonNumeric></span></span></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: top; text-align: center"><span style="font-size: 10pt">The <span id="xdx_90F_edei--SecurityExchangeName_c20260730__20260730__us-gaap--StatementClassOfStockAxis__custom--WarrantsEachWholeWarrantExercisableForOneClassOrdinaryShareAtExercisePriceOf11.50PerShareMember_zgmjg0XYP4ra"><ix:nonNumeric contextRef="From2026-07-302026-07-30_custom_WarrantsEachWholeWarrantExercisableForOneClassOrdinaryShareAtExercisePriceOf11.50PerShareMember" format="ixt-sec:exchnameen" id="Fact000035" name="dei:SecurityExchangeName">Nasdaq</ix:nonNumeric></span> Stock Market LLC</span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (&#167;230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (&#167;240.12b-2 of this chapter).</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Emerging growth company <span style="font-family: Times New Roman, Times, Serif"><span id="xdx_901_edei--EntityEmergingGrowthCompany_c20260730__20260730_zdZob8H2nk04"><ix:nonNumeric contextRef="AsOf2026-07-30" format="ixt:booleantrue" id="Fact000036" name="dei:EntityEmergingGrowthCompany">&#9746;</ix:nonNumeric></span></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section 13(a) of the Exchange Act. <span style="font-family: Times New Roman, Times, Serif"><span id="xdx_90A_edei--EntityExTransitionPeriod_c20260730__20260730_zfqj4t5C30U8"><ix:nonNumeric contextRef="AsOf2026-07-30" format="ixt:booleanfalse" id="Fact000037" name="dei:EntityExTransitionPeriod">&#9744;</ix:nonNumeric></span></span></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><div style="border-top: Black 1pt solid; border-bottom: Black 2pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></p>
+
+<!-- Field: Page; Sequence: 1; Options: NewSection -->
+    <div style="border-bottom: Black 1.5pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="margin: 0pt">&#160;</p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>Item&#8201;1.01. Entry into a Material Definitive Agreement.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">On August 3, 2026, Churchill
+Capital Corp XIII (the &#8220;<span style="text-decoration: underline">Company</span>&#8221;) consummated its initial public offering (&#8220;<span style="text-decoration: underline">IPO</span>&#8221;) of 41,400,000
+units (the &#8220;<span style="text-decoration: underline">Units</span>&#8221;), including 5,400,000 Units issued pursuant to the full exercise of the underwriter&#8217;s over-allotment
+option. Each Unit consists of one Class A ordinary share of the Company, par value $0.0001 per share (the &#8220;<span style="text-decoration: underline">Class A Ordinary Shares</span>&#8221;),
+and one-tenth of one redeemable warrant of the Company (each, a &#8220;<span style="text-decoration: underline">Warrant</span>&#8221;), with each whole Warrant entitling the holder
+thereof to purchase one Class A Ordinary Share for $11.50 per share. The Units were sold at a price of $10.00 per Unit, generating gross
+proceeds to the Company of $414,000,000.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">In connection with the IPO,
+the Company entered into the following agreements, forms of which were previously filed as exhibits to the Company&#8217;s registration
+statement on Form S-1 (File No. 333-297472) for the IPO, originally filed with the U.S. Securities and Exchange Commission on July 15,
+2026, as amended (and together with the registration statement on Form S-1MEF (File No. 333-297850), filed with the Commission on July
+30, 2026, the &#8220;<span style="text-decoration: underline">Registration Statement</span>&#8221;):</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.5in"/><td style="width: 0.25in; text-align: left">&#9679;</td><td style="text-align: justify">An Underwriting Agreement, dated July 30, 2026, by and between
+the Company and Citigroup Global Markets Inc., as the underwriter, a copy of which is attached as Exhibit 1.1 hereto and incorporated
+herein by reference.</td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.5in"/><td style="width: 0.25in; text-align: left">&#9679;</td><td style="text-align: justify">A Public Warrant Agreement, dated July 30, 2026, by and between
+the Company and Continental Stock Transfer &amp; Trust Company, as warrant agent, a copy of which is attached as Exhibit 4.1 hereto and
+incorporated herein by reference.</td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.5in"/><td style="width: 0.25in; text-align: left">&#9679;</td><td style="text-align: justify">A Private Warrant Agreement, dated July 30, 2026, by and between
+the Company and Continental Stock Transfer &amp; Trust Company, as warrant agent, a copy of which is attached as Exhibit 4.2 hereto and
+incorporated herein by reference.</td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.5in"/><td style="width: 0.25in; text-align: left">&#9679;</td><td style="text-align: justify">An Investment Management Trust Agreement, dated July 30, 2026,
+by and between the Company and Continental Stock Transfer &amp; Trust Company, as trustee, a copy of which is attached as Exhibit 10.1
+hereto and incorporated herein by reference.</td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.5in"/><td style="width: 0.25in; text-align: left">&#9679;</td><td style="text-align: justify">A Registration Rights Agreement, dated July 30, 2026, by and
+among the Company and certain security holders, a copy of which is attached as Exhibit 10.2 hereto and incorporated herein by reference.</td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.5in"/><td style="width: 0.25in; text-align: left">&#9679;</td><td style="text-align: justify">A Private Placement Units Purchase Agreement, dated July 30,
+2026 (the &#8220;<span style="text-decoration: underline">Private Placement Units Purchase Agreement</span>&#8221;), by and between the Company and the Company&#8217;s sponsor,
+Churchill Sponsor XIII LLC (the &#8220;<span style="text-decoration: underline">Sponsor</span>&#8221;), a copy of which is attached as Exhibit 10.3 hereto and incorporated herein
+by reference.</td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.5in"/><td style="width: 0.25in; text-align: left">&#9679;</td><td style="text-align: justify">A Letter Agreement, dated July 30, 2026, by and among the Company,
+its officers, its directors and the Sponsor, a copy of which is attached as Exhibit 10.4 hereto and incorporated herein by reference.</td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.5in"/><td style="width: 0.25in; text-align: left">&#9679;</td><td style="text-align: justify">An Administrative Support Agreement, dated July 30, 2026, by
+and between the Company and an affiliate of the Sponsor, a copy of which is attached as Exhibit 10.5 hereto and incorporated herein by
+reference.</td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellpadding="0" cellspacing="0" style="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; width: 100%"><tr style="vertical-align: top; text-align: justify">
+<td style="width: 0.5in"/><td style="width: 0.25in; text-align: left">&#9679;</td><td style="text-align: justify">Indemnification Agreements, dated July 30, 2026, by and among
+the Company and each director and officer of the Company, a form of which is attached as Exhibit 10.6 hereto and incorporated herein
+by reference.</td>
+</tr></table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>Item&#8201;3.02. Unregistered Sales of Equity Securities.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Simultaneously with the closing
+of the IPO, pursuant to the Private Placement Units Purchase Agreement, the Company completed the private sale of an aggregate of 350,000
+units (the &#8220;<span style="text-decoration: underline">Private Placement Units</span>&#8221;) to the Sponsor at a purchase price of $10.00 per Private Placement Unit, generating
+gross proceeds to the Company of $3,500,000. The Private Placement Units (and underlying securities) are identical to the Units sold in
+the IPO, except as otherwise disclosed in the Registration Statement. No underwriting discounts or commissions were paid with respect
+to such sale. The issuance of the Private Placement Units was made pursuant to the exemption from registration contained in Section 4(a)(2)
+of the Securities Act of 1933, as amended.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b></b></p>
+
+<!-- Field: Page; Sequence: 2; Options: NewSection; Value: 1 -->
+    <div style="border-bottom: Black 1.5pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->1<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>Item&#8201;5.02. Departure of Directors or Certain Officers; Election
+of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">On July 30, 2026, in
+connection with the IPO, William Sherman was appointed to the board of directors of the Company (the &#8220;<span style="text-decoration: underline">Board</span>&#8221;) effective
+July 31, 2026. Effective July 31, 2026, Mr. Sherman was appointed to the Board&#8217;s Audit Committee, also serving as interim chair
+of the Audit Committee. Mr. Sherman was also appointed to the Board&#8217;s Compensation Committee, serving as chair of the Compensation
+Committee.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&#160;On July 30, 2026, the
+Company entered into indemnification agreements with each of the directors and executive officers, which require the Company to indemnify
+each of them to the fullest extent permitted by applicable law and to advance expenses incurred as a result of any proceeding against
+them as to which they could be indemnified. The foregoing summary of the indemnification agreements does not purport to be complete and
+is subject to, and qualified in its entirety by, the full text of the form of indemnification agreement, which is filed as Exhibit 10.6
+to this Current Report on Form 8-K and incorporated herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>Item&#8201;5.03. Amendments to Certificate of Incorporation or
+Bylaws; Change in Fiscal Year.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">On July 30, 2026, in connection
+with the IPO, the Company filed its amended and restated memorandum and articles of association (the &#8220;<span style="text-decoration: underline">Amended and Restated Memorandum
+and Articles of Association</span>&#8221;) with the Cayman Islands Registrar of Companies, which was effective on July 30, 2026. The terms
+of the Amended and Restated Memorandum and Articles of Association are set forth in the Registration Statement and are incorporated herein
+by reference. A copy of the Amended and Restated Memorandum and Articles of Association is attached as Exhibit 3.1 hereto and incorporated
+herein by reference.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify"><b>Item&#8201;8.01. Other Events.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">A total of $414,000,000,
+comprised of $411,000,000 of the net proceeds from the IPO (which amount includes up to $15,490,000 of the underwriter&#8217;s deferred
+discount) and $1,500,000 of the proceeds of the sale of the Private Placement Units, was placed in a U.S.-based trust account maintained
+by Continental Stock Transfer &amp; Trust Company, acting as trustee. Except with respect to interest earned on the funds in the trust
+account that may be released to the Company to pay its taxes, to fund its working capital requirements (subject to an annual limit of
+$1,000,000), and for winding up and dissolution expenses, the funds held in the trust account will not be released from the trust account
+until the earliest of (i) the completion of the Company&#8217;s initial business combination, (ii) the redemption of the Company&#8217;s
+public shares if it is unable to complete its initial business combination within 24 months from the closing of the IPO (or 27 months
+from the closing of the IPO if the Company has executed a letter of intent, agreement in principle or definitive agreement for an initial
+business combination within 24 months from the closing of the IPO), subject to applicable law, and (iii) the redemption of the Company&#8217;s
+public shares properly submitted in connection with a shareholder vote to amend the Company&#8217;s Amended and Restated Memorandum and
+Articles of Association to modify the substance or timing of its obligation to redeem 100% of the Company&#8217;s public shares if it
+has not consummated an initial business combination within 24 months from the closing of the IPO (or 27 months from the closing of the
+IPO if the Company has executed a letter of intent, agreement in principle or definitive agreement for an initial business combination
+within 24 months from the closing of the IPO) or with respect to any other material provisions relating to shareholders&#8217; rights
+or pre-initial business combination activity.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">On July 30, 2026, the Company
+issued a press release announcing the pricing of the IPO, a copy of which is attached as Exhibit 99.1 to this Current Report on Form 8-K.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">On August 3 2026, the Company
+issued a press release announcing the closing of the IPO, a copy of which is attached as Exhibit 99.2 to this Current Report on Form 8-K.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b></b></p>
+
+<!-- Field: Page; Sequence: 3; Value: 1 -->
+    <div style="border-bottom: Black 1.5pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>&#160;</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><b>Item&#8201;9.01 Financial Statements and Exhibits.</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">(d) Exhibits</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The following exhibits are being filed herewith:</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="border-bottom: Black 1.5pt solid; white-space: nowrap; width: 9%; text-align: left"><span style="font-size: 10pt"><b>Exhibit<br/>
+    No.</b></span></td>
+    <td style="padding-bottom: 1.5pt; width: 1%">&#160;</td>
+    <td style="border-bottom: Black 1.5pt solid; text-align: center; width: 90%"><span style="font-size: 10pt"><b>Description</b></span></td></tr>
+  <tr>
+    <td>&#160;</td>
+    <td colspan="2">&#160;</td></tr>
+  <tr style="background-color: rgb(204,238,255)">
+    <td style="white-space: nowrap; vertical-align: top"><span style="font-size: 10pt">1.1</span></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="text-align: justify; vertical-align: top"><a href="ea030008601ex1-1.htm"><span style="font-size: 10pt">Underwriting Agreement, dated July 30, 2026<span style="font-family: Times New Roman, Times, Serif">,
+by and between the Company and Citigroup Global Markets Inc., as the underwriter.</span></span></a></td></tr>
+  <tr style="background-color: White">
+    <td>&#160;</td>
+    <td colspan="2">&#160;</td></tr>
+  <tr style="background-color: rgb(204,238,255)">
+    <td style="white-space: nowrap; vertical-align: top"><span style="font-size: 10pt">3.1</span></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: top"><a href="ea030008601ex3-1.htm"><span style="font-size: 10pt">Amended and Restated Memorandum and Articles of Association of the
+    Company. </span></a></td></tr>
+  <tr style="background-color: White">
+    <td>&#160;</td>
+    <td colspan="2">&#160;</td></tr>
+  <tr style="background-color: rgb(204,238,255)">
+    <td style="white-space: nowrap; vertical-align: top"><span style="font-size: 10pt">4.1</span></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="text-align: justify; vertical-align: top"><span style="font-size: 10pt"><a href="ea030008601ex4-1.htm">Public Warrant Agreement, dated July 30, 2026, by and between the Company and Continental Stock Transfer &amp; Trust Company, as warrant agent.</a> </span></td></tr>
+  <tr style="background-color: White">
+    <td>&#160;</td>
+    <td colspan="2">&#160;</td></tr>
+  <tr style="background-color: rgb(204,238,255)">
+    <td style="white-space: nowrap; vertical-align: top"><span style="font-size: 10pt">4.2</span></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="text-align: justify; vertical-align: top"><span style="font-size: 10pt"><a href="ea030008601ex4-2.htm">Private Warrant Agreement, dated July 30, 2026, by and between the Company and Continental Stock Transfer &amp; Trust Company, as warrant agent.</a> </span></td></tr>
+  <tr style="background-color: White">
+    <td>&#160;</td>
+    <td colspan="2">&#160;</td></tr>
+  <tr style="background-color: rgb(204,238,255)">
+    <td style="white-space: nowrap; vertical-align: top"><span style="font-size: 10pt">10.1</span></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="text-align: justify; vertical-align: top"><span style="font-size: 10pt"><a href="ea030008601ex10-1.htm">Investment Management Trust Agreement, dated July 30, 2026, by and between the Company and Continental Stock Transfer &amp; Trust Company, as trustee.</a> </span></td></tr>
+  <tr style="background-color: White">
+    <td>&#160;</td>
+    <td colspan="2">&#160;</td></tr>
+  <tr style="background-color: rgb(204,238,255)">
+    <td style="white-space: nowrap; vertical-align: top"><span style="font-size: 10pt">10.2</span></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: top"><span style="font-size: 10pt"><a href="ea030008601ex10-2.htm">Registration Rights Agreement, dated July 30, 2026, by and among the Company and certain security holders.</a> </span></td></tr>
+  <tr style="background-color: White">
+    <td>&#160;</td>
+    <td colspan="2">&#160;</td></tr>
+  <tr style="background-color: rgb(204,238,255)">
+    <td style="white-space: nowrap; vertical-align: top"><span style="font-size: 10pt">10.3</span></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="text-align: justify; vertical-align: top"><span style="font-size: 10pt"><a href="ea030008601ex10-3.htm">Private Placement Units Purchase Agreement, dated July 30, 2026, by and between the Company and the Sponsor.</a> </span></td></tr>
+  <tr style="background-color: White">
+    <td>&#160;</td>
+    <td colspan="2">&#160;</td></tr>
+  <tr style="background-color: rgb(204,238,255)">
+    <td style="white-space: nowrap; vertical-align: top"><span style="font-size: 10pt">10.4</span></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: top"><span style="font-size: 10pt"><a href="ea030008601ex10-4.htm">Letter Agreement, dated July 30, 2026, by and among the Company, its officers, directors, and the Sponsor.</a> </span></td></tr>
+  <tr style="background-color: White">
+    <td>&#160;</td>
+    <td colspan="2">&#160;</td></tr>
+  <tr style="background-color: rgb(204,238,255)">
+    <td style="white-space: nowrap; vertical-align: top"><span style="font-size: 10pt">10.5</span></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="text-align: justify; vertical-align: top"><span style="font-size: 10pt"><a href="ea030008601ex10-5.htm">Administrative Support Agreement, dated July 30, 2026, by and between the Company and an affiliate of the Sponsor.</a> </span></td></tr>
+  <tr style="background-color: White">
+    <td>&#160;</td>
+    <td colspan="2">&#160;</td></tr>
+  <tr style="background-color: rgb(204,238,255)">
+    <td style="white-space: nowrap; vertical-align: top"><span style="font-size: 10pt">10.6</span></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: top"><span style="font-size: 10pt"><a href="ea030008601ex10-6.htm">Form of Indemnification Agreement.</a></span></td></tr>
+  <tr style="background-color: White">
+    <td style="white-space: nowrap; vertical-align: top">&#160;</td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: top">&#160;</td></tr>
+  <tr style="background-color: rgb(204,238,255)">
+    <td style="white-space: nowrap; vertical-align: top"><span style="font-size: 10pt">99.1</span></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: top"><span style="font-size: 10pt"><a href="ea030008601ex99-1.htm">Press Release, dated July 30, 2026.</a> </span></td></tr>
+  <tr style="background-color: White">
+    <td>&#160;</td>
+    <td colspan="2">&#160;</td></tr>
+  <tr style="background-color: rgb(204,238,255)">
+    <td style="white-space: nowrap; vertical-align: top"><span style="font-size: 10pt">99.2</span></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: top"><span style="font-size: 10pt"><a href="ea030008601ex99-2.htm">Press Release, dated August 3, 2026.</a> </span></td></tr>
+  <tr style="background-color: White">
+    <td>&#160;</td>
+    <td colspan="2">&#160;</td></tr>
+  <tr style="background-color: rgb(204,238,255)">
+    <td style="white-space: nowrap; vertical-align: top"><span style="font-size: 10pt">104</span></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: top"><span style="font-size: 10pt">Cover Page Interactive Data File (embedded within the Inline XBRL document).</span></td></tr>
+  </table>
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<p style="margin-top: 0; margin-bottom: 0"></p>
+
+<!-- Field: Page; Sequence: 4; Value: 1 -->
+    <div style="border-bottom: Black 1.5pt solid; margin-top: 12pt; margin-bottom: 6pt"><p style="text-align: center; margin-top: 0pt; margin-bottom: 0pt"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --></p></div>
+    <div style="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><p style="margin: 0pt">&#160;</p></div>
+    <!-- Field: /Page -->
+
+<p style="margin-top: 0; margin-bottom: 0">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><b>SIGNATURE</b></p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr style="vertical-align: bottom">
+    <td style="width: 55%">&#160;</td>
+    <td style="width: 5%">&#160;</td>
+    <td style="width: 40%"><span style="font-size: 10pt"><b>CHURCHILL CAPITAL CORP XIII</b></span></td></tr>
+  </table>
+<p style="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&#160;</p>
+
+<table cellspacing="0" cellpadding="0" style="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <tr>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="text-align: left; vertical-align: top; font-size: 10pt"><span style="font-size: 10pt">By:</span></td>
+    <td colspan="2" style="border-bottom: Black 1.5pt solid; vertical-align: bottom; font-size: 10pt"><span style="font-size: 10pt">/s/ Jay Taragin</span></td></tr>
+  <tr>
+    <td style="vertical-align: bottom; width: 60%">&#160;</td>
+    <td style="vertical-align: bottom; width: 4%">&#160;</td>
+    <td style="vertical-align: top; width: 5%; font-size: 10pt"><span style="font-size: 10pt">Name:</span></td>
+    <td style="vertical-align: bottom; width: 31%; font-size: 10pt"><span style="font-size: 10pt">&#160;Jay Taragin</span></td></tr>
+  <tr>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td style="vertical-align: top; font-size: 10pt"><span style="font-size: 10pt">Title:</span></td>
+    <td style="vertical-align: bottom; font-size: 10pt"><span style="font-size: 10pt">&#160;Chief Financial Officer</span></td></tr>
+  <tr>
+    <td style="vertical-align: top; font-size: 10pt"><span style="font-size: 10pt">Dated: August 3, 2026</span></td>
+    <td style="vertical-align: bottom">&#160;</td>
+    <td colspan="2" style="vertical-align: bottom">&#160;</td></tr>
+  </table>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">4</p>
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt"></p>
+
+<!-- Field: Rule-Page --><div style="margin-top: 0pt; margin-bottom: 0pt; width: 100%"><div style="border-top: Black 1.5pt solid; font-size: 1pt">&#160;</div></div><!-- Field: /Rule-Page -->
+
+<p style="font: 10pt Times New Roman, Times, Serif; text-align: center; margin-top: 0pt; margin-bottom: 0pt">&#160;</p>
+
+<!-- Field: Set; Name: xdx; ID: xdx_08B_extensions -->
+<!-- eJyFUttO4zAQ/YL+wyjisRQnuyCUtxIVhCg0KtdXN5lQi8SOxu6FT9q/3LGTwAMFokhRZs7MudhRNI6uzKWqkeDlYjmHB2zaWjqEJVZIqAtkRHZ9kwJ/l/iqrCOpXfgdBjPDM8gzZ5PTFdcDcqsslimI8xORnCRnIP6k4i/kt9HI9zOjK1WidkrWIHUJOZmWFDpJ792GB7k32jTvgekJySqjU4gnomv/g0TECdyZrdwZerMwn2fRaByeUXRFZtMyarZ3qP0kzGpsmM52059vUFNsrDNN+izJe7MzWayf16bGvjDbIxXKylWNl4YWGrNaWrugUmmWe7+WhNMBhDmpAhdVHE9ORY4UurfYrJCYKBZJEotp72HgGwMyI+w8Jey6IuAnKVSGwGiEwAtTMD01WL8dpOMIhwGE1isAU8FREAEtH1EAHrD81YnNJT3JeoNiIoSIf7FwWBE7aiXB1q+Bo27RjzIetepi53th+Yop/bqoDgetS67zqbp1QCyxRGx8Sn2a3wgNDH3QxQeJT+mnYPlicvs40A1Y+mAczmow9B+lUBCf -->
+<script type="text/javascript"  src="/N3AEOPt9/dJoipWz/rYwIB5c/dg/YEaQGVVmDJktp27Xmu/SixucGdeLAQ/KXhNJ/AQsW1I"></script></body>
+</html>
